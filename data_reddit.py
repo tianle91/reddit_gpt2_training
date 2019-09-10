@@ -1,6 +1,6 @@
 import argparse
-import os
 import json
+import os
 
 import praw
 
@@ -33,10 +33,6 @@ def gen_qa_string(q, a):
     return 'Q: %s\nA: %s' % (q, a)
 
 
-def clean_str(s):
-    return ' '.join(s.split())
-
-
 def gen_formatted_as_qa(comment, reddit):
     parents = get_parent_comments(comment, reddit)
     nparents = len(parents)
@@ -59,6 +55,7 @@ def gen_formatted_as_qa(comment, reddit):
 
 
 if __name__ == '__main__':
+    # spez BennyFeldman whiskeysquid
     parser = argparse.ArgumentParser(description='dump user comments')
     parser.add_argument('-user', default='spez', type=str)
     parser.add_argument('-num-comments', default=100, type=int)
@@ -66,23 +63,14 @@ if __name__ == '__main__':
 
     with open('praw.cred') as f:
         r = praw.Reddit(**json.load(f))
-        print('API state\tread only: %s, user: %s' % (r.read_only, r.user.me()))
+        # print('API state\tread only: %s, user: %s' % (r.read_only, r.user.me()))
 
     u = r.redditor(args.user)
     comments_gen = u.comments.new(limit=args.num_comments)
-    directory = os.path.join('data_reddit', '[u]_%s' % u.name)
-    if not os.path.isdir(directory):
-        os.mkdir(directory)
-
-    for c in comments_gen:
-        fname = os.path.join(directory, 'comment_id_%s.txt' % c.id)
-        if not os.path.isfile(fname):
-            with open(fname, 'w') as f:
-                qatemp = gen_formatted_as_qa(c, r)
-                print('-' * 100)
-                print('id: %s' % c.id)
-                print('-' * 100)
-                print(qatemp)
-                f.write(qatemp)
-        else:
-            print ('exists: %s' % fname)
+    with open(os.path.join('data_reddit', '%s.txt' % u.name), 'a+') as f:
+        i = 0
+        print('getting %d new comments for user: %s' % (args.num_comments, args.user))
+        for c in comments_gen:
+            print('[%d/%d] parsing comment id: %s' % (i, args.num_comments, c.id))
+            f.write(gen_formatted_as_qa(c, r) + '\n'*2)
+            i += 1
