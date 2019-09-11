@@ -1,5 +1,4 @@
 for u in spez BennyFeldman whiskeysquid
 do
-	python data_reddit.py -user $u -num-comments 1000 &
+	nohup python -u get_training.py -user $u -num-comments 1000 >"log/$u.log" &
 done
-wait
