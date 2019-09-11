@@ -26,3 +26,4 @@ with open(os.path.join('data_reddit', '%s.txt' % u.name), 'a+') as f:
               (i, args.num_comments, c.id, ' '.join(s.split())[-20:]))
         f.write(s + '\n'*2)
         i += 1
+    print('done!')
