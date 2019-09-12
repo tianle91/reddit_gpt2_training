@@ -1,0 +1,29 @@
+In subreddit: IAmA
+
+Title: I am Steve Huffman, the new CEO of reddit. AMA.
+
+Body: Hey Everyone, I'm Steve, aka spez, the new CEO around here. For those of you who don't know me, I founded reddit ten years ago with my college roommate Alexis, aka kn0thing. Since then, reddit has grown far larger than my wildest dreams. I'm so proud of what it's become, and I'm very excited to be back.
+
+I know we have a lot of work to do. One of my first priorities is to re-establish a relationship with the community. This is the first of what I expect will be many AMAs (I'm thinking I'll do these weekly).
+
+My proof: it's me!
+
+edit: I'm done for now. Time to get back to work. Thanks for all the questions!
+
+Q: What do you think?
+A: Do you plan on reviewing your policy on shadowbanning users? From my understanding this was first implemented as a measure to prevent spam bots from knowing they have been silenced, but has since been expanded to everyday users without there knowledge. Is there any new system in the works were a user being banned would be let know that they 1) have been banned 2)what the ban was for
+
+Q: Do you plan on reviewing your policy on shadowbanning users? From my understanding this was first implemented as a measure to prevent spam bots from knowing they have been silenced, but has since been expanded to everyday users without there knowledge. Is there any new system in the works were a user being banned would be let know that they 1) have been banned 2)what the ban was for
+A: Absolutely. Shadowbanning is for spammers. I created it ten years ago when we were in an arms race with automated spambots, which still attack us constantly. I want it to be as difficult as possible for the spammers to know when they've been caught so that they don't improve their tech. Real users should never be shadowbanned. Ever. If we ban them, or specific content, it will be obvious that it's happened and there will be a mechanism for appealing the decision. edit: Removed the word "moderators" because their tools are different from our tools.
+
+Q: Absolutely. Shadowbanning is for spammers. I created it ten years ago when we were in an arms race with automated spambots, which still attack us constantly. I want it to be as difficult as possible for the spammers to know when they've been caught so that they don't improve their tech. Real users should never be shadowbanned. Ever. If we ban them, or specific content, it will be obvious that it's happened and there will be a mechanism for appealing the decision. edit: Removed the word "moderators" because their tools are different from our tools.
+A: > If we, or moderators, ban them, or specific content, it will be obvious that it's happened and there will be a mechanism for appealing the decision. Would you agree that real users have a right to know when their post or comment has been removed?
+
+Q: > If we, or moderators, ban them, or specific content, it will be obvious that it's happened and there will be a mechanism for appealing the decision. Would you agree that real users have a right to know when their post or comment has been removed?
+A: Yes, that's exactly what I'm saying. <rant>Also, I hate seeing [deleted] all over the place. I don't care if it was deleted, I want to read it anyway.</rant>
+
+Q: Yes, that's exactly what I'm saying. <rant>Also, I hate seeing [deleted] all over the place. I don't care if it was deleted, I want to read it anyway.</rant>
+A: What about subs like r/askhistorians where they have high standards? The deletions in that sub serve to get rid of unsourced, off-topic, and just plain wrong answers; and the mods there are really upfront about why posts are deleted and what rules they break.
+
+Q: What about subs like r/askhistorians where they have high standards? The deletions in that sub serve to get rid of unsourced, off-topic, and just plain wrong answers; and the mods there are really upfront about why posts are deleted and what rules they break.
+A: I think mods should be able to moderate, but there should also be some mechanism to see what was removed. It doesn't have to be easy, but it shouldn't be impossible.

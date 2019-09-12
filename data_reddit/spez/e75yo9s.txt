@@ -1,0 +1,37 @@
+In subreddit: announcements
+
+Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
+
+Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+
+—
+
+Hello again!
+
+It’s been a minute since [my last post here](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/), so I wanted to take some time out from our usual product and policy updates, [meme safety reports](https://www.reddit.com/r/announcements/comments/8we31l/the_memes_are_safe_repeat_the_memes_are_safe_for/), and waiting for r/livecounting [to reach 10,000,000](https://www.reddit.com/live/ta535s1hq2je/) to share some highlights from the past few months and talk about our plans for the months ahead.
+
+We started off the quarter with a [win for net neutrality](https://www.reddit.com/r/announcements/comments/8jzyb6/update_we_won_the_net_neutrality_vote_in_the/), but as always, the fight against the Dark Side continues, with [Europe passing a new copyright directive](https://www.theverge.com/2018/9/12/17851962/eu-copyright-directive-wikimedia-google-twitter-europe) that may strike a real blow to the open internet. Nevertheless, we will continue to fight for the open internet (and occasionally pester you with posts encouraging you to fight for it, too).
+
+We also had a lot of fun fighting for the *not-so-free* but perfectly balanced world of r/thanosdidnothingwrong. I’m always amazed to see redditors so engaged with their communities that they get [Snoo tattoos](https://www.reddit.com/r/thanosdidnothingwrong/comments/8zcga8/perfectly_balanced_as_all_things_should_be/). 
+
+Speaking of bans, you’ve probably noticed that over the past few months we’ve banned a few subreddits and [quarantined](https://www.reddit.com/r/announcements/comments/9jf8nh/revamping_the_quarantine_function/) several more. We don't take the banning of subreddits lightly, but we will continue to enforce our policies (and be transparent with all of you when we make changes to them) and use other tools to encourage a healthy ecosystem for communities. We’ve been investing heavily in our Anti-Evil and Trust & Safety teams, as well as a new team devoted solely to investigating and preventing efforts to interfere with our site, state-sponsored and otherwise. We also recognize the ways that redditors themselves actively help flag potential suspicious actors, and we’re working on a system to allow you all to [report directly to this team](https://www.reddit.com/r/ModSupport/comments/9hjkv5/so_about_those_suspicious_activity_reports/).
+
+On the product side, our teams have been hard at work shipping countless updates to our [iOS](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/developer?id=reddit+Inc.&hl=en) apps, like universal search and News. We’ve also expanded Chat on mobile and desktop and launched an opt-in subreddit chat, which we’ve already seen communities using for game-day discussions and chats about TV shows. We started testing out a new hub for [OC (Original Content)](https://www.reddit.com/original) and a [Save Drafts feature](https://www.reddit.com/r/redesign/comments/8k8d1x/beta_new_save_draft_feature_for_text_and_link/) (with shared drafts as well) for text and link posts in the redesign. 
+
+Speaking of which, we’ve made a ton of improvements to the redesign since we last talked about it in April. 
+
+Including but not limited to… night mode, user & post flair improvements, [better traffic pages for ](https://www.reddit.com/r/modnews/comments/954a8p/traffic_page_update_see_your_subreddits_traffic/)
+
+[mods](https://www.reddit.com/r/modnews/comments/954a8p/traffic_page_update_see_your_subreddits_traffic/), accessibility improvements, keyboard shortcuts, a bunch of new community widgets, fixing key AutoMod integrations, and the ability to [have community styling show up on mobile as well](https://i.redd.it/l12cv7lqmwf11.png), which was one of the main reasons why we took on the redesign in the first place. I know you all have had a lot of feedback since we first launched it ([I have too](https://www.reddit.com/r/redesign/comments/8d8qws/despite_everyone_saying_the_redesign_is_perfect/)). Our teams have poured a tremendous amount of work into shipping improvements, and their #1 focus now is on improving performance. If you haven’t checked it out in a while, I encourage you to [give it a spin](http://new.reddit.com/).
+
+Last but not least, on the community front, we just wrapped our second annual Moderator Thank You Roadshow, where the rest of the admins and I got the chance to meet mods in different cities, have [a bit of fun](https://www.reddit.com/r/boston/comments/8u5cca/quick_while_we_are_all_at_the_game/), and chat about Reddit. We also launched a new [Mod Help Center](https://www.reddit.com/r/modnews/comments/9bnj3a/we_launched_a_new_knowledge_base_for_mods_and_we/) and new mod tools for Chat and the redesign, with more fun stuff (like Modmail Search) on the way.
+
+Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
+
+—spez
+
+Q: What do you think?
+A: Trebuchets or catapults?
+
+Q: Trebuchets or catapults?
+A: [Trebuchets](https://i.redd.it/4rbl5dvui7q11.png)

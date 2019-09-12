@@ -1,0 +1,50 @@
+In subreddit: modnews
+
+Title: Rule management on new Reddit
+
+Body: Hey everyone,
+
+We’re excited to bring you rule management on new Reddit today! This encompasses the creation, editing, and deletion of rules, where changes will be reflected on both new and old sites.  
+
+The Rules page can be accessed through your subreddit’s mod hub, under the “Rules and Regulations” section. One new feature on the Rules page will be **rule reordering** via drag-and-drop, so you no longer have to delete everything and re-add rules. If you reorder a rule on the new site, the change will be reflected on the old site, without you having to delete and re-add them. We hope this makes your life a little bit easier when making edits to rules in your community! 
+
+Some things to note: 
+
+* We’ve increased the maximum number of rules per community from 10 to 15.
+* We’ve increased the character limit of rule short names from 50 to 100.
+* We’ve increased the character limit of rule report reasons from 50 to 100. 
+* Rule numbering has been added to the old site to reflect the new site. We did this to reduce the confusion of double-numbering, and the work of having to add numbers to rules. This will also maintain consistency for rules throughout Reddit’s communities, making it easier for users to understand.   
+
+
+[The new Rules page.](https://i.redd.it/hxy9tgrz7yi21.png)
+
+[Adding a new rule.](https://i.redd.it/uxz1wu9b8yi21.png)
+
+[Editing an existing rule.](https://i.redd.it/py4iv7we8yi21.png)
+
+[Reordering rules.](https://i.redd.it/s3nvdmtj8yi21.png)
+
+[Rules page on the old site, with numbering.](https://i.redd.it/x1w5cs2n8yi21.png)
+
+Try it out and let us know if you find any wonkiness! As always, thank you for your feedback and help. 
+
+Q: What do you think?
+A: Is this similar functionality going to be deployed to the removal reasons page / module?
+
+Q: Is this similar functionality going to be deployed to the removal reasons page / module?
+A: We are planning a greater overhaul of the removal reasons feature — I'm actually going to start writing up a spec for it very soon. I'm curious, what specific functionalities are you looking for?
+
+Q: We are planning a greater overhaul of the removal reasons feature — I'm actually going to start writing up a spec for it very soon. I'm curious, what specific functionalities are you looking for?
+A: Re-ordering for sure. My rules page is: Rule 0 Rule 1 Rule 2 Rule 3 My removal reasons page is: Rule 3a Rule 3b Rule 0a Rule 0b Rule 1 Rule 2 We dont have a rule, but should Rule 3c This is the order they display in the drop down list when selecting a removal reason too.
+
+Q: Re-ordering for sure. My rules page is: Rule 0 Rule 1 Rule 2 Rule 3 My removal reasons page is: Rule 3a Rule 3b Rule 0a Rule 0b Rule 1 Rule 2 We dont have a rule, but should Rule 3c This is the order they display in the drop down list when selecting a removal reason too.
+A: Got it. Reordering for removal reasons seems pretty reasonable to me!
+
+Q: Got it. Reordering for removal reasons seems pretty reasonable to me!
+A: Now that I've got you reeled in with a reasonable demand... A free pony for every mod
+
+Q: Now that I've got you reeled in with a reasonable demand... A free pony for every mod
+A: u/spez says yes
+
+Q: u/spez says yes
+A: Here's a couple to get started: 🐎🐎🐎🐎🐎 If this keeps them quiet, we can invest more.

@@ -1,0 +1,29 @@
+In subreddit: IAmA
+
+Title: I am Steve Huffman, the new CEO of reddit. AMA.
+
+Body: Hey Everyone, I'm Steve, aka spez, the new CEO around here. For those of you who don't know me, I founded reddit ten years ago with my college roommate Alexis, aka kn0thing. Since then, reddit has grown far larger than my wildest dreams. I'm so proud of what it's become, and I'm very excited to be back.
+
+I know we have a lot of work to do. One of my first priorities is to re-establish a relationship with the community. This is the first of what I expect will be many AMAs (I'm thinking I'll do these weekly).
+
+My proof: it's me!
+
+edit: I'm done for now. Time to get back to work. Thanks for all the questions!
+
+Q: What do you think?
+A: Since I am sure this question will be asked 100 times during the course of this AMA, let me be the first: Will you be bringing Victoria back on board?
+
+Q: Since I am sure this question will be asked 100 times during the course of this AMA, let me be the first: Will you be bringing Victoria back on board?
+A: No. I know she was well-loved by many moderators, and I'm very sorry at how everything played out. It could have been handled much better. However, she was let go for specific reasons, which I obviously will not share, and we will stand by that decision. What we will absolutely do is make sure we have dedicate people internally to help manage the relationships between moderators and guests on reddit. I'm still getting to know everyone here, and I expect this will be an ongoing conversation between you all and I.
+
+Q: No. I know she was well-loved by many moderators, and I'm very sorry at how everything played out. It could have been handled much better. However, she was let go for specific reasons, which I obviously will not share, and we will stand by that decision. What we will absolutely do is make sure we have dedicate people internally to help manage the relationships between moderators and guests on reddit. I'm still getting to know everyone here, and I expect this will be an ongoing conversation between you all and I.
+A: Will moderators be given notice if a big change like this is to happen again? /r/IAmA was crippled by the lack of notice, and I wouldn't want similar things to happen to subreddits I mod like /r/AskReddit. I appreciate the admins responding, at least after the fact, and letting us moderators know we've been heard. >What we will absolutely do is make sure we have dedicate people internally to help manage the relationships between moderators and guests on reddit. By this I'm hoping that you mean there will be more than just one admin dedicated to moderators. There's no way one person can take care of problems moderators are having (ranging from child porn to people trying to harm others to spammers), every day, all day.
+
+Q: Will moderators be given notice if a big change like this is to happen again? /r/IAmA was crippled by the lack of notice, and I wouldn't want similar things to happen to subreddits I mod like /r/AskReddit. I appreciate the admins responding, at least after the fact, and letting us moderators know we've been heard. >What we will absolutely do is make sure we have dedicate people internally to help manage the relationships between moderators and guests on reddit. By this I'm hoping that you mean there will be more than just one admin dedicated to moderators. There's no way one person can take care of problems moderators are having (ranging from child porn to people trying to harm others to spammers), every day, all day.
+A: It's a HUGE job. I get that. You need support from both our community managers, and I intend and building out a team here, and our product team because I can see very well the tools have not been updated in a very long time. I will build out these teams as fast as I can, but it won't happen overnight.
+
+Q: It's a HUGE job. I get that. You need support from both our community managers, and I intend and building out a team here, and our product team because I can see very well the tools have not been updated in a very long time. I will build out these teams as fast as I can, but it won't happen overnight.
+A: Whats stopping the admins from firing the mods of the huge subbreddits and replacing them with people that will toe the company line?
+
+Q: Whats stopping the admins from firing the mods of the huge subbreddits and replacing them with people that will toe the company line?
+A: Technically? Nothing. But, an adversarial relationship with the mods is the opposite of what we want.

@@ -1,0 +1,52 @@
+In subreddit: announcements
+
+Title: Good morning, I thought I'd give a quick update.
+
+Body: I thought I'd start my day with a quick status update for you all. It's only been a couple weeks since my return, but we've got a lot going on. We are in a phase of emergency fixes to repair a number of longstanding issues that are causing all of us grief. I normally don't like talking about things before they're ready, but because many of you are asking what's going on, and have been asking for a long time before my arrival, I'll share what we're up to.
+
+Under active development:
+
+* Content Policy. We're consolidating all our rules into one place. We won't release this formally until we have the tools to enforce it.
+* Quarantine the communities we don't want to support
+* Improved banning for both admins and moderators (a less sneaky alternative to shadowbanning)
+* Improved ban-evasion detection techniques (to make the former possible).
+* Anti-brigading research (what techniques are working to coordinate attacks)
+* AlienBlue bug fixes
+* AlienBlue improvements
+* Android app
+
+Next up:
+
+* Anti-abuse and harassment (e.g. preventing PM harassment)
+* Anti-brigading
+* Modmail improvements
+
+As you can see, lots on our plates right now, but the team is cranking, and we're excited to get this stuff shipped as soon as possible!
+
+I'll be hanging around in the comments for an hour or so.
+
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
+
+Q: What do you think?
+A: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe?
+
+Q: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe?
+A: A straight-up, "you are banned because of X" is the first thing we need.
+
+Q: A straight-up, "you are banned because of X" is the first thing we need.
+A: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster?
+
+Q: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster?
+A: See my follow up task
+
+Q: See my follow up task
+A: This just doesn't seem feasible. I understand that you're not ready to release the full information, but the entire point of shadowbanning, the entire reason that it's useful, is because users who purposely make alts to break rules don't know that they've been shadow'd. There's nothing reddit can do to stop TOR or IP changes which allow users to make alts. It seems to me, that Shadowing is the only deterrent that would slow down spammers and the like.
+
+Q: This just doesn't seem feasible. I understand that you're not ready to release the full information, but the entire point of shadowbanning, the entire reason that it's useful, is because users who purposely make alts to break rules don't know that they've been shadow'd. There's nothing reddit can do to stop TOR or IP changes which allow users to make alts. It seems to me, that Shadowing is the only deterrent that would slow down spammers and the like.
+A: It ain't easy, but we ain't stupid.
+
+Q: It ain't easy, but we ain't stupid.
+A: In the end though, what's to stop someone just restarting their router for a new IP, making a new account and continuing with whatever they were doing? I have yet to see another site/game or whatever that is able to counter that, and it's a stupidly simple solution on the banned user's end.
+
+Q: In the end though, what's to stop someone just restarting their router for a new IP, making a new account and continuing with whatever they were doing? I have yet to see another site/game or whatever that is able to counter that, and it's a stupidly simple solution on the banned user's end.
+A: It is absolutely trivial to detect that.

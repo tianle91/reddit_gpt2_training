@@ -1,0 +1,30 @@
+In subreddit: announcements
+
+Title: It's that time of year again. We just published our 2016 Transparency Report.
+
+Body: Hello Everyone,
+
+We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
+
+Our goals in publishing the report are to demonstrate Reddit’s commitment to remaining a place that encourages authentic conversation and to share with you the ways in which we work to protect the privacy of our users.
+
+Generally, the types of requests we receive are subpoenas, court orders, search warrants, and emergency requests. We require all requests to be legally valid, and, in 2016, we did not produce records in response to approximately 40% of them, which is on par with previous years.
+
+Another way in which we stand up on behalf of users is through participation in [amicus briefs](https://en.wikipedia.org/wiki/Amicus_curiae). Basically, we say we support a party and their position. In tech, it is one of the few areas in which many companies work together to send a strong message to courts.
+
+We participated in a couple amicus briefs this year, including one on [behalf of Facebook](https://blog.mozilla.org/wp-content/uploads/2017/01/In-re-381-Search-Warrants-Amicus-Brief.pdf) in the state of New York, who was served with a bulk warrant for account information, photos, private messages, and other information for 381 individuals. Reddit joined with a number of other tech companies in supporting Facebook’s arguments that questioned the legal validity of the bulk search warrant and the associated gag order which prevented Facebook from notifying its users.
+
+Again, in support of Facebook, we joined a group to fight against a Section 230 ruling in the state of California. Section 230 essentially allows platforms like Reddit to exist because it grants broad immunity to online service providers from harms arising out of third-party content. In this case, the trial court had held that Jason Cross a/k/a Michael Knight (“Knight”) could seek to hold Facebook liable for failing to remove third-party content that Knight found objectionable.  Amici [filed a response](http://digitalcommons.law.scu.edu/historical/1378/) in support of Facebook and to argue against the trial court’s order finding that California right of publicity claims fall outside the broad scope of Section 230’s immunity. 
+
+Thank you for reading. I hope that you take this report as a sign of our commitment to your privacy and trust.
+
+I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
+
+Steve (spez)
+
+
+Q: What do you think?
+A: /u/spez, thanks for posting this! A question on the requests for user account information: The number of requests went up from 98 requests to 170, which is quite a jump. Why is it that these numbers increased so much from the previous year? I know Reddit is growing in users but is it that much or are sites like Reddit being used as evidence more in court cases? Out of curiosity, is there any reason why so few of the requests for user account information from foreign countries were denied? (Not that I am complaining at all! I like that the number is so low) Of the 234 million users of this website, it is quite impressive that only around 300 requests came in. Do you expect these requests to continue rising over the years? What can we as users do or know to have a better peace of mind when it comes to our privacy on Reddit? (Not necessarily looking for advice on VPNs or the other wonderful info available at /r/privacy ) Thanks again for the transparency and answering any questions you can! Have a great day!
+
+Q: /u/spez, thanks for posting this! A question on the requests for user account information: The number of requests went up from 98 requests to 170, which is quite a jump. Why is it that these numbers increased so much from the previous year? I know Reddit is growing in users but is it that much or are sites like Reddit being used as evidence more in court cases? Out of curiosity, is there any reason why so few of the requests for user account information from foreign countries were denied? (Not that I am complaining at all! I like that the number is so low) Of the 234 million users of this website, it is quite impressive that only around 300 requests came in. Do you expect these requests to continue rising over the years? What can we as users do or know to have a better peace of mind when it comes to our privacy on Reddit? (Not necessarily looking for advice on VPNs or the other wonderful info available at /r/privacy ) Thanks again for the transparency and answering any questions you can! Have a great day!
+A: Yes, I expect the number to continue to grow. For context, check out the scale of [Google's report](https://www.google.com/transparencyreport/). > What can we as users do or know to have a better peace of mind when it comes to our privacy on Reddit? We only know what you tell us, and we deliberately ask for little. IP addresses, which are a little harder for you to control, we only store for 100 days. When it comes to privacy, I do believe there is some amount of personal responsibility and education required, but we try to be helpful where we can.

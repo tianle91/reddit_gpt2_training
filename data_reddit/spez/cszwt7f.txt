@@ -1,0 +1,17 @@
+In subreddit: IAmA
+
+Title: I am Steve Huffman, the new CEO of reddit. AMA.
+
+Body: Hey Everyone, I'm Steve, aka spez, the new CEO around here. For those of you who don't know me, I founded reddit ten years ago with my college roommate Alexis, aka kn0thing. Since then, reddit has grown far larger than my wildest dreams. I'm so proud of what it's become, and I'm very excited to be back.
+
+I know we have a lot of work to do. One of my first priorities is to re-establish a relationship with the community. This is the first of what I expect will be many AMAs (I'm thinking I'll do these weekly).
+
+My proof: it's me!
+
+edit: I'm done for now. Time to get back to work. Thanks for all the questions!
+
+Q: What do you think?
+A: What's your viewpoint on the life, death, and legacy of [Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ)? Any of his philosophy going to be present in Reddit going forward?
+
+Q: What's your viewpoint on the life, death, and legacy of [Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ)? Any of his philosophy going to be present in Reddit going forward?
+A: Aaron and I were very close for about five months. During that time we ported reddit from Lisp to Python and collaborated on a lot of ideas that are still important to reddit today. We had a falling out around the time reddit sold, and I regret to say I didn't really know him when he passed. That whole situation was ugly, and the world is worse for it.

@@ -1,0 +1,23 @@
+In subreddit: technology
+
+Title: Reddit is now censoring posts and communities on a country-by-country basis
+
+Body: 
+
+Q: What do you think?
+A: Reddit is not the freedom fighter you want it to be. It's a company that wants to earn money.
+
+Q: Reddit is not the freedom fighter you want it to be. It's a company that wants to earn money.
+A: Of course we want to earn money–that's how businesses continue to exist–but that didn't factor into our decision here. The issue in this case is we faced the dilemma of either banning content in specific regions or having Reddit blocked entirely in these regions. Unfortunately, there isn't a middle ground in this case. While we believe government censorship of the Internet is wrong (not to mention futile), we also need to make practical decisions to ensure Reddit is accessible to as many people as possible around the entire world.
+
+Q: Of course we want to earn money–that's how businesses continue to exist–but that didn't factor into our decision here. The issue in this case is we faced the dilemma of either banning content in specific regions or having Reddit blocked entirely in these regions. Unfortunately, there isn't a middle ground in this case. While we believe government censorship of the Internet is wrong (not to mention futile), we also need to make practical decisions to ensure Reddit is accessible to as many people as possible around the entire world.
+A: There is absolutely zero chance of Reddit getting banned in Germany. We don't even have a system in place to do this here. The absolute worst that could happen is that you are placed on a blacklist which probably will prompt Google and other search engines to delist you.
+
+Q: There is absolutely zero chance of Reddit getting banned in Germany. We don't even have a system in place to do this here. The absolute worst that could happen is that you are placed on a blacklist which probably will prompt Google and other search engines to delist you.
+A: That's not true. We need to maintain relationships with governments worldwide so we continue to have an opportunity to review these issues on a case-by-case basis. edit (mostly in response to your comment below, but expanding on this point): As Reddit grows internationally, relationships with governments beyond our own in the United States become relevant.
+
+Q: That's not true. We need to maintain relationships with governments worldwide so we continue to have an opportunity to review these issues on a case-by-case basis. edit (mostly in response to your comment below, but expanding on this point): As Reddit grows internationally, relationships with governments beyond our own in the United States become relevant.
+A: That is equally true an irrelevant the BPjM is not the government and does not have any power to ban Reddit. Also the lack of transparancy is disturbing, the original post in /r/ChillingEffects didn't even state who issued this request (actually BPjM hasn't even been confirmed), what kind of material it was about, how it was determined that it is actually a valid complaint and why it was decided that the whole subreddit should be banned. And yes you should publish these things for each and every request.
+
+Q: That is equally true an irrelevant the BPjM is not the government and does not have any power to ban Reddit. Also the lack of transparancy is disturbing, the original post in /r/ChillingEffects didn't even state who issued this request (actually BPjM hasn't even been confirmed), what kind of material it was about, how it was determined that it is actually a valid complaint and why it was decided that the whole subreddit should be banned. And yes you should publish these things for each and every request.
+A: While I don't have much interest in debating you on irrelevant points, you're just plain wrong. The [BPjM is an upper-level German federal agency subordinate to the Federal Ministry of Family Affairs, Senior Citizens, Women and Youth](https://en.wikipedia.org/wiki/Federal_Department_for_Media_Harmful_to_Young_Persons).

@@ -1,0 +1,42 @@
+In subreddit: nba
+
+Title: A quick look into the 3's by the Rockets vs the Spurs Defense
+
+Body: A comment in another thread got my intrigued and I dug into the stats to see how much of a difference the Rockets had in last nights game versus the regular season matchups. I know a lot of people see it as 3-1 Spurs, but it should have been 3-1 Rockets if we could have closed out games and not made mistakes. In those 4 games the Rockets were held to a really low 3 point percentage which is a killer for us. But I wanted to know how much of that was defense related from the Spurs and how much was the Rockets poor shooting. 
+
+&nbsp;
+
+
+A lot of people mentioned the wide open three last night compared to the regular season so I dug in using stats from NBA.com.
+
+&nbsp;
+
+From what I can tell last night is no different in terms of getting our shots off against the Spurs compared to the regular season. We just ended up hitting them which is of course the key. It does show another thing that we kept the pace of the game to our favor shooting 50 3's versus the average of 38 in the previous 4 matchups. Thought it might be interesting to see that the Rockets apparently can get open looks against the best defense in the league. 
+
+&nbsp;
+
+TLDR - Some stats showing that last night was not anomaly in getting wide open looks, we just didn't hit them in the season series. 
+
+**LAST NIGHT**
+
+Defender Distance | 3 Point Attempted | 3 Point Made | FG% | Percentage of Shots
+---------|----------|----------|----------|----------
+0-2 Feet (Very Tight) | 2 | 0 | 00.0% | 4.0%
+2-4 Feet (Tight) | 10 | 7 | 70.0% | 20.0%
+4-6 Feet (Open) | 24 | 10 | 41.7% | 48.0%
+6+ Feet (Wide Open) | 14 | 5 | 35.7 % | 28.0%
+
+**REGULAR SEASON AVERAGE**
+
+&nbsp;
+&nbsp;
+
+Defender Distance | 3 Point Attempted | 3 Point Made | FG% | Percentage of Shots
+---------|----------|----------|----------|----------
+0-2 Feet (Very Tight) | 1 | 0 | 00.0% | 2.5%
+2-4 Feet (Tight) | 7 | 1.5 | 21.4% | 18.1%
+4-6 Feet (Open) | 14.3 | 4.3 | 29.8% | 36.2%
+6+ Feet (Wide Open) | 16.3 | 5.5 | 33.8 % | 42.2%
+
+Q: What do you think?
+A: Gotta separate LMA and Gasol

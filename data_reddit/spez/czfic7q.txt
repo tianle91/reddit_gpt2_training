@@ -1,0 +1,37 @@
+In subreddit: announcements
+
+Title: Reddit in 2016
+
+Body: Hi All,
+
+Now that 2015 is in the books, it’s a good time to reflect on where we are and where we are going. Since I returned last summer, my goal has been to bring a sense of calm; to rebuild our relationship with our users and moderators; and to improve the fundamentals of our business so that we can focus on making you (our users), those that work here, and the world in general, proud of Reddit. Reddit’s mission is to help people discover places where they can be themselves and to empower the community to flourish.
+
+2015 was a big year for Reddit. First off, we cleaned up many of our external policies including our Content Policy, Privacy Policy, and API terms. We also established internal policies for managing requests from law enforcement and governments. Prior to my return, [Reddit took an industry-changing stance on involuntary pornography](https://www.reddit.com/r/announcements/comments/2x0g9v/from_1_to_9000_communities_now_taking_steps_to/).
+
+Reddit is a collection of communities, and the moderators play a critical role shepherding these communities. It is our job to help them do this. We have shipped a [number of improvements](https://www.reddit.com/r/modnews/new/) to these tools, and while we have a long way to go, I am happy to see steady progress.
+
+Spam and abuse threaten Reddit’s communities. We created a Trust and Safety team to focus on abuse at scale, which has the added benefit of freeing up our Community team to focus on the positive aspects of our communities. We are still in transition, but you should feel the impact of the change more as we progress. We know we have a lot to do here.
+
+I believe we have positioned ourselves to have a strong 2016. A phrase we will be using a lot around here is "Look Forward." Reddit has a long history, and it’s important to focus on the future to ensure we live up to our potential. Whether you access it from your desktop, a mobile browser, or a native app, we will work to make the Reddit product more engaging. Mobile in particular continues to be a priority for us. Our new Android app is going into beta today, and our new iOS app should follow it out soon.
+
+We receive many requests from law enforcement and governments. We take our stewardship of your data seriously, and we know transparency is important to you, which is why we are putting together a Transparency Report. This will be available in March.
+
+This year will see a lot of changes on Reddit. Recently we built an A/B testing system, which allows us to test changes to individual features scientifically, and we are excited to put it through its paces. Some changes will be big, others small and, inevitably, not everything will work, but all our efforts are towards making Reddit better. We are all redditors, and we are all driven to understand why Reddit works for some people, but not for others; which changes are working, and what effect they have; and to get into a rhythm of constant improvement. We appreciate your patience while we modernize Reddit.
+
+As always, Reddit would not exist without you, our community, so thank you. We are all excited about what 2016 has in store for us.
+
+–Steve
+
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
+
+Q: What do you think?
+A: Hi Steve. Are you looking at changing up the default subreddits at all, or no? EDIT: Of course the gold chain starts right after me....
+
+Q: Hi Steve. Are you looking at changing up the default subreddits at all, or no? EDIT: Of course the gold chain starts right after me....
+A: Yes. We've got our sights on the front page algorithm in general. It can be vastly improved. I'm not a fan of defaults. It puts too much of a burden on us to be tastemakers and makes it difficult for great new communities to break through.
+
+Q: Yes. We've got our sights on the front page algorithm in general. It can be vastly improved. I'm not a fan of defaults. It puts too much of a burden on us to be tastemakers and makes it difficult for great new communities to break through.
+A: Why does Spez get so much gold? Doesn't he have enough??? Edit: Thank you for sharing gold!
+
+Q: Why does Spez get so much gold? Doesn't he have enough??? Edit: Thank you for sharing gold!
+A: It's basic economics: the rich get richer.

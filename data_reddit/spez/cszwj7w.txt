@@ -1,0 +1,17 @@
+In subreddit: IAmA
+
+Title: I am Steve Huffman, the new CEO of reddit. AMA.
+
+Body: Hey Everyone, I'm Steve, aka spez, the new CEO around here. For those of you who don't know me, I founded reddit ten years ago with my college roommate Alexis, aka kn0thing. Since then, reddit has grown far larger than my wildest dreams. I'm so proud of what it's become, and I'm very excited to be back.
+
+I know we have a lot of work to do. One of my first priorities is to re-establish a relationship with the community. This is the first of what I expect will be many AMAs (I'm thinking I'll do these weekly).
+
+My proof: it's me!
+
+edit: I'm done for now. Time to get back to work. Thanks for all the questions!
+
+Q: What do you think?
+A: Hi Steve! So, AFAIK you'll remain the CTO of Hipmunk. Do you think that you can realistically manage two jobs of this caliber at the same time? How will you arrange that?
+
+Q: Hi Steve! So, AFAIK you'll remain the CTO of Hipmunk. Do you think that you can realistically manage two jobs of this caliber at the same time? How will you arrange that?
+A: It's going to take a little time to find the right balance. Hipmunk is in a stable place, and most of my value is provided in a few key meetings every week, which I will still be attending. Also, they're five blocks away, so I can go over there whenever I need.

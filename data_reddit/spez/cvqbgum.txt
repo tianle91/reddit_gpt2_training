@@ -1,0 +1,17 @@
+In subreddit: technology
+
+Title: Reddit Admits Its Front Page Is Broken, Is Working on an Entirely New Algorithm
+
+Body: 
+
+Q: What do you think?
+A: We've been investigating this for the past couple of weeks. The short story is nothing has actually changed on our end[1], and it really does appear to be the case that everyone is suddenly more sensitive to front-page turnover. That said, we used to tweak constants in the hot algorithm as traffic grew, but we haven't done that in a while. Before we make any changes (big or small), we're testing them internally. [1] We did make a change a while ago to fix a different issue, but we reverted it because it had unintended side-effects. edit: I'm as skeptical as you all are that there isn't a change–that's why we're investigating it–we just haven't found a solid explanation yet.
+
+Q: We've been investigating this for the past couple of weeks. The short story is nothing has actually changed on our end[1], and it really does appear to be the case that everyone is suddenly more sensitive to front-page turnover. That said, we used to tweak constants in the hot algorithm as traffic grew, but we haven't done that in a while. Before we make any changes (big or small), we're testing them internally. [1] We did make a change a while ago to fix a different issue, but we reverted it because it had unintended side-effects. edit: I'm as skeptical as you all are that there isn't a change–that's why we're investigating it–we just haven't found a solid explanation yet.
+A: I find that hard to believe, I've been using this site for almost 6 years and have never seen such stagnation on the front page. It must be something you are overlooking.
+
+Q: I find that hard to believe, I've been using this site for almost 6 years and have never seen such stagnation on the front page. It must be something you are overlooking.
+A: That, coupled with the fact that they're pushing for more celebrity engagement, advertising, etc. I think we're being straight up lied to. Spez can't really come out and say, "We've been changing the site to cater to advertisers instead of users."
+
+Q: That, coupled with the fact that they're pushing for more celebrity engagement, advertising, etc. I think we're being straight up lied to. Spez can't really come out and say, "We've been changing the site to cater to advertisers instead of users."
+A: That makes no sense. We have two ad placements: sponsored links at the top and display ads on the right. Neither are affected by the hot algorithm.

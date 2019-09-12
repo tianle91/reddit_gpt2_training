@@ -1,0 +1,27 @@
+In subreddit: announcements
+
+Title: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
+
+Body: I would like to share some of the things we have been up to since we last chatted.
+
+On the product side, we’ve been busy. Both our [iPhone](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) apps have had [multiple releases](https://www.reddit.com/r/redditmobile), and we’re proud at how well they are progressing. Mobile web (m.reddit.com) is undergoing a major overhaul that we’re testing internally, and hope to start showing to users in the next couple weeks. We have been running many experiments on desktop web to increase user engagement, particularly for users who are new to Reddit. You can see what experiments we are running on this [live thread](https://www.reddit.com/live/x3ckzbsj6myw/), and notable changes to the site are listed in r/changelog.
+
+We’ve started development on a new frontpage algorithm. The current algorithm is outdated and is no longer meeting our needs. There are a number of problems we’d like to solve: increased velocity, improved personalization, reduced dependence on /new, and not requiring us to choose the defaults. We’re still in the early days, but I’m happy we’re dedicating resources to it.
+
+As it relates to monetization, we’ve made a handful of changes: we [tested adding affiliate tags](https://www.reddit.com/r/announcements/comments/4mv578/affiliate_links_on_reddit/) to e-commerce links, which we ended up turning off; we announced [Promoted User Posts](https://www.reddit.com/r/announcements/comments/4upf11/new_ad_type_promoted_user_posts/); and we announced [tests we’ll be running](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design/) on sponsored headlines. Changes and additions to ads can be met with skepticism, and this is why we test changes carefully and listen to feedback. As we evolve our ads platform, we are working to do it in a way that that complements the core experience and engages redditors. These changes and experiments will continue to happen, but while it is critical that we build Reddit into a sustainable business, we don’t want to compromise what’s brought us here. Going forward, we will list these in r/changelog so all these kinds of announcements are in one place.
+
+Yesterday, we previewed [new moderator mail](https://www.reddit.com/r/modnews/comments/4wwzzs/new_modmail_a_demo_and_a_call_for_beta_testers/) to moderators. This has been a long time coming, and we’re excited to show it off. The current moderator mail system is a hack on top of our messaging system, which is itself a hack on top of our commenting system. The new tool should save a lot of time for everyone, and new tech stack will allow for better future iterations and builds. We’ll be working with moderators to refine it while we work towards a full rollout.
+
+We’ve seen great results from our Anti-Evil, Trust & Safety, and Community teams. The mandate of these teams is to eliminate spam and abuse and to ensure Reddit is a welcoming place for all. In the last quarter, we’ve reduced harassment reports by 15%, spam reports by 66%, and moderator spam removals by 15%. We’ve also reduced our support ticket backlog substantially, dropping our average response time from 64 hours to 7 in the process.
+
+Happy to chat about this stuff, or anything else.
+
+e: grammar
+
+u: Thank you! Heading out for now. Will check back later.
+
+Q: What do you think?
+A: hey /u/Spez! I'm a mod for /r/Watches, and a decent chunk of our mod team uses reddit on mobile, specifically iPhones. What is the time table for moderator tools (even just a measly remove/approve function!) coming to the mobile app? It would be *phenomenal* to get other things, such as a separate button for mod mail, but I imagine that is not coming any time soon.
+
+Q: hey /u/Spez! I'm a mod for /r/Watches, and a decent chunk of our mod team uses reddit on mobile, specifically iPhones. What is the time table for moderator tools (even just a measly remove/approve function!) coming to the mobile app? It would be *phenomenal* to get other things, such as a separate button for mod mail, but I imagine that is not coming any time soon.
+A: The new mod mail should work well on mobile. The rest of the tools will follow.

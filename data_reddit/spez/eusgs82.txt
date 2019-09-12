@@ -1,0 +1,77 @@
+In subreddit: announcements
+
+Title: Introducing Community Awards!
+
+Body: **UPDATE (9/4):** Winners of the Coins Giveaway have been [announced below in the stickied comment](https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/eus5nc4?utm_source=share&utm_medium=web2x)! Thanks to all who participated!
+
+Hi all,
+
+You may have noticed some new icons popping up alongside Silver, Gold, and Platinum Awards on your front page recently—these are **Community Awards**! We started testing these in a [small alpha group back in April](https://www.reddit.com/r/changelog/comments/bf2jep/hi_rchangelog_were_back_for_another_exciting/) and expanded the group to include more volunteer communities over the past couple of weeks.
+
+As of today, Community Awards are now widely available for mods to create in their communities.
+
+# What Are Community Awards?
+
+Community Awards give mods the ability to create custom Awards for redditors to use in their own communities. Mods can select the images, names, and Coin price of Awards to reflect their own communities. Awards can be priced between 500 Coins and 40,000 Coins.
+
+Community Awards will be available to give in the communities that created them, in addition to Silver, Gold, and Platinum Awards (which are available site-wide).
+
+[A highly decorated post on r\/DunderMifflin, featuring Silver, Gold, and Platinum, as well as the new Community Awards!](https://i.redd.it/fsqt84ep6bc31.png)
+
+In the above screenshot from [r/DunderMifflin](https://www.reddit.com/r/DunderMifflin/), you can see a few new icons in between Gold and Silver. These are **Community Awards**.
+
+# What Are the Benefits of Community Awards?
+
+Community Awards are a new way of showing appreciation to posters and commenters. But unlike Silver, Gold and Platinum, when Community Awards are used, they give Coins back to that community through the **Community Bank**.
+
+With this new update, 20% of Coins spent on Community Awards will go into a bank of Community Coins. For example, in the [r/IAmA](https://www.reddit.com/r/IAmA/) community if you give the “Star of Excellence” Award (2,000 Coins) to another user, [r/IAmA](https://www.reddit.com/r/IAmA/) automatically gets 400 Coins in its Community Bank.
+
+Mods can access the Community Bank to give…
+
+# Mod-Exclusive Awards
+
+Moderators will now have the ability to give Mod-Exclusive Awards, to recognize users for high-quality content that is representative of their community.
+
+Mod-Exclusive Awards will draw from the bank of Community Coins, so Moderators don’t need to spend money to reward users (e.g., for community contests). Mod-Exclusive Awards also have the additional benefit of 1 or more months of Reddit Premium, depending on the Award price.
+
+* Mod-Award costing **1,800 Coins** = **1 month** of Reddit Premium
+* Mod-Award costing **5,400 Coins** = **3 months** of Reddit Premium
+* … and so on!
+
+Here’s what Mod-Exclusive Awards look like on posts / comments:
+
+&#x200B;
+
+[This example shows the coveted Golden Toaster Award, which you can view in a larger size by hovering over the icon.](https://i.redd.it/rek8d44u6bc31.png)
+
+# Which Communities Are Eligible for Community Awards?
+
+Community Awards are available to public, SFW, non-banned, non-quarantined communities.
+
+# Great! How Do I Go and Create Awards Now?
+
+Check out [our companion post on r/modnews](https://www.reddit.com/r/modnews/comments/chdxkh/community_awards_creating_new_awards_for_users/) for all the details on how mods can create Awards!
+
+We are looking forward to seeing all your creativity with these new Awards, but **please do note these important considerations** when creating Awards:
+
+* They must comply with [Reddit’s Content Policy](https://www.redditinc.com/policies/content-policy);
+* They must not violate intellectual property rights of others; and
+* They must be SFW.
+
+# A Coin Giveaway: Mods, Create Some New Awards!
+
+We've seen some pretty great Awards pop up in a few subs already, but now that they're available to more mod teams, we’re seeing which community can create the best collection of six Community Awards!
+
+Participating is pretty simple: **If you are a mod, create an amazing set of six Community Awards that exemplifies the culture of your community, and reply to the stickied comment below with the name of your community.** For 20 random entries, we will put 40,000 Coins into to each community's Community Bank, to give back to users in your communities!
+
+Q: What do you think?
+A: This seems just as useless as silver
+
+Q: This seems just as useless as silver
+A: Community Awards give Coins back to the Community. Mods can use those Coins to give out Mod Awards (and months of Premium). Silver doesn't do that. Our hope is that this is a fun feature that brings mods / users together, and creates another way to customize Communities.
+
+Q: Community Awards give Coins back to the Community. Mods can use those Coins to give out Mod Awards (and months of Premium). Silver doesn't do that. Our hope is that this is a fun feature that brings mods / users together, and creates another way to customize Communities.
+A: Our hope is that this ~~is a fun feature that brings mods / users together~~ increases our companies profitability now that we've landed tens of millions of dollars from new investors and they expect a return
+
+Q: Our hope is that this ~~is a fun feature that brings mods / users together~~ increases our companies profitability now that we've landed tens of millions of dollars from new investors and they expect a return
+A: It’s possible for a feature to both be fun and generate revenue.
