@@ -30,6 +30,8 @@ def get_parent_submission(comment, reddit):
 
 
 def gen_qa_string(q, a):
+    q = ' '.join(q.split())
+    a = ' '.join(a.split())
     return 'Q: %s\nA: %s' % (q, a)
 
 
