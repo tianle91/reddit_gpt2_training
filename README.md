@@ -11,3 +11,5 @@ A: [response]
 Q: [question]
 A: [response]
 ```
+
+here's a [colab notebook](https://colab.research.google.com/drive/1Kux-ZetSsfxdUhlLoCvmSAZy1WReLFRg) training and infering on reddit users' responses.
