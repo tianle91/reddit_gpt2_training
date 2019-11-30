@@ -1,4 +1,3 @@
-import praw
 from praw.exceptions import ClientException
 
 QSTR = 'What do you think?'
@@ -56,6 +55,7 @@ def gen_qa_infer(url, reddit):
 
 
 if __name__ == '__main__':
+    import praw
     r = praw.Reddit()
 
     breakstr = '-' * 100

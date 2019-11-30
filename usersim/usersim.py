@@ -1,28 +1,48 @@
 import os
-
-import praw
-
-from usersim.data import gen_qa_training, gen_qa_infer
+from datetime import datetime
+from data import gen_qa_training, gen_qa_infer
 
 
 class UserSim:
-    def __init__(self, user, reddit, cache_dir='/data'):
+    def __init__(self, user, reddit, cache_dir='cache'):
         self.u = reddit.redditor(user)
         self.r = reddit
+        cache_dir=os.path.join(cache_dir, user)
+        if not os.path.isdir(cache_dir):
+            os.makedirs(cache_dir)
         self.cache_dir = cache_dir
         self.comments = {}
 
     def get_comments_done(self):
         for fpath in os.listdir(self.cache_dir):
-            with open(fpath, 'r') as f:
-                self.comments[''.join(fpath.split('.'))] = f.read()
+            with open(os.path.join(self.cache_dir, fpath), 'r') as f:
+                self.comments[''.join(fpath.split('.txt'))] = f.read()
 
     def get_comments_new(self, count=1000):
+        i = 0
         for c in self.u.comments.new(limit=count):
-            if c not in self.comments:
+            if c.id not in self.comments:
+                s = gen_qa_training(c, self.r)
+                print ('[%.0f/%.0f] id: %s, time: %s, s: %s' % (
+                    i,
+                    count,
+                    c.id,
+                    datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                    ' '.join(s.split())[-50:]
+                ))
+                self.comments[c.id] = s
                 fpath = os.path.join(self.cache_dir, '%s.txt' % c.id)
                 with open(fpath, 'w') as f:
-                    f.write(gen_qa_training(c, self.r))
+                    f.write(s)
+            else:
+                print ('[%.0f/%.0f] id: %s, time: %s, s: %s' % (
+                    i,
+                    count,
+                    c.id,
+                    datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                    '[exists!]'
+                ))
+            i += 1
 
     def get_training(self):
         return '\n\n'.join(self.comments.values())
@@ -32,4 +52,10 @@ class UserSim:
 
 
 if __name__ == '__main__':
+    import praw
     r = praw.Reddit()
+    usim = UserSim('spez', r)
+    usim.get_comments_done()
+    usim.get_comments_new(10)
+    usim.get_comments_done()
+    print (usim.get_training())
