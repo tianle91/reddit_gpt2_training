@@ -1,5 +1,3 @@
-import json
-
 import praw
 from praw.exceptions import ClientException
 
@@ -55,7 +53,6 @@ def gen_qa_infer(url, reddit):
         submission = reddit.submission(url=url)
         sl = [format_submission(submission), gen_qa_string(QSTR, '')]
     return '\n\n'.join(sl)
-
 
 
 if __name__ == '__main__':

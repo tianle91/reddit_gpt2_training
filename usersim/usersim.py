@@ -1,6 +1,7 @@
-import json
 import os
+
 import praw
+
 from usersim.data import gen_qa_training, gen_qa_infer
 
 
@@ -32,4 +33,3 @@ class UserSim:
 
 if __name__ == '__main__':
     r = praw.Reddit()
-    
