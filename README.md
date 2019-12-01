@@ -13,6 +13,6 @@ A: [response]
 
 you can run this in docker. make sure you have include a valid `usersim/praw.ini`.
 `docker build -t reddit_gpt2_training:0.1 .`
-`docker run -v output:/usersim/output reddit_gpt2_training:0.1 -user spez -num-comments 1000`
+`docker run -v /Users/tchen/Documents/Github/reddit_gpt2_training/output:/output reddit_gpt2_training:0.1 -user spez -num-comments 1000`
 
 [outdated] here's a [colab notebook](https://colab.research.google.com/drive/1Kux-ZetSsfxdUhlLoCvmSAZy1WReLFRg) training and infering on reddit users' responses.
