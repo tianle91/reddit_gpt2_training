@@ -14,6 +14,7 @@ class UserSim:
         self.comments = {}
 
     def get_comments_done(self):
+        # consider using file path as value instead if there's a lot of data
         for fpath in os.listdir(self.cache_dir):
             with open(os.path.join(self.cache_dir, fpath), 'r') as f:
                 self.comments[''.join(fpath.split('.txt'))] = f.read()
@@ -53,9 +54,19 @@ class UserSim:
 
 if __name__ == '__main__':
     import praw
-    r = praw.Reddit()
-    usim = UserSim('spez', r)
+    import argparse
+
+    parser = argparse.ArgumentParser(description='dump user comments')
+    parser.add_argument('-user', default='spez', type=str)
+    parser.add_argument('-num-comments', default=100, type=int)
+    parser.add_argument('-output-path', default='output', type=str)
+    args = parser.parse_args()
+
+    usim = UserSim(args.user, praw.Reddit())
     usim.get_comments_done()
-    usim.get_comments_new(10)
-    usim.get_comments_done()
-    print (usim.get_training())
+    usim.get_comments_new(args.num_comments)
+
+    if not os.path.isdir(args.output_path):
+        os.makedirs(args.output_path)
+    with open(os.path.join(args.output_path, '%s.txt' % args.user)) as f:
+        f.write(usim.get_training())
