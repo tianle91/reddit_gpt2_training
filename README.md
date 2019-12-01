@@ -14,6 +14,7 @@ A: [response]
 you can run this in docker. make sure you have include a valid `usersim/praw.ini`.
 
 `docker build -t reddit_gpt2_training:0.1 .`
+
 `docker run -v /Users/tchen/Documents/Github/reddit_gpt2_training/output:/output reddit_gpt2_training:0.1 -user spez -num-comments 1000`
 
 
