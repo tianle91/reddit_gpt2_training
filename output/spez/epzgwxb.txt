@@ -1,0 +1,17 @@
+In subreddit: politics
+
+Title: We are U.S. Senator Ron Wyden and Reddit CEO Steve Huffman, here to talk about how Section 230 allows sites like Reddit to exist. Ask us anything!
+
+Body: Hi, we are Senator Ron Wyden (Oregon), the author of Section 230, and Steve Huffman, CEO of Reddit. We're here to explain how Section 230 of the Communications Decency Act  (“CDA 230”) allows sites like Reddit to exist, and how the law empowers Reddit and every other platform on the internet to take down bad content without being tied up with endless lawsuits.
+
+Sometimes called [“the twenty-six words that created the internet,”](https://www.amazon.com/Twenty-Six-Words-That-Created-Internet/dp/1501714414)  the key concept of CDA 230 is simple: it says that when you make a post on a platform like Reddit, you are the speaker of that content, not Reddit. 
+You can learn more about how CDA 230 works [here at this breakdown](https://www.eff.org/issues/cda230) from the Electronic Frontier Foundation. And you can read more about Senator Wyden’s efforts to defend it [here](https://www.vox.com/recode/2019/5/16/18626779/ron-wyden-section-230-facebook-regulations-neutrality).
+
+
+Proof: https://i.redd.it/jbtpca0xnk131.jpg
+
+Q: What do you think?
+A: OK so lots of questions but not much, if anything in the way of answers. Let me try...I know it is a tricky road but what can be done to curb manipulation by foreign entities on social media during election cycles? Is there a way to recognize and eliminate bots?
+
+Q: OK so lots of questions but not much, if anything in the way of answers. Let me try...I know it is a tricky road but what can be done to curb manipulation by foreign entities on social media during election cycles? Is there a way to recognize and eliminate bots?
+A: >what can be done to curb manipulation by foreign entities on social media during election cycles? Pasting from my [previous answer](https://www.reddit.com/r/politics/comments/bwpqqi/we_are_us_senator_ron_wyden_and_reddit_ceo_steve/epzexlh/): Our primary focus is to detect and stop coordinated or otherwise inauthentic behaviors. Towards that end, we’ve increased accounts banned for content manipulation by 250% since 2017, and we’ve increased the rate at which we proactively action accounts from 29% in 2017 to 99% today. Additionally, we have built tools to help moderators proactively combat community interference (née brigading) that are in alpha testing, and we’ve built a new “reliable reporter” system to surface information to our threat team even quicker. >Is there a way to recognize and eliminate bots? Yes, though detecting and mitigating the impact of bots is a bit of an arms race. As our capabilities get better, the adversary also gets better. Detection today is reliant on technical indicators (such as IP) and leveraging our data scientists to detect abnormal behavior. One common vector of attack is to hack otherwise legitimate dormant or insecure accounts and then use them to manipulate Reddit. Working against that, we have focused on improving account security to prevent malicious bots from taking over these accounts. Please see [this post](https://www.reddit.com/r/redditsecurity/comments/bletrr/how_to_keep_your_reddit_account_safe/) for how you can help improve the security of your account Of course, not all bots are bad bots: r/subredditsimulator, automod, auto crossposting news bots, etc. One option is to ask helpful community bots to self-identify, leaving the potentially malicious bots for us to deal with.

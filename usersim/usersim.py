@@ -58,15 +58,15 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='dump user comments')
     parser.add_argument('-user', default='spez', type=str)
-    parser.add_argument('-num-comments', default=100, type=int)
-    parser.add_argument('-output-path', default='output', type=str)
+    parser.add_argument('-num-comments', default=10, type=int)
+    parser.add_argument('-output', default='/output', type=str)
     args = parser.parse_args()
 
-    usim = UserSim(args.user, praw.Reddit())
+    usim = UserSim(user=args.user, reddit=praw.Reddit(), cache_dir=args.output)
     usim.get_comments_done()
     usim.get_comments_new(args.num_comments)
 
-    if not os.path.isdir(args.output_path):
-        os.makedirs(args.output_path)
-    with open(os.path.join(args.output_path, '%s.txt' % args.user), 'w') as f:
-        f.write(usim.get_training())
+    s = usim.get_training()
+    fpath = os.path.join(args.output, '%s.txt' % args.user)
+    with open(fpath, 'w+') as f:
+        f.write(s)
