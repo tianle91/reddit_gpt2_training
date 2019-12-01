@@ -68,5 +68,5 @@ if __name__ == '__main__':
 
     if not os.path.isdir(args.output_path):
         os.makedirs(args.output_path)
-    with open(os.path.join(args.output_path, '%s.txt' % args.user)) as f:
+    with open(os.path.join(args.output_path, '%s.txt' % args.user), 'w') as f:
         f.write(usim.get_training())
