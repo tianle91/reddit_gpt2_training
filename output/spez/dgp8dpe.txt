@@ -1,0 +1,13 @@
+In subreddit: cscareerquestions
+
+Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
+
+Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+
+Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
+
+Q: What do you think?
+A: Hi Spez! Thanks for doing this. What was your major inspiration for creating Reddit? Also, what advice do you have for current university students who are entrepreneurial in nature, and want to create something big?
+
+Q: Hi Spez! Thanks for doing this. What was your major inspiration for creating Reddit? Also, what advice do you have for current university students who are entrepreneurial in nature, and want to create something big?
+A: I'm sorry, I don't have a great answer for you: when we started Reddit, we didn't have a vision for the future. Our product planning horizon was about 1 day. I mostly didn't want to look stupid in front of Paul Graham, who made our first investment. As for how to make something big, that's a broad question. I suppose if I were to distill it into a single point: it's put yourself in a position to build something big: * Work on an idea that can actually be big * Surround yourself with people with similar aspirations * Work at a company with people who know what they're doing

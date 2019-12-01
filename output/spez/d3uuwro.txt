@@ -1,0 +1,21 @@
+In subreddit: announcements
+
+Title: AMA about my darkest secrets
+
+Body: Hi All,
+
+We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
+
+We’ve launched a [bunch of stuff](https://www.reddit.com/r/changelog) recently, and we’re hard at work on lots more: m.reddit.com improvements, the next versions of Reddit for iOS and Android, moderator mail, relevancy experiments (lots of [little tests](https://www.reddit.com/r/changelog/comments/4jzit9/reddit_change_several_small_tests_to_improve_user/) to improve experience), account take-over prevention, technology improvements so we can move faster, and–of course–hiring.
+
+I’ve got a couple hours, so, ask me anything!
+
+Steve
+
+edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
+
+Q: What do you think?
+A: Quite a few people were concerned by [your recent comments](https://www.reddit.com/r/videos/comments/4lmfmj/ceo_of_reddit_steve_huffman_about_advertising_on/) to which the title of this post alludes ("We know all of your interests. Not only just your interests you are willing to declare publicly on Facebook - we know your dark secrets, we know everything"), and would like further explanation. Are your comments representative of the policies of reddit Inc.? Does this herald the implementation of highly targeted advertising based on subreddit preferences, or perhaps something much more sinister, like mass data collection which could then be sold on? I think if you could clarify these comments it might put people slightly more at ease.
+
+Q: Quite a few people were concerned by [your recent comments](https://www.reddit.com/r/videos/comments/4lmfmj/ceo_of_reddit_steve_huffman_about_advertising_on/) to which the title of this post alludes ("We know all of your interests. Not only just your interests you are willing to declare publicly on Facebook - we know your dark secrets, we know everything"), and would like further explanation. Are your comments representative of the policies of reddit Inc.? Does this herald the implementation of highly targeted advertising based on subreddit preferences, or perhaps something much more sinister, like mass data collection which could then be sold on? I think if you could clarify these comments it might put people slightly more at ease.
+A: We would like to make better use of all the data we have. The front page could be a lot more relevant; we can make better content suggestions; and yes, ads can be better targeted. There are many opportunities to make Reddit better and more relevant. We're not actually doing it now. I've mentioned this sort of thing before. When do, we'll always provide an opt-out or way of resetting things. No, we'll don't ever share this sort of information directly with advertisers. We sometimes have to jump through a lot of hoops to accomplish this, but we don't mind at all.

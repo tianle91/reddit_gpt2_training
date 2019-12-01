@@ -1,0 +1,13 @@
+In subreddit: cscareerquestions
+
+Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
+
+Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+
+Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
+
+Q: What do you think?
+A: Hey Spez, Out of curiosity which languages are your favorite and why? Edit: programming languages
+
+Q: Hey Spez, Out of curiosity which languages are your favorite and why? Edit: programming languages
+A: I've had favorites over the years for different reasons: * Lisp: It's so flexible you can adapt to almost any style. The first version of Reddit was written in Common Lisp. * C: you can't program C without really knowing how computers work. * Python: My favorite language to read, write, and teach in. Reddit is primarily Python. * Go: As I've aged, I've developed a deeper and deeper appreciate for types. Go seems to have the right balance of real-word practicality, modern features, and a Python-like feeling of coherence when you finally get it right.

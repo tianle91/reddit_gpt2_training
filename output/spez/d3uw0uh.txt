@@ -1,0 +1,21 @@
+In subreddit: announcements
+
+Title: AMA about my darkest secrets
+
+Body: Hi All,
+
+We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
+
+We’ve launched a [bunch of stuff](https://www.reddit.com/r/changelog) recently, and we’re hard at work on lots more: m.reddit.com improvements, the next versions of Reddit for iOS and Android, moderator mail, relevancy experiments (lots of [little tests](https://www.reddit.com/r/changelog/comments/4jzit9/reddit_change_several_small_tests_to_improve_user/) to improve experience), account take-over prevention, technology improvements so we can move faster, and–of course–hiring.
+
+I’ve got a couple hours, so, ask me anything!
+
+Steve
+
+edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
+
+Q: What do you think?
+A: Do you think you guys are making as much progress as you had hoped? What areas and ideas are you really happy with, and which do you feel still need more work?
+
+Q: Do you think you guys are making as much progress as you had hoped? What areas and ideas are you really happy with, and which do you feel still need more work?
+A: Yes and no. We spent a lot of the last year healing and hiring. I have to remind myself that we can't do everything we want overnight. At the same time, I'm really excited to build all our dreams, and I want to get things online yesterday!

@@ -1,0 +1,14 @@
+In subreddit: technology
+
+Title: Reddit Admits Its Front Page Is Broken, Is Working on an Entirely New Algorithm
+
+Body: 
+
+Q: What do you think?
+A: We've been investigating this for the past couple of weeks. The short story is nothing has actually changed on our end[1], and it really does appear to be the case that everyone is suddenly more sensitive to front-page turnover. That said, we used to tweak constants in the hot algorithm as traffic grew, but we haven't done that in a while. Before we make any changes (big or small), we're testing them internally. [1] We did make a change a while ago to fix a different issue, but we reverted it because it had unintended side-effects. edit: I'm as skeptical as you all are that there isn't a change–that's why we're investigating it–we just haven't found a solid explanation yet.
+
+Q: We've been investigating this for the past couple of weeks. The short story is nothing has actually changed on our end[1], and it really does appear to be the case that everyone is suddenly more sensitive to front-page turnover. That said, we used to tweak constants in the hot algorithm as traffic grew, but we haven't done that in a while. Before we make any changes (big or small), we're testing them internally. [1] We did make a change a while ago to fix a different issue, but we reverted it because it had unintended side-effects. edit: I'm as skeptical as you all are that there isn't a change–that's why we're investigating it–we just haven't found a solid explanation yet.
+A: I find that hard to believe, I've been using this site for almost 6 years and have never seen such stagnation on the front page. It must be something you are overlooking.
+
+Q: I find that hard to believe, I've been using this site for almost 6 years and have never seen such stagnation on the front page. It must be something you are overlooking.
+A: I feel the same way, but we haven't found a change so far (in code or age of frontpage posts). We'll share the results of our investigation when it's more complete. We've got a few more theories we're chasing down.

@@ -1,0 +1,34 @@
+In subreddit: announcements
+
+Title: Out with 2016, in with 2017
+
+Body: Hi All,
+
+I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
+
+2016 was a transformational year for Reddit. We are a completely different company than we were a year ago, having improved in just about every dimension. We hired most of the company, creating many new teams and growing the rest. As a result, we are capable of building more than ever before.
+
+Last year was our most productive ever. We shipped well-reviewed apps for both [iOS](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en). It is crazy to think these apps did not exist a year ago—especially considering they now account for over 40% of our content views. Despite being relatively new and not yet having all the functionality of the desktop site, the apps are fastest and best way to browse Reddit. If you haven’t given them a try yet, you should definitely take them for a spin.
+
+Additionally, we built a new web tech stack, upon which we built the long promised new version [moderator mail](https://www.reddit.com/r/modnews/comments/5h1j48/new_modmail_now_available_for_all_subreddits) and our [mobile website](https://www.reddit.com/r/changelog/comments/58ir49/reddit_change_mobile_website_architectural_revamp/). We added [image hosting](https://www.reddit.com/r/announcements/comments/4p5dm9/image_hosting_on_reddit/) on all platforms as well, which now supports the majority of images uploaded to Reddit.
+
+We want Reddit to be a welcoming place for all. We know we still have a long way to go, but I want to share with you some of the progress we have made. Our Anti-Evil and Trust & Safety teams reduced spam by over 90%, and we released the first version of our [blocking tool](https://www.reddit.com/r/announcements/comments/4dmnn6/new_and_improved_block_user_feature_in_your_inbox/), which made a nice dent in reported abuse. In the wake of [Spezgiving](https://www.reddit.com/r/announcements/comments/5frg1n/tifu_by_editing_some_comments_and_creating_an/), we increased actions taken against individual bad actors by nine times. Your continued engagement helps us make the site better for everyone, thank you for that feedback.
+
+As always, the Reddit community did many wonderful things for the world. You raised a [lot](https://www.reddit.com/r/CFB/comments/5j7z3d/rcfb_buys_donates_6250_in_toys_and_cash_to_toys/) [of](https://www.donorschoose.org/reddit-gifts-for-the-teachers) [money](https://www.reddit.com/r/ExtraLife/wiki/leaderboard); stepped up to help [grieving](https://www.reddit.com/r/videos/comments/5k5xjn/does_anyone_know_a_place_that_will_remove/) [families](https://www.reddit.com/r/audioengineering/comments/4v2jbv/odd_request_for_help_my_wife_recently_died_during/?sort=top); and even helped [diagnose](http://abcnews.go.com/Health/girl-diagnosed-rare-genetic-disorder-reddit-years-inconclusive/story?id=38876898) a rare genetic disorder. There are stories like this every day, and they are one of the reasons why we are all so proud to work here. Thank you.
+
+We have lot upcoming this year. Some of the things we are working on right now include a new frontpage algorithm, improved performance on all platforms, and [moderation tools on mobile](https://www.reddit.com/r/changelog/comments/5pxvlg/mod_tools_on_mobile_web_approveremovespam/) (native support to follow). We will publish our yearly transparency report in March.
+
+One project I would like to preview is a rewrite of the desktop website. It is a long time coming. The desktop website has not meaningfully changed in many years; it is not particularly welcoming to new users (or old for that matter); and still runs code from the earliest days of Reddit over ten years ago. We know there are implications for community styles and various browser extensions. This is a massive project, and the transition is going to take some time. We are going to need a lot of volunteers to help with testing: new users, old users, creators, lurkers, mods, [please sign up here](https://reddit-research.typeform.com/to/TdKcop)!
+
+Here's to a happy, productive, drama-free (ha), 2017!
+
+Steve and the Reddit team
+
+update: I'm off for now. Will check back in a couple hours. Thanks!
+
+
+Q: What do you think?
+A: Please don't make the rewrite of the desktop site result in a Digg 2 fiasco
+
+Q: Please don't make the rewrite of the desktop site result in a Digg 2 fiasco
+A: Can't promise that. That Digg redesign was one of the greatest days in Reddit's history!

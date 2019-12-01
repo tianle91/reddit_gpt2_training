@@ -1,0 +1,35 @@
+In subreddit: shittychangelog
+
+Title: [reddit change] /r/all algorithm changes
+
+Body: It was causing too much load on our database. I made a new algorithm which Trumps the previous one.
+
+Q: What do you think?
+A: [deleted] ^^^^^^^^^^^^^^^^0.8130 > [What is this?](https://pastebin.com/64GuVi2F/11874)
+
+Q: [deleted] ^^^^^^^^^^^^^^^^0.8130 > [What is this?](https://pastebin.com/64GuVi2F/11874)
+A: [deleted]
+
+Q: [deleted]
+A: This is pretty close to our guess as to what was happening. It wouldn't have been a stack overflow in this case, but there was an index in postgres that _turned out to be load bearing_ and without it postgres was: 1. taking an extra super long time to do something that should be simple 2. returning really weird results That subreddit is _very_ active, and I suspect that means those rows were extra hot and see (2).
+
+Q: This is pretty close to our guess as to what was happening. It wouldn't have been a stack overflow in this case, but there was an index in postgres that _turned out to be load bearing_ and without it postgres was: 1. taking an extra super long time to do something that should be simple 2. returning really weird results That subreddit is _very_ active, and I suspect that means those rows were extra hot and see (2).
+A: Extra hot? They were sitting at the top of /r/all with a negative score lol
+
+Q: Extra hot? They were sitting at the top of /r/all with a negative score lol
+A: Poor choice of words! Probably more like "being constantly voted on, and therefore most recently changed in postgres and the top of it's cache if it was going to return things completely unsorted." We decided to revert before we had really figured out _what_ caused it. I mean I guess we can flip the switch again and do a deeper dive...
+
+Q: Poor choice of words! Probably more like "being constantly voted on, and therefore most recently changed in postgres and the top of it's cache if it was going to return things completely unsorted." We decided to revert before we had really figured out _what_ caused it. I mean I guess we can flip the switch again and do a deeper dive...
+A: Ah ok, that makes sense. May your next release be a successful one. http://imgur.com/dIT3ImX
+
+Q: Ah ok, that makes sense. May your next release be a successful one. http://imgur.com/dIT3ImX
+A: This was, in fact, caused by ops.
+
+Q: This was, in fact, caused by ops.
+A: In fairness it was also fixed by ops.
+
+Q: In fairness it was also fixed by ops.
+A: I tried pretty hard to get other teams to do the actual debugging.
+
+Q: I tried pretty hard to get other teams to do the actual debugging.
+A: Ah-hem. I did most of the debugging.

@@ -1,0 +1,21 @@
+In subreddit: announcements
+
+Title: Content Policy Update
+
+Body: Today we are releasing an update to our [Content Policy](https://www.reddit.com/help/contentpolicy). Our goal was to consolidate the various rules and policies that have accumulated over the years into a single set of guidelines we can point to.
+
+Thank you to all of you who provided feedback throughout this process. Your thoughts and opinions were invaluable. This is not the last time our policies will change, of course. They will continue to evolve along with Reddit itself.
+
+Our policies are not changing dramatically from what we have had in the past. One new concept is Quarantining a community, which entails applying a set of restrictions to a community so its content will only be viewable to those who explicitly opt in. We will Quarantine communities whose content would be considered extremely offensive to the average redditor.
+
+Today, in addition to applying Quarantines, we are banning a handful of communities that exist solely to annoy other redditors, prevent us from improving Reddit, and generally make Reddit worse for everyone else. Our most important policy over the last ten years has been to allow just about anything so long as it does not prevent others from enjoying Reddit for what it is: the best place online to have truly authentic conversations.
+
+I believe these policies strike the right balance.
+
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
+
+Q: What do you think?
+A: Will you be sharing information about the communities which are Quarantined? Will moderators of those communities know if their subreddit has been affected? Edit: Just as it's not immediately obvious, **/r/Coontown has been banned** Edit 2: [Here's what it looks like when you try to access a Quarantined subreddit](https://imgur.com/BkUsoz2) Edit 3: [And here's what private subs now look like. Fancy!](https://imgur.com/k8fptkw)
+
+Q: Will you be sharing information about the communities which are Quarantined? Will moderators of those communities know if their subreddit has been affected? Edit: Just as it's not immediately obvious, **/r/Coontown has been banned** Edit 2: [Here's what it looks like when you try to access a Quarantined subreddit](https://imgur.com/BkUsoz2) Edit 3: [And here's what private subs now look like. Fancy!](https://imgur.com/k8fptkw)
+A: They receive a message, yes.

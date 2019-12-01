@@ -1,0 +1,25 @@
+In subreddit: announcements
+
+Title: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
+
+Body: In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
+
+Given the recent news, we’d like to share some of what we’ve learned:
+
+When it comes to Russian influence on Reddit, there are three broad areas to discuss: ads, direct propaganda from Russians, indirect propaganda promoted by our users.
+
+On the first topic, ads, there is not much to share. We don’t see a lot of ads from Russia, either before or after the 2016 election, and what we do see are mostly ads promoting spam and ICOs.  Presently, ads from Russia are blocked entirely, and all ads on Reddit are reviewed by humans. Moreover, our [ad policies](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/reddit-advertising-policy) prohibit content that depicts intolerant or overly contentious political or cultural views.
+
+As for direct propaganda, that is, content from accounts we suspect are of Russian origin or content linking directly to known propaganda domains, we are doing our best to identify and remove it. We have found and removed a few hundred accounts, and of course, every account we find expands our search a little more. The vast majority of suspicious accounts we have found in the past months were banned back in 2015–2016 through our enhanced efforts to prevent abuse of the site generally.
+
+The final case, indirect propaganda, is the most complex. For example, the Twitter account @TEN\_GOP is now known to be a Russian agent. @TEN\_GOP’s Tweets were amplified by thousands of Reddit users, and sadly, from everything we can tell, these users are mostly American, and appear to be unwittingly promoting Russian propaganda. I believe the biggest risk we face as Americans is our own ability to discern reality from nonsense, and this is a burden we all bear.
+
+I wish there was a solution as simple as banning all propaganda, but it’s not that easy. Between truth and fiction are a thousand shades of grey. It’s up to all of us—Redditors, citizens, journalists—to work through these issues. It’s somewhat ironic, but I actually believe what we’re going through right now will actually reinvigorate Americans to be more vigilant, hold ourselves to higher standards of discourse, and fight back against propaganda, whether foreign or not.
+
+Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve.
+
+Q: What do you think?
+A: > all ads on Reddit are reviewed by humans This is just a blatant lie. You use programmatic ads both on the website and in your mobile apps. Users are constantly making posts about ads that shouldn't have been shown - gigantic ads, ones with autoplaying video/sound, even malware and redirects sometimes. The admins that reply to these posts make it clear that they don't even know what ads are running, and need the user to capture data about the ad for them to be able to do anything about the bad ones.
+
+Q: > all ads on Reddit are reviewed by humans This is just a blatant lie. You use programmatic ads both on the website and in your mobile apps. Users are constantly making posts about ads that shouldn't have been shown - gigantic ads, ones with autoplaying video/sound, even malware and redirects sometimes. The admins that reply to these posts make it clear that they don't even know what ads are running, and need the user to capture data about the ad for them to be able to do anything about the bad ones.
+A: Point taken. Didn't mean to mislead. I was referring to ads bought directly on Reddit either through our sales team or ads.reddit.com. We do also run programmatic ads that are bought through ad networks that include Reddit. These don't go through the same approval process, but they're also not specific to Reddit. We have had occasional problems in the past where an ad with sound or video sneaks through, usually when an ad is misclassified as non-video. These issues are uncommon, and we've basically eliminated them in the last year.

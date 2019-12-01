@@ -1,0 +1,21 @@
+In subreddit: announcements
+
+Title: I’m Marty Weiner, the new Reddit CTO
+
+Body: Oh haaaii!  Just made this new Reddit account to party with everybody.
+
+A little about myself:
+
+* I’m [incredibly photogenic](http://imgur.com/4mZR3Jt)
+* I love building.  Love VLSI, analog/digital circuitry, microarchitecture, assembly, OS design, network design, VM/JIT, distributed systems, ios/android/web, 3d modeling/animation/rendering.  Recently got into 3d printing - fucking LOVE it.  My 3d printer enables me to make nearly anything and have it materialize on my desk in a few hours. 
+* I love people.  When I first became a manager, I discovered how amazing the human mind really is and endeavoured to learn everything I can.  I love studying the relationship between our limbic and rational selves, how communication breaks down, what motivates people / teams, and how to build amazing cultures.  I’m currently learning everything I can about what constitutes a strong company culture and trying to make the discussion of culture more rigorous than it currently is in the valley.
+* My current non-Reddit projects are making a grocery list iOS app that’s super simple and just does the right thing (trying out App Engine for backend).  And the other is making this full size fully functional [thing](http://imgur.com/A41GI6o).
+
+I’m suuuuper excited to be here!  I don’t know much at all yet (I’ve been an official employee for… 7 hours?), but I plan to do an AMA in 30 days (Sept 20ish) once I know a lot more.  I’ll try to answer whatever questions I can, but I may have to punt on some of them.  I gots an hour at the moment, then will go home and change diapers, then answer more as time permits.
+
+If you are interested in joining our engineering team, please head over to [reddit.com/jobs](https://www.reddit.com/jobs). We are in the market for engineers of all shapes and sizes: frontend, backend, data, ops, anything in between!
+
+Edit: And I'm off to my train to diaper land.  Let's do this again in 30 days!  Love you!
+
+Q: What do you think?
+A: When I first arrived back at Reddit, one of the first things I learned is that we were in desperate need for more technical leadership, and the first person we reached out to was Marty. He has the perfect combination of qualities we want in a CTO: [He has impressive technical chops](http://www.infoq.com/presentations/Pinterest); experience growing a team through many phases (taking Pinterest from 2 to 300 engineers); very thoughtful opinions on company culture (but don’t ask him about them unless you’ve got some time); and a long history on Reddit (he may replace his brother [Zach](https://www.reddit.com/u/mrweiner) as the most significant Weiner).

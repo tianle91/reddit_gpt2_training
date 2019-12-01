@@ -1,0 +1,15 @@
+In subreddit: announcements
+
+Title: CEO Steve here to answer more questions.
+
+Body: It's been a little while since we've done this. Since we last talked, we've released a handful of [improvements for moderators](https://www.reddit.com/r/modnews); released a few [updates to AlienBlue](https://www.reddit.com/user/alien-blue); continue to work on the bigger mod/community tools (updates next week, I believe); hired a bunch of people, including two new [community](https://www.reddit.com/user/redtaboo) [managers](https://www.reddit.com/user/sodypop); and continue to make progress on our new mobile apps.
+
+There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
+
+update: I'm outta here. Thanks for the questions!
+
+Q: What do you think?
+A: [deleted]
+
+Q: [deleted]
+A: I've answered this a couple times here and there. Any engineer should want to work at reddit for a variety of reasons: * You get to work on interesting problems (scaling, abuse, search, data, ML, mobile) * Your work will be seen by millions of people * Your work will affect the lives of millions on people * You get to work with smart people in a fun environment * We have really generous benefits. Full health, dental, vision. We pay for parking, gyms, daycare, and a bunch of other random stuff. As for no negotiation, we had a similar policy at Hipmunk, and it worked well. I think my reasoning might be different from Ellen's. The reason I like it is because many people are not good at negotiating, or just don't like it. We do our best to ensure comp is fair both internally and externally. A critical part of this policy is that we *always make our best offer up front*. That way, if someone comes back to us and asks for more, we can say "no" with a clear conscience. I have found in practice this is almost never required. We're in the business of getting the best people we can, not the best people for as cheap as possible.

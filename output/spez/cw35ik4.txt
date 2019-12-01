@@ -1,0 +1,15 @@
+In subreddit: announcements
+
+Title: CEO Steve here to answer more questions.
+
+Body: It's been a little while since we've done this. Since we last talked, we've released a handful of [improvements for moderators](https://www.reddit.com/r/modnews); released a few [updates to AlienBlue](https://www.reddit.com/user/alien-blue); continue to work on the bigger mod/community tools (updates next week, I believe); hired a bunch of people, including two new [community](https://www.reddit.com/user/redtaboo) [managers](https://www.reddit.com/user/sodypop); and continue to make progress on our new mobile apps.
+
+There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
+
+update: I'm outta here. Thanks for the questions!
+
+Q: What do you think?
+A: Hey Steve, any plans/desire to build out the East Coast presence a little more with the workforce? I'm sure a lot of qualified people are interested in working for Reddit, but don't want to be in the San Francisco area. Perhaps you could expand the New York office or set up shop in Silicon Alley outside of Boston?
+
+Q: Hey Steve, any plans/desire to build out the East Coast presence a little more with the workforce? I'm sure a lot of qualified people are interested in working for Reddit, but don't want to be in the San Francisco area. Perhaps you could expand the New York office or set up shop in Silicon Alley outside of Boston?
+A: We have a small presence in NYC, mostly for ad sales, though. For the foreseeable future I want all product people (product, design, engineering) and general leadership to be in the same office. It's easier to build our culture when everyone is face-to-face.

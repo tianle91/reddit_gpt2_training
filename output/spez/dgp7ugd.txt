@@ -1,0 +1,13 @@
+In subreddit: cscareerquestions
+
+Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
+
+Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+
+Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
+
+Q: What do you think?
+A: What challenges did you encounter on transitioning from a technical role to senior leadership, and do you have any advice on making the change? Do you have any regrets about the transition, or things you wish you'd done differently?
+
+Q: What challenges did you encounter on transitioning from a technical role to senior leadership, and do you have any advice on making the change? Do you have any regrets about the transition, or things you wish you'd done differently?
+A: If you asked me ten years ago if I would be happy in a job where I rarely programmed, I would have been shocked that would even be a possibility. Management is a lot of fun, actually. There is a lot that goes into getting people in alignment and working towards a shared vision. It's also satisfying to unwind and fix people problems. I learn something new every day. I don't know if I have regrets. I'd like to say I wish I invested in learning these skills sooner, but I appreciate them more now when I can look back at how ineffective I've been in the past.
