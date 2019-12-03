@@ -1,6 +1,10 @@
 from praw.exceptions import ClientException
 
 
+STARTSTR = '<|startoftext|>'
+ENDSTR = '<|endoftext|>'
+
+
 def get_parent_comments(comment, reddit):
     '''return list of [(parent_comment.author.name, parent_comment.body), ...]'''
     parent_id = comment.parent_id
@@ -37,7 +41,7 @@ def gen_qa_training(comment, redditor, reddit):
     for u, s in get_parent_comments(comment, reddit)[::-1]:
         sl.append(gen_comment_string(u, s))
     sl.append(gen_comment_string(redditor.name, comment.body))
-    return '\n\n'.join(sl)
+    return STARTSTR + ' '.join(sl) + ENDSTR
 
 
 def gen_qa_infer(url, redditor, reddit):
@@ -49,7 +53,7 @@ def gen_qa_infer(url, redditor, reddit):
         # otherwise, it's a submission, then generate context with only Q
         submission = reddit.submission(url=url)
         sl = [format_submission(submission)]
-    return '\n\n'.join(sl + [gen_comment_string(redditor.name, '')])
+    return STARTSTR + ' '.join(sl + [gen_comment_string(redditor.name, '')])
 
 
 if __name__ == '__main__':
