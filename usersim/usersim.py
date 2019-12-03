@@ -66,7 +66,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='dump user comments')
     parser.add_argument('-user', default='spez', type=str)
-    parser.add_argument('-num-comments', default=2, type=int)
+    parser.add_argument('-num-comments', default=1000, type=int)
     parser.add_argument('-output', default='/output', type=str)
     args = parser.parse_args()
 
