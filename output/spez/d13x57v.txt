@@ -1,5 +1,0 @@
-<r/ModSupport>: Question about the recent change to record data on clicks
-
-Will this data (or some anonymized version of it) be available to mods? This would be really helpful in determining whether a post is actually doing well or if it's being manipulated. 
-
-<u/spez>: Right now, it's just in a test for a small sample of users. It's something we could consider, but we would do that in the context of considering the privacy implications as well.

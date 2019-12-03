@@ -1,9 +1,0 @@
-<r/technology>: Reddit Names Marty Weiner, Founding Engineer At Pinterest, Its First CTO
-
-<u/spez>: I cannot overstate how excited we are for Marty to join us!
-
-<u/funderbunk>: I have to say, I'm disappointed that I found this out from a TechCrunch article posted in /r/technology.
-
-Did you guys forget again that you have /r/announcements?  Or /r/blog?  This kind of lack of communication is what lead to the big mess earlier this year, and I was kind of hoping you guys had learned something from all that. I should have known you didn't.
-
-<u/spez>: He doesn't start for a few days. We'll post something when he actually starts and has time to hang out in comments.
