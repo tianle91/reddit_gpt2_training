@@ -1,8 +1,6 @@
-In subreddit: ModSupport
+<r/ModSupport>: 2 important announcements
 
-Title: 2 important announcements
-
-Body: Hello mods! We’ve expanded our Community Management team, and I have two exciting announcements for you.
+Hello mods! We’ve expanded our Community Management team, and I have two exciting announcements for you.
 
 First, we’ve hired a new Community Manager to help with the day to day duties, improving community communication, and overall engagement. /u/sodypop, a long time redditor and moderator, packed with tons of institutional knowledge of the site, has joined the reddit team officially!
 
@@ -12,26 +10,24 @@ Well, the second announcement is that we’ve hired another Community Manager, /
 
 We’re very excited to have these two on board, so please join us in welcoming them to the team!
 
-Q: What do you think?
-A: I think you forgot to give the name of the second CM you hired.
+<u/kerovon>: I think you forgot to give the name of the second CM you hired.
 
-Q: I think you forgot to give the name of the second CM you hired.
-A: It's still a secret. :|
+<u/redtaboo>: It's still a secret. :|
 
-Q: It's still a secret. :|
-A: <3
+<u/rram>: <3
 
-Q: <3
-A: <3 !! !
+<u/redtaboo>: <3 !! !
 
-Q: <3 !! !
-A: ♥️!
+<u/rram>: ♥️!
 
-Q: ♥️!
-A: ♥️♥️♥️♥️♥️♥️♥️♥️**!!!!!!!!**
+<u/redtaboo>: ♥️♥️♥️♥️♥️♥️♥️♥️**!!!!!!!!**
 
-Q: ♥️♥️♥️♥️♥️♥️♥️♥️**!!!!!!!!**
-A: 💛💛 💛💛 💙💙💙💙💙💙 💜💜💜💜💜 💚💚💚 💗
 
-Q: 💛💛 💛💛 💙💙💙💙💙💙 💜💜💜💜💜 💚💚💚 💗
-A: Funny, I didn't see "Making hearts out of other hearts" on this week's plan. Paging /u/Mart2d2
+
+<u/rram>:       💛💛  💛💛
+     💙💙💙💙💙💙
+      💜💜💜💜💜
+        💚💚💚
+          💗
+
+<u/spez>: Funny, I didn't see "Making hearts out of other hearts" on this week's plan. Paging /u/Mart2d2

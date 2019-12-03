@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,16 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: During the last election cycle, we saw fraudulent scams by Russian Hackers. How does Reddit plan to protect itself from these hackers to keep itself from being the next Facebook or twitter?
+<u/lelinc>: During the last election cycle, we saw fraudulent scams by Russian Hackers. How does Reddit plan to protect itself from these hackers to keep itself from being the next Facebook or twitter?
 
-Q: During the last election cycle, we saw fraudulent scams by Russian Hackers. How does Reddit plan to protect itself from these hackers to keep itself from being the next Facebook or twitter?
-A: We're strengthening the measures we have in place to limit the impact of any malicious actors. Here are a few of them: * dedicated teams that enforce our policies, proactively go after bad actors, and create eng solutions to prevent them in the future, * a new team specifically devoted to investigating efforts to manipulate our site, * we’re working on improving communication to/from this team with a trusted reporter system and increasing our presence in subreddits where users are already investigating suspicious activity \[link: [investigations@reddit.zendesk.com](mailto:investigations@reddit.zendesk.com)\], * working with industry peers (and parts of the government working to ensure election security) to help us detect and stop emerging malicious activity * As we’ve always done, we’ll also have an in-house "war room" monitoring for suspicious activity around election day. In the meantime, transparency is also critical, to help educate users and the public about techniques bad actors are trying out. We've been forthcoming about suspected influence campaigns with you (recent examples: [1](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/), [2](https://www.reddit.com/r/announcements/comments/9bvkqa/an_update_on_the_fireeye_report_and_reddit/)) and will continue to do so as needed.
+<u/spez>: We're strengthening the measures we have in place to limit the impact of any malicious actors. 
+
+Here are a few of them:
+
+* dedicated teams that enforce our policies, proactively go after bad actors, and create eng solutions to prevent them in the future,
+* a new team specifically devoted to investigating efforts to manipulate our site,
+* we’re working on improving communication to/from this team with a trusted reporter system and increasing our presence in subreddits where users are already investigating suspicious activity \[link: [investigations@reddit.zendesk.com](mailto:investigations@reddit.zendesk.com)\], 
+* working with industry peers (and parts of the government working to ensure election security) to help us detect and stop emerging malicious activity
+* As we’ve always done, we’ll also have an in-house "war room" monitoring for suspicious activity around election day.
+
+In the meantime, transparency is also critical, to help educate users and the public about techniques bad actors are trying out. We've been forthcoming about suspected influence campaigns with you (recent examples: [1](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/), [2](https://www.reddit.com/r/announcements/comments/9bvkqa/an_update_on_the_fireeye_report_and_reddit/)) and will continue to do so as needed.

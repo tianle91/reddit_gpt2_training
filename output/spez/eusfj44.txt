@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Introducing Community Awards!
 
-Title: Introducing Community Awards!
-
-Body: **UPDATE (9/4):** Winners of the Coins Giveaway have been [announced below in the stickied comment](https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/eus5nc4?utm_source=share&utm_medium=web2x)! Thanks to all who participated!
+**UPDATE (9/4):** Winners of the Coins Giveaway have been [announced below in the stickied comment](https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/eus5nc4?utm_source=share&utm_medium=web2x)! Thanks to all who participated!
 
 Hi all,
 
@@ -64,8 +62,6 @@ We've seen some pretty great Awards pop up in a few subs already, but now that t
 
 Participating is pretty simple: **If you are a mod, create an amazing set of six Community Awards that exemplifies the culture of your community, and reply to the stickied comment below with the name of your community.** For 20 random entries, we will put 40,000 Coins into to each community's Community Bank, to give back to users in your communities!
 
-Q: What do you think?
-A: I'm betting 6 months until Reddit starts offering to let users buy karma. Now that I have your attention, I want to say that regardless of your opinion on open borders, let's at least agree on one fact and stop clouding the waters: the majority of the illegal immigrants living in the US came for economic opportunity, not because they were seeking asylum. Whether or not they should be deported is debatable, but let's at least stop with the falsehood that most of them are asylum seekers.
+<u/ImpeckablePecker>: I'm betting 6 months until Reddit starts offering to let users buy karma. Now that I have your attention, I want to say that regardless of your opinion on open borders, let's at least agree on one fact and stop clouding the waters: the majority of the illegal immigrants living in the US came for economic opportunity, not because they were seeking asylum.  Whether or not they should be deported is debatable, but let's at least stop with the falsehood that most of them are asylum seekers.
 
-Q: I'm betting 6 months until Reddit starts offering to let users buy karma. Now that I have your attention, I want to say that regardless of your opinion on open borders, let's at least agree on one fact and stop clouding the waters: the majority of the illegal immigrants living in the US came for economic opportunity, not because they were seeking asylum. Whether or not they should be deported is debatable, but let's at least stop with the falsehood that most of them are asylum seekers.
-A: I’ll take that bet. While we are exploring more ways to earn karma and more benefits to having karma, we have no plans to sell karma. Karma is reputation, and reputation must be earned.
+<u/spez>: I’ll take that bet. While we are exploring more ways to earn karma and more benefits to having karma, we have no plans to sell karma. Karma is reputation, and reputation must be earned.

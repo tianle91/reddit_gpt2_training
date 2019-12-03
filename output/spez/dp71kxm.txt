@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,6 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Will there ever be any improvement to the messaging system on Reddit? Or prehaps a text formating bar for typing on mobile?
+<u/imaginarytoby>: Will there ever be any improvement to the messaging system on Reddit? Or prehaps a text formating bar for typing on mobile?
 
-Q: Will there ever be any improvement to the messaging system on Reddit? Or prehaps a text formating bar for typing on mobile?
-A: Yes! It's in active development. The redesign includes rich text editing for posts, comments, and messages, as well as an overhaul of the inbox entirely.
+<u/spez>: Yes! It's in active development. The redesign includes rich text editing for posts, comments, and messages, as well as an overhaul of the inbox entirely.

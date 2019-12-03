@@ -1,8 +1,6 @@
-In subreddit: politics
+<r/politics>: We are U.S. Senator Ron Wyden and Reddit CEO Steve Huffman, here to talk about how Section 230 allows sites like Reddit to exist. Ask us anything!
 
-Title: We are U.S. Senator Ron Wyden and Reddit CEO Steve Huffman, here to talk about how Section 230 allows sites like Reddit to exist. Ask us anything!
-
-Body: Hi, we are Senator Ron Wyden (Oregon), the author of Section 230, and Steve Huffman, CEO of Reddit. We're here to explain how Section 230 of the Communications Decency Act  (“CDA 230”) allows sites like Reddit to exist, and how the law empowers Reddit and every other platform on the internet to take down bad content without being tied up with endless lawsuits.
+Hi, we are Senator Ron Wyden (Oregon), the author of Section 230, and Steve Huffman, CEO of Reddit. We're here to explain how Section 230 of the Communications Decency Act  (“CDA 230”) allows sites like Reddit to exist, and how the law empowers Reddit and every other platform on the internet to take down bad content without being tied up with endless lawsuits.
 
 Sometimes called [“the twenty-six words that created the internet,”](https://www.amazon.com/Twenty-Six-Words-That-Created-Internet/dp/1501714414)  the key concept of CDA 230 is simple: it says that when you make a post on a platform like Reddit, you are the speaker of that content, not Reddit. 
 You can learn more about how CDA 230 works [here at this breakdown](https://www.eff.org/issues/cda230) from the Electronic Frontier Foundation. And you can read more about Senator Wyden’s efforts to defend it [here](https://www.vox.com/recode/2019/5/16/18626779/ron-wyden-section-230-facebook-regulations-neutrality).
@@ -10,8 +8,10 @@ You can learn more about how CDA 230 works [here at this breakdown](https://www.
 
 Proof: https://i.redd.it/jbtpca0xnk131.jpg
 
-Q: What do you think?
-A: Senator, do you think requiring users of online communities to "self-moderate" is appropriate in this era of disinformation, or should sites employ stricter controls to limit the spread of disinformation? Spez, why do you refuse to take even small steps to limit disinformation, when your peers at Twitter and other social media companies are taking more active steps?
+<u/[deleted]>: Senator, do you think requiring users of online communities to "self-moderate" is appropriate in this era of disinformation, or should sites employ stricter controls to limit the spread of disinformation?
 
-Q: Senator, do you think requiring users of online communities to "self-moderate" is appropriate in this era of disinformation, or should sites employ stricter controls to limit the spread of disinformation? Spez, why do you refuse to take even small steps to limit disinformation, when your peers at Twitter and other social media companies are taking more active steps?
-A: Our primary focus is to detect and stop coordinated or otherwise inauthentic behaviors. Towards that end, we’ve increased accounts banned for content manipulation by 250% since 2017, and we’ve increased the rate at which we proactively action accounts from 29% in 2017 to 99% today. Additionally, we have built tools to help moderators proactively combat community interference (née brigading) that are in alpha testing, and we’ve built a new “reliable reporter” system to surface information to our threat team even quicker. Furthermore, you can check out r/RedditSecurity for updates to our efforts on this.
+Spez, why do you refuse to take even small steps to limit disinformation, when your peers at Twitter and other social media companies are taking more active steps?
+
+<u/spez>: Our primary focus is to detect and stop coordinated or otherwise inauthentic behaviors. Towards that end, we’ve increased accounts banned for content manipulation by 250% since 2017, and we’ve increased the rate at which we proactively action accounts from 29% in 2017 to 99% today. Additionally, we have built tools to help moderators proactively combat community interference (née brigading) that are in alpha testing, and we’ve built a new “reliable reporter” system to surface information to our threat team even quicker.
+
+Furthermore, you can check out r/RedditSecurity for updates to our efforts on this.

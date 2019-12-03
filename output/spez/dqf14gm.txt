@@ -1,8 +1,6 @@
-In subreddit: blog
+<r/blog>: An update on the fight for the free and open internet
 
-Title: An update on the fight for the free and open internet
-
-Body: **Update**: Thank you, everyone! We were in touch with Congressman Mike Doyle's office yesterday sharing some of your great stories from his home district in Pennsylvania (thanks, u/Bones_MD!), and they've heard you loud and clear. They are leading an effort to get Congress to ask the FCC to delay their December 14 vote, but they need as many Congressional members as possible to sign on. You can help them by calling or writing your member of Congress (look them up [here](https://www.house.gov/htbin/findrep) or through [www.battleforthenet.com](https://www.battleforthenet.com/)) and specifically asking him or her to sign onto Representative Doyle's letter to the FCC. We'll be doing the same. Keep it up, we're being heard!
+**Update**: Thank you, everyone! We were in touch with Congressman Mike Doyle's office yesterday sharing some of your great stories from his home district in Pennsylvania (thanks, u/Bones_MD!), and they've heard you loud and clear. They are leading an effort to get Congress to ask the FCC to delay their December 14 vote, but they need as many Congressional members as possible to sign on. You can help them by calling or writing your member of Congress (look them up [here](https://www.house.gov/htbin/findrep) or through [www.battleforthenet.com](https://www.battleforthenet.com/)) and specifically asking him or her to sign onto Representative Doyle's letter to the FCC. We'll be doing the same. Keep it up, we're being heard!
 
 *****
 
@@ -32,20 +30,22 @@ Thank you.
 
 u/ArabScarab \(Jessica Ashooh, our Head of Policy\), and I will hang around to answer questions.
 
-Q: What do you think?
-A: I'd like Reddit to go dark for a day to protest.
+<u/festivemanb>: I'd like Reddit to go dark for a day to protest.
 
-Q: I'd like Reddit to go dark for a day to protest.
-A: We've considered that but decided ultimately decided against it. People depend on Reddit, and we felt it would be irresponsible to take it offline, even for a protest as important is this one. Additionally, the community takeover on Thanksgiving was likely more effective than a blackout. It drove a ton of traffic, started many conversations, and picked up lots of press, all of which would be the goal of a blackout.
+<u/spez>: We've considered that but decided ultimately decided against it. People depend on Reddit, and we felt it would be irresponsible to take it offline, even for a protest as important is this one.
 
-Q: We've considered that but decided ultimately decided against it. People depend on Reddit, and we felt it would be irresponsible to take it offline, even for a protest as important is this one. Additionally, the community takeover on Thanksgiving was likely more effective than a blackout. It drove a ton of traffic, started many conversations, and picked up lots of press, all of which would be the goal of a blackout.
-A: > People depend on Reddit, and we felt it would be irresponsible to take it offline, even for a protest as important is this one. Then put up a big, impossible to miss splash page. Let people get to vital information if need be, but if this passes, you're going to be denying a lot more people that access anyway.
+Additionally, the community takeover on Thanksgiving was likely more effective than a blackout. It drove a ton of traffic, started many conversations, and picked up lots of press, all of which would be the goal of a blackout.
 
-Q: > People depend on Reddit, and we felt it would be irresponsible to take it offline, even for a protest as important is this one. Then put up a big, impossible to miss splash page. Let people get to vital information if need be, but if this passes, you're going to be denying a lot more people that access anyway.
-A: We did exactly that back in July when the FCC requested comments.
+<u/Chel_of_the_sea>: > People depend on Reddit, and we felt it would be irresponsible to take it offline, even for a protest as important is this one.
 
-Q: We did exactly that back in July when the FCC requested comments.
-A: Can you do it again? Or at least a bar at the top of every page?
+Then put up a big, impossible to miss splash page. Let people get to vital information if need be, but if this passes, you're going to be denying a lot more people that access anyway.
 
-Q: Can you do it again? Or at least a bar at the top of every page?
-A: ~~Not strictly opposed to it, but I do want to make sure we are spending our and your energy where it will be most effective. I don't think we can affect the FCC's vote in Dec because it's clear they're disregarding the views of the public.~~ Depending on what happens afterwards, whether it's a court challenge or legislation, we'll coordinate our next moves with the community. update: Actually, we're going to put something up.
+<u/spez>: We did exactly that back in July when the FCC requested comments.
+
+<u/baldr83>: Can you do it again? Or at least a bar at the top of every page?
+
+<u/spez>: ~~Not strictly opposed to it, but I do want to make sure we are spending our and your energy where it will be most effective. I don't think we can affect the FCC's vote in Dec because it's clear they're disregarding the views of the public.~~
+
+Depending on what happens afterwards, whether it's a court challenge or legislation, we'll coordinate our next moves with the community.
+
+update: Actually, we're going to put something up.

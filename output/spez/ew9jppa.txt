@@ -1,8 +1,5 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: Is there a place for coding questions where it starts really basic and the problems progress and build off each other?
 
-Title: Is there a place for coding questions where it starts really basic and the problems progress and build off each other?
+Basically the title. I know a lot of problems have similar solutions or principles. I'm just curious if there is a place I can go that will progressively help me learn almost like a study plan. Some times I feel like I try a problem and there is just too much context missing.
 
-Body: Basically the title. I know a lot of problems have similar solutions or principles. I'm just curious if there is a place I can go that will progressively help me learn almost like a study plan. Some times I feel like I try a problem and there is just too much context missing.
-
-Q: What do you think?
-A: I used to turn to the [99 Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) when learning a new language. If you can do them all, I'm sure you'll find a full-time gig programming Prolog in no time.
+<u/spez>: I used to turn to the [99 Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) when learning a new language. If you can do them all, I'm sure you'll find a full-time gig programming Prolog in no time.

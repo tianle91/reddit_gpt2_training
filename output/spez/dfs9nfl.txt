@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,6 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: Any update on 2FA for accounts? This whole talk about privacy reminded me I haven't heard anything in a while
+<u/-eDgAR->: Any update on 2FA for accounts? This whole talk about privacy reminded me I haven't heard anything in a while
 
-Q: Any update on 2FA for accounts? This whole talk about privacy reminded me I haven't heard anything in a while
-A: Yes, pretty sure it's on the roadmap for this quarter. Our focus the past couple of quarters has been to identify accounts that are likely to be taken over and protecting those (usually by issuing password resets).
+<u/spez>: Yes, pretty sure it's on the roadmap for this quarter. Our focus the past couple of quarters has been to identify accounts that are likely to be taken over and protecting those (usually by issuing password resets).

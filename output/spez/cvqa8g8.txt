@@ -1,8 +1,9 @@
-In subreddit: technology
+<r/technology>: Reddit Admits Its Front Page Is Broken, Is Working on an Entirely New Algorithm
 
-Title: Reddit Admits Its Front Page Is Broken, Is Working on an Entirely New Algorithm
+<u/spez>: We've been investigating this for the past couple of weeks. The short story is nothing has actually changed on our end[1], and it really does appear to be the case that everyone is suddenly more sensitive to front-page turnover.
 
-Body: 
+That said, we used to tweak constants in the hot algorithm as traffic grew, but we haven't done that in a while. Before we make any changes (big or small), we're testing them internally.
 
-Q: What do you think?
-A: We've been investigating this for the past couple of weeks. The short story is nothing has actually changed on our end[1], and it really does appear to be the case that everyone is suddenly more sensitive to front-page turnover. That said, we used to tweak constants in the hot algorithm as traffic grew, but we haven't done that in a while. Before we make any changes (big or small), we're testing them internally. [1] We did make a change a while ago to fix a different issue, but we reverted it because it had unintended side-effects. edit: I'm as skeptical as you all are that there isn't a change–that's why we're investigating it–we just haven't found a solid explanation yet.
+[1] We did make a change a while ago to fix a different issue, but we reverted it because it had unintended side-effects.
+
+edit: I'm as skeptical as you all are that there isn't a change–that's why we're investigating it–we just haven't found a solid explanation yet.

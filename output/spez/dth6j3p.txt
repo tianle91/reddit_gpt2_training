@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,8 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: Just a bit of feedback: the new user profile pages are hard to CTRL+F through for specific comments or posts. Perhaps there could be some sort of toggle on the viewer's side to not view the context of each comment, even without changing the rest of the page's appearance. (I know devs hate undoing work they did, so this could work as a compromise between the new version and completely reverting to the old version.)
+<u/GaBeRockKing>: Just a bit of feedback: the new user profile pages are hard to CTRL+F through for specific comments or posts. Perhaps there could be some sort of toggle on the viewer's side to not view the context of each comment, even without changing the rest of the page's appearance.
 
-Q: Just a bit of feedback: the new user profile pages are hard to CTRL+F through for specific comments or posts. Perhaps there could be some sort of toggle on the viewer's side to not view the context of each comment, even without changing the rest of the page's appearance. (I know devs hate undoing work they did, so this could work as a compromise between the new version and completely reverting to the old version.)
-A: Acknowledged. Thank you.
+(I know devs hate undoing work they did, so this could work as a compromise between the new version and completely reverting to the old version.)
+
+<u/spez>: Acknowledged. Thank you.

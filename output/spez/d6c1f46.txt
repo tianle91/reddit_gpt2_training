@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
 
-Title: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
-
-Body: I would like to share some of the things we have been up to since we last chatted.
+I would like to share some of the things we have been up to since we last chatted.
 
 On the product side, we’ve been busy. Both our [iPhone](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) apps have had [multiple releases](https://www.reddit.com/r/redditmobile), and we’re proud at how well they are progressing. Mobile web (m.reddit.com) is undergoing a major overhaul that we’re testing internally, and hope to start showing to users in the next couple weeks. We have been running many experiments on desktop web to increase user engagement, particularly for users who are new to Reddit. You can see what experiments we are running on this [live thread](https://www.reddit.com/live/x3ckzbsj6myw/), and notable changes to the site are listed in r/changelog.
 
@@ -20,8 +18,16 @@ e: grammar
 
 u: Thank you! Heading out for now. Will check back later.
 
-Q: What do you think?
-A: Hi spez, question about defaults. I know I am a super evil default mod that wants my status more than anything... But I am really happy that reddit is working on onboarding instead of the default system. --- My question with onboarding is, do you think there will still be at least some kind of "default set"? Is it going to be more like Twitter where we HAVE to make it our own? Or do we not know yet? Guess my question is, where do we stand when it comes to Reddit onboarding? What can we expect? Or is it too early to expect anything?
+<u/[deleted]>: Hi spez, question about defaults.
 
-Q: Hi spez, question about defaults. I know I am a super evil default mod that wants my status more than anything... But I am really happy that reddit is working on onboarding instead of the default system. --- My question with onboarding is, do you think there will still be at least some kind of "default set"? Is it going to be more like Twitter where we HAVE to make it our own? Or do we not know yet? Guess my question is, where do we stand when it comes to Reddit onboarding? What can we expect? Or is it too early to expect anything?
-A: A lot of this is still in the air, but the general idea is somewhere in between the current frontpage, which is set by us, and r/all, which is pretty much everything. Onboarding is a separate development effort, but will play a big role in this. We will likely have improved onboarding before we have a new frontpage.
+I know I am a super evil default mod that wants my status more than anything...
+
+But I am really happy that reddit is working on onboarding instead of the default system.
+
+---
+
+My question with onboarding is, do you think there will still be at least some kind of "default set"? Is it going to be more like Twitter where we HAVE to make it our own? Or do we not know yet?
+
+Guess my question is, where do we stand when it comes to Reddit onboarding? What can we expect? Or is it too early to expect anything?
+
+<u/spez>: A lot of this is still in the air, but the general idea is somewhere in between the current frontpage, which is set by us, and r/all, which is pretty much everything. Onboarding is a separate development effort, but will play a big role in this. We will likely have improved onboarding  before we have a new frontpage.

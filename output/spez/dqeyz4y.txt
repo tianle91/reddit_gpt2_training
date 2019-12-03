@@ -1,8 +1,6 @@
-In subreddit: blog
+<r/blog>: An update on the fight for the free and open internet
 
-Title: An update on the fight for the free and open internet
-
-Body: **Update**: Thank you, everyone! We were in touch with Congressman Mike Doyle's office yesterday sharing some of your great stories from his home district in Pennsylvania (thanks, u/Bones_MD!), and they've heard you loud and clear. They are leading an effort to get Congress to ask the FCC to delay their December 14 vote, but they need as many Congressional members as possible to sign on. You can help them by calling or writing your member of Congress (look them up [here](https://www.house.gov/htbin/findrep) or through [www.battleforthenet.com](https://www.battleforthenet.com/)) and specifically asking him or her to sign onto Representative Doyle's letter to the FCC. We'll be doing the same. Keep it up, we're being heard!
+**Update**: Thank you, everyone! We were in touch with Congressman Mike Doyle's office yesterday sharing some of your great stories from his home district in Pennsylvania (thanks, u/Bones_MD!), and they've heard you loud and clear. They are leading an effort to get Congress to ask the FCC to delay their December 14 vote, but they need as many Congressional members as possible to sign on. You can help them by calling or writing your member of Congress (look them up [here](https://www.house.gov/htbin/findrep) or through [www.battleforthenet.com](https://www.battleforthenet.com/)) and specifically asking him or her to sign onto Representative Doyle's letter to the FCC. We'll be doing the same. Keep it up, we're being heard!
 
 *****
 
@@ -32,8 +30,12 @@ Thank you.
 
 u/ArabScarab \(Jessica Ashooh, our Head of Policy\), and I will hang around to answer questions.
 
-Q: What do you think?
-A: What's the expected monetary cost to reddit if a policy like this is put into place?
+<u/Jakeable>: What's the expected monetary cost to reddit if a policy like this is put into place?
 
-Q: What's the expected monetary cost to reddit if a policy like this is put into place?
-A: It's hard to say exactly, and that's part of the problem. Most Americans have little or no choice of ISPs, and as it happens, the largest ISPs in the US are also some of the largest media companies. For consumers, this means the ISP you are practically forced to use also can control what media you have access to. For business, this means you are at the mercy of the ISPs, who as media companies are also likely competitors, to reach your customer. Bandwidth intensive, yet worldly important companies like Netflix and YouTube would have a really hard time getting off the ground if they existed at the whims of the major ISPs/media companies.
+<u/spez>: It's hard to say exactly, and that's part of the problem.
+
+Most Americans have little or no choice of ISPs, and as it happens, the largest ISPs in the US are also some of the largest media companies.
+
+For consumers, this means the ISP you are practically forced to use also can control what media you have access to.
+
+For business, this means you are at the mercy of the ISPs, who as media companies are also likely competitors, to reach your customer. Bandwidth intensive, yet worldly important companies like Netflix and YouTube would have a really hard time getting off the ground if they existed at the whims of the major ISPs/media companies.

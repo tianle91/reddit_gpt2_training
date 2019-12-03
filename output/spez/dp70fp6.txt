@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,18 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: 1. Please remove r/ice_poseidon from r/all, or maybe reddit altogether. It's a whole sub dedicated to abusing and bullying a streamers girlfriend and this week has taken to spamming porn. It's toxic. 2. You owe the community an explanation as to why the_donald is allowed to continue to operate after another one of reddits famous clean ups. Thanks. Edit 2: seeing as this is gaining prominence perhaps.we can talk about r/freshmodels and why reddit is ok with paedophilia? Edit: by r/all I meant r/popular. However u/spez has chosen to pretend that I edited in my second question for some reason. To clarify; I did not.
+<u/[deleted]>: 1. Please remove r/ice_poseidon from r/all, or maybe reddit altogether. It's a whole sub dedicated to abusing and bullying a streamers girlfriend and this week has taken to spamming porn. It's toxic.
 
-Q: 1. Please remove r/ice_poseidon from r/all, or maybe reddit altogether. It's a whole sub dedicated to abusing and bullying a streamers girlfriend and this week has taken to spamming porn. It's toxic. 2. You owe the community an explanation as to why the_donald is allowed to continue to operate after another one of reddits famous clean ups. Thanks. Edit 2: seeing as this is gaining prominence perhaps.we can talk about r/freshmodels and why reddit is ok with paedophilia? Edit: by r/all I meant r/popular. However u/spez has chosen to pretend that I edited in my second question for some reason. To clarify; I did not.
-A: We're taking another pass at r/popular, Reddit's default listing, as we speak, and I expect their remove. r/all will remain unfiltered, but it's opt-in. edit: you added a second question after I answered. See my [response re the_donald](https://www.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp708xx/).
+2. You owe the community an explanation as to why the_donald is allowed to continue to operate after another one of reddits famous clean ups.
+
+Thanks.
+
+Edit 2: seeing as this is gaining prominence perhaps.we can talk about r/freshmodels and why reddit is ok with paedophilia?
+
+Edit: by r/all I meant r/popular. However u/spez has chosen to pretend that I edited in my second question for some reason. To clarify; I did not.
+
+<u/spez>: We're taking another pass at r/popular, Reddit's default listing, as we speak, and I expect their remove.
+
+r/all will remain unfiltered, but it's opt-in.
+
+edit: you added a second question after I answered. See my [response re the_donald](https://www.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp708xx/).

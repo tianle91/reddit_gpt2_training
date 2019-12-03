@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,8 +41,15 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: >While we have your attention… we’re also growing our internal team that handles spam and bad-actors. Our current focus is on report abuse. We’ve caught a lot of bad behavior. We hope you notice the difference, and we’ll keep at it regardless. Personally and from conversations I've had with other mods, it's been noticed and we're very appreciative of the changes and improvements that are evident. CSS can go die in a fire, I have no love lost for leaving that behind. This sounds exciting, looking forward to it. I'd also like to commend you and your team for the increase in transparency and visibility over the last year or so. Things seem to be moving in a good direction, which makes it easier for mods to continue doing what they do.
+<u/K_Lobstah>: >While we have your attention… we’re also growing our internal team that handles spam and bad-actors. Our current focus is on report abuse. We’ve caught a lot of bad behavior. We hope you notice the difference, and we’ll keep at it regardless.
 
-Q: >While we have your attention… we’re also growing our internal team that handles spam and bad-actors. Our current focus is on report abuse. We’ve caught a lot of bad behavior. We hope you notice the difference, and we’ll keep at it regardless. Personally and from conversations I've had with other mods, it's been noticed and we're very appreciative of the changes and improvements that are evident. CSS can go die in a fire, I have no love lost for leaving that behind. This sounds exciting, looking forward to it. I'd also like to commend you and your team for the increase in transparency and visibility over the last year or so. Things seem to be moving in a good direction, which makes it easier for mods to continue doing what they do.
-A: Cool. Thanks!
+Personally and from conversations I've had with other mods, it's been noticed and we're very appreciative of the changes and improvements that are evident.
+
+CSS can go die in a fire, I have no love lost for leaving that behind. 
+
+This sounds exciting, looking forward to it. I'd also like to commend you and your team for the increase in transparency and visibility over the last year or so. Things seem to be moving in a good direction, which makes it easier for mods to continue doing what they do.
+
+
+
+
+<u/spez>: Cool. Thanks!

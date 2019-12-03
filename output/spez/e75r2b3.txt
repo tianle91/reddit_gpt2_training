@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,8 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: Why in the world do you ask me every other page view to download the app? I like mweb, I hate apps. Please stop.
+<u/DynastySS>: Why in the world do you ask me every other page view to download the app? I like mweb, I hate apps. Please stop. 
 
-Q: Why in the world do you ask me every other page view to download the app? I like mweb, I hate apps. Please stop.
-A: We dialed that way back a couple weeks ago. It should be just a little button now. One thing that might be happening for folks is seeing more prompts because they use incognito because we're losing the cookie that stores whether they've seen the prompt. We're dialing it back for incognito as well in the near future.
+<u/spez>: We dialed that way back a couple weeks ago. It should be just a little button now.
+
+One thing that might be happening for folks is seeing more prompts because they use incognito because we're losing the cookie that stores whether they've seen the prompt. We're dialing it back for incognito as well in the near future.

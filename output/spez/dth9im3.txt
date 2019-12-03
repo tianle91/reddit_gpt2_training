@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,6 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: Of all the subreddits you moderate, which one would you say is your favorite, and why is it /r/HighQualityGifs?
+<u/EditingAndLayout>: Of all the subreddits you moderate, which one would you say is your favorite, and why is it /r/HighQualityGifs?
 
-Q: Of all the subreddits you moderate, which one would you say is your favorite, and why is it /r/HighQualityGifs?
-A: It's HQF. Sometimes you just want to laugh at something that isn't funny.
+<u/spez>: It's HQF. Sometimes you just want to laugh at something that isn't funny.

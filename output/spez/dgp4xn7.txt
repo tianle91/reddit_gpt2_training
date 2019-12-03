@@ -1,13 +1,18 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
 
-Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
-
-Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
 
 Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
 
-Q: What do you think?
-A: Hi spez, When are there gonna be Reddit internships and how do I get one?
+<u/Guardtopian>: Hi spez,
 
-Q: Hi spez, When are there gonna be Reddit internships and how do I get one?
-A: **Reddit specific** We're not doing a formal internship program this year—we just have too much going on to do a good job on it. That said, every once and a while someone slips through the cracks into a job here... **Generic Advice** Whenever I'm looking at interns / beginners, I'm primarily looking for someone who both has a great attitude and a passion for programming. I know we're hiring someone who doesn't know everything (and hopefully they know that as well...), but the hope is that we're finding the people who will never actually be on the job market (i.e. they get hired as an intern and their employer never lets them go). We have a handful of such folks here.
+When are there gonna be Reddit internships and how do I get one? 
+
+
+<u/spez>: **Reddit specific**
+
+We're not doing a formal internship program this year—we just have too much going on to do a good job on it. That said, every once and a while someone slips through the cracks into a job here...
+
+**Generic Advice**
+
+Whenever I'm looking at interns / beginners, I'm primarily looking for someone who both has a great attitude and a passion for programming. I know we're hiring someone who doesn't know everything (and hopefully they know that as well...), but the hope is that we're finding the people who will never actually be on the job market (i.e. they get hired as an intern and their employer never lets them go). We have a handful of such folks here.

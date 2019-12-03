@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk content. AMA.
 
-Title: Let's talk content. AMA.
-
-Body: We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
+We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
 
 As we grew, I became increasingly uncomfortable projecting my worldview on others. More practically, I didn’t have time to pass judgement on everything, so I decided to judge nothing. 
 
@@ -41,8 +39,24 @@ edit: attempted to clarify harassment based on our existing policy
 
 update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-Q: What do you think?
-A: Thanks for doing this AMA. I'm a moderator of more than a few NSFW subreddits, including /r/BDSMcommunity and /r/BDSM, and as I stated in the teaser announcement earlier this week: this decision, and the specific wording, is worrying. I want to specifically address this: > Anything that incites harm or violence against an individual or group of people As well as your earlier comment about things being seen as "offensive" and "obscene". There are sections of the world, and even the United States, where consensual BDSM and kink are illegal. You can see where this is the type of announcement that raises more than a few eyebrows in our little corner of the world. At what point do the minority opinion and positions be accepted as obscene, offensive, and unwanted? BDSM between two consenting adults has been seen and labeled as both offensive and obscene for decades now.
+<u/Darr_Syn>: Thanks for doing this AMA.
 
-Q: Thanks for doing this AMA. I'm a moderator of more than a few NSFW subreddits, including /r/BDSMcommunity and /r/BDSM, and as I stated in the teaser announcement earlier this week: this decision, and the specific wording, is worrying. I want to specifically address this: > Anything that incites harm or violence against an individual or group of people As well as your earlier comment about things being seen as "offensive" and "obscene". There are sections of the world, and even the United States, where consensual BDSM and kink are illegal. You can see where this is the type of announcement that raises more than a few eyebrows in our little corner of the world. At what point do the minority opinion and positions be accepted as obscene, offensive, and unwanted? BDSM between two consenting adults has been seen and labeled as both offensive and obscene for decades now.
-A: I can tell you with confidence that these specific communities are not what we are referring to. Not even close. But this is also why I prefer separation over banning. Banning is like capital punishment, and we don't want to do it except in the clearest of cases.
+I'm a moderator of more than a few NSFW subreddits, including /r/BDSMcommunity and /r/BDSM, and as I stated in the teaser announcement earlier this week: this decision, and the specific wording, is worrying.
+
+I want to specifically address this:
+
+> Anything that incites harm or violence against an individual or group of people
+
+As well as your earlier comment about things being seen as "offensive" and "obscene".  
+
+There are sections of the world, and even the United States, where consensual BDSM and kink are illegal.
+
+You can see where this is the type of announcement that raises more than a few eyebrows in our little corner of the world.
+
+At what point do the minority opinion and positions be accepted as obscene, offensive, and unwanted?
+
+BDSM between two consenting adults has been seen and labeled as both offensive and obscene for decades now.  
+
+<u/spez>: I can tell you with confidence that these specific communities are not what we are referring to. Not even close.
+
+But this is also why I prefer separation over banning. Banning is like capital punishment, and we don't want to do it except in the clearest of cases.

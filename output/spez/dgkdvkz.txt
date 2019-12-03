@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,8 +41,6 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: This single biggest thing you could do to support third party mod tools would be to add global window events / messages for certain actions so that addons could react to them more easily. This is especially true when doing things with the new modmail because it is all react based and trying to hook stuff up in the DOM is a royal pain the butt.
+<u/Meepster23>: This single biggest thing you could do to support third party mod tools would be to add global window events / messages for certain actions so that addons could react to them more easily. This is especially true when doing things with the new modmail because it is all react based and trying to hook stuff up in the DOM is a royal pain the butt.
 
-Q: This single biggest thing you could do to support third party mod tools would be to add global window events / messages for certain actions so that addons could react to them more easily. This is especially true when doing things with the new modmail because it is all react based and trying to hook stuff up in the DOM is a royal pain the butt.
-A: Yes, that's the explicit plan. We need to detach tools from the DOM so we can change the DOM without breaking the tools.
+<u/spez>: Yes, that's the explicit plan. We need to detach tools from the DOM so we can change the DOM without breaking the tools.

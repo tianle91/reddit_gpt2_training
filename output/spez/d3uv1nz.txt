@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,15 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Okay here's a dark secret question: Can Super Mods and Admins see user's IP addresses if they have multiple accounts? Can you see the main account of a throwaway? Edit: I don't know what a super mod is either guys, I just figured there were Mods then there were MODS!!!
+<u/IT_guys_rule>: Okay here's a dark secret question: Can Super Mods and Admins see user's IP addresses if they have multiple accounts? Can you see the main account of a throwaway? 
 
-Q: Okay here's a dark secret question: Can Super Mods and Admins see user's IP addresses if they have multiple accounts? Can you see the main account of a throwaway? Edit: I don't know what a super mod is either guys, I just figured there were Mods then there were MODS!!!
-A: Yes, but we throw away IPs after 100 days. > Can you see the main account of a throwaway? Sort of. No one's looking. If they happen to share an IP, it's possible, but many IPs, for example at a college, have many hundreds of accounts on them. edit: I should clarify. There is no such thing as a "super mod," and only select Reddit employees have access to IPs.
+Edit: I don't know what a super mod is either guys, I just figured there were Mods then there were MODS!!! 
+
+<u/spez>: Yes, but we throw away IPs after 100 days.
+
+> Can you see the main account of a throwaway?
+
+Sort of. No one's looking. If they happen to share an IP, it's possible, but many IPs, for example at a college, have many hundreds of accounts on them.
+
+edit: I should clarify. There is no such thing as a "super mod," and only select Reddit employees have access to IPs.
+

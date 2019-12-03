@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TIFU by editing some comments and creating an unnecessary controversy.
 
-Title: TIFU by editing some comments and creating an unnecessary controversy.
-
-Body: **tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
+**tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
 
 Hi All,
 
@@ -34,8 +32,33 @@ Steve
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
 
 
-Q: What do you think?
-A: Hi spez, Related to the editing incident and trust, in [this article in New York Magazine](http://nymag.com/daily/intelligencer/2015/10/reddit-founder-steve-huffman.html), it says: > After leaving, Huffman found that he had a hard time letting go. He still had administrative access to the site and continued tinkering with its code. Once that access was cut off, he found a back door for another six months before finally being locked out. Am I correct that this means you could still do things like edit users' posts, view their private data (including private messages and subreddits), shadowban users, etc. for a long period of time **while not even working at reddit any more?** If that is true, it's extremely alarming and raises a lot of questions, including: * Why did you need administrative access after quitting? * What supervision was there of a non-employee with admin access? * Have there been other non-employees with admin access? Are there any right now? * How was it acceptable (or even legal) to use "a back door" to take back privileged access that the company clearly didn't want you to have?
+<u/78952497829864>: Hi spez,
 
-Q: Hi spez, Related to the editing incident and trust, in [this article in New York Magazine](http://nymag.com/daily/intelligencer/2015/10/reddit-founder-steve-huffman.html), it says: > After leaving, Huffman found that he had a hard time letting go. He still had administrative access to the site and continued tinkering with its code. Once that access was cut off, he found a back door for another six months before finally being locked out. Am I correct that this means you could still do things like edit users' posts, view their private data (including private messages and subreddits), shadowban users, etc. for a long period of time **while not even working at reddit any more?** If that is true, it's extremely alarming and raises a lot of questions, including: * Why did you need administrative access after quitting? * What supervision was there of a non-employee with admin access? * Have there been other non-employees with admin access? Are there any right now? * How was it acceptable (or even legal) to use "a back door" to take back privileged access that the company clearly didn't want you to have?
-A: > Why did you need administrative access after quitting? When I left, Reddit was six people, and I had the majority of the engineering knowledge, so I continued to help out even after I left. > What supervision was there of a non-employee with admin access? There were six of us, and we were all close friends. My actions were limited to quick fixes here and there. > Have there been other non-employees with admin access? Are there any right now? No, that was disabled long ago. A few notable ex-employees have distinguish mode in recognition of their contributions to Reddit. > How was it acceptable (or even legal) to use "a back door" to take back privileged access that the company clearly didn't want you to have? That's just bad reporting. Someone made a patch to remove my access. I made a patch to add it back. Nothing was done in secret. This was back in 2010. My access was removed sometime in 2010 when Reddit and I had fully separated.
+Related to the editing incident and trust, in [this article in New York Magazine](http://nymag.com/daily/intelligencer/2015/10/reddit-founder-steve-huffman.html), it says:
+
+> After leaving, Huffman found that he had a hard time letting go. He still had administrative access to the site and continued tinkering with its code. Once that access was cut off, he found a back door for another six months before finally being locked out.
+
+Am I correct that this means you could still do things like edit users' posts, view their private data (including private messages and subreddits), shadowban users, etc. for a long period of time **while not even working at reddit any more?**
+
+If that is true, it's extremely alarming and raises a lot of questions, including:
+
+* Why did you need administrative access after quitting?
+* What supervision was there of a non-employee with admin access?
+* Have there been other non-employees with admin access? Are there any right now?
+* How was it acceptable (or even legal) to use "a back door" to take back privileged access that the company clearly didn't want you to have?
+
+<u/spez>: > Why did you need administrative access after quitting?
+
+When I left, Reddit was six people, and I had the majority of the engineering knowledge, so I continued to help out even after I left.
+
+> What supervision was there of a non-employee with admin access?
+
+There were six of us, and we were all close friends. My actions were limited to quick fixes here and there.
+
+> Have there been other non-employees with admin access? Are there any right now?
+
+No, that was disabled long ago. A few notable ex-employees have distinguish mode in recognition of their contributions to Reddit.
+
+> How was it acceptable (or even legal) to use "a back door" to take back privileged access that the company clearly didn't want you to have?
+
+That's just bad reporting. Someone made a patch to remove my access. I made a patch to add it back. Nothing was done in secret. This was back in 2010. My access was removed sometime in 2010 when Reddit and I had fully separated.

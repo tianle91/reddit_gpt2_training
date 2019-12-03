@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,26 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: Afternoon from the UK Spez, /r/funny here! Was a pleasure speaking to you during the London Roadshow. What are we working on to combat the karma farming epidemic? politics and russian trolls aside, there's been an abhorrent amount of sheer shitposting cluttering up the default subs. I understand we could code plugins or algorithms to sustain an improved automoderating system, but that sets a rather high expectation of knowledge in programming, as well as a volunteer willingness to work on something so extensive. All of us default mods are hugely grateful for the improvements your teams have made to ease our burden a bit, but some of us feel there's still a ways to go before we get to stop spending all of our free time scooping buckets of water out of the ocean. Edit; great response. And to everyone who seems to have a hard time understanding how /new works and instead chooses to abuse the mods, try keeping up with a twitch chat during a live esports tournament with no bottleneck to slow the message rate. Now imagine that 24/7. Now imagine filtering, tagging, banning, tracking groups, and responding to messages at that pace. Your abusive attitude towards those who volunteer their time to battle such a seemingly hopeless cause with no reward but their own understanding that they get to help the community should embarrass you.
+<u/BestRbx>: Afternoon from the UK Spez, /r/funny here! Was a pleasure speaking to you during the London Roadshow.
 
-Q: Afternoon from the UK Spez, /r/funny here! Was a pleasure speaking to you during the London Roadshow. What are we working on to combat the karma farming epidemic? politics and russian trolls aside, there's been an abhorrent amount of sheer shitposting cluttering up the default subs. I understand we could code plugins or algorithms to sustain an improved automoderating system, but that sets a rather high expectation of knowledge in programming, as well as a volunteer willingness to work on something so extensive. All of us default mods are hugely grateful for the improvements your teams have made to ease our burden a bit, but some of us feel there's still a ways to go before we get to stop spending all of our free time scooping buckets of water out of the ocean. Edit; great response. And to everyone who seems to have a hard time understanding how /new works and instead chooses to abuse the mods, try keeping up with a twitch chat during a live esports tournament with no bottleneck to slow the message rate. Now imagine that 24/7. Now imagine filtering, tagging, banning, tracking groups, and responding to messages at that pace. Your abusive attitude towards those who volunteer their time to battle such a seemingly hopeless cause with no reward but their own understanding that they get to help the community should embarrass you.
-A: Thanks for the question, and thanks for hanging with us. Help is coming. We know these kinds of accounts have been a problem, and they’re not easy for moderators to deal with alone. We’ve talked a bit elsewhere about a relatively new team we’ve spun up to deal with content manipulation. While their focus has been largely on political manipulation, many of the same tools and methods they’re developing are also effective against these kinds of spam networks. As those things work their way into production, we hope you’ll see far less of these accounts in your subreddits. One of the specific focuses of the Anti-Evil team going forward is to "reduce janitorial work" for our team and moderators alike. Similarly, improved tools that don't require as much technical knowledge are on the roadmap.
+What are we working on to combat the karma farming epidemic? politics and russian trolls aside, there's been an abhorrent amount of sheer shitposting cluttering up the default subs.
+
+I understand we could code plugins or algorithms to sustain an improved automoderating system, but that sets a rather high expectation of knowledge in programming, as well as a volunteer willingness to work on something so extensive.
+
+All of us default mods are hugely grateful for the improvements your teams have made to ease our burden a bit, but some of us feel there's still a ways to go before we get to stop spending all of our free time scooping buckets of water out of the ocean.
+
+Edit; great response. And to everyone who seems to have a hard time understanding how /new works and instead chooses to abuse the mods, try keeping up with a twitch chat during a live esports tournament with no bottleneck to slow the message rate.
+
+Now imagine that 24/7.
+
+Now imagine filtering, tagging, banning, tracking groups, and responding to messages at that pace. 
+
+Your abusive attitude towards those who volunteer their time to battle such a seemingly hopeless cause with no reward but their own understanding that they get to help the community should embarrass you.
+
+<u/spez>: Thanks for the question, and thanks for hanging with us. Help is coming.
+
+We know these kinds of accounts have been a problem, and they’re not easy for moderators to deal with alone. We’ve talked a bit elsewhere about a relatively new team we’ve spun up to deal with content manipulation. While their focus has been largely on political manipulation, many of the same tools and methods they’re developing are also effective against these kinds of spam networks. As those things work their way into production, we hope you’ll see far less of these accounts in your subreddits.
+
+One of the specific focuses of the Anti-Evil team going forward is to "reduce janitorial work" for our team and moderators alike.
+
+Similarly, improved tools that don't require as much technical knowledge are on the roadmap.

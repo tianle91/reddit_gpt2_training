@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,8 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: I'll ask the obligatory question: 2fa when?
+<u/[deleted]>: I'll ask the obligatory question:
 
-Q: I'll ask the obligatory question: 2fa when?
-A: We're still working through the acute pain of fixing and finding the actually compromised accounts. 2fa after that. We've talked through the technical challenges, and they're not that bad.
+2fa when?
+
+<u/spez>: We're still working through the acute pain of fixing and finding the actually compromised accounts. 2fa after that. We've talked through the technical challenges, and they're not that bad.

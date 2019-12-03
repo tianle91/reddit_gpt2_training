@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
 
-Title: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
-
-Body: Dearest Redditors,
+Dearest Redditors,
 
 We have been hard at work the past few months adding features, improving our ads business, and protecting users. Here is some of the stuff we have been up to:
 
@@ -24,8 +22,6 @@ Steve
 
 u: I'm out for now. Will check back later. Thanks!
 
-Q: What do you think?
-A: I bet you're a briefs man, or maybe you free-ball it? Do they even make you wear anything at all as CEO?
+<u/neildegrasstokem>: I bet you're a briefs man, or maybe you free-ball it? Do they even make you wear anything at all as CEO?
 
-Q: I bet you're a briefs man, or maybe you free-ball it? Do they even make you wear anything at all as CEO?
-A: Briefs as a kid. Boxers through college. Boxer briefs when I was tired of wedgies.
+<u/spez>: Briefs as a kid. Boxers through college. Boxer briefs when I was tired of wedgies.

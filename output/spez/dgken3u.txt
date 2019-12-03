@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,14 +41,24 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: > but we’ll be deprecating CSS during the redesign Just to be clear, does this mean subreddits will lose their stylesheets?
+<u/Zackeezy116>: > but we’ll be deprecating CSS during the redesign
 
-Q: > but we’ll be deprecating CSS during the redesign Just to be clear, does this mean subreddits will lose their stylesheets?
-A: Stylesheets, yes. Styles, no. Does that make sense?
+Just to be clear, does this mean subreddits will lose their stylesheets?
 
-Q: Stylesheets, yes. Styles, no. Does that make sense?
-A: Not at all. Style sheets are just groups of styles. A style is .class { [rules] } A style sheet is just a list of those, saved as a css file. As it stands, you allow stylesheets. Not individual styles. So I'm still confused here. Sidenote, I think you are walking a razor wire over a bed of nails on this decision. Doing away with stylesheets affects a lot. That might just be a big enough shakeup to be comparable to digg changes. Just sayin'. Does not sound *good*.
+<u/spez>: Stylesheets, yes. Styles, no. Does that make sense?
 
-Q: Not at all. Style sheets are just groups of styles. A style is .class { [rules] } A style sheet is just a list of those, saved as a css file. As it stands, you allow stylesheets. Not individual styles. So I'm still confused here. Sidenote, I think you are walking a razor wire over a bed of nails on this decision. Doing away with stylesheets affects a lot. That might just be a big enough shakeup to be comparable to digg changes. Just sayin'. Does not sound *good*.
-A: When I say Styles, I mean custom styling: images, colors, themes, menus. We're keeping the functionality, but changing the technology.
+<u/itty53>: Not at all. 
+
+Style sheets are just groups of styles. A style is
+
+     .class { [rules] }
+
+A style sheet is just a list of those, saved as a css file. 
+
+As it stands, you allow stylesheets. Not individual styles. 
+
+So I'm still confused here.
+
+Sidenote, I think you are walking a razor wire over a bed of nails on this decision. Doing away with stylesheets affects a lot. That might just be a big enough shakeup to be comparable to digg changes. Just sayin'. Does not sound *good*.
+
+<u/spez>: When I say Styles, I mean custom styling: images, colors, themes, menus. We're keeping the functionality, but changing the technology.

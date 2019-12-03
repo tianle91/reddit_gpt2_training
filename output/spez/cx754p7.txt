@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: We are updating our Privacy Policy (effective Jan 1, 2016)
 
-Title: We are updating our Privacy Policy (effective Jan 1, 2016)
-
-Body: In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
+In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
 
 Keeping control in your hands is paramount to us, and this is our first consideration any time we change our privacy policy. Our overarching principle continues to be to request as little personally identifiable information as possible. To the extent that we store such information, we do not share it generally. Where there are exceptions to this, notably when you have given us explicit consent to do so, or in response to legal requests, we will spell them out clearly.
 
@@ -22,11 +20,14 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 edit: Thanks for all the feedback. I'm off for now.
 
-Q: What do you think?
-A: Out of curiosity, why aren't the IP addresses encrypted and hashed already? I imagine usernames and passwords are already treated like that, so is it to computationally intensive to do so with IP addresses because dynamic ones change so frequently? Or is it because you need them for location tracking?
+<u/DoorMarkedPirate>: Out of curiosity, why aren't the IP addresses encrypted and hashed already?  I imagine usernames and passwords are already treated like that, so is it to computationally intensive to do so with IP addresses because dynamic ones change so frequently?  Or is it because you need them for location tracking?
 
-Q: Out of curiosity, why aren't the IP addresses encrypted and hashed already? I imagine usernames and passwords are already treated like that, so is it to computationally intensive to do so with IP addresses because dynamic ones change so frequently? Or is it because you need them for location tracking?
-A: There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours. Encryption (using symmetric ciphers, or an asymmetric cipher where the "public" key is just as well protected as the private key) would only allow you to compare addresses for abuse prevention if the initialization vector or similar is constant, which decreases the protection of the encryption! I'm sure someone could come up with a scenario where this is useful, but I can't think of one off the top of my head.
+<u/phyzome>: There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours.
 
-Q: There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours. Encryption (using symmetric ciphers, or an asymmetric cipher where the "public" key is just as well protected as the private key) would only allow you to compare addresses for abuse prevention if the initialization vector or similar is constant, which decreases the protection of the encryption! I'm sure someone could come up with a scenario where this is useful, but I can't think of one off the top of my head.
-A: > There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours. Our thinking is to hash with a salt and throw away the salts periodically. For abuse, we mostly care about "is this IP the same?"
+Encryption (using symmetric ciphers, or an asymmetric cipher where the "public" key is just as well protected as the private key) would only allow you to compare addresses for abuse prevention if the initialization vector or similar is constant, which decreases the protection of the encryption!
+
+I'm sure someone could come up with a scenario where this is useful, but I can't think of one off the top of my head.
+
+<u/spez>: > There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours.
+
+Our thinking is to hash with a salt and throw away the salts periodically. For abuse, we mostly care about "is this IP the same?" 

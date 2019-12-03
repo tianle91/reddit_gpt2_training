@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
 
-Title: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
-
-Body: Hi All,
+Hi All,
 
 We’ve got some updates to share about Reddit the platform, community, and business:
 
@@ -24,8 +22,14 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Q: What do you think?
-A: Thx for everything you guys have been up too, I'm quite new to Reddit but I fell in love with it since day 1. I do have a question, who invested the millions and millions in Reddit, and did they have requirements? This is probably not public information, but I think it's really interesting!
+<u/Killed_Mufasa>: Thx for everything you guys have been up too, I'm quite new to Reddit but I fell in love with it since day 1.
+ I do have a question, who invested the millions and millions in Reddit, and did they have requirements? 
+This is probably not public information, but I think it's really interesting! 
 
-Q: Thx for everything you guys have been up too, I'm quite new to Reddit but I fell in love with it since day 1. I do have a question, who invested the millions and millions in Reddit, and did they have requirements? This is probably not public information, but I think it's really interesting!
-A: > who invested the millions and millions in Reddit The main investors were Andreessen Horowitz, Coatue, Fidelity, Sequoia, and Vy. > and did they have requirements? The main requirement is that we grow the business so one day they get a return. We all agree that Reddit is an incredible opportunity. Yes, we're large now with 300M users, but we're one of a few companies that has a legitimate opportunity for a billion+ users someday.
+<u/spez>: > who invested the millions and millions in Reddit
+
+The main investors were Andreessen Horowitz, Coatue, Fidelity, Sequoia, and Vy.
+
+> and did they have requirements?
+
+The main requirement is that we grow the business so one day they get a return. We all agree that Reddit is an incredible opportunity. Yes, we're large now with 300M users, but we're one of a few companies that has a legitimate opportunity for a billion+ users someday.

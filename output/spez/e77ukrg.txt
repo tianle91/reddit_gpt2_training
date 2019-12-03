@@ -1,8 +1,6 @@
-In subreddit: SubredditDrama
+<r/SubredditDrama>: It's time for another /u/spez AMA. It's also time for almost every top comment to be asking why T_D isn't banned
 
-Title: It's time for another /u/spez AMA. It's also time for almost every top comment to be asking why T_D isn't banned
-
-Body: /u/spez is dodging all questions regarding T_D
+/u/spez is dodging all questions regarding T_D
 
 Whole thread: https://old.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/ 
 
@@ -15,14 +13,28 @@ User asks an innocent question then edits it to ask about T_D after spez has alr
 
 Edit: /u/big_swinging_dicks points out that spez has made a response about T_D: https://old.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75wos8/ 
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: Yep. Come say hi.
+<u/spez>: Yep. Come say hi. 
 
-Q: Yep. Come say hi.
-A: I find it kind of weird, you know, that you’re responding to this comment in a thread which criticizes you heavily for ignoring some major issues. It seems clear to me the commentator you respond to is saying he can’t wait for your live AMA because you won’t be able to ignore the obvious /r/t_d questions you are here and in your earlier AMA. So your comment here, while innocent on a surface level... sort of feels a little taunting, you know? And that worries me. Because you’re either intentionally taunting users... or you’re just a little tone deaf on how to communicate with the userbase. Ultimately I love Reddit, despite the shortcomings and current issues it faces... but this sort of behavior worries me a little bit. I’m looking forward to seeing what you bring to the table in the future, though. I’m optimistic for the future of this corner of the internet.
+<u/Sandbag_Tom>: I find it kind of weird, you know, that you’re responding to this comment in a thread which criticizes you heavily for ignoring some major issues.
 
-Q: I find it kind of weird, you know, that you’re responding to this comment in a thread which criticizes you heavily for ignoring some major issues. It seems clear to me the commentator you respond to is saying he can’t wait for your live AMA because you won’t be able to ignore the obvious /r/t_d questions you are here and in your earlier AMA. So your comment here, while innocent on a surface level... sort of feels a little taunting, you know? And that worries me. Because you’re either intentionally taunting users... or you’re just a little tone deaf on how to communicate with the userbase. Ultimately I love Reddit, despite the shortcomings and current issues it faces... but this sort of behavior worries me a little bit. I’m looking forward to seeing what you bring to the table in the future, though. I’m optimistic for the future of this corner of the internet.
-A: Sure, I can see how one would interpret it that way. Let me provide another way of looking at things: Whether in an AMA or interview or in person, not only am I happy to answer hard questions, I generally look forward to it. It's in my nature to do so, often to my own detriment ([example](https://new.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/dx5go62/)), but I do look for questions that meet two criteria: questions that are asked politely, and asked in a manner that suggests the questioner will actually attempt to listen to my response (even if we have zero chance of agreeing). In my AMA yesterday, I didn't see much of either, especially as it relates to r/the_donald. I did attempt to leave a [couple](https://www.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75s1o8/) [responses](https://www.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75wos8/) on the topic, and I have attempted to other respond many times in the past, but since my answer is never "yep, they're getting banned," I end up buried. So it goes. It's really isn't my intention to ignore people. I'll probably do another AMA in the near future, and if someone wants to ask simply "why don't you ban r/the_donald?" I'll do my best to answer honestly and politely, though my answer will probably look a lot like [this](https://www.reddit.com/r/announcements/comments/7u2zpi/not_my_first_could_be_my_last_state_of_the/dth6eq9/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=announcements). Anyway, long story short, if u/2Grateful2BHateful or any of you want to say Hi this weekend, I'm more than happy to chat about this or anything else. It'll be fine, might even be pleasant. &#x200B;
+It seems clear to me the commentator you respond to is saying he can’t wait for your live AMA because you won’t be able to ignore the obvious /r/t_d questions you are here and in your earlier AMA.
+
+So your comment here, while innocent on a surface level... sort of feels a little taunting, you know? And that worries me.
+
+Because you’re either intentionally taunting users... or you’re just a little tone deaf on how to communicate with the userbase.
+
+Ultimately I love Reddit, despite the shortcomings and current issues it faces... but this sort of behavior worries me a little bit. I’m looking forward to seeing what you bring to the table in the future, though. I’m optimistic for the future of this corner of the internet.
+
+<u/spez>: Sure, I can see how one would interpret it that way. Let me provide another way of looking at things:
+
+Whether in an AMA or interview or in person, not only am I happy to answer hard questions, I generally look forward to it. It's in my nature to do so, often to my own detriment ([example](https://new.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/dx5go62/)), but I do look for questions that meet two criteria: questions that are asked politely, and asked in a manner that suggests the questioner will actually attempt to listen to my response (even if we have zero chance of agreeing).
+
+In my AMA yesterday, I didn't see much of either, especially as it relates to r/the_donald. I did attempt to leave a [couple](https://www.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75s1o8/) [responses](https://www.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75wos8/) on the topic, and I have attempted to other respond many times in the past, but since my answer is never "yep, they're getting banned," I end up buried. So it goes.
+
+It's really isn't my intention to ignore people. I'll probably do another AMA in the near future, and if someone wants to ask simply "why don't you ban r/the_donald?" I'll do my best to answer honestly and politely, though my answer will probably look a lot like [this](https://www.reddit.com/r/announcements/comments/7u2zpi/not_my_first_could_be_my_last_state_of_the/dth6eq9/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=announcements).
+
+Anyway, long story short, if u/2Grateful2BHateful or any of you want to say Hi this weekend, I'm more than happy to chat about this or anything else. It'll be fine, might even be pleasant.
+
+&#x200B;

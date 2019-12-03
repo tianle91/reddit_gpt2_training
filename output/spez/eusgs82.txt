@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Introducing Community Awards!
 
-Title: Introducing Community Awards!
-
-Body: **UPDATE (9/4):** Winners of the Coins Giveaway have been [announced below in the stickied comment](https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/eus5nc4?utm_source=share&utm_medium=web2x)! Thanks to all who participated!
+**UPDATE (9/4):** Winners of the Coins Giveaway have been [announced below in the stickied comment](https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/eus5nc4?utm_source=share&utm_medium=web2x)! Thanks to all who participated!
 
 Hi all,
 
@@ -64,14 +62,12 @@ We've seen some pretty great Awards pop up in a few subs already, but now that t
 
 Participating is pretty simple: **If you are a mod, create an amazing set of six Community Awards that exemplifies the culture of your community, and reply to the stickied comment below with the name of your community.** For 20 random entries, we will put 40,000 Coins into to each community's Community Bank, to give back to users in your communities!
 
-Q: What do you think?
-A: This seems just as useless as silver
+<u/yeah_sire>: This seems just as useless as silver
 
-Q: This seems just as useless as silver
-A: Community Awards give Coins back to the Community. Mods can use those Coins to give out Mod Awards (and months of Premium). Silver doesn't do that. Our hope is that this is a fun feature that brings mods / users together, and creates another way to customize Communities.
+<u/venkman01>: Community Awards give Coins back to the Community. Mods can use those Coins to give out Mod Awards (and months of Premium). Silver doesn't do that.
 
-Q: Community Awards give Coins back to the Community. Mods can use those Coins to give out Mod Awards (and months of Premium). Silver doesn't do that. Our hope is that this is a fun feature that brings mods / users together, and creates another way to customize Communities.
-A: Our hope is that this ~~is a fun feature that brings mods / users together~~ increases our companies profitability now that we've landed tens of millions of dollars from new investors and they expect a return
+Our hope is that this is a fun feature that brings mods / users together, and creates another way to customize Communities.
 
-Q: Our hope is that this ~~is a fun feature that brings mods / users together~~ increases our companies profitability now that we've landed tens of millions of dollars from new investors and they expect a return
-A: It’s possible for a feature to both be fun and generate revenue.
+<u/parlez-vous>: Our hope is that this ~~is a fun feature that brings mods / users together~~ increases our companies profitability now that we've landed tens of millions of dollars from new investors and they expect a return
+
+<u/spez>: It’s possible for a feature to both be fun and generate revenue.

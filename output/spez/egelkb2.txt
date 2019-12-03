@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
 
-Title: Reddit’s 2018 transparency report (and maybe other stuff)
-
-Body: Hi all,
+Hi all,
 
 Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
 
@@ -24,8 +22,6 @@ edit: Thanks for the silver you cheap bastards.
 
 update: I'm out for now. Will check back later.
 
-Q: What do you think?
-A: u/spez, what's the status on title editing that I asked you about last year?
+<u/[deleted]>: u/spez, what's the status on title editing that I asked you about last year?
 
-Q: u/spez, what's the status on title editing that I asked you about last year?
-A: Well... ummm... you see... it's been busy around here. Honestly, I'd still love to do it (with limitations), but we just haven't gotten around to it.
+<u/spez>: Well... ummm... you see... it's been busy around here. Honestly, I'd still love to do it (with limitations), but we just haven't gotten around to it.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,12 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Why was it only in the last week that the new policy on violence was instated? What is the process like for considering and implementing new/changed policies?
+<u/herennius>: Why was it only in the last week that the new policy on violence was instated?
 
-Q: Why was it only in the last week that the new policy on violence was instated? What is the process like for considering and implementing new/changed policies?
-A: There were two main reasons. The first is that we take our time on policy changes. We want to be thoughtful about the policy itself, which takes time, and the policy roll-out was done in conjunction with mass enforcement actions, which also take time to plan and coordinate. The second reason is that we waited until we had more staff on our Trust and Safety team so we guarantee coverage. Finally, in the wake of Charlottesville, which was my home for five years, I was quite emotional, and it took time to think clearly about what we were going to do.
+What is the process like for considering and implementing new/changed policies?
+
+<u/spez>: There were two main reasons. The first is that we take our time on policy changes. We want to be thoughtful about the policy itself, which takes time, and the policy roll-out was done in conjunction with mass enforcement actions, which also take time to plan and coordinate.
+
+The second reason is that we waited until we had more staff on our Trust and Safety team so we guarantee coverage.
+
+Finally, in the wake of Charlottesville, which was my home for five years, I was quite emotional, and it took time to think clearly about what we were going to do.

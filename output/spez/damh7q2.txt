@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TIFU by editing some comments and creating an unnecessary controversy.
 
-Title: TIFU by editing some comments and creating an unnecessary controversy.
-
-Body: **tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
+**tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
 
 Hi All,
 
@@ -34,8 +32,16 @@ Steve
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
 
 
-Q: What do you think?
-A: /u/spez, most users possessing even a modicum of common sense forgive you for snapping and deciding to troll the trolls. You're only human and reddit's mantra has always been "remember the human". We're sorry the admins, yourself included, had a miserable thanksgiving. I have a follow up question: does this new sticky-post behavior only impact /r/The_Donald or its affiliate subs as well?
+<u/[deleted]>: /u/spez, most users possessing even a modicum of common sense forgive you for snapping and deciding to troll the trolls. You're only human and reddit's mantra has always been "remember the human".  
+  
+We're sorry the admins, yourself included, had a miserable thanksgiving.  
+  
+I have a follow up question: does this new sticky-post behavior only impact /r/The_Donald or its affiliate subs as well?  
 
-Q: /u/spez, most users possessing even a modicum of common sense forgive you for snapping and deciding to troll the trolls. You're only human and reddit's mantra has always been "remember the human". We're sorry the admins, yourself included, had a miserable thanksgiving. I have a follow up question: does this new sticky-post behavior only impact /r/The_Donald or its affiliate subs as well?
-A: Right now, just them. In the past, when a community was deliberately wasting our time, we would look for general solutions that wouldn't single out a specific community. Unfortunately, that usually causes civilian casualties (e.g. when we removed all stickies from r/all and broke sports communities). Going forward, we'll just take away their toys specifically and move on.
+
+
+<u/spez>: Right now, just them.
+
+In the past, when a community was deliberately wasting our time, we would look for general solutions that wouldn't single out a specific community. Unfortunately, that usually causes civilian casualties (e.g. when we removed all stickies from r/all and broke sports communities).
+
+Going forward, we'll just take away their toys specifically and move on.

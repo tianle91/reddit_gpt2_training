@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,14 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: There's recently been a LARGE increase in the number of pro-Russian, pro-Assad posts & comments in /r/syriancivilwar. Maybe that's normal or maybe not. How can **YOU** tell if they are actually Russian agents trying to sway western public opinion? ...I suppose the same is true about all the pro-China green posts that seem to spam certain subs. ...or the pro-Saudi reform posts that seem to oddly make the front page. There's not way for *us* to know if they are posted from China - but can *you* tell? ...or are you in the dark like the rest of us? EDIT: /u/spez, you should go into politics, because you did not answer the fucking question.
+<u/youareadildomadam>: There's recently been a LARGE increase in the number of pro-Russian, pro-Assad posts & comments in /r/syriancivilwar.  
 
-Q: There's recently been a LARGE increase in the number of pro-Russian, pro-Assad posts & comments in /r/syriancivilwar. Maybe that's normal or maybe not. How can **YOU** tell if they are actually Russian agents trying to sway western public opinion? ...I suppose the same is true about all the pro-China green posts that seem to spam certain subs. ...or the pro-Saudi reform posts that seem to oddly make the front page. There's not way for *us* to know if they are posted from China - but can *you* tell? ...or are you in the dark like the rest of us? EDIT: /u/spez, you should go into politics, because you did not answer the fucking question.
-A: That community is on our radar for a variety of reasons, and we're investigating.
+Maybe that's normal or maybe not.  How can **YOU** tell if they are actually Russian agents trying to sway western public opinion?
+
+...I suppose the same is true about all the pro-China green posts that seem to spam certain subs. ...or the pro-Saudi reform posts that seem to oddly make the front page. 
+
+There's not way for *us* to know if they are posted from China - but can *you* tell?  ...or are you in the dark like the rest of us?
+
+EDIT:  /u/spez, you should go into politics, because you did not answer the fucking question.
+
+<u/spez>: That community is on our radar for a variety of reasons, and we're investigating.

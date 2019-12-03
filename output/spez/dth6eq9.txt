@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,25 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: Why isn't The_donald And all affiliated subs banned for breaking almost every site-wide rule you have yet? edit: Read this comment by /u/illpaco > Here is a very complete list of violations by the_donald of Reddit's policy. This was sent directly to to u/spez a while ago. > https://np.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp6youa > This is not about censoring people with opposing views. Don't buy into that false narrative. This is about applying the rules equally across the board. For whatever reason, the_donald is treated with a different standard than other subs and people are fully aware of it. The only ones turning a blind eye to these blatant violations are the admins themselves.
+<u/[deleted]>: Why isn't 
 
-Q: Why isn't The_donald And all affiliated subs banned for breaking almost every site-wide rule you have yet? edit: Read this comment by /u/illpaco > Here is a very complete list of violations by the_donald of Reddit's policy. This was sent directly to to u/spez a while ago. > https://np.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp6youa > This is not about censoring people with opposing views. Don't buy into that false narrative. This is about applying the rules equally across the board. For whatever reason, the_donald is treated with a different standard than other subs and people are fully aware of it. The only ones turning a blind eye to these blatant violations are the admins themselves.
-A: Generally the mods of the_donald have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of the_donald that refuse to work with us. At Reddit, we try to separate behavior from beliefs. People are free to have whatever beliefs they want, but we do care about your behavior, specifically whether or not you are violating our content policy. During the election, I defended that community because they represented a frustration in the US that a large part of the population felt left out, left behind, and unheard by the system. We are on the eve of the President’s SOTU and, sadly, alienation and cynicism are still deeply felt by much of our population, and we’re more divided than ever. I don’t believe banning a community that represents different viewpoints does anything but make the problem worse. It’s much more powerful for the greater population to reject these views than for us to ban them and turn them into martyrs.
+The_donald 
+
+And all affiliated subs banned for breaking almost every site-wide rule you have yet?
+
+
+edit:  Read this comment by /u/illpaco
+
+> Here is a very complete list of violations by the_donald of Reddit's policy. This was sent directly to to u/spez a while ago.
+
+> https://np.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp6youa
+
+> This is not about censoring people with opposing views. Don't buy into that false narrative. This is about applying the rules equally across the board. For whatever reason, the_donald is treated with a different standard than other subs and people are fully aware of it. The only ones turning a blind eye to these blatant violations are the admins themselves.
+
+<u/spez>: Generally the mods of the_donald have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of the_donald that refuse to work with us.
+
+At Reddit, we try to separate behavior from beliefs. People are free to have whatever beliefs they want, but we do care about your behavior, specifically whether or not you are violating our content policy.
+
+During the election, I defended that community because they represented a frustration in the US that a large part of the population felt left out, left behind, and unheard by the system.
+
+We are on the eve of the President’s SOTU and, sadly, alienation and cynicism are still deeply felt by much of our population, and we’re more divided than ever. I don’t believe banning a community that represents different viewpoints does anything but make the problem worse. It’s much more powerful for the greater population to reject these views than for us to ban them and turn them into martyrs.

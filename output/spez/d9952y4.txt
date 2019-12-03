@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
 
-Title: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
-
-Body: Dearest Redditors,
+Dearest Redditors,
 
 We have been hard at work the past few months adding features, improving our ads business, and protecting users. Here is some of the stuff we have been up to:
 
@@ -24,8 +22,8 @@ Steve
 
 u: I'm out for now. Will check back later. Thanks!
 
-Q: What do you think?
-A: Ah actually I did have a question. When are we mods getting the anti-brigading tools that was promised? https://www.reddit.com/r/ModSupport/comments/4tpla8/where_are_the_promised_antibrigading_tools/
+<u/reseph>: Ah actually I did have a question. When are we mods getting the anti-brigading tools that was promised?
 
-Q: Ah actually I did have a question. When are we mods getting the anti-brigading tools that was promised? https://www.reddit.com/r/ModSupport/comments/4tpla8/where_are_the_promised_antibrigading_tools/
-A: We've been working on it steadily for the last year, but it's not something we talk specifics about. We will continue to make progress.
+https://www.reddit.com/r/ModSupport/comments/4tpla8/where_are_the_promised_antibrigading_tools/
+
+<u/spez>: We've been working on it steadily for the last year, but it's not something we talk specifics about. We will continue to make progress.

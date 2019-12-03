@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Content Policy Update
 
-Title: Content Policy Update
-
-Body: Today we are releasing an update to our [Content Policy](https://www.reddit.com/help/contentpolicy). Our goal was to consolidate the various rules and policies that have accumulated over the years into a single set of guidelines we can point to.
+Today we are releasing an update to our [Content Policy](https://www.reddit.com/help/contentpolicy). Our goal was to consolidate the various rules and policies that have accumulated over the years into a single set of guidelines we can point to.
 
 Thank you to all of you who provided feedback throughout this process. Your thoughts and opinions were invaluable. This is not the last time our policies will change, of course. They will continue to evolve along with Reddit itself.
 
@@ -14,8 +12,10 @@ I believe these policies strike the right balance.
 
 update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
 
-Q: What do you think?
-A: This page (https://www.reddit.com/about/alien/) says that > Remember: "reddit" is always lowercase. But your Content Policy spells it with a capital R, has this branding changed?
+<u/slyf>: This page (https://www.reddit.com/about/alien/) says that
 
-Q: This page (https://www.reddit.com/about/alien/) says that > Remember: "reddit" is always lowercase. But your Content Policy spells it with a capital R, has this branding changed?
-A: Yep, we're changing our style guide as well. It's a pain to start a sentence with reddit.
+> Remember: "reddit" is always lowercase.
+
+But your Content Policy spells it with a capital R, has this branding changed?
+
+<u/spez>: Yep, we're changing our style guide as well. It's a pain to start a sentence with reddit.

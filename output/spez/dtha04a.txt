@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,6 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: Ban T_D please due to the [constant threats of violence](https://www.reddit.com//r/RightAgainstTrump/wiki/violence). Or their death threats the "community" that you're "proud of" ?
+<u/Zaorish9>: Ban T_D please due to the [constant threats of violence](https://www.reddit.com//r/RightAgainstTrump/wiki/violence). Or their death threats the "community" that you're "proud of" ?
 
-Q: Ban T_D please due to the [constant threats of violence](https://www.reddit.com//r/RightAgainstTrump/wiki/violence). Or their death threats the "community" that you're "proud of" ?
-A: Nearly every one of those posts has been banned by mods. We actually watch this list ourselves to make sure.
+<u/spez>: Nearly every one of those posts has been banned by mods. We actually watch this list ourselves to make sure.

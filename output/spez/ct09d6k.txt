@@ -1,18 +1,27 @@
-In subreddit: modclub
+<r/modclub>: It's looking like the new CEO wants to get rid of shadowbanning non-spammers. Thoughts?
 
-Title: It's looking like the new CEO wants to get rid of shadowbanning non-spammers. Thoughts?
-
-Body: [His comment](http://i.imgur.com/Np3pQWP.png) (image) - [link to said comment](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszv2lg?context=3).
+[His comment](http://i.imgur.com/Np3pQWP.png) (image) - [link to said comment](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszv2lg?context=3).
 
 I know that I personally use shadowbanning via automoderator quite leniently as a way to stop people that are *obviously* trolls or have been *repeatedly* causing unnecessary work/drama for the mods. So it's a bit of a shock for me that the CEO is against this kind of thing when it's clearly such a useful tool. 
 
 Anyway, I just wanted to see what the general reaction was to this.
 
-Q: What do you think?
-A: I'm not even talking about modtools in that quote. It's about the perception of reddit the company banning users, which I don't want us (the company) doing. Everyone, let me be clear. My intention is to make your jobs easier. I'm not going to come in and remove a bunch of features you depend on, but rather to add more tools so clumsy things like shadowbanning aren't necessary. This is going to require some tech cleverness, but I know we can do it because I've done stuff like this plenty of times before. I have a lot of ideas. We'll try them out. If things improve, we proceed, if they do not, we try something else. My goal is for you all to spend way less time doing mundane things like tracking down trolls, removing spam, arguing with idiots, etc. My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors. (I'm x-posting this in the other mod subreddits) edit: added the first sentence.
+<u/spez>: I'm not even talking about modtools in that quote. It's about the perception of reddit the company banning users, which I don't want us (the company) doing.
 
-Q: I'm not even talking about modtools in that quote. It's about the perception of reddit the company banning users, which I don't want us (the company) doing. Everyone, let me be clear. My intention is to make your jobs easier. I'm not going to come in and remove a bunch of features you depend on, but rather to add more tools so clumsy things like shadowbanning aren't necessary. This is going to require some tech cleverness, but I know we can do it because I've done stuff like this plenty of times before. I have a lot of ideas. We'll try them out. If things improve, we proceed, if they do not, we try something else. My goal is for you all to spend way less time doing mundane things like tracking down trolls, removing spam, arguing with idiots, etc. My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors. (I'm x-posting this in the other mod subreddits) edit: added the first sentence.
-A: > My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors. Go on..... I gotta be honest with you though, the second there becomes a target my head just because I'm upholding the clearly-defined rules of my subreddit, I'm done modding. I don't need that kind of shit, so I really hope what you've got in mind can account for petty and pissed off users with nothing but contempt for mods and too much time on their hands.
+Everyone, let me be clear. My intention is to make your jobs easier. I'm not going to come in and remove a bunch of features you depend on, but rather to add more tools so clumsy things like shadowbanning aren't necessary. This is going to require some tech cleverness, but I know we can do it because I've done stuff like this plenty of times before.
 
-Q: > My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors. Go on..... I gotta be honest with you though, the second there becomes a target my head just because I'm upholding the clearly-defined rules of my subreddit, I'm done modding. I don't need that kind of shit, so I really hope what you've got in mind can account for petty and pissed off users with nothing but contempt for mods and too much time on their hands.
-A: I'd like to hear more about this. Seems to be a recurring theme today-- people receiving threats.
+I have a lot of ideas. We'll try them out. If things improve, we proceed, if they do not, we try something else. My goal is for you all to spend way less time doing mundane things like tracking down trolls, removing spam, arguing with idiots, etc.
+
+My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors. 
+
+(I'm x-posting this in the other mod subreddits)
+
+edit: added the first sentence.
+
+<u/splattypus>: > My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors.
+
+Go on.....
+
+I gotta be honest with you though, the second there becomes a target my head just because I'm upholding the clearly-defined rules of my subreddit, I'm done modding.  I don't need that kind of shit, so I really hope what you've got in mind can account for petty and pissed off users with nothing but contempt for mods and too much time on their hands. 
+
+<u/spez>: I'd like to hear more about this. Seems to be a recurring theme today-- people receiving threats.

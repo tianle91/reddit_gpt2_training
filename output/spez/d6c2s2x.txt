@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
 
-Title: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
-
-Body: I would like to share some of the things we have been up to since we last chatted.
+I would like to share some of the things we have been up to since we last chatted.
 
 On the product side, we’ve been busy. Both our [iPhone](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) apps have had [multiple releases](https://www.reddit.com/r/redditmobile), and we’re proud at how well they are progressing. Mobile web (m.reddit.com) is undergoing a major overhaul that we’re testing internally, and hope to start showing to users in the next couple weeks. We have been running many experiments on desktop web to increase user engagement, particularly for users who are new to Reddit. You can see what experiments we are running on this [live thread](https://www.reddit.com/live/x3ckzbsj6myw/), and notable changes to the site are listed in r/changelog.
 
@@ -20,8 +18,12 @@ e: grammar
 
 u: Thank you! Heading out for now. Will check back later.
 
-Q: What do you think?
-A: Hi /u/spez I have a question regarding your self-serve and managed advertising platforms. Will you be expanding their capabilities in the near future (adding customizable and exportable reports for instance) or easier creative and campaign management tools? If we had the ability to fund a "bucket" that we could spend from for campaigns that would be a ton of help also when it comes to split testing things like landers and creatives without having to "lock in" a charge per-campaign. Thank you in advance for your time. Edit: thinks to things
+<u/bacon_flavored>: Hi /u/spez I have a question regarding your self-serve and managed advertising platforms. Will you be expanding their capabilities in the near future (adding customizable and exportable reports for instance) or easier creative and campaign management tools?  
+  
+If we had the ability to fund a "bucket" that we could spend from for campaigns that would be a ton of help also when it comes to split testing things like landers and creatives without having to "lock in" a charge per-campaign.  
+  
+Thank you in advance for your time.  
+  
+Edit: thinks to things
 
-Q: Hi /u/spez I have a question regarding your self-serve and managed advertising platforms. Will you be expanding their capabilities in the near future (adding customizable and exportable reports for instance) or easier creative and campaign management tools? If we had the ability to fund a "bucket" that we could spend from for campaigns that would be a ton of help also when it comes to split testing things like landers and creatives without having to "lock in" a charge per-campaign. Thank you in advance for your time. Edit: thinks to things
-A: Yes, many improvements on the way.
+<u/spez>: Yes, many improvements on the way.

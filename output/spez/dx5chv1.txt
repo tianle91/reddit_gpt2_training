@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,22 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: >In my post last month, I described that we had found and removed a few hundred accounts that were of suspected Russian Internet Research Agency origin. Any info on what subs they were posting to?
+<u/aznanimality>: >In my post last month, I described that we had found and removed a few hundred accounts that were of suspected Russian Internet Research Agency origin.  
+  
+  
+Any info on what subs they were posting to?
 
-Q: >In my post last month, I described that we had found and removed a few hundred accounts that were of suspected Russian Internet Research Agency origin. Any info on what subs they were posting to?
-A: There were about 14k posts in total by all of these users. The top ten communities by posts were: * funny: 1455 * uncen: 1443 * Bad_Cop_No_Donut: 800 * gifs: 553 * PoliticalHumor: 545 * The_Donald: 316 * news: 306 * aww: 290 * POLITIC: 232 * racism: 214 We left the accounts up so you may dig in yourselves.
+<u/spez>: There were about 14k posts in total by all of these users. The top ten communities by posts were:
+
+* funny: 1455
+* uncen: 1443
+* Bad_Cop_No_Donut: 800
+* gifs: 553
+* PoliticalHumor: 545
+* The_Donald: 316
+* news: 306
+* aww: 290
+* POLITIC: 232
+* racism: 214
+
+We left the accounts up so you may dig in yourselves.

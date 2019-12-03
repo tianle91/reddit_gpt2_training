@@ -1,14 +1,7 @@
-In subreddit: modnews
+<r/modnews>: Moderators: Help us beta test image hosting
 
-Title: Moderators: Help us beta test image hosting
+<u/GodOfAtheism>: /r/circlejerk will stress test the shit out of your image hosting.
 
-Body: 
+<u/ggAlex>: We believe you.
 
-Q: What do you think?
-A: /r/circlejerk will stress test the shit out of your image hosting.
-
-Q: /r/circlejerk will stress test the shit out of your image hosting.
-A: We believe you.
-
-Q: We believe you.
-A: They make a compelling argument.
+<u/spez>: They make a compelling argument.

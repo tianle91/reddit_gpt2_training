@@ -1,14 +1,13 @@
-In subreddit: memes
+<r/memes>: Spez pls
 
-Title: Spez pls
+<u/nicolai20002000>: Wait how does the karma system work then?
 
-Body: 
+<u/CurlingFlowerSpace>: The first time you up/downvote a specific user, it's supposedly worth +1 (or very close to it). But for every time after that, the value goes down, so your second up/downvote of that same specific person might be worth .75+, and .5+ after that, etc.
 
-Q: What do you think?
-A: Wait how does the karma system work then?
+<u/spez>: In the beginning...
 
-Q: Wait how does the karma system work then?
-A: The first time you up/downvote a specific user, it's supposedly worth +1 (or very close to it). But for every time after that, the value goes down, so your second up/downvote of that same specific person might be worth .75+, and .5+ after that, etc.
+It was one upvote for one karma point. That's still the basis, I believe, but just as post and comment scoring have some restrictions to prevent cheating (e.g. IP limits), karma scoring has even more.
 
-Q: The first time you up/downvote a specific user, it's supposedly worth +1 (or very close to it). But for every time after that, the value goes down, so your second up/downvote of that same specific person might be worth .75+, and .5+ after that, etc.
-A: In the beginning... It was one upvote for one karma point. That's still the basis, I believe, but just as post and comment scoring have some restrictions to prevent cheating (e.g. IP limits), karma scoring has even more. The biggest gap between karma scoring and post scoring is we undid a (outdated) restriction on post scoring that is still on karma scoring. u/keysersosa wrote a post about it a couple years ago. u/keysersosa, correct me if I'm wrong, but in theory we could bring karma scoring in line with post scoring if we weren't so busy otherwise ruining Reddit and whatnot.
+The biggest gap between karma scoring and post scoring is we undid a (outdated) restriction on post scoring that is still on karma scoring. u/keysersosa wrote a post about it a couple years ago.
+
+u/keysersosa, correct me if I'm wrong, but in theory we could bring karma scoring in line with post scoring if we weren't so busy otherwise ruining Reddit and whatnot.

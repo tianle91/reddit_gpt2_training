@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
 
-Title: Reddit’s 2018 transparency report (and maybe other stuff)
-
-Body: Hi all,
+Hi all,
 
 Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
 
@@ -24,14 +22,24 @@ edit: Thanks for the silver you cheap bastards.
 
 update: I'm out for now. Will check back later.
 
-Q: What do you think?
-A: Will you ever modify or remove content to appease your new Chinese ~~overlords~~ investors? Can you commit to never doing so?
+<u/Inri137>: Will you ever modify or remove content to appease your new Chinese ~~overlords~~ investors? Can you commit to never doing so?
 
-Q: Will you ever modify or remove content to appease your new Chinese ~~overlords~~ investors? Can you commit to never doing so?
-A: > Will you ever modify or remove content to appease your new Chinese investors? No > Can you commit to never doing so? Yes
+<u/spez>: > Will you ever modify or remove content to appease your new Chinese investors?
 
-Q: > Will you ever modify or remove content to appease your new Chinese investors? No > Can you commit to never doing so? Yes
-A: How can we trust that when reddit once said: > We stand for free speech. This means we are not going to ban distasteful subreddits. We will not ban legal content even if we find it odious or if we personally condemn it. Not because that's the law in the United States - because as many people have pointed out, privately-owned forums are under no obligation to uphold it - but because we believe in that ideal independently, and that's what we want to promote on our platform. We are clarifying that now because in the past it wasn't clear, and (to be honest) in the past we were not completely independent and there were other pressures acting on reddit. Now it's just reddit, and we serve the community, we serve the ideals of free speech, and we hope to ultimately be a universal platform for human discourse Clearly this promise has been broken as countless subreddits have since been banned for content legal in the US. What makes your promise now any more believable?
+No
 
-Q: How can we trust that when reddit once said: > We stand for free speech. This means we are not going to ban distasteful subreddits. We will not ban legal content even if we find it odious or if we personally condemn it. Not because that's the law in the United States - because as many people have pointed out, privately-owned forums are under no obligation to uphold it - but because we believe in that ideal independently, and that's what we want to promote on our platform. We are clarifying that now because in the past it wasn't clear, and (to be honest) in the past we were not completely independent and there were other pressures acting on reddit. Now it's just reddit, and we serve the community, we serve the ideals of free speech, and we hope to ultimately be a universal platform for human discourse Clearly this promise has been broken as countless subreddits have since been banned for content legal in the US. What makes your promise now any more believable?
-A: These words, which were not mine, were in defense of sexualized pictures of young girls. Child porn is a real crime in the United States, and sexualizing minors is an adjacent behavior, and not only is it not welcome on Reddit, it's explicitly forbidden. I have made many arguments in my career in defense of Free Speech and continue to do so, but there are limits, and this is one of them.
+> Can you commit to never doing so?
+
+Yes
+
+<u/FreeSpeechWarrior>: How can we trust that when reddit once said:
+
+> We stand for free speech. This means we are not going to ban distasteful subreddits. We will not ban legal content even if we find it odious or if we personally condemn it. Not because that's the law in the United States - because as many people have pointed out, privately-owned forums are under no obligation to uphold it - but because we believe in that ideal independently, and that's what we want to promote on our platform. We are clarifying that now because in the past it wasn't clear, and (to be honest) in the past we were not completely independent and there were other pressures acting on reddit. Now it's just reddit, and we serve the community, we serve the ideals of free speech, and we hope to ultimately be a universal platform for human discourse
+
+Clearly this promise has been broken as countless subreddits have since been banned for content legal in the US.
+
+What makes your promise now any more believable?
+
+<u/spez>: These words, which were not mine, were in defense of sexualized pictures of young girls. Child porn is a real crime in the United States, and sexualizing minors is an adjacent behavior, and not only is it not welcome on Reddit, it's explicitly forbidden.
+
+I have made many arguments in my career in defense of Free Speech and continue to do so, but there are limits, and this is one of them.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,8 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Do you ever sit down and think "God, what did I just get myself into?"
+<u/SenatorCockface>: Do you ever sit down and think "God, what did I just get myself into?"
 
-Q: Do you ever sit down and think "God, what did I just get myself into?"
-A: Yes. I forgot to turn Post Replies off today. Honestly, there have been times over the years, but they are few and far between. Yes, it can be intense and stressful at times, but we are very proud of Reddit and the positive impact it has on people's lives. I know it's not perfect, but we improve every day. I feel so fortunate to have the opportunity to make a difference, not everybody gets this opportunity, and I think we have a moral obligation to make the most of it.
+<u/spez>: Yes. I forgot to turn Post Replies off today.
+
+Honestly, there have been times over the years, but they are few and far between. Yes, it can be intense and stressful at times, but we are very proud of Reddit and the positive impact it has on people's lives. I know it's not perfect, but we improve every day. I feel so fortunate to have the opportunity to make a difference, not everybody gets this opportunity, and I think we have a moral obligation to make the most of it.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit in 2016
 
-Title: Reddit in 2016
-
-Body: Hi All,
+Hi All,
 
 Now that 2015 is in the books, it’s a good time to reflect on where we are and where we are going. Since I returned last summer, my goal has been to bring a sense of calm; to rebuild our relationship with our users and moderators; and to improve the fundamentals of our business so that we can focus on making you (our users), those that work here, and the world in general, proud of Reddit. Reddit’s mission is to help people discover places where they can be themselves and to empower the community to flourish.
 
@@ -24,8 +22,16 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
 
-Q: What do you think?
-A: Obviously not everyone would agree, but I've been happy with the steady stream of new tools, fixes and features for moderating. So thank you and thank you to the team responsible for developing these tools, for sticking to your word on that. One thing I was curious about was the on-boarding process for new reddit accounts. At some point, this was a project being worked on by a few admins that involved a really snazzy looking UI with some basic info. However, I understand it was put on the back-burner to deal with the more imminent issues facing reddit admin (Blackout 2015 never5get). Will this come back into the pipeline at some point this year? I honestly believe that presenting a new user with even just a *brief* overview of basic reddit standards, rules, and etiquette would make a world of difference for everyone who uses the site on a daily (hourly, minutely?) basis.
+<u/K_Lobstah>: Obviously not everyone would agree, but I've been happy with the steady stream of new tools, fixes and features for moderating. So thank you and thank you to the team responsible for developing these tools, for sticking to your word on that.   
+  
+One thing I was curious about was the on-boarding process for new reddit accounts. At some point, this was a project being worked on by a few admins that involved a really snazzy looking UI with some basic info. However, I understand it was put on the back-burner to deal with the more imminent issues facing reddit admin (Blackout 2015 never5get).  
+  
+Will this come back into the pipeline at some point this year? I honestly believe that presenting a new user with even just a *brief* overview of basic reddit standards, rules, and etiquette would make a world of difference for everyone who uses the site on a daily (hourly, minutely?) basis.  
+  
 
-Q: Obviously not everyone would agree, but I've been happy with the steady stream of new tools, fixes and features for moderating. So thank you and thank you to the team responsible for developing these tools, for sticking to your word on that. One thing I was curious about was the on-boarding process for new reddit accounts. At some point, this was a project being worked on by a few admins that involved a really snazzy looking UI with some basic info. However, I understand it was put on the back-burner to deal with the more imminent issues facing reddit admin (Blackout 2015 never5get). Will this come back into the pipeline at some point this year? I honestly believe that presenting a new user with even just a *brief* overview of basic reddit standards, rules, and etiquette would make a world of difference for everyone who uses the site on a daily (hourly, minutely?) basis.
-A: > Will this come back into the pipeline at some point this year? Very likely. As you said, we put it on the back burner because we had more acute pains to deal with. One of our big company goals this year is to increase engagement, and a great way of doing this is to convert our casual users into redditors, which requires education. At this very moment, however, we're working on a few other things. Mobile is getting a lot of attention. That's where the users are going, whether we are prepared or not. The A/B testing system is critically important as well. This allows us to see if changes (e.g. to onboarding) are actually having the intended effect.
+
+<u/spez>: > Will this come back into the pipeline at some point this year?
+
+Very likely. As you said, we put it on the back burner because we had more acute pains to deal with. One of our big company goals this year is to increase engagement, and a great way of doing this is to convert our casual users into redditors, which requires education.
+
+At this very moment, however, we're working on a few other things. Mobile is getting a lot of attention. That's where the users are going, whether we are prepared or not. The A/B testing system is critically important as well. This allows us to see if changes (e.g. to onboarding) are actually having the intended effect.

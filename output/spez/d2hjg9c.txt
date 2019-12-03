@@ -1,8 +1,6 @@
-In subreddit: ModSupport
+<r/ModSupport>: A few updates on what has been keeping us busy
 
-Title: A few updates on what has been keeping us busy
-
-Body: Hi All,
+Hi All,
 
 I want to give you all an update with the things that are keeping us busy, and hopefully as a result, making you less busy:
 
@@ -18,8 +16,6 @@ We appreciate all you do for Reddit as moderators, and we appreciate seeing the 
 
 – The Reddit Team
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: There are definite advantages, but presently we want people in our main offices, which are in SF, NYC, and LA. This may change in the future, but the majority of our company is new, and I want to the culture to strengthen before we consider spreading out.
+<u/spez>: There are definite advantages, but presently we want people in our main offices, which are in SF, NYC, and LA. This may change in the future, but the majority of our company is new, and I want to the culture to strengthen before we consider spreading out.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,6 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: If someone were to anonymously post the copyrighted recipe for mulan szechuan mcnugget sauce, and you received a request from the copyright holder to take it down, would you comply?
+<u/theflamesweregolfin>: If someone were to anonymously post the copyrighted recipe for mulan szechuan mcnugget sauce, and you received a request from the copyright holder to take it down, would you comply? 
 
-Q: If someone were to anonymously post the copyrighted recipe for mulan szechuan mcnugget sauce, and you received a request from the copyright holder to take it down, would you comply?
-A: Yes, if it was a valid copyright request, that's what the DMCA requires. We could push back, but our appetite for defending you all has limits.
+<u/spez>: Yes, if it was a valid copyright request, that's what the DMCA requires. We could push back, but our appetite for defending you all has limits.

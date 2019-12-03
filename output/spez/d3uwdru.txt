@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: How do you feel about the default subreddits?
+<u/voltism>: How do you feel about the default subreddits? 
 
-Q: How do you feel about the default subreddits?
-A: I understand the motive for creating them in the first place, to ensure variety on the front page, but I think we would take a different approach now.
+<u/spez>: I understand the motive for creating them in the first place, to ensure variety on the front page, but I think we would take a different approach now.

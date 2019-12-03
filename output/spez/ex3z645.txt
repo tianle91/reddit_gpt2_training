@@ -1,8 +1,3 @@
-In subreddit: pan
+<r/pan>: At the dawn of the new millennium, the Internet opened countless new channels for information and ideas to flow.
 
-Title: At the dawn of the new millennium, the Internet opened countless new channels for information and ideas to flow.
-
-Body: 
-
-Q: What do you think?
-A: what the
+<u/spez>: what the

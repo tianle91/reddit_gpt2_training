@@ -1,13 +1,15 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
 
-Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
-
-Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
 
 Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
 
-Q: What do you think?
-A: How did you go about gathering users for reddit? When it started I'm sure it did not have as much content. How would a person go about pitching there own web app and try to make it successful.
+<u/Just_Be_Nice_Man>: How did you go about gathering users for reddit? When it started I'm sure it did not have as much content. How would a person go about pitching there own web app and try to make it successful. 
 
-Q: How did you go about gathering users for reddit? When it started I'm sure it did not have as much content. How would a person go about pitching there own web app and try to make it successful.
-A: When it started, u/kn0thing and I submitted all the content. I had a script that would scrape a bunch of websites (Slashdot, Boingboing, etc) and print all the links it had never seen before. The first day it printed a bunch of navigational garbage, but on the second day it was all interesting content. We'd write titles for the those links and submit them to Reddit. Our submit page looked a little bit different: we had an extra field for username. Reddit would automatically register that name if it was available and submit the link as that "new" user. We did this for about 4 months, if I recall.
+<u/spez>: When it started, u/kn0thing and I submitted all the content.
+
+I had a script that would scrape a bunch of websites (Slashdot, Boingboing, etc) and print all the links it had never seen before. The first day it printed a bunch of navigational garbage, but on the second day it was all interesting content. We'd write titles for the those links and submit them to Reddit.
+
+Our submit page looked a little bit different: we had an extra field for username. Reddit would automatically register that name if it was available and submit the link as that "new" user.
+
+We did this for about 4 months, if I recall.

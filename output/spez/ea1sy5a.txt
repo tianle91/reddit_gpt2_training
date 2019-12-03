@@ -1,8 +1,6 @@
-In subreddit: politics
+<r/politics>: r/politics Fall 2018 Meta Thread - Rule changes for submission titles, article subtitles, rehosted content and more
 
-Title: r/politics Fall 2018 Meta Thread - Rule changes for submission titles, article subtitles, rehosted content and more
-
-Body: Greetings denizens of r/politics. It has been a while since we've posted a meta-thread, and we have a few things to discuss. Please for our collective sanity - yours and ours - read everything within before jumping into the comments. 
+Greetings denizens of r/politics. It has been a while since we've posted a meta-thread, and we have a few things to discuss. Please for our collective sanity - yours and ours - read everything within before jumping into the comments. 
 
 ###Rule change - Submissions titles, article subtitles and articles with no headline
 
@@ -120,11 +118,12 @@ We've taken on a handful of chat-only moderators to help keep the chat friendly 
 
 Since chat is so new, we're still figuring out how it should be run - it is very much a new experiment for us. We'd love to hear your ideas and feedback on how we can make the chat experience useful and fun for our users!
 
-Q: What do you think?
-A: This is great. There are some really good ideas in here that we might be able to make easier for you. For example, what do you think about a feature to sync headlines (maybe automatically, or automatically add a flair and allowing a mod to edit?). This has always been complicated for a variety of reasons (title shenanigans on Reddit, and inconsistent publishers), but I think your specific use-case might be a good one to work with to make things easier, whether fancy tech or manual mod editing.
+<u/spez>: This is great. There are some really good ideas in here that we might be able to make easier for you.
 
-Q: This is great. There are some really good ideas in here that we might be able to make easier for you. For example, what do you think about a feature to sync headlines (maybe automatically, or automatically add a flair and allowing a mod to edit?). This has always been complicated for a variety of reasons (title shenanigans on Reddit, and inconsistent publishers), but I think your specific use-case might be a good one to work with to make things easier, whether fancy tech or manual mod editing.
-A: >what do you think about a feature to sync headlines That'd be fantastic, spez! ETA?
+For example, what do you think about a feature to sync headlines (maybe automatically, or automatically add a flair and allowing a mod to edit?). This has always been complicated for a variety of reasons (title shenanigans on Reddit, and inconsistent publishers), but I think your specific use-case might be a good one to work with to make things easier, whether fancy tech or manual mod editing.
 
-Q: >what do you think about a feature to sync headlines That'd be fantastic, spez! ETA?
-A: I'll chat with the team. Unfortunately, I'm no longer allowed to write code over Thanksgiving.
+<u/ecafyelims>: >what do you think about a feature to sync headlines
+
+That'd be fantastic, spez! ETA?
+
+<u/spez>: I'll chat with the team. Unfortunately, I'm no longer allowed to write code over Thanksgiving.

@@ -1,8 +1,6 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: I work in an open office and am wondering if using music to block out sound is counterproductive
 
-Title: I work in an open office and am wondering if using music to block out sound is counterproductive
-
-Body: I work in an open office. I like my coworkers but their little noises drive me insane. One guy whistles cheerfully all day, another guy eats all day and chews like a cow, another has severe coughing and throat clearing tics, one guy laughs like a donkey every few minutes, etc.
+I work in an open office. I like my coworkers but their little noises drive me insane. One guy whistles cheerfully all day, another guy eats all day and chews like a cow, another has severe coughing and throat clearing tics, one guy laughs like a donkey every few minutes, etc.
 
 Unfortunately, music, even instrumental music, distracts me like crazy too. I like music way too much and get lost in it. I’m aware I can wear earplugs but it’s not right for me.
 
@@ -10,11 +8,10 @@ So I’m curious about you guys - what’s the lesser evil? Listening to music, 
 
 EDIT - thanks for the suggestions, you guys are awesome! lo-fi and brown noise work like a charm.
 
-Q: What do you think?
-A: When I was programming every day, one of the things I was thankful for was having a job that allowed me to listen to music all day, not to mention the effect that music I loved would have on my mood, so there were benefits beyond just drowning out outside noise. One technique that worked well for me was to listen to the same couple of albums over and over. While the songs had words that could otherwise be distracting, I had listened to them so many times that they effectively became white noise for me.
+<u/spez>: When I was programming every day, one of the things I was thankful for was having a job that allowed me to listen to music all day, not to mention the effect that music I loved would have on my mood, so there were benefits beyond just drowning out outside noise.
 
-Q: When I was programming every day, one of the things I was thankful for was having a job that allowed me to listen to music all day, not to mention the effect that music I loved would have on my mood, so there were benefits beyond just drowning out outside noise. One technique that worked well for me was to listen to the same couple of albums over and over. While the songs had words that could otherwise be distracting, I had listened to them so many times that they effectively became white noise for me.
-A: If you respond to this comment with "bruh" I will try using New Reddit
+One technique that worked well for me was to listen to the same couple of albums over and over. While the songs had words that could otherwise be distracting, I had listened to them so many times that they effectively became white noise for me.
 
-Q: If you respond to this comment with "bruh" I will try using New Reddit
-A: Nah, dude. You are free to use Reddit on whatever platform you like best.
+<u/The_Evil_King_Bowser>: If you respond to this comment with "bruh" I will try using New Reddit
+
+<u/spez>: Nah, dude. You are free to use Reddit on whatever platform you like best.

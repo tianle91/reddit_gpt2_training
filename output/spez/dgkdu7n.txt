@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,8 +41,8 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: Does this mean all subreddits will look the same, excluding a couple customizable fields?
+<u/Eat_Bacon_nomnomnom>: Does this mean all subreddits will look the same, excluding a couple customizable fields?
 
-Q: Does this mean all subreddits will look the same, excluding a couple customizable fields?
-A: No! We love custom styling. It means we'll bring that flavor to the apps, and we can modify the underlying code of the site without constantly breaking styles.
+<u/spez>: No!
+
+We love custom styling. It means we'll bring that flavor to the apps, and we can modify the underlying code of the site without constantly breaking styles.

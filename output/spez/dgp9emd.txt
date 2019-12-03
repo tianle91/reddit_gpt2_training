@@ -1,19 +1,27 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
 
-Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
-
-Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
 
 Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
 
-Q: What do you think?
-A: Hi spez, As an undergraduate CS student, I am sometimes intimidated by the people on this subreddit. What do you think about the importance of knowing algorithms and keeping up to date with the latest and greatest language that this subreddit and others emphasize? As a developer who created an incredibly successful platform, was efficiency and code cleanliness always your priority?
+<u/Sujji>: Hi spez,
 
-Q: Hi spez, As an undergraduate CS student, I am sometimes intimidated by the people on this subreddit. What do you think about the importance of knowing algorithms and keeping up to date with the latest and greatest language that this subreddit and others emphasize? As a developer who created an incredibly successful platform, was efficiency and code cleanliness always your priority?
-A: With any luck, you will be intimidated your entire career. My point is, people who think they have a lot to learn, learn a lot more and more quickly. Do yourself a favor and constantly surround yourself with intimidating people. You don't need to know every last algorithm, language, and framework, but you do need a enough of a foundation that you could. > was efficiency and code cleanliness always your priority hahaha. Have you seen the Reddit code base? The stuff I wrote is a mess. There are lots of reasons for this: * I was a worse programmer back then * Ten years and dozens of engineers in a code base often leads to a mess * We made tradeoffs to ship quickly. Quality is something that has always been important to me, but more important has been results. Users don't care about your code quality. Plus, every line you write, you probably be able to write it better in a year (because you have more skills and context).
+As an undergraduate CS student, I am sometimes intimidated by the people on this subreddit. What do you think about the importance of knowing algorithms and keeping up to date with the latest and greatest language that this subreddit and others emphasize? As a developer who created an incredibly successful platform, was efficiency and code cleanliness always your priority?
 
-Q: With any luck, you will be intimidated your entire career. My point is, people who think they have a lot to learn, learn a lot more and more quickly. Do yourself a favor and constantly surround yourself with intimidating people. You don't need to know every last algorithm, language, and framework, but you do need a enough of a foundation that you could. > was efficiency and code cleanliness always your priority hahaha. Have you seen the Reddit code base? The stuff I wrote is a mess. There are lots of reasons for this: * I was a worse programmer back then * Ten years and dozens of engineers in a code base often leads to a mess * We made tradeoffs to ship quickly. Quality is something that has always been important to me, but more important has been results. Users don't care about your code quality. Plus, every line you write, you probably be able to write it better in a year (because you have more skills and context).
-A: While users don't care about code quality. I'd imagine they care about things working properly. Have you found yourself or your team running into situations where cutting corners in the code-base has led to issues soon after shipping it?
+<u/spez>: With any luck, you will be intimidated your entire career. My point is, people who think they have a lot to learn, learn a lot more and more quickly. Do yourself a favor and constantly surround yourself with intimidating people.
 
-Q: While users don't care about code quality. I'd imagine they care about things working properly. Have you found yourself or your team running into situations where cutting corners in the code-base has led to issues soon after shipping it?
-A: Yep! One of the hallmarks of experience is getting better at making the right tradeoffs.
+You don't need to know every last algorithm, language, and framework, but you do need a enough of a foundation that you could.
+
+> was efficiency and code cleanliness always your priority
+
+hahaha. Have you seen the Reddit code base? The stuff I wrote is a mess. There are lots of reasons for this:
+
+* I was a worse programmer back then
+* Ten years and dozens of engineers in a code base often leads to a mess
+* We made tradeoffs to ship quickly.
+
+Quality is something that has always been important to me, but more important has been results. Users don't care about your code quality. Plus, every line you write, you probably be able to write it better in a year (because you have more skills and context).
+
+<u/Sugery>: While users don't care about code quality. I'd imagine they care about things working properly. Have you found yourself or your team running into situations where cutting corners in the code-base has led to issues soon after shipping it?
+
+<u/spez>: Yep! One of the hallmarks of experience is getting better at making the right tradeoffs.

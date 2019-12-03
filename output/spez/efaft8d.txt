@@ -1,8 +1,3 @@
-In subreddit: Showerthoughts
+<r/Showerthoughts>: The CEO of this site could have an account where he just blends in with everything else.
 
-Title: The CEO of this site could have an account where he just blends in with everything else.
-
-Body: 
-
-Q: What do you think?
-A: Most of my accounts are 13 years old at this point, so that kinda gives me away.
+<u/spez>: Most of my accounts are 13 years old at this point, so that kinda gives me away.

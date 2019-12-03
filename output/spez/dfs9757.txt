@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,6 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: The request of user account information seems to have gone up year-to-year. Do you feel it will continue that trend through 2017 and beyond? (2014: 55 request, 2015: 98 request, 2016: 170 request).
+<u/ParagonPatriot>: The request of user account information seems to have gone up year-to-year. Do you feel it will continue that trend through 2017 and beyond? (2014: 55 request, 2015: 98 request, 2016: 170 request).
 
-Q: The request of user account information seems to have gone up year-to-year. Do you feel it will continue that trend through 2017 and beyond? (2014: 55 request, 2015: 98 request, 2016: 170 request).
-A: Almost certainly. As we grow, we expect the number of these requests to grow as well.
+<u/spez>: Almost certainly. As we grow, we expect the number of these requests to grow as well.

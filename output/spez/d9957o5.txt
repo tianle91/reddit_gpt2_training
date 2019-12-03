@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
 
-Title: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
-
-Body: Dearest Redditors,
+Dearest Redditors,
 
 We have been hard at work the past few months adding features, improving our ads business, and protecting users. Here is some of the stuff we have been up to:
 
@@ -24,8 +22,6 @@ Steve
 
 u: I'm out for now. Will check back later. Thanks!
 
-Q: What do you think?
-A: Have you guys done any looking into the claims of governments / political groups paying people to influence users? This seems to be something that everyone can agree on being bad, though one side would probably point to something like CTR while the other would point to something like Putin bots. Seems like a lot of the effect is likely just exaggerated and has more to do with how the upvote system can lead to the appearance of really large swings in opinion, when they are in fact not as big, if an issue is divisive. Still seems worth looking into though. Would it even be possible to tell if this sort of activity is happening?
+<u/remzem>: Have you guys done any looking into the claims of governments / political groups paying people to influence users? This seems to be something that everyone can agree on being bad, though one side would probably point to something like CTR while the other would point to something like Putin bots. Seems like a lot of the effect is likely just exaggerated and has more to do with how the upvote system can lead to the appearance of really large swings in opinion, when they are in fact not as big, if an issue is divisive. Still seems worth looking into though. Would it even be possible to tell if this sort of activity is happening? 
 
-Q: Have you guys done any looking into the claims of governments / political groups paying people to influence users? This seems to be something that everyone can agree on being bad, though one side would probably point to something like CTR while the other would point to something like Putin bots. Seems like a lot of the effect is likely just exaggerated and has more to do with how the upvote system can lead to the appearance of really large swings in opinion, when they are in fact not as big, if an issue is divisive. Still seems worth looking into though. Would it even be possible to tell if this sort of activity is happening?
-A: Yes, actually. It's mostly exaggerated and largely ineffective, but people do try.
+<u/spez>: Yes, actually. It's mostly exaggerated and largely ineffective, but people do try.

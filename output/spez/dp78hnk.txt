@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,20 +26,32 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Hiya Spez. Does Reddit have any plans to stratify (1) and fix (2) the way moderators work? (1) The moderator hierarchy is currently top down, which means one stoned/drunk/cranky mod can effectively mess up all mods below them. I would recommend you think of making permissions more granular than the 6/7 categories that exist (full, access, config, mail, flair, post, wiki). There should be a provision available for mods below to nuke mods on top or change their permissions, if such permissions have been granted to them (and so on). It will make mod lists far more equitable in nature, and reduce the pressure on admins to step in an fix issues. (2) Additionally, why does Reddit administration disappear on weekends? Facebook and Twitter are said to be hiring mods, and you can [view a Facebook mods profile here](https://www.theguardian.com/news/2017/may/21/facebook-moderators-quick-guide-job-challenges). Why doesn't Reddit think of doing this - hiring sitewide "supermods" who aren't exactly admins but not pleb mods either, to step in and stop blatant vote manipulation (like the sock guy) or dox and stuff. This is especially necessary on the weekends, when it is hard to get any response from admins. I've seen calls for hiring "supermods" on a few of these threads, and the admins are kind of mute about this. I'm not sure what you think of this so please let me know.
+<u/[deleted]>: Hiya Spez. Does Reddit have any plans to stratify (1) and fix (2) the way moderators work?   
+  
+(1) The moderator hierarchy is currently top down, which means one stoned/drunk/cranky mod can effectively mess up all mods below them.  
+  
+I would recommend you think of making permissions more granular than the 6/7 categories that exist (full, access, config, mail, flair, post, wiki). There should be a provision available for mods below to nuke mods on top or change their permissions, if such permissions have been granted to them (and so on). It will make mod lists far more equitable in nature, and reduce the pressure on admins to step in an fix issues.   
+  
+(2) Additionally, why does Reddit administration disappear on weekends?  
+  
+Facebook and Twitter are said to be hiring mods, and you can [view a Facebook mods profile here](https://www.theguardian.com/news/2017/may/21/facebook-moderators-quick-guide-job-challenges). Why doesn't Reddit think of doing this - hiring sitewide "supermods" who aren't exactly admins but not pleb mods either, to step in and stop blatant vote manipulation (like the sock guy) or dox and stuff.   
+  
+This is especially necessary on the weekends, when it is hard to get any response from admins. I've seen calls for hiring "supermods" on a few of these threads, and the admins are kind of mute about this. I'm not sure what you think of this so please let me know.  
+  
 
-Q: Hiya Spez. Does Reddit have any plans to stratify (1) and fix (2) the way moderators work? (1) The moderator hierarchy is currently top down, which means one stoned/drunk/cranky mod can effectively mess up all mods below them. I would recommend you think of making permissions more granular than the 6/7 categories that exist (full, access, config, mail, flair, post, wiki). There should be a provision available for mods below to nuke mods on top or change their permissions, if such permissions have been granted to them (and so on). It will make mod lists far more equitable in nature, and reduce the pressure on admins to step in an fix issues. (2) Additionally, why does Reddit administration disappear on weekends? Facebook and Twitter are said to be hiring mods, and you can [view a Facebook mods profile here](https://www.theguardian.com/news/2017/may/21/facebook-moderators-quick-guide-job-challenges). Why doesn't Reddit think of doing this - hiring sitewide "supermods" who aren't exactly admins but not pleb mods either, to step in and stop blatant vote manipulation (like the sock guy) or dox and stuff. This is especially necessary on the weekends, when it is hard to get any response from admins. I've seen calls for hiring "supermods" on a few of these threads, and the admins are kind of mute about this. I'm not sure what you think of this so please let me know.
-A: 1. Great question. Subreddit governance is a huge challenge. We've not tackled it directly to date because there has been so much foundational work to get out of the way first (e.g. moderator guidelines, real mod tools, fully developed community team). We're getting closer. 2. We are still a small company, fewer than 300 people. We're actively hiring for weekend coverage right now, so hopefully the next time we chat we have this problem solved.
 
-Q: 1. Great question. Subreddit governance is a huge challenge. We've not tackled it directly to date because there has been so much foundational work to get out of the way first (e.g. moderator guidelines, real mod tools, fully developed community team). We're getting closer. 2. We are still a small company, fewer than 300 people. We're actively hiring for weekend coverage right now, so hopefully the next time we chat we have this problem solved.
-A: > real mod tools Just to follow up, I think moderator permissions are tools in themselves. A lot of subreddits organize mod's duties and rules by the permissions they have, and you're kind of glossing over this crucial fact. Anyway thanks for replying, happy thanksgiving and ban /r/onionhate before /u/sodypop wakes up
+<u/spez>: 1. Great question. Subreddit governance is a huge challenge. We've not tackled it directly to date because there has been so much foundational work to get out of the way first (e.g. moderator guidelines, real mod tools, fully developed community team). We're getting closer.
 
-Q: > real mod tools Just to follow up, I think moderator permissions are tools in themselves. A lot of subreddits organize mod's duties and rules by the permissions they have, and you're kind of glossing over this crucial fact. Anyway thanks for replying, happy thanksgiving and ban /r/onionhate before /u/sodypop wakes up
-A: You're right, adding more mod permissions is an easy improvement. We have a "moderators" dev team now. At the moment they're working on an enhanced mod queue, subreddit styling, and a new flair system.
+2. We are still a small company, fewer than 300 people. We're actively hiring for weekend coverage right now, so hopefully the next time we chat we have this problem solved.
 
-Q: You're right, adding more mod permissions is an easy improvement. We have a "moderators" dev team now. At the moment they're working on an enhanced mod queue, subreddit styling, and a new flair system.
-A: [deleted]
+<u/[deleted]>: > real mod tools
 
-Q: [deleted]
-A: Yep. Proper mod tools for mobile are in development now. They'll ship in the next major (4.0) release, which we expect this year.
+Just to follow up, I think moderator permissions are tools in themselves. A lot of subreddits organize mod's duties and rules by the permissions they have, and you're kind of glossing over this crucial fact.   
+  
+Anyway thanks for replying, happy thanksgiving and ban /r/onionhate before /u/sodypop wakes up
+
+<u/spez>: You're right, adding more mod permissions is an easy improvement. We have a "moderators" dev team now. At the moment they're working on an enhanced mod queue, subreddit styling, and a new flair system.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: Yep. Proper mod tools for mobile are in development now. They'll ship in the next major (4.0) release, which we expect this year.

@@ -1,11 +1,9 @@
-In subreddit: KotakuInAction
+<r/KotakuInAction>: /u/spez is currently posting in /r/Gamerghazi
 
-Title: /u/spez is currently posting in /r/Gamerghazi
+[deleted]
 
-Body: [deleted]
+<u/[deleted]>: Like /u/Cleverly_Clearly said, I'm pretty sure he just responds to wherever his name is mentioned. 
 
-Q: What do you think?
-A: Like /u/Cleverly_Clearly said, I'm pretty sure he just responds to wherever his name is mentioned. /u/Spez, can you confirm?
+/u/Spez, can you confirm? 
 
-Q: Like /u/Cleverly_Clearly said, I'm pretty sure he just responds to wherever his name is mentioned. /u/Spez, can you confirm?
-A: Not exactly, but sort of.
+<u/spez>: Not exactly, but sort of.

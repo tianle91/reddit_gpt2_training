@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let’s all have a town hall about r/all
 
-Title: Let’s all have a town hall about r/all
-
-Body: Hi All,
+Hi All,
 
 A few days ago, we talked about a few technological and process changes we would be working on in order to improve your Reddit experience and ensure access to timely information is available.
 
@@ -20,8 +18,8 @@ Steve
 
 u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
 
-Q: What do you think?
-A: > as a community is represented more and more often in the listing, the hotness of its posts will be increasingly lessened Will this have an effect on the hotness over the period of a day or over a longer period? Because this would not only prevent the_D, but also subs like r/funny, r/gaming and r/adviceanimals from dominating r/all.
+<u/Werner__Herzog>: > as a community is represented more and more often in the listing, the hotness of its posts will be increasingly lessened
 
-Q: > as a community is represented more and more often in the listing, the hotness of its posts will be increasingly lessened Will this have an effect on the hotness over the period of a day or over a longer period? Because this would not only prevent the_D, but also subs like r/funny, r/gaming and r/adviceanimals from dominating r/all.
-A: It's just for the specific rendering of the r/all listing. So, it'll affect all communities with r/all itself, but not on the listings for the actual communities. Not sure if I'm answering the question you're asking...
+Will this have an effect on the hotness over the period of a day or over a longer period? Because this would not only prevent the_D, but also subs like r/funny, r/gaming and r/adviceanimals from dominating r/all.
+
+<u/spez>: It's just for the specific rendering of the r/all listing. So, it'll affect all communities with r/all itself, but not on the listings for the actual communities. Not sure if I'm answering the question you're asking...

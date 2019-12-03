@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
 
-Title: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
-
-Body: I would like to share some of the things we have been up to since we last chatted.
+I would like to share some of the things we have been up to since we last chatted.
 
 On the product side, we’ve been busy. Both our [iPhone](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) apps have had [multiple releases](https://www.reddit.com/r/redditmobile), and we’re proud at how well they are progressing. Mobile web (m.reddit.com) is undergoing a major overhaul that we’re testing internally, and hope to start showing to users in the next couple weeks. We have been running many experiments on desktop web to increase user engagement, particularly for users who are new to Reddit. You can see what experiments we are running on this [live thread](https://www.reddit.com/live/x3ckzbsj6myw/), and notable changes to the site are listed in r/changelog.
 
@@ -20,8 +18,16 @@ e: grammar
 
 u: Thank you! Heading out for now. Will check back later.
 
-Q: What do you think?
-A: /u/spez, Yesterday /r/AskHistorians was approached about being part of the A/B testing for this new 'subreddit suggestion' system you are planning for mobile and told that it "*might drive some new traffic to your subreddit*." We also were told to "*let us know if you have any questions, or see any problems*." Well, to be frank, we *do* have questions, and we *do* see problems, but when we responded stressing /r/AskHistorians' well-known opposition to default status and asking for more information about what this new system looked like we were told, "*I'm trying to get the right answers for you, but haven't tracked anyone down yet. However, I do know that this is a topic that u/spez will be covering in his AMA in r/announcements tomorrow morning, at least in regards to the way defaults work currently and what we're looking at for the future*." Unfortunately, this answer leaves us without any further information. So /u/spez, could you please provide us with more information about what inclusion in the A/B test entails, what the long term plan is, and whether subreddits will be able to opt out, or otherwise control how they are included. Regards, Zhukov and the AH Mod Team
+<u/Georgy_K_Zhukov>: /u/spez,
 
-Q: /u/spez, Yesterday /r/AskHistorians was approached about being part of the A/B testing for this new 'subreddit suggestion' system you are planning for mobile and told that it "*might drive some new traffic to your subreddit*." We also were told to "*let us know if you have any questions, or see any problems*." Well, to be frank, we *do* have questions, and we *do* see problems, but when we responded stressing /r/AskHistorians' well-known opposition to default status and asking for more information about what this new system looked like we were told, "*I'm trying to get the right answers for you, but haven't tracked anyone down yet. However, I do know that this is a topic that u/spez will be covering in his AMA in r/announcements tomorrow morning, at least in regards to the way defaults work currently and what we're looking at for the future*." Unfortunately, this answer leaves us without any further information. So /u/spez, could you please provide us with more information about what inclusion in the A/B test entails, what the long term plan is, and whether subreddits will be able to opt out, or otherwise control how they are included. Regards, Zhukov and the AH Mod Team
-A: The short-term goal is to find communities that reflect the best of Reddit and include them in some onboarding experiments we are running. We don't want to include people against their will or cause harm to communities. Happy to chat further once this AMA dies down.
+Yesterday /r/AskHistorians was approached about being part of the A/B testing for this new 'subreddit suggestion' system you are planning for mobile and told that it "*might drive some new traffic to your subreddit*." We also were told to "*let us know if you have any questions, or see any problems*."
+
+Well, to be frank, we *do* have questions, and we *do* see problems, but when we responded stressing /r/AskHistorians' well-known opposition to default status and asking for more information about what this new system looked like we were told, "*I'm trying to get the right answers for you, but haven't tracked anyone down yet. However, I do know that this is a topic that u/spez will be covering in his AMA in r/announcements tomorrow morning, at least in regards to the way defaults work currently and what we're looking at for the future*."
+
+Unfortunately, this answer leaves us without any further information. So /u/spez, could you please provide us with more information about what inclusion in the A/B test entails, what the long term plan is, and whether subreddits will be able to opt out, or otherwise control how they are included.
+
+Regards, 
+
+Zhukov and the AH Mod Team
+
+<u/spez>: The short-term goal is to find communities that reflect the best of Reddit and include them in some onboarding experiments we are running. We don't want to include people against their will or cause harm to communities. Happy to chat further once this AMA dies down.

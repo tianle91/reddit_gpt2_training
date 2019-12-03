@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit in 2016
 
-Title: Reddit in 2016
-
-Body: Hi All,
+Hi All,
 
 Now that 2015 is in the books, it’s a good time to reflect on where we are and where we are going. Since I returned last summer, my goal has been to bring a sense of calm; to rebuild our relationship with our users and moderators; and to improve the fundamentals of our business so that we can focus on making you (our users), those that work here, and the world in general, proud of Reddit. Reddit’s mission is to help people discover places where they can be themselves and to empower the community to flourish.
 
@@ -24,8 +22,12 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
 
-Q: What do you think?
-A: It does seem like the Reddit community has become more bitter and divided, with some groups actively protesting against moderators and large communities. Do you have any plans to try to address the gap between groups like moderators and subredditcancer/undelete?
+<u/kerovon>: It does seem like the Reddit community has become more bitter and divided, with some groups actively protesting against moderators and large communities. Do you have any plans to try to address the gap between groups like moderators and subredditcancer/undelete?
 
-Q: It does seem like the Reddit community has become more bitter and divided, with some groups actively protesting against moderators and large communities. Do you have any plans to try to address the gap between groups like moderators and subredditcancer/undelete?
-A: > It does seem like the Reddit community has become more bitter and divided I believe that's a side effect of our community broadening. As I mentioned elsewhere, improving the front page algorithm and addressing the default situation will go a long way. We're seeing the effects of a bunch of people who have wildly differing viewpoints crammed into a small room. My dear friend, first Reddit employee, and smartest guy on the planet, u/KeyserSosa, is hard at work on the problem. (Sorry for calling you out, Chris)
+<u/spez>: > It does seem like the Reddit community has become more bitter and divided
+
+I believe that's a side effect of our community broadening. As I mentioned elsewhere,  improving the front page algorithm and addressing the default situation will go a long way. We're seeing the effects of a bunch of people who have wildly differing viewpoints crammed into a small room.
+
+My dear friend, first Reddit employee, and smartest guy on the planet, u/KeyserSosa, is hard at work on the problem.
+
+(Sorry for calling you out, Chris)

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,9 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: I just want the option of seeing only legacy profiles. The new ones are so clunky and ugly.
+<u/RetroSplicer>: I just want the option of seeing only legacy profiles. The new ones are so clunky and ugly. 
 
-Q: I just want the option of seeing only legacy profiles. The new ones are so clunky and ugly.
-A: Yes, we're adding an option for the legacy profiles while we finish the new ones. The team is all hands on deck finishing the redesign, which means we've slowed on the new profiles. Our plan is to pause the rollout, give an option to use the legacy version, and finish the profiles with the redesign, taking into account the feedback we've received so far.
+<u/spez>: Yes, we're adding an option for the legacy profiles while we finish the new ones.
+
+The team is all hands on deck finishing the redesign, which means we've slowed on the new profiles. Our plan is to pause the rollout, give an option to use the legacy version, and finish the profiles with the redesign, taking into account the feedback we've received so far.
+

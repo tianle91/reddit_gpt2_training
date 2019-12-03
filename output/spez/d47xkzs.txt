@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk about Orlando
 
-Title: Let's talk about Orlando
-
-Body: Hi All,
+Hi All,
 
 What happened in Orlando this weekend was a national tragedy. Let’s remember that first and foremost, this was a devastating and visceral human experience that many individuals and whole communities were, and continue to be, affected by. In the grand scheme of things, this is what is most important today.
 
@@ -23,8 +21,6 @@ In the wake of this weekend, we will be making a handful of technology and proce
 
 Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time. 
 
-Q: What do you think?
-A: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything?
+<u/ghostsnstufx>: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything?
 
-Q: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything?
-A: Their response is [here](https://www.reddit.com/r/news/comments/4nsiw1/state_of_the_subreddit_and_the_orlando_shooting/).
+<u/spez>: Their response is [here](https://www.reddit.com/r/news/comments/4nsiw1/state_of_the_subreddit_and_the_orlando_shooting/).

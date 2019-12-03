@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: For your reading pleasure, our 2015 Transparency Report
 
-Title: For your reading pleasure, our 2015 Transparency Report
-
-Body: In 2014, we published our first Transparency Report, which can be found [here](http://www.reddit.com/wiki/transparency/2014). We made a commitment to you to publish an annual report, detailing government and law enforcement agency requests for private information about our users. In keeping with that promise, we’ve published our [2015 transparency report](https://www.reddit.com/wiki/transparency/2015). 
+In 2014, we published our first Transparency Report, which can be found [here](http://www.reddit.com/wiki/transparency/2014). We made a commitment to you to publish an annual report, detailing government and law enforcement agency requests for private information about our users. In keeping with that promise, we’ve published our [2015 transparency report](https://www.reddit.com/wiki/transparency/2015). 
 
 We hope that sharing this information will help you better understand our [Privacy Policy](https://www.reddit.com/help/privacypolicy) and demonstrate our commitment for Reddit to remain a place that actively encourages authentic conversation.
 
@@ -23,8 +21,12 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
 
 
-Q: What do you think?
-A: [Last time you updated policies it included this line](https://archive.is/RHzRx): >We may share information if we believe your actions are inconsistent with our user agreements, rules, or other Reddit policies, or to protect the rights, property, and safety of ourselves and others; How many times have you divulged users private information due to reddit's "beliefs"?
+<u/CuilRunnings>:  [Last time you updated policies it included this line](https://archive.is/RHzRx):
+      
+>We may share information if we believe your actions are inconsistent with our user agreements, rules, or other Reddit policies, or to protect the rights, property, and safety of ourselves and others;
+        
+How many times have you divulged users private information due to reddit's "beliefs"?
 
-Q: [Last time you updated policies it included this line](https://archive.is/RHzRx): >We may share information if we believe your actions are inconsistent with our user agreements, rules, or other Reddit policies, or to protect the rights, property, and safety of ourselves and others; How many times have you divulged users private information due to reddit's "beliefs"?
-A: To third parties? Never that I can recall. But, if we believe you're a spammer, yes, we'll read your PMs (PM spam is very common). If you make a threat of violence (e.g. suicide or bomb threat), we will investigate to see if there's something we should do. The latter situation is relatively rare.
+<u/spez>: To third parties? Never that I can recall.
+
+But, if we believe you're a spammer, yes, we'll read your PMs (PM spam is very common). If you make a threat of violence (e.g. suicide or bomb threat), we will investigate to see if there's something we should do. The latter situation is relatively rare.

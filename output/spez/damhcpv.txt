@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TIFU by editing some comments and creating an unnecessary controversy.
 
-Title: TIFU by editing some comments and creating an unnecessary controversy.
-
-Body: **tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
+**tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
 
 Hi All,
 
@@ -34,8 +32,6 @@ Steve
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
 
 
-Q: What do you think?
-A: Yeah I've been a daily user of Reddit for 4+ years now and I truly don't care. I like Reddit. You can do whatever you want and I wont stop coming here. So just saying. You probably dont hear this side too often.
+<u/enginears>: Yeah I've been a daily user of Reddit for 4+ years now and I truly don't care. I like Reddit. You can do whatever you want and I wont stop coming here. So just saying. You probably dont hear this side too often. 
 
-Q: Yeah I've been a daily user of Reddit for 4+ years now and I truly don't care. I like Reddit. You can do whatever you want and I wont stop coming here. So just saying. You probably dont hear this side too often.
-A: Thank you. Appreciate the sentiment. At the end of the day, we just want you all to have a pleasant time.
+<u/spez>: Thank you. Appreciate the sentiment. At the end of the day, we just want you all to have a pleasant time.

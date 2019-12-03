@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,11 +25,10 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: Hey Steve, I wanted to ask, if the name is *R*eddit now with a capitalized R. Is the word spelt Sub*r*eddit or Sub*R*eddit? Anyway, here's to a drama free 2017.
+<u/AkashicRecorder>: Hey Steve, I wanted to ask, if the name is *R*eddit now with a capitalized R. Is the word spelt Sub*r*eddit or Sub*R*eddit?
 
-Q: Hey Steve, I wanted to ask, if the name is *R*eddit now with a capitalized R. Is the word spelt Sub*r*eddit or Sub*R*eddit? Anyway, here's to a drama free 2017.
-A: They'll have to pry my lowercase `r` from from my cold, dead hands
+Anyway, here's to a drama free 2017.
 
-Q: They'll have to pry my lowercase `r` from from my cold, dead hands
-A: Value #1: Evolve.
+<u/Drunken_Economist>: They'll have to pry my lowercase `r` from from my cold, dead hands
+
+<u/spez>: Value #1: Evolve.

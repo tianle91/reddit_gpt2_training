@@ -1,8 +1,5 @@
-In subreddit: ModSupport
+<r/ModSupport>: Sub recovery question
 
-Title: Sub recovery question
+[deleted]
 
-Body: [deleted]
-
-Q: What do you think?
-A: fixed
+<u/spez>: fixed

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
 
-Title: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
-
-Body: Dearest Redditors,
+Dearest Redditors,
 
 We have been hard at work the past few months adding features, improving our ads business, and protecting users. Here is some of the stuff we have been up to:
 
@@ -24,8 +22,6 @@ Steve
 
 u: I'm out for now. Will check back later. Thanks!
 
-Q: What do you think?
-A: What celebratory festivities do you admins have planned for us on November 9th?
+<u/Luna_LoveWell>: What celebratory festivities do you admins have planned for us on November 9th?
 
-Q: What celebratory festivities do you admins have planned for us on November 9th?
-A: I think we might just turn the site off.
+<u/spez>: I think we might just turn the site off.

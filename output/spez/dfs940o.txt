@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,12 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: I have a question regarding the safeguards you have in place (generally speaking) when it comes to illegal content on Reddit. I'm not very fluent in the law, but are you a mandatory reporter in that, should illegal content be found on your site, you are responsible for reporting it to the appropriate authorities? If so, how do you go about handling that? Reddit is very large, so I'm assuming there would be automatic reporting? If this is the case, how do you reduce false positives? If not, how do you handle such a large load?
+<u/iNeverQuiteWas>: I have a question regarding the safeguards you have in place (generally speaking) when it comes to illegal content on Reddit. I'm not very fluent in the law, but are you a mandatory reporter in that, should illegal content be found on your site, you are responsible for reporting it to the appropriate authorities? If so, how do you go about handling that? Reddit is very large, so I'm assuming there would be automatic reporting? If this is the case, how do you reduce false positives? If not, how do you handle such a large load?
 
-Q: I have a question regarding the safeguards you have in place (generally speaking) when it comes to illegal content on Reddit. I'm not very fluent in the law, but are you a mandatory reporter in that, should illegal content be found on your site, you are responsible for reporting it to the appropriate authorities? If so, how do you go about handling that? Reddit is very large, so I'm assuming there would be automatic reporting? If this is the case, how do you reduce false positives? If not, how do you handle such a large load?
-A: > you are responsible for reporting it to the appropriate authorities? It depends on the nature of the request. For something like child pornography, yes, we have to report. For something like how to make drugs, we don't. It doesn't mean we won't see a subpoena, though. > If so, how do you reduce false positives? If not, how do you handle such a large load? It's a lot of work, to be honest. We don't automatically do anything in this area. If it involves turning over information or removing content, we consider carefully.
+<u/spez>: > you are responsible for reporting it to the appropriate authorities?
+
+It depends on the nature of the request. For something like child pornography, yes, we have to report. For something like how to make drugs, we don't. It doesn't mean we won't see a subpoena, though.
+
+> If so, how do you reduce false positives? If not, how do you handle such a large load?
+
+It's a lot of work, to be honest. We don't automatically do anything in this area. If it involves turning over information or removing content, we consider carefully.

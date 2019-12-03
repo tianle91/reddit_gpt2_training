@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk content. AMA.
 
-Title: Let's talk content. AMA.
-
-Body: We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
+We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
 
 As we grew, I became increasingly uncomfortable projecting my worldview on others. More practically, I didn’t have time to pass judgement on everything, so I decided to judge nothing. 
 
@@ -41,17 +39,40 @@ edit: attempted to clarify harassment based on our existing policy
 
 update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-Q: What do you think?
-A: Recently you made [statements](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszykfo?context=3) that many mods have [taken to imply a reduction in control that moderators have over their subreddits](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszykfo). Much of the concern around this is the potential inability to curate subreddits to the exacting standards that some mod teams try to enforce, especially in regards to hateful and offensive comments, which apparently would still be accessible even after a mod removes them. On the other hand, statements made here and elsewhere point to admins putting more consideration into the content that can be found on reddit, so all in all, messages seem very mixed. Could you please clarify a) exactly what you mean/envision when you say *"there should also be some mechanism to see what was removed. It doesn't have to be easy, but it shouldn't be impossible."* and b) whether that is was an off the cuff statement, or a peek at upcoming changes to the reddit architecture?
+<u/Georgy_K_Zhukov>: Recently you made [statements](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszykfo?context=3) that many mods have [taken to imply a reduction in control that moderators have over their subreddits](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszykfo). Much of the concern around this is the potential inability to curate subreddits to the exacting standards that some mod teams try to enforce, especially in regards to hateful and offensive comments, which apparently would still be accessible even after a mod removes them. On the other hand, statements made here and elsewhere point to admins putting more consideration into the content that can be found on reddit, so all in all, messages seem very mixed.
 
-Q: Recently you made [statements](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszykfo?context=3) that many mods have [taken to imply a reduction in control that moderators have over their subreddits](https://www.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/cszykfo). Much of the concern around this is the potential inability to curate subreddits to the exacting standards that some mod teams try to enforce, especially in regards to hateful and offensive comments, which apparently would still be accessible even after a mod removes them. On the other hand, statements made here and elsewhere point to admins putting more consideration into the content that can be found on reddit, so all in all, messages seem very mixed. Could you please clarify a) exactly what you mean/envision when you say *"there should also be some mechanism to see what was removed. It doesn't have to be easy, but it shouldn't be impossible."* and b) whether that is was an off the cuff statement, or a peek at upcoming changes to the reddit architecture?
-A: There are many reasons for content being removed from a particular subreddit, but it's not at all clear right now what's going on. Let me give you a few examples: * The user deleted their post. If that's what they want to do, that's fine, it's gone, but we should at least say so, so that the mods or admins don't get accused of censorship. * A mod deleted the post because it was off topic. We should say so, and we should probably be able to see what it was *somehow* so we can better learn the rules. * A mod deleted the post because it was spam. We can put these in a spam area. * A mod deleted a post from a user that constantly trolls and harasses them. This is where I'd really like to invest in tooling, so the mods don't have to waste time in these one-on-one battles. edit: A spam area makes more sense than hiding it entirely.
+Could you please clarify a) exactly what you mean/envision when you say *"there should also be some mechanism to see what was removed. It doesn't have to be easy, but it shouldn't be impossible."* and b) whether that is was an off the cuff statement, or a peek at upcoming changes to the reddit architecture?
 
-Q: There are many reasons for content being removed from a particular subreddit, but it's not at all clear right now what's going on. Let me give you a few examples: * The user deleted their post. If that's what they want to do, that's fine, it's gone, but we should at least say so, so that the mods or admins don't get accused of censorship. * A mod deleted the post because it was off topic. We should say so, and we should probably be able to see what it was *somehow* so we can better learn the rules. * A mod deleted the post because it was spam. We can put these in a spam area. * A mod deleted a post from a user that constantly trolls and harasses them. This is where I'd really like to invest in tooling, so the mods don't have to waste time in these one-on-one battles. edit: A spam area makes more sense than hiding it entirely.
-A: I really hope something like this gets implemented! It could be very valuable. >The user deleted their post. If that's what they want to do, that's fine, it's gone, but we should at least say so, so that the mods or admins don't get accused of censorship. *[deleted by user]* >A mod deleted the post because it was off topic. We should say so, and we should probably be able to see what it was somehow so we can better learn the rules. *[hidden by moderator. reason: off topic]* >A mod deleted the post because it was spam. No need for anyone to see this at all. *[deleted by mod]* (with no option to see the post at all) >A mod deleted a post from a user that constantly trolls and harasses them. This is where I'd really like to invest in tooling, so the mods don't have to waste time in these one-on-one battles. Can't you just straight up ban these people?
+<u/spez>: There are many reasons for content being removed from a particular subreddit, but it's not at all clear right now what's going on. Let me give you a few examples:
 
-Q: I really hope something like this gets implemented! It could be very valuable. >The user deleted their post. If that's what they want to do, that's fine, it's gone, but we should at least say so, so that the mods or admins don't get accused of censorship. *[deleted by user]* >A mod deleted the post because it was off topic. We should say so, and we should probably be able to see what it was somehow so we can better learn the rules. *[hidden by moderator. reason: off topic]* >A mod deleted the post because it was spam. No need for anyone to see this at all. *[deleted by mod]* (with no option to see the post at all) >A mod deleted a post from a user that constantly trolls and harasses them. This is where I'd really like to invest in tooling, so the mods don't have to waste time in these one-on-one battles. Can't you just straight up ban these people?
-A: >Can't you just straight up ban these people? They come back. One hundreds of accounts. I'm not exaggerating or kidding when I say hundreds. I have a couple users that have been trolling for over a year and a half. Banning them does nothing, they just hop onto another account.
+* The user deleted their post. If that's what they want to do, that's fine, it's gone, but we should at least say so, so that the mods or admins don't get accused of censorship.
+* A mod deleted the post because it was off topic. We should say so, and we should probably be able to see what it was *somehow* so we can better learn the rules.
+* A mod deleted the post because it was spam. We can put these in a spam area.
+* A mod deleted a post from a user that constantly trolls and harasses them. This is where I'd really like to invest in tooling, so the mods don't have to waste time in these one-on-one battles.
 
-Q: >Can't you just straight up ban these people? They come back. One hundreds of accounts. I'm not exaggerating or kidding when I say hundreds. I have a couple users that have been trolling for over a year and a half. Banning them does nothing, they just hop onto another account.
-A: That's why I keep saying, "build better tools." We can see this in the data, and mods shouldn't have to deal with it.
+edit: A spam area makes more sense than hiding it entirely.
+
+<u/TheBQE>: I really hope something like this gets implemented!  It could be very valuable.  
+
+>The user deleted their post. If that's what they want to do, that's fine, it's gone, but we should at least say so, so that the mods or admins don't get accused of censorship.
+
+*[deleted by user]*
+
+>A mod deleted the post because it was off topic. We should say so, and we should probably be able to see what it was somehow so we can better learn the rules.
+
+*[hidden by moderator. reason: off topic]*
+
+>A mod deleted the post because it was spam. No need for anyone to see this at all.
+
+*[deleted by mod]* (with no option to see the post at all)
+
+>A mod deleted a post from a user that constantly trolls and harasses them. This is where I'd really like to invest in tooling, so the mods don't have to waste time in these one-on-one battles.
+
+Can't you just straight up ban these people?  
+
+
+<u/GustavoFrings>: >Can't you just straight up ban these people?
+
+They come back. One hundreds of accounts. I'm not exaggerating or kidding when I say hundreds. I have a couple users that have been trolling for over a year and a half. Banning them does nothing, they just hop onto another account. 
+
+<u/spez>: That's why I keep saying, "build better tools." We can see this in the data, and mods shouldn't have to deal with it.

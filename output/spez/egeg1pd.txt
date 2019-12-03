@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
 
-Title: Reddit’s 2018 transparency report (and maybe other stuff)
-
-Body: Hi all,
+Hi all,
 
 Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
 
@@ -24,8 +22,16 @@ edit: Thanks for the silver you cheap bastards.
 
 update: I'm out for now. Will check back later.
 
-Q: What do you think?
-A: Why do I have to opt-out of the redesign over and over again? And which moron came up with it anyway?
+<u/ginosanti>: Why do I have to opt-out of the redesign over and over again?
 
-Q: Why do I have to opt-out of the redesign over and over again? And which moron came up with it anyway?
-A: > Why do I have to opt-out of the redesign over and over again? This is a hugely annoying and embarrassing bug. We believe we've fixed most of the causes, but to be certain, we've rewritten the entire system that directs traffic to the old site vs the new site to both work as expected and to be a lot faster, and that should launch soon (days, not weeks) > And which moron came up with it anyway? Me. We wanted to both bring new users to the new site but also give all users a choice indefinitely, which made things technically complex. That said, we are all frustrated that we didn't do a better job here.
+And which moron came up with it anyway?
+
+<u/spez>: > Why do I have to opt-out of the redesign over and over again?
+
+This is a hugely annoying and embarrassing bug. We believe we've fixed most of the causes, but to be certain, we've rewritten the entire system that directs traffic to the old site vs the new site to both work as expected and to be a lot faster, and that should launch soon (days, not weeks)
+
+> And which moron came up with it anyway?
+
+Me. We wanted to both bring new users to the new site but also give all users a choice indefinitely, which made things technically complex.
+
+That said, we are all frustrated that we didn't do a better job here.

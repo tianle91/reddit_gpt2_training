@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Content Policy Update
 
-Title: Content Policy Update
-
-Body: Today we are releasing an update to our [Content Policy](https://www.reddit.com/help/contentpolicy). Our goal was to consolidate the various rules and policies that have accumulated over the years into a single set of guidelines we can point to.
+Today we are releasing an update to our [Content Policy](https://www.reddit.com/help/contentpolicy). Our goal was to consolidate the various rules and policies that have accumulated over the years into a single set of guidelines we can point to.
 
 Thank you to all of you who provided feedback throughout this process. Your thoughts and opinions were invaluable. This is not the last time our policies will change, of course. They will continue to evolve along with Reddit itself.
 
@@ -14,8 +12,10 @@ I believe these policies strike the right balance.
 
 update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
 
-Q: What do you think?
-A: Regarding Quarantining: Would you ever quarantine a large subreddit like /r/wtf? > A community will be Quarantined on Reddit when we deem its content to be extremely offensive or upsetting to the average redditor. One could argue that the very gorey types of pictures (edit: and videos, like of people dying) that appear on /r/wtf would be pretty upsetting. I know I've accidentally clicked on /r/wtf images when I temporarily disabled my own RES filters, and honestly of all things on the site, some of the stuff there is more troubling to me than discriminatory self text posts.
+<u/Xet>: Regarding Quarantining: Would you ever quarantine a large subreddit like /r/wtf?
 
-Q: Regarding Quarantining: Would you ever quarantine a large subreddit like /r/wtf? > A community will be Quarantined on Reddit when we deem its content to be extremely offensive or upsetting to the average redditor. One could argue that the very gorey types of pictures (edit: and videos, like of people dying) that appear on /r/wtf would be pretty upsetting. I know I've accidentally clicked on /r/wtf images when I temporarily disabled my own RES filters, and honestly of all things on the site, some of the stuff there is more troubling to me than discriminatory self text posts.
-A: No, because the mods of r/wtf are generally good about tagging things as NSFW.
+> A community will be Quarantined on Reddit when we deem its content to be extremely offensive or upsetting to the average redditor.
+
+One could argue that the very gorey types of pictures (edit: and videos, like of people dying) that appear on /r/wtf would be pretty upsetting. I know I've accidentally clicked on /r/wtf images when I temporarily disabled my own RES filters, and honestly of all things on the site, some of the stuff there is more troubling to me than discriminatory self text posts.
+
+<u/spez>: No, because the mods of r/wtf are generally good about tagging things as NSFW.

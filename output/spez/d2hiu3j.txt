@@ -1,8 +1,6 @@
-In subreddit: ModSupport
+<r/ModSupport>: A few updates on what has been keeping us busy
 
-Title: A few updates on what has been keeping us busy
-
-Body: Hi All,
+Hi All,
 
 I want to give you all an update with the things that are keeping us busy, and hopefully as a result, making you less busy:
 
@@ -18,8 +16,6 @@ We appreciate all you do for Reddit as moderators, and we appreciate seeing the 
 
 – The Reddit Team
 
-Q: What do you think?
-A: When can we expect the new modmail? Closer to a month or a year?
+<u/roionsteroids>: When can we expect the new modmail? Closer to a month or a year?
 
-Q: When can we expect the new modmail? Closer to a month or a year?
-A: We have a goal, but I'm not sharing it lest we miss it, and you all [take your disappointment out on me](https://img.buzzfeed.com/buzzfeed-static/static/2015-06/15/5/enhanced/webdr06/anigif_enhanced-19641-1434361510-6.gif).
+<u/spez>: We have a goal, but I'm not sharing it lest we miss it, and you all [take your disappointment out on me](https://img.buzzfeed.com/buzzfeed-static/static/2015-06/15/5/enhanced/webdr06/anigif_enhanced-19641-1434361510-6.gif).

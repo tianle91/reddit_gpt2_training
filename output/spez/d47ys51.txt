@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk about Orlando
 
-Title: Let's talk about Orlando
-
-Body: Hi All,
+Hi All,
 
 What happened in Orlando this weekend was a national tragedy. Let’s remember that first and foremost, this was a devastating and visceral human experience that many individuals and whole communities were, and continue to be, affected by. In the grand scheme of things, this is what is most important today.
 
@@ -23,20 +21,16 @@ In the wake of this weekend, we will be making a handful of technology and proce
 
 Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time. 
 
-Q: What do you think?
-A: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything?
+<u/ghostsnstufx>: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything?
 
-Q: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything?
-A: Their response is [here](https://www.reddit.com/r/news/comments/4nsiw1/state_of_the_subreddit_and_the_orlando_shooting/).
+<u/spez>: Their response is [here](https://www.reddit.com/r/news/comments/4nsiw1/state_of_the_subreddit_and_the_orlando_shooting/).
 
-Q: Their response is [here](https://www.reddit.com/r/news/comments/4nsiw1/state_of_the_subreddit_and_the_orlando_shooting/).
-A: What do you have to say about one of /r/mods telling a user to "Kill yourself"?
+<u/CaptainDogeSparrow>: What do you have to say about one of /r/mods telling a user to "Kill yourself"?
 
-Q: What do you have to say about one of /r/mods telling a user to "Kill yourself"?
-A: It's totally inappropriate and that person is no longer a mod.
+<u/spez>: It's totally inappropriate and that person is no longer a mod.
 
-Q: It's totally inappropriate and that person is no longer a mod.
-A: C'mon, none of us here are stupid. That mod account was 4 months old, it was clearly someone's sock puppet and it's highly likely that person is another mod on the team. No account goes from new to moderator of a default sub (with almost no history) in 4 months. This kind of crud threatens your business, the business of Reddit Inc, and you'd better start taking it more seriously.
+<u/Buelldozer>: C'mon, none of us here are stupid. That mod account was 4 months old, it was clearly someone's sock puppet and it's highly likely that person is another mod on the team. No account goes from new to moderator of a default sub (with almost no history) in 4 months.
 
-Q: C'mon, none of us here are stupid. That mod account was 4 months old, it was clearly someone's sock puppet and it's highly likely that person is another mod on the team. No account goes from new to moderator of a default sub (with almost no history) in 4 months. This kind of crud threatens your business, the business of Reddit Inc, and you'd better start taking it more seriously.
-A: My understanding is it was a new account from an old mod. His original account is also gone. He stepped down about a year ago when he got a new job, and returned a few months ago.
+This kind of crud threatens your business, the business of Reddit Inc, and you'd better start taking it more seriously.
+
+<u/spez>: My understanding is it was a new account from an old mod. His original account is also gone. He stepped down about a year ago when he got a new job, and returned a few months ago.

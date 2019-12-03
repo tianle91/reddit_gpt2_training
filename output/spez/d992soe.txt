@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
 
-Title: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
-
-Body: Dearest Redditors,
+Dearest Redditors,
 
 We have been hard at work the past few months adding features, improving our ads business, and protecting users. Here is some of the stuff we have been up to:
 
@@ -24,14 +22,10 @@ Steve
 
 u: I'm out for now. Will check back later. Thanks!
 
-Q: What do you think?
-A: Where do you see reddit in 10 years?
+<u/December21st>: Where do you see reddit in 10 years?
 
-Q: Where do you see reddit in 10 years?
-A: Reddit search might work by then.
+<u/spez>: Reddit search might work by then.
 
-Q: Reddit search might work by then.
-A: Where do you see me in 10 years?
+<u/fuzzysqurl>: Where do you see me in 10 years?
 
-Q: Where do you see me in 10 years?
-A: On Reddit.
+<u/spez>: On Reddit.

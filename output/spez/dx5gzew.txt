@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,10 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: Spez, How good, legitimately, do you think the reddit user base is at identifying suspicious accounts? These don't just include Russian bots/accounts but also marketing accounts etc. As such, if as a whole, we're bad at it, what can we do to improve?
+<u/AskAboutMyDumbSite>: Spez, 
 
-Q: Spez, How good, legitimately, do you think the reddit user base is at identifying suspicious accounts? These don't just include Russian bots/accounts but also marketing accounts etc. As such, if as a whole, we're bad at it, what can we do to improve?
-A: That's a hard question. Let me have my team follow up with you.
+How good, legitimately, do you think the reddit user base is at identifying suspicious accounts? These don't just include Russian bots/accounts but also marketing accounts etc. 
+
+As such, if as a whole, we're bad at it, what can we do to improve? 
+
+<u/spez>: That's a hard question. Let me have my team follow up with you.

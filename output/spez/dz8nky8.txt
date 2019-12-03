@@ -1,8 +1,6 @@
-In subreddit: science
+<r/science>: r/science will no longer be hosting AMAs
 
-Title: r/science will no longer be hosting AMAs
-
-Body: [4 years ago](https://www.reddit.com/r/science/comments/1vqimu/announcing_the_rscience_ama_series/) we announced the start of our program of hosting AMAs on r/science.  Over that time we've brought some big names in, including [Stephen Hawking](https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_ama_answers/), [Michael Mann](https://www.reddit.com/r/science/comments/1yj3o7/science_ama_series_im_michael_e_mann/), [Francis Collins](https://www.reddit.com/r/science/comments/4gcwwy/science_ama_series_i_am_francis_collins_current/), and even [Monsanto!](https://www.reddit.com/r/science/comments/3b6mr4/science_ama_series_im_fred_perlak_a_long_time/).  All told we've hosted more than 1200 AMAs in this time.
+[4 years ago](https://www.reddit.com/r/science/comments/1vqimu/announcing_the_rscience_ama_series/) we announced the start of our program of hosting AMAs on r/science.  Over that time we've brought some big names in, including [Stephen Hawking](https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_ama_answers/), [Michael Mann](https://www.reddit.com/r/science/comments/1yj3o7/science_ama_series_im_michael_e_mann/), [Francis Collins](https://www.reddit.com/r/science/comments/4gcwwy/science_ama_series_i_am_francis_collins_current/), and even [Monsanto!](https://www.reddit.com/r/science/comments/3b6mr4/science_ama_series_im_fred_perlak_a_long_time/).  All told we've hosted more than 1200 AMAs in this time.
 
 
 We've proudly given a voice to the scientists working on the science, and given the community here a chance to ask them directly about it.  We're grateful to our many guests who offered their time for free, and took their time to answer questions from random strangers on the internet.
@@ -16,8 +14,28 @@ We aren't able to highlight this unique content, and readers have been largely u
 
 Rather than march on giving false hopes of visibility to our many AMA guests, we've decided to call an end to the program.
 
-Q: What do you think?
-A: Wonder if u/spez cares that Reddit is losing a well loved feature.
+<u/PHealthy>: Wonder if u/spez cares that Reddit is losing a well loved feature.
 
-Q: Wonder if u/spez cares that Reddit is losing a well loved feature.
-A: The decision for r/science to no longer host AMAs is disappointing, and blaming us at Reddit is counterproductive. u/nallen, having met you personally a number of times and after personally trying to work through this issue with you over the past months, I'm disappointed you've taken this approach to mislead your community about what's going on. So here's what's really going on: **How it used to work** r/science used to be a default community, which means it was one of one hundred communities that made up the front page of Reddit for most of 2011–2016. As a result, r/science and the other defaults had high visibility at the expense of non\-default communities. r/science used to promote AMAs by removing other more popular posts so that the AMA could be top of r/science without the votes. This, combined with being a default community, sent a lot of traffic to these AMAs. **How it works today** We replaced the defaults with r/popular, which is basically a SFW version of r/all. This puts all communities on an equal footing. We don't allow the post manipulation for obvious reasons. Here is a [discussion](https://www.reddit.com/r/ModSupport/comments/77o0wm/friday_discussion_thread_what_unique_challenges/donto0j/?context=3) we had with u/nallen on this topic months ago. We are indeed testing new sorting algorithms, but if anything they should help communities like r/science get more visibility. One of our engineers recently wrote a [pretty good post](https://www.reddit.com/r/TheoryOfReddit/comments/8kf5wm/reddits_first_pass_ranker/) about it. **Going forward** Regardless of u/nallen's decision, we will continue to work to improve our onboarding and sorting so that users get to see more of what they love, and we have in mind some specific features that will help promote "event" posts \(AMAs, game threads, episode threads\) in the future.
+<u/spez>: The decision for r/science to no longer host AMAs is disappointing, and blaming us at Reddit is counterproductive.
+
+u/nallen, having met you personally a number of times and after personally trying to work through this issue with you over the past months, I'm disappointed you've taken this approach to mislead your community about what's going on.
+
+So here's what's really going on:
+
+**How it used to work**
+
+r/science used to be a default community, which means it was one of one hundred communities that made up the front page of Reddit for most of 2011–2016. As a result, r/science and the other defaults had high visibility at the expense of non\-default communities.
+
+r/science used to promote AMAs by removing other more popular posts so that the AMA could be top of r/science without the votes. This, combined with being a default community, sent a lot of traffic to these AMAs.
+
+**How it works today**
+
+We replaced the defaults with r/popular, which is basically a SFW version of r/all. This puts all communities on an equal footing.
+
+We don't allow the post manipulation for obvious reasons. Here is a [discussion](https://www.reddit.com/r/ModSupport/comments/77o0wm/friday_discussion_thread_what_unique_challenges/donto0j/?context=3) we had with u/nallen on this topic months ago.
+
+We are indeed testing new sorting algorithms, but if anything they should help communities like r/science get more visibility. One of our engineers recently wrote a [pretty good post](https://www.reddit.com/r/TheoryOfReddit/comments/8kf5wm/reddits_first_pass_ranker/) about it.
+
+**Going forward**
+
+Regardless of u/nallen's decision, we will continue to work to improve our onboarding and sorting so that users get to see more of what they love, and we have in mind some specific features that will help promote "event" posts \(AMAs, game threads, episode threads\) in the future.

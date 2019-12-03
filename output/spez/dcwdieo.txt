@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,14 +25,14 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: New website? I feel like the current Reddit UI is so iconic I don't even know how else I'd picutre it
+<u/RiceOnTheRun>: New website?
 
-Q: New website? I feel like the current Reddit UI is so iconic I don't even know how else I'd picutre it
-A: I'd like the new version to feel like a Rolls Royce: it feels classic, but is actually modern. The current version is more like a Chevy Vega.
+I feel like the current Reddit UI is so iconic I don't even know how else I'd picutre it
 
-Q: I'd like the new version to feel like a Rolls Royce: it feels classic, but is actually modern. The current version is more like a Chevy Vega.
-A: Is there another example of this "Rolls Royce" that already exists, or something similar to it? Just trying to picture how it could change.
+<u/spez>: I'd like the new version to feel like a Rolls Royce: it feels classic, but is actually modern.
 
-Q: Is there another example of this "Rolls Royce" that already exists, or something similar to it? Just trying to picture how it could change.
-A: Not a ton, but I'm thinking [something like this](http://digg.com/).
+The current version is more like a Chevy Vega.
+
+<u/[deleted]>: Is there another example of this "Rolls Royce" that already exists, or something similar to it? Just trying to picture how it could change.
+
+<u/spez>: Not a ton, but I'm thinking [something like this](http://digg.com/).

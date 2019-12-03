@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,10 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: So, what have you done to look into Russian interference on reddit?
+<u/[deleted]>: So, what have you done to look into Russian interference on reddit?
 
-Q: So, what have you done to look into Russian interference on reddit?
-A: I would love to be completely transparent about what we're doing here, but given the sensitive nature of the situation, I have to be vague. My apologies. Independent of any scrutiny, we take both the integrity of Reddit and the US elections extremely seriously. We're digging deeply. Chris (u/keysersosa, CTO) and I are personally leading the effort. When we have something to share, we will.
+<u/spez>: I would love to be completely transparent about what we're doing here, but given the sensitive nature of the situation, I have to be vague. My apologies.
+
+Independent of any scrutiny, we take both the integrity of Reddit and the US elections extremely seriously.
+
+We're digging deeply. Chris (u/keysersosa, CTO) and I are personally leading the effort. When we have something to share, we will.

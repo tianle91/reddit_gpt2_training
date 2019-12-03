@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: We are updating our Privacy Policy (effective Jan 1, 2016)
 
-Title: We are updating our Privacy Policy (effective Jan 1, 2016)
-
-Body: In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
+In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
 
 Keeping control in your hands is paramount to us, and this is our first consideration any time we change our privacy policy. Our overarching principle continues to be to request as little personally identifiable information as possible. To the extent that we store such information, we do not share it generally. Where there are exceptions to this, notably when you have given us explicit consent to do so, or in response to legal requests, we will spell them out clearly.
 
@@ -22,8 +20,8 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 edit: Thanks for all the feedback. I'm off for now.
 
-Q: What do you think?
-A: So, are you still not storing comment edits? That is, are we still able to completely wipe a comment by editing it to something else and then deleting it?
+<u/TheRighteousTyrant>: So, are you still not storing comment edits?
 
-Q: So, are you still not storing comment edits? That is, are we still able to completely wipe a comment by editing it to something else and then deleting it?
-A: That's correct.
+That is, are we still able to completely wipe a comment by editing it to something else and then deleting it?
+
+<u/spez>: That's correct.

@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,8 +41,20 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: I have been wondering, what is the ultimate goal for this? Is it to make Reddit easier to navigate and make more accessible? Is it to make Reddit more inviting to new users? Or maybe it's to make Reddit look like the new Modmail or Reddit mobile? What is the ultimate goal here?
+<u/Baldemoto>: I have been wondering, what is the ultimate goal for this? 
 
-Q: I have been wondering, what is the ultimate goal for this? Is it to make Reddit easier to navigate and make more accessible? Is it to make Reddit more inviting to new users? Or maybe it's to make Reddit look like the new Modmail or Reddit mobile? What is the ultimate goal here?
-A: There are multiple reasons: * Yes, make it easier to use generally * Yes, more inviting to new users * Increase developer speed. Rewrites are a last resort, but Reddit runs on a lot of old code, and development in the current code base is painfully slow.
+Is it to make Reddit easier to navigate and make more accessible?
+
+Is it to make Reddit more inviting to new users? 
+
+
+
+Or maybe it's to make Reddit look like the new Modmail or Reddit mobile?
+
+What is the ultimate goal here?
+
+<u/spez>: There are multiple reasons:
+
+* Yes, make it easier to use generally
+* Yes, more inviting to new users
+* Increase developer speed. Rewrites are a last resort, but Reddit runs on a lot of old code, and development in the current code base is painfully slow.

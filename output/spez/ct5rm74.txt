@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk content. AMA.
 
-Title: Let's talk content. AMA.
-
-Body: We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
+We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
 
 As we grew, I became increasingly uncomfortable projecting my worldview on others. More practically, I didn’t have time to pass judgement on everything, so I decided to judge nothing. 
 
@@ -41,14 +39,24 @@ edit: attempted to clarify harassment based on our existing policy
 
 update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others. There are many subreddits whose contents I and many others find offensive, but that alone is not justification for banning. /r/rapingwomen will be banned. They are encouraging people to rape. /r/coontown will be reclassified. The content there is offensive to many, but does not violate our current rules for banning. edit: elevating my reply below so more people can see it.
+<u/spez>: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others.
 
-Q: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others. There are many subreddits whose contents I and many others find offensive, but that alone is not justification for banning. /r/rapingwomen will be banned. They are encouraging people to rape. /r/coontown will be reclassified. The content there is offensive to many, but does not violate our current rules for banning. edit: elevating my reply below so more people can see it.
-A: > We'll consider banning subreddits that clearly violate the guidelines in my post I'm sure you guys have been considering it for quite a while, can you give us any idea which subs these might be?
+There are many subreddits whose contents I and many others find offensive, but that alone is not justification for banning.
 
-Q: > We'll consider banning subreddits that clearly violate the guidelines in my post I'm sure you guys have been considering it for quite a while, can you give us any idea which subs these might be?
-A: Sure. /r/rapingwomen will be banned. They are encouraging people to rape. /r/coontown will be reclassified. The content there is offensive to many, but does not violate our current rules for banning.
+/r/rapingwomen will be banned. They are encouraging people to rape.
+
+/r/coontown will be reclassified. The content there is offensive to many, but does not violate our current rules for banning.
+
+edit: elevating my reply below so more people can see it.
+
+
+
+<u/jstrydor>: > We'll consider banning subreddits that clearly violate the guidelines in my post
+
+I'm sure you guys have been considering it for quite a while, can you give us any idea which subs these might be?
+
+<u/spez>: Sure. /r/rapingwomen will be banned. They are encouraging people to rape.
+
+/r/coontown will be reclassified. The content there is offensive to many, but does not violate our current rules for banning.

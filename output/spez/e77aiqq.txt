@@ -1,8 +1,6 @@
-In subreddit: SubredditDrama
+<r/SubredditDrama>: It's time for another /u/spez AMA. It's also time for almost every top comment to be asking why T_D isn't banned
 
-Title: It's time for another /u/spez AMA. It's also time for almost every top comment to be asking why T_D isn't banned
-
-Body: /u/spez is dodging all questions regarding T_D
+/u/spez is dodging all questions regarding T_D
 
 Whole thread: https://old.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/ 
 
@@ -15,8 +13,6 @@ User asks an innocent question then edits it to ask about T_D after spez has alr
 
 Edit: /u/big_swinging_dicks points out that spez has made a response about T_D: https://old.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75wos8/ 
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: Yep. Come say hi.
+<u/spez>: Yep. Come say hi. 

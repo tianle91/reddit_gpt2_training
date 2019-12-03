@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,14 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: Hey /u/spez, on a scale of 1 to 944, how happy are you to not be Mark Zuckerberg today? A more serious note, thank you for your openness in this. It was already much appreciated in earlier years, but the current events really reminded me how amazing it really is that you’re doing this. Edit: whooaah gold?! Within a minute!? Thanks totally completely anonymous giver! Edit: triple gold?! Y’all are crazy and I love you. Have an amazing day.
+<u/jumja>: Hey /u/spez, on a scale of 1 to 944, how happy are you to not be Mark Zuckerberg today?
 
-Q: Hey /u/spez, on a scale of 1 to 944, how happy are you to not be Mark Zuckerberg today? A more serious note, thank you for your openness in this. It was already much appreciated in earlier years, but the current events really reminded me how amazing it really is that you’re doing this. Edit: whooaah gold?! Within a minute!? Thanks totally completely anonymous giver! Edit: triple gold?! Y’all are crazy and I love you. Have an amazing day.
-A: 943: Save 1 point for my mother, who I think would enjoy watching. In all seriousness, we feel somewhat vindicated. We have avoided collecting personal information since the beginning—sometimes to the detriment of our business—and will continue to do so going forward.
+A more serious note, thank you for your openness in this. It was already much appreciated in earlier years, but the current events really reminded me how amazing it really is that you’re doing this. 
+
+Edit: whooaah gold?! Within a minute!? Thanks totally completely anonymous giver! 
+
+Edit: triple gold?! Y’all are crazy and I love you. Have an amazing day. 
+
+<u/spez>: 943: Save 1 point for my mother, who I think would enjoy watching.
+
+In all seriousness, we feel somewhat vindicated. We have avoided collecting personal information since the beginning—sometimes to the detriment of our business—and will continue to do so going forward.

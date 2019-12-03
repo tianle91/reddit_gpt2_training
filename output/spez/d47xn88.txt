@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk about Orlando
 
-Title: Let's talk about Orlando
-
-Body: Hi All,
+Hi All,
 
 What happened in Orlando this weekend was a national tragedy. Let’s remember that first and foremost, this was a devastating and visceral human experience that many individuals and whole communities were, and continue to be, affected by. In the grand scheme of things, this is what is most important today.
 
@@ -23,14 +21,12 @@ In the wake of this weekend, we will be making a handful of technology and proce
 
 Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time. 
 
-Q: What do you think?
-A: What's Reddit's policy on posting pictures of events like this as they're unfolding?
+<u/BlarpUM>: What's Reddit's policy on posting pictures of events like this as they're unfolding?
 
-Q: What's Reddit's policy on posting pictures of events like this as they're unfolding?
-A: There's no policy against this beyond our existing [Content Policy](https://www.reddit.com/help/contentpolicy).
+<u/spez>: There's no policy against this beyond our existing [Content Policy](https://www.reddit.com/help/contentpolicy).
 
-Q: There's no policy against this beyond our existing [Content Policy](https://www.reddit.com/help/contentpolicy).
-A: There should be a policy update for pictures of events that may harm individuals involved. To prevent what that news station once did (When they gave away people's positions in france during the shooting)
+<u/Double_A7>: There should be a policy update for pictures of events that may harm individuals involved.
 
-Q: There should be a policy update for pictures of events that may harm individuals involved. To prevent what that news station once did (When they gave away people's positions in france during the shooting)
-A: We of course reserve our right to use our discretion in these situations. There will always be exceptional situations.
+To prevent what that news station once did (When they gave away people's positions in france during the shooting)
+
+<u/spez>: We of course reserve our right to use our discretion in these situations. There will always be exceptional situations.

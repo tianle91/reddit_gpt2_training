@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
 
-Title: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
-
-Body: Hi All,
+Hi All,
 
 We’ve got some updates to share about Reddit the platform, community, and business:
 
@@ -24,8 +22,13 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Q: What do you think?
-A: *Insert mandatory discussion about whether or not there actually is going as much going on as we think or that it is just the fact that we just have more information input these days.* Congratulations on the funding! The traffics is also very nice, greatly enjoyed the suddenly higher counts :D
+<u/creesch>: *Insert mandatory discussion about whether or not there actually is going as much going on as we think or that it is just the fact that we just have more information input these days.*
 
-Q: *Insert mandatory discussion about whether or not there actually is going as much going on as we think or that it is just the fact that we just have more information input these days.* Congratulations on the funding! The traffics is also very nice, greatly enjoyed the suddenly higher counts :D
-A: Why not both?
+
+Congratulations on the funding! The traffics is also very nice, greatly enjoyed the suddenly higher counts :D 
+
+
+
+
+
+<u/spez>: Why not both?

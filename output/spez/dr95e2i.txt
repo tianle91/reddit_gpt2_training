@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: The FCC’s vote was predictably frustrating, but we’re not done fighting for net neutrality.
 
-Title: The FCC’s vote was predictably frustrating, but we’re not done fighting for net neutrality.
-
-Body: Following today’s disappointing vote from the FCC, Alexis and I wanted to take the time to thank redditors for your incredible activism on this issue, and reassure you that we’re going to continue fighting for the free and open internet. 
+Following today’s disappointing vote from the FCC, Alexis and I wanted to take the time to thank redditors for your incredible activism on this issue, and reassure you that we’re going to continue fighting for the free and open internet. 
 
 Over the past few months, we have been floored by the energy and creativity redditors have displayed in the effort to save net neutrality. It was inspiring to witness [organic takeovers](https://www.reddit.com/r/blog/comments/7j8fkt/an_analysis_of_net_neutrality_activism_on_reddit/) of the front page \(twice\), read touching [stories](https://www.reddit.com/r/blog/comments/6mtgtp/we_need_your_voice_as_we_continue_the_fight_for/) about how net neutrality matters in users’ everyday lives, see bills about net neutrality [discussed on the front page](https://www.reddit.com/r/technology/comments/7j6kn4/congress_has_set_out_a_bill_to_stop_the_fcc/) \(with over 100,000 upvotes and cross-posts to over 100 communities\), and watch redditors exercise their voices as citizens in the [hundreds of thousands of calls](https://thenextweb.com/insider/2017/11/22/reddit-net-neutrality-fcc-protest/) they drove to Congress.
 
@@ -26,8 +24,10 @@ update2 (9:55AM pst): While the vote has not technically happened, we decided to
 
 update3 (10:13AM pst): The FCC votes to repeal 3–2.
 
-Q: What do you think?
-A: u/spez, u/arabscarab, u/kn0thing: If a Comcast or Verizon or whoever approaches reddit and says they're basically putting together a "Social Media Elite Pro MegaAccess" package that gives you a different level of access (non-throttled or maybe even priority traffic) to your website, are you willing to sign that deal? The users are going to get the short end of this stick but the long end still reaches out to the sites that are cordoned off by un-neutral net.
+<u/baltinerdist>: u/spez, u/arabscarab, u/kn0thing:
 
-Q: u/spez, u/arabscarab, u/kn0thing: If a Comcast or Verizon or whoever approaches reddit and says they're basically putting together a "Social Media Elite Pro MegaAccess" package that gives you a different level of access (non-throttled or maybe even priority traffic) to your website, are you willing to sign that deal? The users are going to get the short end of this stick but the long end still reaches out to the sites that are cordoned off by un-neutral net.
-A: No. We don’t negotiate with terrorists.
+If a Comcast or Verizon or whoever approaches reddit and says they're basically putting together a "Social Media Elite Pro MegaAccess" package that gives you a different level of access (non-throttled or maybe even priority traffic) to your website, are you willing to sign that deal?
+
+The users are going to get the short end of this stick but the long end still reaches out to the sites that are cordoned off by un-neutral net.
+
+<u/spez>: No. We don’t negotiate with terrorists. 

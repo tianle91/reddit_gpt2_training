@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TL;DR: Today we're testing out a new feature that will allow users to post directly to their profile
 
-Title: TL;DR: Today we're testing out a new feature that will allow users to post directly to their profile
-
-Body: Hi Reddit!
+Hi Reddit!
 
 
 Reddit is the home to the most amazing content creators on the internet. Together, we create a place for artists, writers, scientists, gif-makers, and countless others to express themselves and to share their work and wisdom. They fill our days with beautiful photos, witty poems, thoughtful AMAs, shitty watercolours, and scary stories. Today, we make it easier for them to connect directly to you.
@@ -127,14 +125,12 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
 
-Q: What do you think?
-A: I wonder if this will change the dynamic of the site.
+<u/AllTheRowboats93>: I wonder if this will change the dynamic of the site. 
 
-Q: I wonder if this will change the dynamic of the site.
-A: We're testing this carefully but the goal is to give a home for people to put their original content. We think more original content and content creators will spur more conversations throughout Reddit.
+<u/HideHideHidden>: We're testing this carefully but the goal is to give a home for people to put their original content. We think more original content and content creators will spur more conversations throughout Reddit.
 
-Q: We're testing this carefully but the goal is to give a home for people to put their original content. We think more original content and content creators will spur more conversations throughout Reddit.
-A: >We're testing this carefully but the goal is to give a home for people to put their original content. Like a subreddit?
+<u/nothumbnails>: >We're testing this carefully but the goal is to give a home for people to put their original content.
 
-Q: >We're testing this carefully but the goal is to give a home for people to put their original content. Like a subreddit?
-A: Exactly like subreddit. In fact, these are subreddit's under the hood.
+Like a subreddit?
+
+<u/spez>: Exactly like subreddit. In fact, these are subreddit's under the hood.

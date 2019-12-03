@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,6 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: I don't want to download your app. At various times, the mobile website seems to introduce more annoying delay features to force me go get the app. First you had the reddit icon slowly fill with color with instructions to download the app, whereas before a post would instantly load. Now, it looks like you delay the comments from appearing, again replaced with a delay causing message telling me to download the app. I don't want your app. Can you please stop these unnecessary delays?
+<u/turbotong>: I don't want to download your app.  At various times, the mobile website seems to introduce more annoying delay features to force me go get the app.  First you had the reddit icon slowly fill with color with instructions to download the app, whereas before a post would instantly load.  Now, it looks like you delay the comments from appearing, again replaced with a delay causing message telling me to download the app.  I don't want your app.  Can you please stop these unnecessary delays? 
 
-Q: I don't want to download your app. At various times, the mobile website seems to introduce more annoying delay features to force me go get the app. First you had the reddit icon slowly fill with color with instructions to download the app, whereas before a post would instantly load. Now, it looks like you delay the comments from appearing, again replaced with a delay causing message telling me to download the app. I don't want your app. Can you please stop these unnecessary delays?
-A: There aren't any fake delays.
+<u/spez>: There aren't any fake delays.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
 
-Title: Reddit’s 2018 transparency report (and maybe other stuff)
-
-Body: Hi all,
+Hi all,
 
 Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
 
@@ -24,8 +22,15 @@ edit: Thanks for the silver you cheap bastards.
 
 update: I'm out for now. Will check back later.
 
-Q: What do you think?
-A: >ii) Foreign Requests (Non-Emergency) In 2018, Reddit received 28 requests for the production of user account information from foreign governmental authorities (excluding emergency requests). Reddit did not comply with any of these requests. I noticed that the specific foreign governments are unlisted in either the posted summation above or the actual Report. Is there a legal reason why the governments were unlisted? Wouldn't transparency be better served by saying "X from Canada, Y from the UK, Z from Russia, and 1 from Vatican City", or something like that?
+<u/Halaku>: >ii) Foreign Requests (Non-Emergency)
+In 2018, Reddit received 28 requests for the production of user account information from foreign governmental authorities (excluding emergency requests). Reddit did not comply with any of these requests.
 
-Q: >ii) Foreign Requests (Non-Emergency) In 2018, Reddit received 28 requests for the production of user account information from foreign governmental authorities (excluding emergency requests). Reddit did not comply with any of these requests. I noticed that the specific foreign governments are unlisted in either the posted summation above or the actual Report. Is there a legal reason why the governments were unlisted? Wouldn't transparency be better served by saying "X from Canada, Y from the UK, Z from Russia, and 1 from Vatican City", or something like that?
-A: Good question. We're updating that as we speak. Update: updated.
+I noticed that the specific foreign governments are unlisted in either the posted summation above or the actual Report.
+
+Is there a legal reason why the governments were unlisted?
+
+Wouldn't transparency be better served by saying "X from Canada, Y from the UK, Z from Russia, and 1 from Vatican City", or something like that?
+
+<u/spez>: Good question. We're updating that as we speak.
+
+Update: updated.

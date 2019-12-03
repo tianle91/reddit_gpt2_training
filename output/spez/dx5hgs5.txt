@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,8 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: How are you doing today, /u/spez?
+<u/marb9>: How are you doing today, /u/spez?
 
-Q: How are you doing today, /u/spez?
-A: I'm doing well, thanks for asking. I've actually been quite frustrated the past few months not being able to share what we've found re Russia, and I'm glad we had the opportunity to do so today.
+<u/spez>: I'm doing well, thanks for asking.
+
+I've actually been quite frustrated the past few months not being able to share what we've found re Russia, and I'm glad we had the opportunity to do so today.

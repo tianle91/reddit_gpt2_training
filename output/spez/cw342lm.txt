@@ -1,15 +1,13 @@
-In subreddit: announcements
+<r/announcements>: CEO Steve here to answer more questions.
 
-Title: CEO Steve here to answer more questions.
-
-Body: It's been a little while since we've done this. Since we last talked, we've released a handful of [improvements for moderators](https://www.reddit.com/r/modnews); released a few [updates to AlienBlue](https://www.reddit.com/user/alien-blue); continue to work on the bigger mod/community tools (updates next week, I believe); hired a bunch of people, including two new [community](https://www.reddit.com/user/redtaboo) [managers](https://www.reddit.com/user/sodypop); and continue to make progress on our new mobile apps.
+It's been a little while since we've done this. Since we last talked, we've released a handful of [improvements for moderators](https://www.reddit.com/r/modnews); released a few [updates to AlienBlue](https://www.reddit.com/user/alien-blue); continue to work on the bigger mod/community tools (updates next week, I believe); hired a bunch of people, including two new [community](https://www.reddit.com/user/redtaboo) [managers](https://www.reddit.com/user/sodypop); and continue to make progress on our new mobile apps.
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
 update: I'm outta here. Thanks for the questions!
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: Still working on it! Testing new stuff next week, I believe. It's a multi-part plan: first, we need to provide alternatives to shadowbanning. We're working on these now. It's worth noting the admins (Reddit employees) and moderators (Reddit users) have different tools, both inadequate. Second, we need to get everyone comfortable (admins, moderators, users) with new tools (basically, non shadowban enforcement). Third, we need to make it easier for new communities to grow. It's not happening overnight, but it is happening.
+<u/spez>: Still working on it! Testing new stuff next week, I believe. It's a multi-part plan: first, we need to provide alternatives to shadowbanning. We're working on these now. It's worth noting the admins (Reddit employees) and moderators (Reddit users) have different tools, both inadequate. Second, we need to get everyone comfortable (admins, moderators, users) with new tools (basically, non shadowban enforcement). Third, we need to make it easier for new communities to grow.
+
+It's not happening overnight, but it is happening.

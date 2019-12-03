@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit Mobile Apps
 
-Title: Reddit Mobile Apps
-
-Body: **tl;dr**: I’m new, we’re launching two apps today in the US, UK, Canada and Australia: [Reddit for iPhone](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=121809) and [Reddit for Android](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=122129), send us your feedback, we’ll keep making them better for you. AMA!
+**tl;dr**: I’m new, we’re launching two apps today in the US, UK, Canada and Australia: [Reddit for iPhone](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=121809) and [Reddit for Android](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=122129), send us your feedback, we’ll keep making them better for you. AMA!
 
 ### Hi everyone!
 
@@ -42,8 +40,8 @@ Alex
 
 **11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now. 
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: Every app is featureless compared to AlienBlue. Seriously, I learned about new hidden features just this morning. This is just version 1! More to come.
+<u/spez>: Every app is featureless compared to AlienBlue. Seriously, I learned about new hidden features just this morning.
+
+This is just version 1! More to come.

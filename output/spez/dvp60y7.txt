@@ -1,8 +1,6 @@
-In subreddit: IAmA
+<r/IAmA>: I am Andrew Marantz, a writer at The New Yorker.
 
-Title: I am Andrew Marantz, a writer at The New Yorker.
-
-Body: I've written about media, tech, politics, and other topics. I recently wrote a piece about Reddit (see below). Ask me anything!
+I've written about media, tech, politics, and other topics. I recently wrote a piece about Reddit (see below). Ask me anything!
 
 https://www.newyorker.com/magazine/2017/03/20/is-trump-trolling-the-white-house-press-corps?mbid=social_reddit
 
@@ -18,11 +16,10 @@ More proof: https://imgur.com/jGaTzqz
 
 Edit: Thanks for the questions, guys. I'm off to write the next piece!
 
-Q: What do you think?
-A: Have you had any major trollish backlash to your New Yorker article?
+<u/dangerbook>: Have you had any major trollish backlash to your New Yorker article?
 
-Q: Have you had any major trollish backlash to your New Yorker article?
-A: Not really. In fact I'm a little surprised that no one is trolling me right now. Low energy.
+<u/A_Marantz>: Not really. In fact I'm a little surprised that no one is trolling me right now. Low energy.
 
-Q: Not really. In fact I'm a little surprised that no one is trolling me right now. Low energy.
-A: Allow me to assist... the trolls should be here any minute. (And, Hi! It was a pleasure getting to know you and your team. I’m still working up the courage the read the piece myself.)
+<u/spez>: Allow me to assist... the trolls should be here any minute. 
+
+(And, Hi! It was a pleasure getting to know you and your team. I’m still working up the courage the read the piece myself.)

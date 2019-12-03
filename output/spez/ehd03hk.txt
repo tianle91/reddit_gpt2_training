@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: Rule management on new Reddit
 
-Title: Rule management on new Reddit
-
-Body: Hey everyone,
+Hey everyone,
 
 We’re excited to bring you rule management on new Reddit today! This encompasses the creation, editing, and deletion of rules, where changes will be reflected on both new and old sites.  
 
@@ -28,23 +26,39 @@ Some things to note:
 
 Try it out and let us know if you find any wonkiness! As always, thank you for your feedback and help. 
 
-Q: What do you think?
-A: Is this similar functionality going to be deployed to the removal reasons page / module?
+<u/admrltact>: Is this similar functionality going to be deployed to the removal reasons page / module?  
 
-Q: Is this similar functionality going to be deployed to the removal reasons page / module?
-A: We are planning a greater overhaul of the removal reasons feature — I'm actually going to start writing up a spec for it very soon. I'm curious, what specific functionalities are you looking for?
+<u/dmoneyyyyy>: We are planning a greater overhaul of the removal reasons feature — I'm actually going to start writing up a spec for it very soon. I'm curious, what specific functionalities are you looking for? 
 
-Q: We are planning a greater overhaul of the removal reasons feature — I'm actually going to start writing up a spec for it very soon. I'm curious, what specific functionalities are you looking for?
-A: Re-ordering for sure. My rules page is: Rule 0 Rule 1 Rule 2 Rule 3 My removal reasons page is: Rule 3a Rule 3b Rule 0a Rule 0b Rule 1 Rule 2 We dont have a rule, but should Rule 3c This is the order they display in the drop down list when selecting a removal reason too.
+<u/admrltact>: Re-ordering for sure.
+  
+My rules page is:  
+Rule 0  
+Rule 1  
+Rule 2  
+Rule 3   
+    
 
-Q: Re-ordering for sure. My rules page is: Rule 0 Rule 1 Rule 2 Rule 3 My removal reasons page is: Rule 3a Rule 3b Rule 0a Rule 0b Rule 1 Rule 2 We dont have a rule, but should Rule 3c This is the order they display in the drop down list when selecting a removal reason too.
-A: Got it. Reordering for removal reasons seems pretty reasonable to me!
+My removal reasons page is:  
+Rule 3a  
+Rule 3b  
+Rule 0a  
+Rule 0b  
+Rule 1  
+Rule 2  
+We dont have a rule, but should  
+Rule 3c  
+  
+This is the order they display in the drop down list when selecting a removal reason too.
 
-Q: Got it. Reordering for removal reasons seems pretty reasonable to me!
-A: Now that I've got you reeled in with a reasonable demand... A free pony for every mod
+<u/dmoneyyyyy>: Got it. Reordering for removal reasons seems pretty reasonable to me!
 
-Q: Now that I've got you reeled in with a reasonable demand... A free pony for every mod
-A: u/spez says yes
+<u/admrltact>: Now that I've got you reeled in with a reasonable demand...  
+  
+A free pony for every mod
 
-Q: u/spez says yes
-A: Here's a couple to get started: 🐎🐎🐎🐎🐎 If this keeps them quiet, we can invest more.
+<u/dmoneyyyyy>: u/spez says yes
+
+<u/spez>: Here's a couple to get started: 🐎🐎🐎🐎🐎
+
+If this keeps them quiet, we can invest more.

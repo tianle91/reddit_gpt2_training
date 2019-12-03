@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,8 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: I know reddit admins sometimes take action (though they wont say what) when they encounter suicidal users on their platform. I wish you would include when/if you notified authorities for those users in your transparency report. I think it would be beneficial to see that.
+<u/orochi>: I know reddit admins sometimes take action (though they wont say what) when they encounter suicidal users on their platform.
 
-Q: I know reddit admins sometimes take action (though they wont say what) when they encounter suicidal users on their platform. I wish you would include when/if you notified authorities for those users in your transparency report. I think it would be beneficial to see that.
-A: What happens in these cases is we notify law enforcement and ask them to send a formal request. Those formal requests are counted in the report.
+I wish you would include when/if you notified authorities for those users in your transparency report. I think it would be beneficial to see that.
+
+<u/spez>: What happens in these cases is we notify law enforcement and ask them to send a formal request. Those formal requests are counted in the report.

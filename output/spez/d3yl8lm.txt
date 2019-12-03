@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Affiliate links on Reddit
 
-Title: Affiliate links on Reddit
-
-Body: Hi everyone,
+Hi everyone,
 
 Today we’re launching a test to rewrite links (in both comments and posts) to automatically include an affiliate URL crediting Reddit with the referral to approximately five thousand merchants (Amazon won’t be included). This will only happen in cases where an existing affiliate link is not already in place. Only a small percentage of users will experience this during the test phase, and all affected redditors will be able to opt out via a setting in user preferences labelled “replace all affiliate links”.
 
@@ -48,5 +46,4 @@ Not right now, but we will be discussing this with subreddit mods who are signif
 
 **EDIT (additional FAQ 5): What will happen to existing affiliate links?** This won't interfere with existing affiliate links.
 
-Q: What do you think?
-A: This is the beginning of the end. Maybe it's the end of the end. Whatever. I'm going back to Digg.
+<u/spez>: This is the beginning of the end. Maybe it's the end of the end. Whatever. I'm going back to Digg.

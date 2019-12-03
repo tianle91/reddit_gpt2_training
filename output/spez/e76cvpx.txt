@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,60 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: So, the recent quarantine wave: /r/CringeAnarchy /r/theredpill /r/watchpeopledie /r/ice_poseidon /r/braincels /r/FULLCOMMUNISM /r/911truth /r/mayo_town /r/FragileJewishRedditor /r/SubOfPeace /r/WhiteBeauty /r/White_Pride /r/GentilesUnited /r/ZOG /r/GoyimDefenceForce /r/AganistGayMarriage /r/WhiteNationalism /r/NorthwestFront As many redditors have noticed, one of these things is not like the others. r/watchpeopledie is well-moderated not devoted to hate speech or hoaxes. Actually they are quite zealous in their moderation and removal of hate speech. On the other hand, it did present advertiser-unfriendly content that reddit likely didn't want new users stumbling upon. So what exactly is the purpose of quarantine? Either: 1. Quarantine is for subs like r/watchpeopledie, ugly but well moderated communities that are allowed to stay on Reddit but need to be hidden away because of capitalism 2. Quarantine is a punishment for hate subs used to encourage them to reform or leave the platform. If quarantine is being used primarily in a #2 way, why not just ban these subs? Hate subs are not going to reform their moderation policies, or stop brigading other subreddits no matter what quarantine you place them under. In fact all you've done is give them a safe space, subsidized by the non-quarantined subreddits, where they can continue to discuss their ideology and organize brigades of public subs.
+<u/MercurianAspirations>: So, the recent quarantine wave:
 
-Q: So, the recent quarantine wave: /r/CringeAnarchy /r/theredpill /r/watchpeopledie /r/ice_poseidon /r/braincels /r/FULLCOMMUNISM /r/911truth /r/mayo_town /r/FragileJewishRedditor /r/SubOfPeace /r/WhiteBeauty /r/White_Pride /r/GentilesUnited /r/ZOG /r/GoyimDefenceForce /r/AganistGayMarriage /r/WhiteNationalism /r/NorthwestFront As many redditors have noticed, one of these things is not like the others. r/watchpeopledie is well-moderated not devoted to hate speech or hoaxes. Actually they are quite zealous in their moderation and removal of hate speech. On the other hand, it did present advertiser-unfriendly content that reddit likely didn't want new users stumbling upon. So what exactly is the purpose of quarantine? Either: 1. Quarantine is for subs like r/watchpeopledie, ugly but well moderated communities that are allowed to stay on Reddit but need to be hidden away because of capitalism 2. Quarantine is a punishment for hate subs used to encourage them to reform or leave the platform. If quarantine is being used primarily in a #2 way, why not just ban these subs? Hate subs are not going to reform their moderation policies, or stop brigading other subreddits no matter what quarantine you place them under. In fact all you've done is give them a safe space, subsidized by the non-quarantined subreddits, where they can continue to discuss their ideology and organize brigades of public subs.
-A: (some of this I wrote elsewhere in the thread, but it's also relevant here) In addition to updating the policy, we updated the tool as well. We may use it for both of the cases you mention. The first version of quarantine was basically a death sentence for a community because it required community members to have verified email addresses. We decided that if we want to ban a community, we should just do so outright. The quarantine feature is now much more flexible, allowing us to apply a variety of sanctions to a community, including an interstitial page, which is what is applied to WPD. While we do believe a warning page is appropriate for WPD as the content there can be quite disturbing, I do regret lumping them in with the other toxic communities because the mods at WPD have been completely collaborative with us. All quarantined communities continue to be subject to our site-wide content policies.
+/r/CringeAnarchy
+
+/r/theredpill
+
+/r/watchpeopledie
+
+/r/ice_poseidon
+
+/r/braincels
+
+/r/FULLCOMMUNISM
+
+/r/911truth
+
+/r/mayo_town
+
+/r/FragileJewishRedditor
+
+/r/SubOfPeace
+
+/r/WhiteBeauty
+
+/r/White_Pride
+
+/r/GentilesUnited
+
+/r/ZOG
+
+/r/GoyimDefenceForce
+
+/r/AganistGayMarriage
+
+/r/WhiteNationalism
+
+/r/NorthwestFront
+
+As many redditors have noticed, one of these things is not like the others. r/watchpeopledie is well-moderated not devoted to hate speech or hoaxes. Actually they are quite zealous in their moderation and removal of hate speech. On the other hand, it did present advertiser-unfriendly content that reddit likely didn't want new users stumbling upon. So what exactly is the purpose of quarantine? Either: 
+
+1. Quarantine is for subs like r/watchpeopledie, ugly but well moderated communities that are allowed to stay on Reddit but need to be hidden away because of capitalism
+
+2. Quarantine is a punishment for hate subs used to encourage them to reform or leave the platform.  
+
+If quarantine is being used primarily in a #2 way, why not just ban these subs? Hate subs are not going to reform their moderation policies, or stop brigading other subreddits no matter what quarantine you place them under. In fact all you've done is give them a safe space, subsidized by the non-quarantined subreddits, where they can continue to discuss their ideology and organize brigades of public subs. 
+
+<u/spez>: (some of this I wrote elsewhere in the thread, but it's also relevant here)
+
+In addition to updating the policy, we updated the tool as well. We may use it for both of the cases you mention.
+
+The first version of quarantine was basically a death sentence for a community because it required community members to have verified email addresses. We decided that if we want to ban a community, we should just do so outright.
+
+The quarantine feature is now much more flexible, allowing us to apply a variety of sanctions to a community, including an interstitial page, which is what is applied to WPD.
+
+While we do believe a warning page is appropriate for WPD as the content there can be quite disturbing, I do regret lumping them in with the other toxic communities because the mods at WPD have been completely collaborative with us.
+
+All quarantined communities continue to be subject to our site-wide content policies.

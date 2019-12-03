@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,16 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Why aren't alpha testers getting responses from admins? I asked what the goal of the redesign is and the question went completely unanswered. So......what is the goal of the redesign? What makes it a success? Without a goal, we're all just yelling out suggestions pretending to have opinions that matter. >I'm new here, so I'm sorry if this has been explained and I missed it, but what is the goal of the redesign? >As a web developer with 13 years of experience, it makes me nervous to see a redesign project without a clearly defined goal. Did a [pointy-haired boss](https://en.wikipedia.org/wiki/Pointy-haired_Boss) just walk in one day and announce a redesign? What goal determines that the redesign is successful? Without that we're all just a bunch of chiefs shouting out suggestions.
+<u/loki_racer>: Why aren't alpha testers getting responses from admins?  I asked what the goal of the redesign is and the question went completely unanswered.
 
-Q: Why aren't alpha testers getting responses from admins? I asked what the goal of the redesign is and the question went completely unanswered. So......what is the goal of the redesign? What makes it a success? Without a goal, we're all just yelling out suggestions pretending to have opinions that matter. >I'm new here, so I'm sorry if this has been explained and I missed it, but what is the goal of the redesign? >As a web developer with 13 years of experience, it makes me nervous to see a redesign project without a clearly defined goal. Did a [pointy-haired boss](https://en.wikipedia.org/wiki/Pointy-haired_Boss) just walk in one day and announce a redesign? What goal determines that the redesign is successful? Without that we're all just a bunch of chiefs shouting out suggestions.
-A: I'm not sure the forum in which you're not getting responses. If you clarify, I will follow up with the team. However I can assure you we are receiving great feedback and even if you don't get a direct response from us, we are making a ton of improvements based on what we're hearing from testers. There are a variety of goals, but chief among them is decreasing the bounce rate of first-time visitors and increasing time on site for everyone. More generally, Reddit grows primarily through word of mouth. Many of us evangelize Reddit and tell people how awesome it is, what an impact it's made in their life, how much it makes them laugh, etc, and then when those new people decide to check out Reddit for the first time they're greeted with dystopian Craigslist. We'd like to fix that.
+So......what is the goal of the redesign?  What makes it a success?  Without a goal, we're all just yelling out suggestions pretending to have opinions that matter.
+
+>I'm new here, so I'm sorry if this has been explained and I missed it, but what is the goal of the redesign?
+
+>As a web developer with 13 years of experience, it makes me nervous to see a redesign project without a clearly defined goal. Did a [pointy-haired boss](https://en.wikipedia.org/wiki/Pointy-haired_Boss) just walk in one day and announce a redesign? What goal determines that the redesign is successful? Without that we're all just a bunch of chiefs shouting out suggestions.
+
+<u/spez>: I'm not sure the forum in which you're not getting responses. If you clarify, I will follow up with the team. However I can assure you we are receiving great feedback and even if you don't get a direct response from us, we are making a ton of improvements based on what we're hearing from testers.
+
+There are a variety of goals, but chief among them is decreasing the bounce rate of first-time visitors and increasing time on site for everyone.
+
+More generally, Reddit grows primarily through word of mouth. Many of us evangelize Reddit and tell people how awesome it is, what an impact it's made in their life, how much it makes them laugh, etc, and then when those new people decide to check out Reddit for the first time they're greeted with dystopian Craigslist. We'd like to fix that.

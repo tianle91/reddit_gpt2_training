@@ -1,13 +1,21 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
 
-Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
-
-Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
 
 Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
 
-Q: What do you think?
-A: Hey! I'm an undergraduate student majoring in CSE and during the first two years I never really knew what I wanted to do in this field so I didn't care about my studies as much until I learned about web development. I've been reviewing data structures and algorithms in Java, retaking classes, just started doing side projects, and went to a hackathon recently to work on a group project. I'm a graduating next year and I'm worried that I won't find a job because my gpa isn't great. I also haven't had a summer internship. So my questions are: Do you have any advice on what I can work on to improve myself? Do companies look at gpa first to determine if I even receive an interview?
+<u/jpham1209>: Hey! 
+I'm an undergraduate student majoring in CSE and during the first two years I never really knew what I wanted to do in this field so I didn't care about my studies as much until I learned about web development. I've been reviewing data structures and algorithms in Java, retaking classes, just started doing side projects, and went to a hackathon recently to work on a group project. I'm a graduating next year and I'm worried that I won't find a job because my gpa isn't great. I also haven't had a summer internship. 
+So my questions are: 
 
-Q: Hey! I'm an undergraduate student majoring in CSE and during the first two years I never really knew what I wanted to do in this field so I didn't care about my studies as much until I learned about web development. I've been reviewing data structures and algorithms in Java, retaking classes, just started doing side projects, and went to a hackathon recently to work on a group project. I'm a graduating next year and I'm worried that I won't find a job because my gpa isn't great. I also haven't had a summer internship. So my questions are: Do you have any advice on what I can work on to improve myself? Do companies look at gpa first to determine if I even receive an interview?
-A: > Do you have any advice on what I can work on to improve myself? I find it's often best to give yourself a project. It helps focus your attention. Pick a product you like (Reddit?) and see if you can build it yourself. > Do companies look at gpa first to determine if I even receive an interview? I can't speak for others, but if you don't put your GPA on your resume, I'm not going to ask.
+Do you have any advice on what I can work on to improve myself? 
+
+Do companies look at gpa first to determine if I even receive an interview? 
+
+<u/spez>: > Do you have any advice on what I can work on to improve myself?
+
+I find it's often best to give yourself a project. It helps focus your attention. Pick a product you like (Reddit?) and see if you can build it yourself.
+
+> Do companies look at gpa first to determine if I even receive an interview?
+
+I can't speak for others, but if you don't put your GPA on your resume, I'm not going to ask.

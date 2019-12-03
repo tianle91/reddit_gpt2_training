@@ -1,8 +1,6 @@
-In subreddit: TheoryOfReddit
+<r/TheoryOfReddit>: Would CT (and related subreddits) be banned if they still existed today?
 
-Title: Would CT (and related subreddits) be banned if they still existed today?
-
-Body: In light of \/u/spez's recent comments in regards to Reddit's position of sub-reddits which openly post racist content, numerous news outlets have taken notice of this and cited it whilst citing the reactions of various reddit users.
+In light of \/u/spez's recent comments in regards to Reddit's position of sub-reddits which openly post racist content, numerous news outlets have taken notice of this and cited it whilst citing the reactions of various reddit users.
 
 Example Headlines:
 
@@ -32,5 +30,8 @@ At one point in time, reddit played host to [one of the internet's largest known
 
 With the present observed shift in ideals by Reddit and its present leadership, assuming that it still existed today, would CT be banned?
 
-Q: What do you think?
-A: Yes. Since we banned CT in 2015, we’ve updated our policies against harassment, bullying, and violence, all of which would be grounds for dismissal for that community. Furthermore, the teams who make and enforce these decisions are much more robust. CT was frustrating as the time because we didn’t have the policies and processes in place, but they wouldn’t last long today.
+<u/spez>: Yes. Since we banned CT in 2015, we’ve updated our policies against harassment, bullying, and violence, all of which would be grounds for dismissal for that community.
+
+Furthermore, the teams who make and enforce these decisions are much more robust. 
+
+CT was frustrating as the time because we didn’t have the policies and processes in place, but they wouldn’t last long today. 

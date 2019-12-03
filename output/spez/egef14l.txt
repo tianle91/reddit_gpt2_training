@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
 
-Title: Reddit’s 2018 transparency report (and maybe other stuff)
-
-Body: Hi all,
+Hi all,
 
 Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
 
@@ -24,14 +22,14 @@ edit: Thanks for the silver you cheap bastards.
 
 update: I'm out for now. Will check back later.
 
-Q: What do you think?
-A: What are you planning to do with the money you’ve recently raised? Besides keeping Reddit running I assume, are there any specific goals in using it?
+<u/Sanlear>: What are you planning to do with the money you’ve recently raised? Besides keeping Reddit running I assume, are there any specific goals in using it?
 
-Q: What are you planning to do with the money you’ve recently raised? Besides keeping Reddit running I assume, are there any specific goals in using it?
-A: In the immediate future, nothing. One of the risks of raising a lot of money is that it can be disruptive to strategy and culture, so we will overcompensate by aggressively sticking to our pre-funding plan. Down the road, it does give us flexibility to take bigger bets or try new things, but we don't have any specific plans.
+<u/spez>: In the immediate future, nothing. One of the risks of raising a lot of money is that it can be disruptive to strategy and culture, so we will overcompensate by aggressively sticking to our pre-funding plan.
 
-Q: In the immediate future, nothing. One of the risks of raising a lot of money is that it can be disruptive to strategy and culture, so we will overcompensate by aggressively sticking to our pre-funding plan. Down the road, it does give us flexibility to take bigger bets or try new things, but we don't have any specific plans.
-A: If you don't make any changes, how will you deliver ROI to those investors? Reddit is known to make a much smaller amount of annual revenue per user than are other social media platforms.
+Down the road, it does give us flexibility to take bigger bets or try new things, but we don't have any specific plans.
 
-Q: If you don't make any changes, how will you deliver ROI to those investors? Reddit is known to make a much smaller amount of annual revenue per user than are other social media platforms.
-A: We're working on a lot of stuff right now. Pretty much every aspect of Reddit is under some sort construction, and we're seeing a lot of nice progress. Even compared to a couple months ago, Reddit is faster; we've added a [lot](https://www.reddit.com/r/redesign/search?q=flair_name%3A%22Changelog%20%3Asnoo_hearteyes%3A%22&restrict_sr=1) of [features](https://www.reddit.com/r/changelog/); and have made quite a bit of progress on the Anti-Evil / Security side of the house (a post about which will come on Friday). So, even if we don't do anything new, we're making plenty of progress already, and I don't want to derail that.
+<u/Searchlights>: If you don't make any changes, how will you deliver ROI to those investors?  Reddit is known to make a much smaller amount of annual revenue per user than are other social media platforms.
+
+<u/spez>: We're working on a lot of stuff right now. Pretty much every aspect of Reddit is under some sort construction, and we're seeing a lot of nice progress. Even compared to a couple months ago, Reddit is faster; we've added a [lot](https://www.reddit.com/r/redesign/search?q=flair_name%3A%22Changelog%20%3Asnoo_hearteyes%3A%22&restrict_sr=1) of [features](https://www.reddit.com/r/changelog/); and have made quite a bit of progress on the Anti-Evil / Security side of the house (a post about which will come on Friday). 
+
+So, even if we don't do anything new, we're making plenty of progress already, and I don't want to derail that.

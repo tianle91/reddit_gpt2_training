@@ -1,8 +1,7 @@
-In subreddit: TheoryOfReddit
+<r/TheoryOfReddit>: /r/science is no longer doing AMA's due to drop off in visibility caused by the change to "best" sorting from hot.
 
-Title: /r/science is no longer doing AMA's due to drop off in visibility caused by the change to "best" sorting from hot.
+https://www.reddit.com/r/science/comments/8khscc/rscience_will_no_longer_be_hosting_amas
 
-Body: https://www.reddit.com/r/science/comments/8khscc/rscience_will_no_longer_be_hosting_amas
+<u/spez>: I left a longer [explanation](https://new.reddit.com/r/science/comments/8khscc/rscience_will_no_longer_be_hosting_amas/dz8nky8/) in that thread, but the gist of it is r/science isn't a default anymore and their tactic of removing more popular posts to promote AMAs is not allowed.
 
-Q: What do you think?
-A: I left a longer [explanation](https://new.reddit.com/r/science/comments/8khscc/rscience_will_no_longer_be_hosting_amas/dz8nky8/) in that thread, but the gist of it is r/science isn't a default anymore and their tactic of removing more popular posts to promote AMAs is not allowed. The "best" sort should actually help communities like r/science get more visibility. That's the whole point. Though it's not really relevant right now since their AMA shenanigans predate any algorithm changes.
+The "best" sort should actually help communities like r/science get more visibility. That's the whole point. Though it's not really relevant right now since their AMA shenanigans predate any algorithm changes.

@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,14 +41,18 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: What does this mean for the people like /u/qtx and myself and many others who put in time to design subreddits. Was all of that for nothing?
+<u/iNeverQuiteWas>: What does this mean for the people like /u/qtx and myself and many others who put in time to design subreddits. Was all of that for nothing? 
 
-Q: What does this mean for the people like /u/qtx and myself and many others who put in time to design subreddits. Was all of that for nothing?
-A: No. It was awesome work, and we hope you continue to help your fellow mods. Saying it was for nothing would be like saying all the work I and the team did on the current site was for nothing. We should all be proud of what we've accomplished, but know that everything evolves over time.
+<u/spez>: No. It was awesome work, and we hope you continue to help your fellow mods.
 
-Q: No. It was awesome work, and we hope you continue to help your fellow mods. Saying it was for nothing would be like saying all the work I and the team did on the current site was for nothing. We should all be proud of what we've accomplished, but know that everything evolves over time.
-A: Yes but let's be honest here: you get paid for this, and I don't. My reward was seeing my work reach thousands of people. At the end of the day, you still have a site, users, etc., while my work is completely lost. I'm a little butt hurt I guess.
+Saying it was for nothing would be like saying all the work I and the team did on the current site was for nothing.
 
-Q: Yes but let's be honest here: you get paid for this, and I don't. My reward was seeing my work reach thousands of people. At the end of the day, you still have a site, users, etc., while my work is completely lost. I'm a little butt hurt I guess.
-A: While I do get paid, I don't do it for the money. You've touched the lives of thousands (millions?) of people, and should be proud. Stay in contact, and we'll find more ways to collaborate.
+We should all be proud of what we've accomplished, but know that everything evolves over time.
+
+<u/iNeverQuiteWas>: Yes but let's be honest here: you get paid for this, and I don't. My reward was seeing my work reach thousands of people. At the end of the day, you still have a site, users, etc., while my work is completely lost. I'm a little butt hurt I guess. 
+
+<u/spez>: While I do get paid, I don't do it for the money.
+
+You've touched the lives of thousands (millions?) of people, and should be proud.
+
+Stay in contact, and we'll find more ways to collaborate.

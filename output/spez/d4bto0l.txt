@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let’s all have a town hall about r/all
 
-Title: Let’s all have a town hall about r/all
-
-Body: Hi All,
+Hi All,
 
 A few days ago, we talked about a few technological and process changes we would be working on in order to improve your Reddit experience and ensure access to timely information is available.
 
@@ -20,8 +18,8 @@ Steve
 
 u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
 
-Q: What do you think?
-A: Hey /u/spez, how do you feel about the new "Stickied Posts" being used only for announcement texts, disrupting services in subreddits like /r/ScenesFromAHat where they can no longer post their Scenes Of The Week properly? I, for one, am sad :(
+<u/ThogOfWar>: Hey /u/spez, how do you feel about the new "Stickied Posts" being used only for announcement texts, disrupting services in subreddits like /r/ScenesFromAHat where they can no longer post their Scenes Of The Week properly?
 
-Q: Hey /u/spez, how do you feel about the new "Stickied Posts" being used only for announcement texts, disrupting services in subreddits like /r/ScenesFromAHat where they can no longer post their Scenes Of The Week properly? I, for one, am sad :(
-A: Thanks for the feedback. We're still thinking about stickies, and will likely make more changes. In the meantime, sorry we upset your usage of it.
+I, for one, am sad :(
+
+<u/spez>: Thanks for the feedback. We're still thinking about stickies, and will likely make more changes. In the meantime, sorry we upset your usage of it.

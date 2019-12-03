@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: Update on site-wide rules regarding violent content
 
-Title: Update on site-wide rules regarding violent content
-
-Body: Hello All--
+Hello All--
 
 We want to let you know that we have made some updates to our site-wide rules regarding violent content. We did this to alleviate user and moderator confusion about allowable content on the site. We also are making this update so that Reddit’s content policy better reflects our values as a company. 
 
@@ -13,14 +11,10 @@ We understand that enforcing this policy may often require subjective judgment, 
 **EDIT**: Signing off, thank you to everyone who asked questions! Please feel free to send [us any other questions](https://www.reddit.com/contact/). As a reminder, Steve is doing an AMA in r/announcements next week. 
 
 
-Q: What do you think?
-A: Why is this posted in /r/modnews and not /r/announcements? All users should be informed about site-wide rules changes, not only moderators.
+<u/Deimorz>: Why is this posted in /r/modnews and not /r/announcements? All users should be informed about site-wide rules changes, not only moderators.
 
-Q: Why is this posted in /r/modnews and not /r/announcements? All users should be informed about site-wide rules changes, not only moderators.
-A: As this is a clarification/update of an existing rule, we wanted to post here first. However, Steve will be doing an AMA next week in r/announcements and this update will be covered.
+<u/landoflobsters>: As this is a clarification/update of an existing rule, we wanted to post here first. However, Steve will be doing an AMA next week in r/announcements and this update will be covered. 
 
-Q: As this is a clarification/update of an existing rule, we wanted to post here first. However, Steve will be doing an AMA next week in r/announcements and this update will be covered.
-A: Does /u/spez want to save us all some time and just x-post the announcement to /r/subredditdrama when he posts it?
+<u/[deleted]>: Does /u/spez want to save us all some time and just x-post the announcement to /r/subredditdrama when he posts it?
 
-Q: Does /u/spez want to save us all some time and just x-post the announcement to /r/subredditdrama when he posts it?
-A: mod me pls
+<u/spez>: mod me pls

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,16 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: Will you ever remove /r/the_donald?
+<u/WacticalTank>: Will you ever remove /r/the_donald?
 
-Q: Will you ever remove /r/the_donald?
-A: EDIT: Your original comment was: > What is one thing you which you had introduce to reddit sooner but didn't. You've since edited it to be about r/the_donald. It's disingenuous to edit your comment after I've answered and not admit that you did so. My original answer: One thing we really haven't nailed yet is onboarding. We have incredible breadth and depth in our communities that isn't well represented in r/popular, which is what new users see when they first arrive to Reddit. I think we can do a much better job highlighting what Reddit's all about.
+<u/spez>: EDIT:
+
+Your original comment was:
+
+> What is one thing you which you had introduce to reddit sooner but didn't.
+
+You've since edited it to be about r/the_donald. It's disingenuous to edit your comment after I've answered and not admit that you did so.
+
+My original answer:
+
+One thing we really haven't nailed yet is onboarding. We have incredible breadth and depth in our communities that isn't well represented in r/popular, which is what new users see when they first arrive to Reddit. I think we can do a much better job highlighting what Reddit's all about.

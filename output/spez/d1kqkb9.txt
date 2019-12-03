@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: For your reading pleasure, our 2015 Transparency Report
 
-Title: For your reading pleasure, our 2015 Transparency Report
-
-Body: In 2014, we published our first Transparency Report, which can be found [here](http://www.reddit.com/wiki/transparency/2014). We made a commitment to you to publish an annual report, detailing government and law enforcement agency requests for private information about our users. In keeping with that promise, we’ve published our [2015 transparency report](https://www.reddit.com/wiki/transparency/2015). 
+In 2014, we published our first Transparency Report, which can be found [here](http://www.reddit.com/wiki/transparency/2014). We made a commitment to you to publish an annual report, detailing government and law enforcement agency requests for private information about our users. In keeping with that promise, we’ve published our [2015 transparency report](https://www.reddit.com/wiki/transparency/2015). 
 
 We hope that sharing this information will help you better understand our [Privacy Policy](https://www.reddit.com/help/privacypolicy) and demonstrate our commitment for Reddit to remain a place that actively encourages authentic conversation.
 
@@ -23,14 +21,21 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
 
 
-Q: What do you think?
-A: [deleted] ^^^^^^^^^^^^^^^^0.7787 > [What is this?](https://pastebin.com/64GuVi2F/01356)
+<u/DistortedShadow>: [deleted]  
+ ^^^^^^^^^^^^^^^^0.7787 
+ > [What is this?](https://pastebin.com/64GuVi2F/01356)
 
-Q: [deleted] ^^^^^^^^^^^^^^^^0.7787 > [What is this?](https://pastebin.com/64GuVi2F/01356)
-A: My understanding is we can delete whatever we want, unless we receive a "preservation request." We keep the deleted comments in an attempt to preserve the continuity of conversation. It's purely a product decision.
+<u/spez>: My understanding is we can delete whatever we want, unless we receive a "preservation request."
 
-Q: My understanding is we can delete whatever we want, unless we receive a "preservation request." We keep the deleted comments in an attempt to preserve the continuity of conversation. It's purely a product decision.
-A: [deleted]
+We keep the deleted comments in an attempt to preserve the continuity of conversation. It's purely a product decision.
 
-Q: [deleted]
-A: The behavior is different when someone explicitly deletes a comment (we don't show it) versus deleting their account (we don't show the account name on the comment). update to answer some questions: When a user deletes a comment, we keep the body of the comment, but we don't display it anywhere. The reason was it simplified the implementation at the time. That's not a sacred horse, and it's something we can reconsider. In the context of this conversation, I don't believe we've ever turned over deleted comments (I don't think anyone has asked, either). If you modify a comment, we don't keep previous versions.
+<u/[deleted]>: [deleted]
+
+<u/spez>: The behavior is different when someone explicitly deletes a comment (we don't show it) versus deleting their account (we don't show the account name on the comment).
+
+update to answer some questions:
+
+When a user deletes a comment, we keep the body of the comment, but we don't display it anywhere. The reason was it simplified the implementation at the time. That's not a sacred horse, and it's something we can reconsider. In the context of this conversation, I don't believe we've ever turned over deleted comments (I don't think anyone has asked, either).
+
+If you modify a comment, we don't keep previous versions.
+

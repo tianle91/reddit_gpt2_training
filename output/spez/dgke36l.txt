@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,8 +41,14 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: > We’re designing a new set of tools to address the challenges with CSS but continue to allow communities to express their identities I'm not even remotely technically literate, so can I ask what this means? Are you replacing CSS with something else? > Our current focus is on report abuse. We’ve caught a lot of bad behavior. We hope you notice the difference, and we’ll keep at it regardless. Indeed, great job admins
+<u/[deleted]>: > We’re designing a new set of tools to address the challenges with CSS but continue to allow communities to express their identities  
+   
+I'm not even remotely technically literate, so can I ask what this means? Are you replacing CSS with something else?  
+  
+> Our current focus is on report abuse. We’ve caught a lot of bad behavior. We hope you notice the difference, and we’ll keep at it regardless.  
+  
+Indeed, great job admins  
+  
 
-Q: > We’re designing a new set of tools to address the challenges with CSS but continue to allow communities to express their identities I'm not even remotely technically literate, so can I ask what this means? Are you replacing CSS with something else? > Our current focus is on report abuse. We’ve caught a lot of bad behavior. We hope you notice the difference, and we’ll keep at it regardless. Indeed, great job admins
-A: Yes, we're replacing CSS with a set of tools for customizing the appearance of your subreddit. One of the reasons for this is to make custome styling more accessible to those who are not as technically literate.
+
+<u/spez>: Yes, we're replacing CSS with a set of tools for customizing the appearance of your subreddit. One of the reasons for this is to make custome styling more accessible to those who are not as technically literate.

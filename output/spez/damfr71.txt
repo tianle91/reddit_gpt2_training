@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TIFU by editing some comments and creating an unnecessary controversy.
 
-Title: TIFU by editing some comments and creating an unnecessary controversy.
-
-Body: **tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
+**tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
 
 Hi All,
 
@@ -34,8 +32,35 @@ Steve
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
 
 
-Q: What do you think?
-A: * Can any admin edit a comment/post? How would we know? * Has this ever happened before? * Are there any clear cut policies for what constitutes a ban-worthy offense for a sub-reddit? edit: (from me, not /u/spez. Really) I'm glad you saw it to apologize. I was in the "so fucking what"/"it was just a small edit" camp but I can see why some people would be so angry about it. It was poor judgement and you put yourself in a lose-lose situation. That said, most of us will still use the site as before because I honestly can't think of any other content aggregator like this one. I'm also glad you guys finally got around to implementing the sub-reddit blocking feature. I'd done that with RES a long time and I truly didn't understand why people were so bent out of shape over /r/the_donald. If the charges about "doxxing, harassment" etc. are true (and I can see it happening) then the questions to ask are * is the sub responsible for it? If yes, then what do reddit's policies say about this behavior? * if the sub isn't responsible then how are you * evaluating the truth in this accusation * taking action to protect reddit from other websites and social media * planning to prevent something like this (power user getting harassed to the point of doing something extremely silly/unprofessional) from every happening again?
+<u/i_am_not_sam>: * Can any admin edit a comment/post? How would we know?
 
-Q: * Can any admin edit a comment/post? How would we know? * Has this ever happened before? * Are there any clear cut policies for what constitutes a ban-worthy offense for a sub-reddit? edit: (from me, not /u/spez. Really) I'm glad you saw it to apologize. I was in the "so fucking what"/"it was just a small edit" camp but I can see why some people would be so angry about it. It was poor judgement and you put yourself in a lose-lose situation. That said, most of us will still use the site as before because I honestly can't think of any other content aggregator like this one. I'm also glad you guys finally got around to implementing the sub-reddit blocking feature. I'd done that with RES a long time and I truly didn't understand why people were so bent out of shape over /r/the_donald. If the charges about "doxxing, harassment" etc. are true (and I can see it happening) then the questions to ask are * is the sub responsible for it? If yes, then what do reddit's policies say about this behavior? * if the sub isn't responsible then how are you * evaluating the truth in this accusation * taking action to protect reddit from other websites and social media * planning to prevent something like this (power user getting harassed to the point of doing something extremely silly/unprofessional) from every happening again?
-A: > Can any admin edit a comment/post? How would we know? No. Only engineers with access to production data, and that is being limited. > Has this ever happened before? In 2009 I replaced the word "fag" with "fog". Over the years I have fixed typos in titles when people ask since we don't allow title editing by default. This whole experience has been pretty painful. Even with the best of intentions, I (we) won't do this again. > Are there any clear cut policies for what constitutes a ban-worthy offense for a sub-reddit? The clear cut policies are in our [Content Policy](https://www.reddit.com/help/contentpolicy).
+* Has this ever happened before?
+
+* Are there any clear cut policies for what constitutes a ban-worthy offense for a sub-reddit?
+
+edit: (from me, not /u/spez. Really)
+
+I'm glad you saw it to apologize. I was in the "so fucking what"/"it was just a small edit" camp but I can see why some people would be so angry about it. It was poor judgement and you put yourself in a lose-lose situation. That said, most of us will still use the site as before because I honestly can't think of any other content aggregator like this one.
+
+I'm also glad you guys finally got around to implementing the sub-reddit blocking feature. I'd done that with RES a long time and I truly didn't understand why people were so bent out of shape over /r/the_donald. If the charges about "doxxing, harassment" etc. are true (and I can see it happening) then the questions to ask are
+
+* is the sub responsible for it? If yes, then what do reddit's policies say about this behavior?
+
+* if the sub isn't responsible then how are you 
+ * evaluating the truth in this accusation
+ * taking action to protect reddit from other websites and social media
+ * planning to prevent something like this (power user getting harassed to the point of doing something extremely silly/unprofessional) from every happening again?
+
+<u/spez>: > Can any admin edit a comment/post? How would we know?
+
+No. Only engineers with access to production data, and that is being limited.
+
+> Has this ever happened before?
+
+In 2009 I replaced the word "fag" with "fog". Over the years I have fixed typos in titles when people ask since we don't allow title editing by default.
+
+This whole experience has been pretty painful. Even with the best of intentions, I (we) won't do this again.
+
+> Are there any clear cut policies for what constitutes a ban-worthy offense for a sub-reddit?
+
+The clear cut policies are in our [Content Policy](https://www.reddit.com/help/contentpolicy).

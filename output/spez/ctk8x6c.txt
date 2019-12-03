@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Good morning, I thought I'd give a quick update.
 
-Title: Good morning, I thought I'd give a quick update.
-
-Body: I thought I'd start my day with a quick status update for you all. It's only been a couple weeks since my return, but we've got a lot going on. We are in a phase of emergency fixes to repair a number of longstanding issues that are causing all of us grief. I normally don't like talking about things before they're ready, but because many of you are asking what's going on, and have been asking for a long time before my arrival, I'll share what we're up to.
+I thought I'd start my day with a quick status update for you all. It's only been a couple weeks since my return, but we've got a lot going on. We are in a phase of emergency fixes to repair a number of longstanding issues that are causing all of us grief. I normally don't like talking about things before they're ready, but because many of you are asking what's going on, and have been asking for a long time before my arrival, I'll share what we're up to.
 
 Under active development:
 
@@ -27,8 +25,6 @@ I'll be hanging around in the comments for an hour or so.
 
 update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
 
-Q: What do you think?
-A: Will the rules be open for discussion with the community at large or will it be solely developed and delivered by Reddit leadership?
+<u/CardiganSquare>: Will the rules be open for discussion with the community at large or will it be solely developed and delivered by Reddit leadership?
 
-Q: Will the rules be open for discussion with the community at large or will it be solely developed and delivered by Reddit leadership?
-A: We had a very long discussion a week or so ago. Any policy changes we make will be open for discussion. At some point we'll need to draw the line and release them, but that doesn't mean they won't continue evolving.
+<u/spez>: We had a very long discussion a week or so ago. Any policy changes we make will be open for discussion. At some point we'll need to draw the line and release them, but that doesn't mean they won't continue evolving.

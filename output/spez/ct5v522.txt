@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk content. AMA.
 
-Title: Let's talk content. AMA.
-
-Body: We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
+We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
 
 As we grew, I became increasingly uncomfortable projecting my worldview on others. More practically, I didn’t have time to pass judgement on everything, so I decided to judge nothing. 
 
@@ -41,14 +39,22 @@ edit: attempted to clarify harassment based on our existing policy
 
 update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-Q: What do you think?
-A: In [Ellen Pao's op-ed](http://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html) in the Washington Post today, she said ***"But to attract more mainstream audiences and bring in the big-budget advertisers, you must hide or remove the ugly."*** How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit? EDIT: "Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence)" -- This is troubling because although it seems reasonable on the surface, in practice, there are people who scream harassment when *any criticism* is levied against them. How will you determine what constitutes harassment? EDIT 2: Proposed definition of harassment -- **Harassment is defined as repetitive, unwanted, non-constructive contact from a person or persons whose effect is to annoy, disturb, threaten, humiliate, or torment a person, group or an organization.** EDIT 3: /u/spez response -- https://www.reddit.com/r/announcements/comments/3djjxw/lets_talk_content_ama/ct5s58n
+<u/Warlizard>: In [Ellen Pao's op-ed](http://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html) in the Washington Post today, she said ***"But to attract more mainstream audiences and bring in the big-budget advertisers, you must hide or remove the ugly."***
 
-Q: In [Ellen Pao's op-ed](http://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html) in the Washington Post today, she said ***"But to attract more mainstream audiences and bring in the big-budget advertisers, you must hide or remove the ugly."*** How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit? EDIT: "Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence)" -- This is troubling because although it seems reasonable on the surface, in practice, there are people who scream harassment when *any criticism* is levied against them. How will you determine what constitutes harassment? EDIT 2: Proposed definition of harassment -- **Harassment is defined as repetitive, unwanted, non-constructive contact from a person or persons whose effect is to annoy, disturb, threaten, humiliate, or torment a person, group or an organization.** EDIT 3: /u/spez response -- https://www.reddit.com/r/announcements/comments/3djjxw/lets_talk_content_ama/ct5s58n
-A: > How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit? Zero. edit: only on Reddit would someone pay to gild this comment so others can continue to downvote it more easily.
+How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit?
 
-Q: > How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit? Zero. edit: only on Reddit would someone pay to gild this comment so others can continue to downvote it more easily.
-A: You have /u/Yishan and /u/ekjp directly contradicting this answer very recently in Reddit posts.
+EDIT: "Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence)" -- This is troubling because although it seems reasonable on the surface, in practice, there are people who scream harassment when *any criticism* is levied against them. How will you determine what constitutes harassment?
 
-Q: You have /u/Yishan and /u/ekjp directly contradicting this answer very recently in Reddit posts.
-A: Well, only one of us actually works here.
+EDIT 2: Proposed definition of harassment -- **Harassment is defined as repetitive, unwanted, non-constructive contact from a person or persons whose effect is to annoy, disturb, threaten, humiliate, or torment a person, group or an organization.** 
+
+EDIT 3: /u/spez response -- https://www.reddit.com/r/announcements/comments/3djjxw/lets_talk_content_ama/ct5s58n
+
+<u/spez>: > How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit?
+
+Zero.
+
+edit: only on Reddit would someone pay to gild this comment so others can continue to downvote it more easily.
+
+<u/gitykinz>: You have /u/Yishan and /u/ekjp directly contradicting this answer very recently in Reddit posts.
+
+<u/spez>: Well, only one of us actually works here.

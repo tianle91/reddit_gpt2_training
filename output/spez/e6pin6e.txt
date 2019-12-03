@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: Making it easier to host events
 
-Title: Making it easier to host events
-
-Body: Hi Mods,
+Hi Mods,
 
 We’ve been working on a few things to make it easier for you to host events for your communities. Over the last week, we’ve invited a few mod teams (see comments for the list) to start trying them out as a beta, so we wanted to let the rest of you know what’s up as well.
 
@@ -36,14 +34,25 @@ UPDATED 3/14:
 
 We've made a few Event and Collections endpoints available for our beta communities to start trying out and giving us feedback on. You can read more about these APIs here, https://www.reddit.com/dev/api/. 
 
-Q: What do you think?
-A: Yes we like this. Can you talk about different use cases you have envisioned for the post collections tool? Will the collections have an exposed public API?
+<u/likeafox>: Yes we like this. Can you talk about different use cases you have envisioned for the post collections tool? Will the collections have an exposed public API? 
 
-Q: Yes we like this. Can you talk about different use cases you have envisioned for the post collections tool? Will the collections have an exposed public API?
-A: For different use cases, we're really excited to see the creative use cases the communities come up with. Some idea we've talked about internally a few \-- All the discussion threads for seasons 2 of Game of Thrones \-- Best 401k advice \-- This weeks best OC \-- Chronicling the developing news like (Hurricane Florence) \-- Eventually we could see mod teams use this for megathreads. **What ideas do you have?** As for API access, it's something we're considering this during the beta. **How would you use API access?**
+<u/0perspective>: For different use cases, we're really excited to see the creative use cases the communities come up with. Some idea we've talked about internally a few
 
-Q: For different use cases, we're really excited to see the creative use cases the communities come up with. Some idea we've talked about internally a few \-- All the discussion threads for seasons 2 of Game of Thrones \-- Best 401k advice \-- This weeks best OC \-- Chronicling the developing news like (Hurricane Florence) \-- Eventually we could see mod teams use this for megathreads. **What ideas do you have?** As for API access, it's something we're considering this during the beta. **How would you use API access?**
-A: Back when /r/science hosted AMAs, collections would have been perfect for organizing our themed AMA weeks.
+\-- All the discussion threads for seasons 2 of Game of Thrones
 
-Q: Back when /r/science hosted AMAs, collections would have been perfect for organizing our themed AMA weeks.
-A: We hope so. r/science AMAs were one of the inspirations for this feature. The idea is you can create a landing page for an AMA days before the event to build up excitement, and then bring everybody back at the same time for the actual event.
+\-- Best 401k advice
+
+\-- This weeks best OC
+
+\-- Chronicling the developing news like (Hurricane Florence)
+
+\-- Eventually we could see mod teams use this for megathreads.
+
+**What ideas do you have?**  
+
+
+As for API access, it's something we're considering this during the beta. **How would you use API access?**
+
+<u/shiruken>: Back when /r/science hosted AMAs, collections would have been perfect for organizing our themed AMA weeks.
+
+<u/spez>: We hope so. r/science AMAs were one of the inspirations for this feature. The idea is you can create a landing page for an AMA days before the event to build up excitement, and then bring everybody back at the same time for the actual event.

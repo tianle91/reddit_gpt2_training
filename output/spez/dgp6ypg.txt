@@ -1,13 +1,11 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
 
-Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
-
-Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
 
 Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
 
-Q: What do you think?
-A: Hey Steve. I'm a UVA student working on a tech startup with a few fellow students and you and Alexis are a big inspiration to us. Do you have any cville-specific advice for us? I know you're involved in the budding entrepreneurship community around here. Thanks!!
+<u/ardyjay>: Hey Steve. I'm a UVA student working on a tech startup with a few fellow students and you and Alexis are a big inspiration to us. Do you have any cville-specific advice for us? I know you're involved in the budding entrepreneurship community around here. Thanks!!
 
-Q: Hey Steve. I'm a UVA student working on a tech startup with a few fellow students and you and Alexis are a big inspiration to us. Do you have any cville-specific advice for us? I know you're involved in the budding entrepreneurship community around here. Thanks!!
-A: Well, my advice for anyone in a college town is to take advantage of it. You're surrounded by a ton of smart and hungry people. It's a great hiring advantage. Cville-specific... Don't forget to go outside. I miss the scenery around there: it's good for your spirit.
+<u/spez>: Well, my advice for anyone in a college town is to take advantage of it. You're surrounded by a ton of smart and hungry people. It's a great hiring advantage.
+
+Cville-specific... Don't forget to go outside. I miss the scenery around there: it's good for your spirit.

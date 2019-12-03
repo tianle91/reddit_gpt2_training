@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,10 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Why does the official Reddit app not support the Reddit video player? Any time I click on a link that contains the video player I get sent to the Reddit mobile page and a pop-up saying how much better Reddit is on the Reddit app. YouTube videos work better than Reddit videos on the Reddit app. Even Twitter videos work better on the Reddit app than Reddit videos do. Edit: I updated the app and videos from v.redd.it are playing now rather than showing me Reddit mobile and suggesting I use the app.
+<u/TheFoodScientist>: Why does the official Reddit app not support the Reddit video player? Any time I click on a link that contains the video player I get sent to the Reddit mobile page and a pop-up saying how much better Reddit is on the Reddit app. YouTube videos work better than Reddit videos on the Reddit app. Even Twitter videos work better on the Reddit app than Reddit videos do.
 
-Q: Why does the official Reddit app not support the Reddit video player? Any time I click on a link that contains the video player I get sent to the Reddit mobile page and a pop-up saying how much better Reddit is on the Reddit app. YouTube videos work better than Reddit videos on the Reddit app. Even Twitter videos work better on the Reddit app than Reddit videos do. Edit: I updated the app and videos from v.redd.it are playing now rather than showing me Reddit mobile and suggesting I use the app.
-A: Sounds like a bug. The team will investigate and get back to you. HEY TEAM, INVESTIGATE AND GET BACK TO THIS USER!
+Edit: I updated the app and videos from v.redd.it are playing now rather than showing me Reddit mobile and suggesting I use the app.
+
+<u/spez>: Sounds like a bug. The team will investigate and get back to you.
+
+HEY TEAM, INVESTIGATE AND GET BACK TO THIS USER!

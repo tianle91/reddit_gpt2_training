@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
 
-Title: Reddit’s 2018 transparency report (and maybe other stuff)
-
-Body: Hi all,
+Hi all,
 
 Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
 
@@ -24,8 +22,8 @@ edit: Thanks for the silver you cheap bastards.
 
 update: I'm out for now. Will check back later.
 
-Q: What do you think?
-A: What are you planning to do with the money you’ve recently raised? Besides keeping Reddit running I assume, are there any specific goals in using it?
+<u/Sanlear>: What are you planning to do with the money you’ve recently raised? Besides keeping Reddit running I assume, are there any specific goals in using it?
 
-Q: What are you planning to do with the money you’ve recently raised? Besides keeping Reddit running I assume, are there any specific goals in using it?
-A: In the immediate future, nothing. One of the risks of raising a lot of money is that it can be disruptive to strategy and culture, so we will overcompensate by aggressively sticking to our pre-funding plan. Down the road, it does give us flexibility to take bigger bets or try new things, but we don't have any specific plans.
+<u/spez>: In the immediate future, nothing. One of the risks of raising a lot of money is that it can be disruptive to strategy and culture, so we will overcompensate by aggressively sticking to our pre-funding plan.
+
+Down the road, it does give us flexibility to take bigger bets or try new things, but we don't have any specific plans.

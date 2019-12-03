@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,8 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Interested in hearing the impact of ‘/all’ and ‘/popular’ now that it has been well established. Any thoughts on that? Did it achieve what you hopped, any headlines positive / negative impacts ? Edit: grammar
+<u/Pindar80>: Interested in hearing the impact of ‘/all’ and ‘/popular’ now that it has been well established.  Any thoughts on that? Did it achieve what you hopped, any headlines positive / negative impacts ?
 
-Q: Interested in hearing the impact of ‘/all’ and ‘/popular’ now that it has been well established. Any thoughts on that? Did it achieve what you hopped, any headlines positive / negative impacts ? Edit: grammar
-A: I don't have the exact numbers, but yes, r/popular increased engagement from new users, which was the goal.
+Edit: grammar 
+
+<u/spez>: I don't have the exact numbers, but yes, r/popular increased engagement from new users, which was the goal.

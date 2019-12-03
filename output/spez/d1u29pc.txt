@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit Mobile Apps
 
-Title: Reddit Mobile Apps
-
-Body: **tl;dr**: I’m new, we’re launching two apps today in the US, UK, Canada and Australia: [Reddit for iPhone](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=121809) and [Reddit for Android](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=122129), send us your feedback, we’ll keep making them better for you. AMA!
+**tl;dr**: I’m new, we’re launching two apps today in the US, UK, Canada and Australia: [Reddit for iPhone](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=121809) and [Reddit for Android](https://294177.measurementapi.com/serve?action=click&publisher_id=294177&site_id=122129), send us your feedback, we’ll keep making them better for you. AMA!
 
 ### Hi everyone!
 
@@ -42,20 +40,140 @@ Alex
 
 **11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now. 
 
-Q: What do you think?
-A: why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc what do you bring to the table that they don't? you're going to have to do some pretty fancy tricks to get me to move away from paid RIF. edit: no mod functions? i'm out. let me know when it gets updated. UI is pretty. i already turned disabled the big image previews because it takes up too much room. compact has thumbnails. not sure why you have the upvotes displayed on the right even though it's on the left for 99% of reddit's pages. i like how it shows the users here and subscribers at the top of a subreddit when i click on a user name it takes me to *either* posts or comments, why can't i get an overview? the user page only shows one type of karma? weird. do you have the ability to change image settings based on whether or not you're on wifi? that would be nice. the image submission feature is nice - especially how it shows "recent communities" that i've posted to, but i want to be able to navigate in my own library, click on the share icon, and be able to choose your app instead of having to do it all through your app. dunno if that's a big deal, or just habit for me. my image submission is uploading slowly/poorly. is there a file size limit? it's been submitting for awhile now. alright, i tried to upload an image through your app and it took forever, so i cancelled. Sometimes imgur hates when i upload super-big images and i'm usually too lazy to make them smaller. I cropped and make it a smaller file just for the hell of it, which 99.9999% of the time makes imgur happy. aaaaaaaaand i'm still waiting for it to submit. dunno what to say about that, i'll just let it sit here and try to submit for awhile i guess? not sure how i feel about the various fonts mixing it up in my account history section. also personally not a huge fan of it being auto-abbreviated? I get it.. but it's just a bit weird for me. it'll be a BIG deal to a lot of people that they can't see their vote counts here. i kinda like when i'm browsing my front page and i click on an external link that it takes me to the reddit comment section with a preview of the content above. .... or maybe i want to complain about being required to make an extra click to see the full content? hmmmmm. I will say that it doesn't ALWAYS give an image preview, so there are instances where you're kinda forcing me to click on the content twice to see it. i like the comment reply dialog where it shows the original comment at the top and i have a lot of white space at the bottom to work with. Oh.. but when i do that, i can't select the above text to copy/paste? I also don't have the option to quote the text above. I guess i could pre-copy the text before i reply, then click reply, then paste it.. two serious nickpicky things with my inbox. first, it's "messages" and not actually my "default inbox" that's going to be kinda confusing to a lot of people? I moderate places and /messages/ threads all of that stuff in a very weird fashion in there. I get direct messages, modmail, etc all bundled together in a not-fun way. I want to see my direct messages. modmail is REALLY weird. nevermind it's lack of functionality, i can't really see what's even going on? It doesn't open the full modmail or even the full message. When a user is banned, i can't even see who the message is going to. I know your goal isn't to babysit the moderators around here, but it seems to lack basic functionality of being able to read messages at all. [okay sorry, i think i'm done for awhile. didn't mean to edit it 927 times but i did anyway.](http://i.imgur.com/N7FGiSB.jpg). There's a lot of stuff I like about it and look forward to its evolution.
+<u/316nuts>: why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc
 
-Q: why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc what do you bring to the table that they don't? you're going to have to do some pretty fancy tricks to get me to move away from paid RIF. edit: no mod functions? i'm out. let me know when it gets updated. UI is pretty. i already turned disabled the big image previews because it takes up too much room. compact has thumbnails. not sure why you have the upvotes displayed on the right even though it's on the left for 99% of reddit's pages. i like how it shows the users here and subscribers at the top of a subreddit when i click on a user name it takes me to *either* posts or comments, why can't i get an overview? the user page only shows one type of karma? weird. do you have the ability to change image settings based on whether or not you're on wifi? that would be nice. the image submission feature is nice - especially how it shows "recent communities" that i've posted to, but i want to be able to navigate in my own library, click on the share icon, and be able to choose your app instead of having to do it all through your app. dunno if that's a big deal, or just habit for me. my image submission is uploading slowly/poorly. is there a file size limit? it's been submitting for awhile now. alright, i tried to upload an image through your app and it took forever, so i cancelled. Sometimes imgur hates when i upload super-big images and i'm usually too lazy to make them smaller. I cropped and make it a smaller file just for the hell of it, which 99.9999% of the time makes imgur happy. aaaaaaaaand i'm still waiting for it to submit. dunno what to say about that, i'll just let it sit here and try to submit for awhile i guess? not sure how i feel about the various fonts mixing it up in my account history section. also personally not a huge fan of it being auto-abbreviated? I get it.. but it's just a bit weird for me. it'll be a BIG deal to a lot of people that they can't see their vote counts here. i kinda like when i'm browsing my front page and i click on an external link that it takes me to the reddit comment section with a preview of the content above. .... or maybe i want to complain about being required to make an extra click to see the full content? hmmmmm. I will say that it doesn't ALWAYS give an image preview, so there are instances where you're kinda forcing me to click on the content twice to see it. i like the comment reply dialog where it shows the original comment at the top and i have a lot of white space at the bottom to work with. Oh.. but when i do that, i can't select the above text to copy/paste? I also don't have the option to quote the text above. I guess i could pre-copy the text before i reply, then click reply, then paste it.. two serious nickpicky things with my inbox. first, it's "messages" and not actually my "default inbox" that's going to be kinda confusing to a lot of people? I moderate places and /messages/ threads all of that stuff in a very weird fashion in there. I get direct messages, modmail, etc all bundled together in a not-fun way. I want to see my direct messages. modmail is REALLY weird. nevermind it's lack of functionality, i can't really see what's even going on? It doesn't open the full modmail or even the full message. When a user is banned, i can't even see who the message is going to. I know your goal isn't to babysit the moderators around here, but it seems to lack basic functionality of being able to read messages at all. [okay sorry, i think i'm done for awhile. didn't mean to edit it 927 times but i did anyway.](http://i.imgur.com/N7FGiSB.jpg). There's a lot of stuff I like about it and look forward to its evolution.
-A: >why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc >what do you bring to the table that they don't? Our 3rd party apps are great – they've filled the void during the time when we didn't have apps. If you enjoy those other clients, please keep using them. We're going to focus on making our apps the best they can be for as many Redditors as we can. That might involve some compromises that don't work for all of our users and we're ok with that. That's why we care about staying committed to our free API. >you're going to have to do some pretty fancy tricks to get me to move away from paid RIF. [like this?](https://d26oc3sg82pgk3.cloudfront.net/files/media/filer_public/2015/07/30/07_summer.gif) >edit: no mod functions? i'm out. let me know when it gets updated. I'll PM you when they're available. >UI is pretty. Thank you! >i already turned disabled image previews because it taks up too much room. Customizability is important to Redditors. It is known. >not sure why you have the upvotes displayed on the right even though it's on the left for 99% of reddit's pages. You've pointed out a clear example of our bias against r/southpaws. We will be supporting gesture actions for voting soon. >i like how it shows the users here and subscribers at the top of a subreddit Me too! >when i click on a user name it takes me to either posts or comments, why can't i get an overview? Noted. >the user page only shows one type of karma? weird. We got this into the iOS build at the last minute and didn't quite make it into Android. Different platforms different challenges. We're working hard to get to full feature parity and it will be an ongoing effort. >do you have the ability to change image settings based on whether or not you're on wifi? that would be nice. That's a great idea that we didn't think of. I've noted it. >the image submission feature is nice - especially how it shows "recent communities" that i've posted to, but i want to be able to navigate in my own library, click on the share icon, and be able to choose your app instead of having to do it all through your app. dunno if that's a big deal, or just habit for me. This is coming. >my image submission is uploading slowly/poorly. is there a file size limit? it's been submitting for awhile now. >alright, i tried to upload an image through your app and it took forever, so i cancelled. Sometimes imgur hates when i upload super-big images and i'm usually too lazy to make them smaller. I cropped and make it a smaller file just for the hell of it, which 99.9999% of the time makes imgur happy. aaaaaaaaand i'm still waiting for it to submit. dunno what to say about that, i'll just let it sit here and try to submit for awhile i guess? There is a size limit. We'll be improving image uploading as we learn more about how people are using it. >not sure how i feel about the various fonts mixing it up in my account history section. also personally not a huge fan of it being auto-abbreviated? I get it.. but it's just a bit weird for me. it'll be a BIG deal to a lot of people that they can't see their vote counts here. We will fix that page. In our last submission that page had a bit of a regression. We're moving fast and breaking things. It'll get better. >i kinda like when i'm browsing my front page and i click on an external link that it takes me to the reddit comment section with a preview of the content above. .... or maybe i want to complain about being required to make an extra click to see the full content? hmmmmm. I will say that it doesn't ALWAYS give an image preview, so there are instances where you're kinda forcing me to click on the content twice to see it. Make up your mind! We'll try to make up ours :) >i like the comment reply dialog where it shows the original comment at the top and i have a lot of white space at the bottom to work with. Oh.. but when i do that, i can't select the above text to copy/paste? I also don't have the option to quote the text above. I guess i could pre-copy the text before i reply, then click reply, then paste it.. Good point! We've noted this. >two serious nickpicky things with my inbox. first, it's "messages" and not actually my "default inbox" that's going to be kinda confusing to a lot of people? I moderate places and /messages/ threads all of that stuff in a very weird fashion in there. I get direct messages, modmail, etc all bundled together in a not-fun way. I want to see my direct messages. This is noted. Might not get to it right away though. >modmail is REALLY weird. nevermind it's lack of functionality, i can't really see what's even going on? It doesn't open the full modmail or even the full message. When a user is banned, i can't even see who the message is going to. I know your goal isn't to babysit the moderators around here, but it seems to lack basic functionality of being able to read messages at all. To be frank, it wasn't the highest priority item to make the mod workflow great on the app. I commit to making it better as we go forward. On a broader note we want to save you from having to do so much dirty work.
+what do you bring to the table that they don't?
 
-Q: >why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc >what do you bring to the table that they don't? Our 3rd party apps are great – they've filled the void during the time when we didn't have apps. If you enjoy those other clients, please keep using them. We're going to focus on making our apps the best they can be for as many Redditors as we can. That might involve some compromises that don't work for all of our users and we're ok with that. That's why we care about staying committed to our free API. >you're going to have to do some pretty fancy tricks to get me to move away from paid RIF. [like this?](https://d26oc3sg82pgk3.cloudfront.net/files/media/filer_public/2015/07/30/07_summer.gif) >edit: no mod functions? i'm out. let me know when it gets updated. I'll PM you when they're available. >UI is pretty. Thank you! >i already turned disabled image previews because it taks up too much room. Customizability is important to Redditors. It is known. >not sure why you have the upvotes displayed on the right even though it's on the left for 99% of reddit's pages. You've pointed out a clear example of our bias against r/southpaws. We will be supporting gesture actions for voting soon. >i like how it shows the users here and subscribers at the top of a subreddit Me too! >when i click on a user name it takes me to either posts or comments, why can't i get an overview? Noted. >the user page only shows one type of karma? weird. We got this into the iOS build at the last minute and didn't quite make it into Android. Different platforms different challenges. We're working hard to get to full feature parity and it will be an ongoing effort. >do you have the ability to change image settings based on whether or not you're on wifi? that would be nice. That's a great idea that we didn't think of. I've noted it. >the image submission feature is nice - especially how it shows "recent communities" that i've posted to, but i want to be able to navigate in my own library, click on the share icon, and be able to choose your app instead of having to do it all through your app. dunno if that's a big deal, or just habit for me. This is coming. >my image submission is uploading slowly/poorly. is there a file size limit? it's been submitting for awhile now. >alright, i tried to upload an image through your app and it took forever, so i cancelled. Sometimes imgur hates when i upload super-big images and i'm usually too lazy to make them smaller. I cropped and make it a smaller file just for the hell of it, which 99.9999% of the time makes imgur happy. aaaaaaaaand i'm still waiting for it to submit. dunno what to say about that, i'll just let it sit here and try to submit for awhile i guess? There is a size limit. We'll be improving image uploading as we learn more about how people are using it. >not sure how i feel about the various fonts mixing it up in my account history section. also personally not a huge fan of it being auto-abbreviated? I get it.. but it's just a bit weird for me. it'll be a BIG deal to a lot of people that they can't see their vote counts here. We will fix that page. In our last submission that page had a bit of a regression. We're moving fast and breaking things. It'll get better. >i kinda like when i'm browsing my front page and i click on an external link that it takes me to the reddit comment section with a preview of the content above. .... or maybe i want to complain about being required to make an extra click to see the full content? hmmmmm. I will say that it doesn't ALWAYS give an image preview, so there are instances where you're kinda forcing me to click on the content twice to see it. Make up your mind! We'll try to make up ours :) >i like the comment reply dialog where it shows the original comment at the top and i have a lot of white space at the bottom to work with. Oh.. but when i do that, i can't select the above text to copy/paste? I also don't have the option to quote the text above. I guess i could pre-copy the text before i reply, then click reply, then paste it.. Good point! We've noted this. >two serious nickpicky things with my inbox. first, it's "messages" and not actually my "default inbox" that's going to be kinda confusing to a lot of people? I moderate places and /messages/ threads all of that stuff in a very weird fashion in there. I get direct messages, modmail, etc all bundled together in a not-fun way. I want to see my direct messages. This is noted. Might not get to it right away though. >modmail is REALLY weird. nevermind it's lack of functionality, i can't really see what's even going on? It doesn't open the full modmail or even the full message. When a user is banned, i can't even see who the message is going to. I know your goal isn't to babysit the moderators around here, but it seems to lack basic functionality of being able to read messages at all. To be frank, it wasn't the highest priority item to make the mod workflow great on the app. I commit to making it better as we go forward. On a broader note we want to save you from having to do so much dirty work.
-A: Made the jump from Alien Blue. - Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote! - Switching to Compact view appears to work for individual subreddits, but my front page is still in Card view? - I miss being able to press + hold on video/gif thumbnails in comments to preview them without leaving the comments Everything else seems like a good start for now. Keep up the good work, I'm sure you guys have more awesome stuff coming
+you're going to have to do some pretty fancy tricks to get me to move away from paid RIF. 
 
-Q: Made the jump from Alien Blue. - Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote! - Switching to Compact view appears to work for individual subreddits, but my front page is still in Card view? - I miss being able to press + hold on video/gif thumbnails in comments to preview them without leaving the comments Everything else seems like a good start for now. Keep up the good work, I'm sure you guys have more awesome stuff coming
-A: > Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote! Instead of swipe to collapse, there is a little button in the lower right to skip to the next thread. You can move it around with press-and-hold. Swipe to collapse was my favorite feature ever, and I think this button is a nice improvement. > Switching to Compact view appears to work for individual subreddits, but my front page is still in Card view? There is a global preference for compact view as well.
+edit:  no mod functions?  i'm out. let me know when it gets updated. 
 
-Q: > Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote! Instead of swipe to collapse, there is a little button in the lower right to skip to the next thread. You can move it around with press-and-hold. Swipe to collapse was my favorite feature ever, and I think this button is a nice improvement. > Switching to Compact view appears to work for individual subreddits, but my front page is still in Card view? There is a global preference for compact view as well.
-A: I would prefer the button to skip to next thread to be at the top right. The bottom right corner is the toughest to reach. :(
+UI is pretty.  
 
-Q: I would prefer the button to skip to next thread to be at the top right. The bottom right corner is the toughest to reach. :(
-A: You can tap and hold and move it around.
+i already turned disabled the big image previews because it takes up too much room. compact has thumbnails.
+
+not sure why you have the upvotes displayed on the right even though it's on the left for 99% of reddit's pages.
+
+i like how it shows the users here and subscribers at the top of a subreddit
+
+when i click on a user name it takes me to *either* posts or comments, why can't i get an overview?
+
+the user page only shows one type of karma? weird.
+
+do you have the ability to change image settings based on whether or not you're on wifi? that would be nice. 
+
+the image submission feature is nice - especially how it shows "recent communities" that i've posted to, but i want to be able to navigate in my own library, click on the share icon, and be able to choose your app instead of having to do it all through your app. dunno if that's a big deal, or just habit for me. 
+
+my image submission is uploading slowly/poorly.  is there a file size limit? it's been submitting for awhile now. 
+
+alright, i tried to upload an image through your app and it took forever, so i cancelled.  Sometimes imgur hates when i upload super-big images and i'm usually too lazy to make them smaller.  I cropped and make it a smaller file just for the hell of it, which 99.9999% of the time makes imgur happy.  aaaaaaaaand i'm still waiting for it to submit. dunno what to say about that, i'll just let it sit here and try to submit for awhile i guess?
+
+not sure how i feel about the various fonts mixing it up in my account history section. also personally not a huge fan of it being auto-abbreviated?  I get it.. but it's just a bit weird for me.  it'll be a BIG deal to a lot of people that they can't see their vote counts here. 
+
+i kinda like when i'm browsing my front page and i click on an external link that it takes me to the reddit comment section with a preview of the content above.  .... or maybe i want to complain about being required to make an extra click to see the full content? hmmmmm.  I will say that it doesn't ALWAYS give an image preview, so there are instances where you're kinda forcing me to click on the content twice to see it. 
+
+i like the comment reply dialog where it shows the original comment at the top and i have a lot of white space at the bottom to work with. Oh.. but when i do that, i can't select the above text to copy/paste? I also don't have the option to quote the text above.  I guess i could pre-copy the text before i reply, then click reply, then paste it..
+
+two serious nickpicky things with my inbox.  first, it's "messages" and not actually my "default inbox"  that's going to be kinda confusing to a lot of people?  I moderate places and /messages/ threads all of that stuff in a very weird fashion in there. I get direct messages, modmail, etc all bundled together in a not-fun way. I want to see my direct messages. 
+
+modmail is REALLY weird. nevermind it's lack of functionality, i can't really see what's even going on? It doesn't open the full modmail or even the full message.  When a user is banned, i can't even see who the message is going to.  I know your goal isn't to babysit the moderators around here, but it seems to lack basic functionality of being able to read messages at all. 
+
+[okay sorry, i think i'm done for awhile. didn't mean to edit it 927 times but i did anyway.](http://i.imgur.com/N7FGiSB.jpg).  There's a lot of stuff I like about it and look forward to its evolution. 
+
+
+
+<u/ggAlex>: >why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc
+>what do you bring to the table that they don't?
+
+  
+Our 3rd party apps are great – they've filled the void during the time when we didn't have apps. If you enjoy those other clients, please keep using them. We're going to focus on making our apps the best they can be for as many Redditors as we can. That might involve some compromises that don't work for all of our users and we're ok with that. That's why we care about staying committed to our free API.
+  
+
+>you're going to have to do some pretty fancy tricks to get me to move away from paid RIF.
+
+[like this?](https://d26oc3sg82pgk3.cloudfront.net/files/media/filer_public/2015/07/30/07_summer.gif)
+
+>edit: no mod functions? i'm out. let me know when it gets updated.
+
+I'll PM you when they're available.
+
+>UI is pretty.
+
+Thank you! 
+
+>i already turned disabled image previews because it taks up too much room.
+
+Customizability is important to Redditors. It is known.
+
+>not sure why you have the upvotes displayed on the right even though it's on the left for 99% of reddit's pages.
+
+You've pointed out a clear example of our bias against r/southpaws. We will be supporting gesture actions for voting soon.
+
+>i like how it shows the users here and subscribers at the top of a subreddit
+
+Me too!
+
+>when i click on a user name it takes me to either posts or comments, why can't i get an overview?
+
+Noted. 
+
+>the user page only shows one type of karma? weird.
+
+We got this into the iOS build at the last minute and didn't quite make it into Android. Different platforms different challenges. We're working hard to get to full feature parity and it will be an ongoing effort.
+
+>do you have the ability to change image settings based on whether or not you're on wifi? that would be nice.
+
+That's a great idea that we didn't think of. I've noted it.
+
+>the image submission feature is nice - especially how it shows "recent communities" that i've posted to, but i want to be able to navigate in my own library, click on the share icon, and be able to choose your app instead of having to do it all through your app. dunno if that's a big deal, or just habit for me.
+
+This is coming.
+
+>my image submission is uploading slowly/poorly. is there a file size limit? it's been submitting for awhile now.
+>alright, i tried to upload an image through your app and it took forever, so i cancelled. Sometimes imgur hates when i upload super-big images and i'm usually too lazy to make them smaller. I cropped and make it a smaller file just for the hell of it, which 99.9999% of the time makes imgur happy. aaaaaaaaand i'm still waiting for it to submit. dunno what to say about that, i'll just let it sit here and try to submit for awhile i guess?
+
+There is a size limit. We'll be improving image uploading as we learn more about how people are using it.
+
+>not sure how i feel about the various fonts mixing it up in my account history section. also personally not a huge fan of it being auto-abbreviated? I get it.. but it's just a bit weird for me. it'll be a BIG deal to a lot of people that they can't see their vote counts here.
+
+We will fix that page. In our last submission that page had a bit of a regression. We're moving fast and breaking things. It'll get better.
+
+>i kinda like when i'm browsing my front page and i click on an external link that it takes me to the reddit comment section with a preview of the content above. .... or maybe i want to complain about being required to make an extra click to see the full content? hmmmmm. I will say that it doesn't ALWAYS give an image preview, so there are instances where you're kinda forcing me to click on the content twice to see it.
+
+Make up your mind! We'll try to make up ours :)
+
+>i like the comment reply dialog where it shows the original comment at the top and i have a lot of white space at the bottom to work with. Oh.. but when i do that, i can't select the above text to copy/paste? I also don't have the option to quote the text above. I guess i could pre-copy the text before i reply, then click reply, then paste it..
+
+Good point! We've noted this.
+
+>two serious nickpicky things with my inbox. first, it's "messages" and not actually my "default inbox" that's going to be kinda confusing to a lot of people? I moderate places and /messages/ threads all of that stuff in a very weird fashion in there. I get direct messages, modmail, etc all bundled together in a not-fun way. I want to see my direct messages.
+
+This is noted. Might not get to it right away though.
+
+>modmail is REALLY weird. nevermind it's lack of functionality, i can't really see what's even going on? It doesn't open the full modmail or even the full message. When a user is banned, i can't even see who the message is going to. I know your goal isn't to babysit the moderators around here, but it seems to lack basic functionality of being able to read messages at all.
+
+To be frank, it wasn't the highest priority item to make the mod workflow great on the app. I commit to making it better as we go forward.  On a broader note we want to save you from having to do so much dirty work.
+
+
+<u/PreludesAndNocturnes>: Made the jump from Alien Blue. 
+
+- Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote!
+
+- Switching to Compact view appears to work for individual subreddits, but my front page is still in Card view?
+
+- I miss being able to press + hold on video/gif thumbnails in comments to preview them without leaving the comments
+
+Everything else seems like a good start for now. Keep up the good work, I'm sure you guys have more awesome stuff coming
+
+<u/spez>: > Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote!
+
+Instead of swipe to collapse, there is a little button in the lower right to skip to the next thread. You can move it around with press-and-hold. Swipe to collapse was my favorite feature ever, and I think this button is a nice improvement.
+
+> Switching to Compact view appears to work for individual subreddits, but my front page is still in Card view?
+
+There is a global preference for compact view as well.
+
+
+<u/enriqueDFTL>: I would prefer the button to skip to next thread to be at the top right. The bottom right corner is the toughest to reach. :(
+
+<u/spez>: You can tap and hold and move it around.

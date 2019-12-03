@@ -1,18 +1,19 @@
-In subreddit: ModSupport
+<r/ModSupport>: Can't get rid of frozen account's comment in modqueue. No response from admins for 2 weeks. What the heck
 
-Title: Can't get rid of frozen account's comment in modqueue. No response from admins for 2 weeks. What the heck
-
-Body: Comment in question: https://i.imgur.com/DoX6HKc.png
+Comment in question: https://i.imgur.com/DoX6HKc.png
 
 Since it's a locked account approving, removing, or ignoring reports on this comment doesn't work.  It has been in modqueue for over 2 weeks now and we have had 0 on-topic responses from the admins (the only response was to talk to the mods of the subreddit to get our comment approved).  I'd settle for a "Thanks for letting us know.  We can't do anything because reasons" response, but have received nothing.  We've replied to our messages to them a couple times to bring it back up.  Still nothing.
 
 Is this the kind of response we should expect from the admins going forward?
 
-Q: What do you think?
-A: Should be fixed now. Will dig in and see what happened. I think there was a miscommunication of what the problem actually was.
+<u/spez>: Should be fixed now. Will dig in and see what happened. I think there was a miscommunication of what the problem actually was.
 
-Q: Should be fixed now. Will dig in and see what happened. I think there was a miscommunication of what the problem actually was.
-A: I had a disturbing [thought](https://www.reddit.com/r/RussiaLago/comments/87ipcn/i_just_had_a_disturbing_thought_we_just_found_out/) a while ago and was hoping you could answer a question. Chris Wylie [told](https://www.cnbc.com/2018/03/27/palantir-worked-with-cambridge-analytica-on-the-facebook-data-whistleblower.html) investigators that CA shared its FB data with Palantir (Peter Thiel's company). He also said that there was no official contract. I can't help but wonder if there was no official contract because it was part of a trade. Thiel is a major investor in Reddit. Perhaps he traded Facebook data in exchange for Reddit data? I bet CA or companies like it are dying to get their hands on what makes the base excited and the opposition depressed. Has Reddit given its data to Thiel or to any other known political actor?
+<u/ghqwertt>: I had a disturbing [thought](https://www.reddit.com/r/RussiaLago/comments/87ipcn/i_just_had_a_disturbing_thought_we_just_found_out/) a while ago and was hoping you could answer a question. Chris Wylie [told](https://www.cnbc.com/2018/03/27/palantir-worked-with-cambridge-analytica-on-the-facebook-data-whistleblower.html) investigators that CA shared its FB data with Palantir (Peter Thiel's company). He also said that there was no official contract.
 
-Q: I had a disturbing [thought](https://www.reddit.com/r/RussiaLago/comments/87ipcn/i_just_had_a_disturbing_thought_we_just_found_out/) a while ago and was hoping you could answer a question. Chris Wylie [told](https://www.cnbc.com/2018/03/27/palantir-worked-with-cambridge-analytica-on-the-facebook-data-whistleblower.html) investigators that CA shared its FB data with Palantir (Peter Thiel's company). He also said that there was no official contract. I can't help but wonder if there was no official contract because it was part of a trade. Thiel is a major investor in Reddit. Perhaps he traded Facebook data in exchange for Reddit data? I bet CA or companies like it are dying to get their hands on what makes the base excited and the opposition depressed. Has Reddit given its data to Thiel or to any other known political actor?
-A: No. That's nonsense. Do you have a bot or something that replies with this to everything I write? If so, turn it off.
+I can't help but wonder if there was no official contract because it was part of a trade. Thiel is a major investor in Reddit. Perhaps he traded Facebook data in exchange for Reddit data? I bet CA or companies like it are dying to get their hands on what makes the base excited and the opposition depressed.
+
+Has Reddit given its data to Thiel or to any other known political actor?
+
+<u/spez>: No. That's nonsense.
+
+Do you have a bot or something that replies with this to everything I write? If so, turn it off.

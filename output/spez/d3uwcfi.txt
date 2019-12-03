@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,10 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: 1. What do you think makes reddit different to other social media sites out there? 2. Batman vs 100 badgers, who wins?
+<u/super_secret_soup>: 1. What do you think makes reddit different to other social media sites out there?
 
-Q: 1. What do you think makes reddit different to other social media sites out there? 2. Batman vs 100 badgers, who wins?
-A: 1. People can be their authentic selves in a way they can't anywhere else. They can also be someone else's authentic self. 2. Batman. He's the world's greatest detective.
+2. Batman vs 100 badgers, who wins?
+
+<u/spez>: 1. People can be their authentic selves in a way they can't anywhere else. They can also be someone else's authentic self.
+
+2. Batman. He's the world's greatest detective.

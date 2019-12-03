@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,6 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: What are your thoughts about /u/gallowboob ? Do you think that it is a big step on Reddits side of him getting a job by having the most karma?
+<u/Not_Weirder>: What are your thoughts about /u/gallowboob ? Do you think that it is a big step on Reddits side of him getting a job by having the most karma?
 
-Q: What are your thoughts about /u/gallowboob ? Do you think that it is a big step on Reddits side of him getting a job by having the most karma?
-A: Why buy the cow when you get the milk for free?
+<u/spez>: Why buy the cow when you get the milk for free?

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,11 +28,14 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: Look, I don’t like r/pics either, but I’ve come to accept them.
+<u/wantagh>: Look, I don’t like r/pics either, but I’ve come to accept them. 
 
-Q: Look, I don’t like r/pics either, but I’ve come to accept them.
-A: Generally the mods of pics have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of pics that refuse to work with us. At Reddit, we try to separate behavior from beliefs. People are free to have whatever beliefs they want, but we do care about your behavior, specifically whether or not you are violating our content policy. During the election, I defended that community because they represented a frustration in the US that a large part of the population needs random pictures about nothing. We are on the eve of the President’s SOTU and, sadly, alienation and cynicism are still deeply felt by much of our population, and we’re more divided than ever. I don’t believe banning a community that represents no viewpoints does anything but make the problem worse. It’s much more powerful for the greater population to reject these views than for us to ban them and turn them into martyrs.
+<u/spez>: Generally the mods of pics have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of pics that refuse to work with us.
+
+At Reddit, we try to separate behavior from beliefs. People are free to have whatever beliefs they want, but we do care about your behavior, specifically whether or not you are violating our content policy.
+
+During the election, I defended that community because they represented a frustration in the US that a large part of the population needs random pictures about nothing.
+
+We are on the eve of the President’s SOTU and, sadly, alienation and cynicism are still deeply felt by much of our population, and we’re more divided than ever. I don’t believe banning a community that represents no viewpoints does anything but make the problem worse. It’s much more powerful for the greater population to reject these views than for us to ban them and turn them into martyrs.

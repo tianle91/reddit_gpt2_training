@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit in 2016
 
-Title: Reddit in 2016
-
-Body: Hi All,
+Hi All,
 
 Now that 2015 is in the books, it’s a good time to reflect on where we are and where we are going. Since I returned last summer, my goal has been to bring a sense of calm; to rebuild our relationship with our users and moderators; and to improve the fundamentals of our business so that we can focus on making you (our users), those that work here, and the world in general, proud of Reddit. Reddit’s mission is to help people discover places where they can be themselves and to empower the community to flourish.
 
@@ -24,8 +22,8 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
 
-Q: What do you think?
-A: As a mod, there's been a huge increase in spam lately. Reporting spammers via r/spam seems to be hit or miss, and it's not clear if there's any way to report entire spam domains (which would make everything so much easier). Modmails and username summons in r/spam usually go unanswered. You acknowledged that there's a spam problem, but what are you planning to actually do about it?
+<u/duckvimes_>: As a mod, there's been a huge increase in spam lately. Reporting spammers via r/spam seems to be hit or miss, and it's not clear if there's any way to report entire spam domains (which would make everything so much easier). Modmails and username summons in r/spam usually go unanswered. 
 
-Q: As a mod, there's been a huge increase in spam lately. Reporting spammers via r/spam seems to be hit or miss, and it's not clear if there's any way to report entire spam domains (which would make everything so much easier). Modmails and username summons in r/spam usually go unanswered. You acknowledged that there's a spam problem, but what are you planning to actually do about it?
-A: We don't have the bandwidth to answer every summons, but we're aware of the uptick lately. Our efforts right now are to improve in a more scalable fashion. Historically, it's been a lot of one-offs and by-hand efforts, which isn't sustainable.
+You acknowledged that there's a spam problem, but what are you planning to actually do about it?
+
+<u/spez>: We don't have the bandwidth to answer every summons, but we're aware of the uptick lately. Our efforts right now are to improve in a more scalable fashion. Historically, it's been a lot of one-offs and by-hand efforts, which isn't sustainable.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
 
-Title: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
-
-Body: I would like to share some of the things we have been up to since we last chatted.
+I would like to share some of the things we have been up to since we last chatted.
 
 On the product side, we’ve been busy. Both our [iPhone](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) apps have had [multiple releases](https://www.reddit.com/r/redditmobile), and we’re proud at how well they are progressing. Mobile web (m.reddit.com) is undergoing a major overhaul that we’re testing internally, and hope to start showing to users in the next couple weeks. We have been running many experiments on desktop web to increase user engagement, particularly for users who are new to Reddit. You can see what experiments we are running on this [live thread](https://www.reddit.com/live/x3ckzbsj6myw/), and notable changes to the site are listed in r/changelog.
 
@@ -20,8 +18,14 @@ e: grammar
 
 u: Thank you! Heading out for now. Will check back later.
 
-Q: What do you think?
-A: I'm actually enjoying the official reddit app for iOS. Took a while, but it's growing on me. My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap? Usually it's simple. [Click on comment, vote buttons appear, pick my vote.] But then there's the comments with only one or two words. Or pun threads. [Click on comment. Somehow missed and collapsed comments below it. Tap to uncollapse. Oops, tapped on commenter's username. Back out of user page. Try again til it works].
+<u/solemn_fable>: I'm actually enjoying the official reddit app for iOS. Took a while, but it's growing on me. 
 
-Q: I'm actually enjoying the official reddit app for iOS. Took a while, but it's growing on me. My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap? Usually it's simple. [Click on comment, vote buttons appear, pick my vote.] But then there's the comments with only one or two words. Or pun threads. [Click on comment. Somehow missed and collapsed comments below it. Tap to uncollapse. Oops, tapped on commenter's username. Back out of user page. Try again til it works].
-A: > My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap? Yes, this gets me too.
+My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap?  
+
+Usually it's simple. [Click on comment, vote buttons appear, pick my vote.]
+
+But then there's the comments with only one or two words. Or pun threads. [Click on comment. Somehow missed and collapsed comments below it. Tap to uncollapse. Oops, tapped on commenter's username. Back out of user page. Try again til it works]. 
+
+<u/spez>: > My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap?
+
+Yes, this gets me too.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
 
-Title: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
-
-Body: Hi All,
+Hi All,
 
 We’ve got some updates to share about Reddit the platform, community, and business:
 
@@ -24,8 +22,7 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Q: What do you think?
-A: Can you do something about sponsored posts, bot-upvoted posts, and posts made by bots to advertise?
+<u/0pet>: Can you do something about sponsored posts, bot-upvoted posts, and posts made by bots to advertise?
 
-Q: Can you do something about sponsored posts, bot-upvoted posts, and posts made by bots to advertise?
-A: This is the domain of the Anti-Evil team. Yes, we look for this stuff. If you see examples of fishiness, you can always PM me, and I'll forward to the team.
+
+<u/spez>: This is the domain of the Anti-Evil team. Yes, we look for this stuff. If you see examples of fishiness, you can always PM me, and I'll forward to the team.

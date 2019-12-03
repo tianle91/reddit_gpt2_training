@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,17 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: Hey, /u/spez: What exactly is an* "Emergency Disclosure Request"? Also, > **Request 2:** > * A litigant issued a subpoena to Reddit seeking his or her own account information. * Reddit advised that the user could request that Reddit provide them with their own information directly. The litigant subsequently withdrew the subpoena. lol. Edit: a word
+<u/BLACK-AND-DICKER>: Hey, /u/spez: What exactly is an* "Emergency Disclosure Request"?
 
-Q: Hey, /u/spez: What exactly is an* "Emergency Disclosure Request"? Also, > **Request 2:** > * A litigant issued a subpoena to Reddit seeking his or her own account information. * Reddit advised that the user could request that Reddit provide them with their own information directly. The litigant subsequently withdrew the subpoena. lol. Edit: a word
-A: > Emergency Disclosure Requests can be made to Reddit to compel us to disclose user account information in certain circumstances when we believe disclosure is necessary to prevent imminent and serious bodily harm to a person. When notified of a potential emergency situation by law enforcement, we require law enforcement to provide enough information to satisfy Reddit that the standard is met, and further require that the law enforcement officer certify the request in writing.
+Also,
+
+> **Request 2:**
+>
+* A litigant issued a subpoena to Reddit seeking his or her own account information.
+* Reddit advised that the user could request that Reddit provide them with their own information directly. The litigant subsequently withdrew the subpoena.
+
+lol.
+
+Edit: a word
+
+<u/spez>: > Emergency Disclosure Requests can be made to Reddit to compel us to disclose user account information in certain circumstances when we believe disclosure is necessary to prevent imminent and serious bodily harm to a person. When notified of a potential emergency situation by law enforcement, we require law enforcement to provide enough information to satisfy Reddit that the standard is met, and further require that the law enforcement officer certify the request in writing.

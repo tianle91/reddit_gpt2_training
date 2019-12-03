@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,6 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: Do you regret doing this AMA yet?
+<u/rulerBob8>: Do you regret doing this AMA yet?
 
-Q: Do you regret doing this AMA yet?
-A: [Well...](https://media.giphy.com/media/5t9wJjyHAOxvnxcPNk/source.gif)
+<u/spez>: [Well...](https://media.giphy.com/media/5t9wJjyHAOxvnxcPNk/source.gif)

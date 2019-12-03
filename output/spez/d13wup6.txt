@@ -1,13 +1,10 @@
-In subreddit: TheoryOfReddit
+<r/TheoryOfReddit>: Just noticed reddit is redirecting outgoing links through https://out.reddit.com - effectively monitoring them.
 
-Title: Just noticed reddit is redirecting outgoing links through https://out.reddit.com - effectively monitoring them.
-
-Body: Is this a new "feature"? I just noticed it a few moments ago. It's the same behavior google uses to monitor what links you click on a search page. Not sure what to make of this. Any thoughts? Feel free to delete if this isn't suitable for TOR.
+Is this a new "feature"? I just noticed it a few moments ago. It's the same behavior google uses to monitor what links you click on a search page. Not sure what to make of this. Any thoughts? Feel free to delete if this isn't suitable for TOR.
 
 Edit:
 [\[reddit change\] Rampdown of Outbound Click Events to add Privacy Controls](https://www.reddit.com/r/changelog/comments/4az6s1/reddit_change_rampdown_of_outbound_click_events/)
 
 This will probably be an opt-in/opt-out feature in the future. For now this feature is not in being used anymore.
 
-Q: What do you think?
-A: Yes, we’re testing this. The first thing we wanted to learn is what users click on globally (i.e. what our our most popular domains are. We have learned this. I’ll give you one guess…). We’re only sampling over a small number of users. Down the road we’d like to use this information this data to make recommendations, fight spam, make better sorting algorithms, and improve the front page (e.g. not show you the same links over and over). The information isn’t being used on an individual basis, and before it is, we’ll give you a way to clear your history.
+<u/spez>: Yes, we’re testing this.  The first thing we wanted to learn is what users click on globally (i.e. what our our most popular domains are. We have learned this. I’ll give you one guess…). We’re only sampling over a small number of users. Down the road we’d like to use this information this data to make recommendations, fight spam, make better sorting algorithms, and improve the front page (e.g. not show you the same links over and over). The information isn’t being used on an individual basis, and before it is, we’ll give you a way to clear your history.

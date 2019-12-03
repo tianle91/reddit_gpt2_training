@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk about Orlando
 
-Title: Let's talk about Orlando
-
-Body: Hi All,
+Hi All,
 
 What happened in Orlando this weekend was a national tragedy. Let’s remember that first and foremost, this was a devastating and visceral human experience that many individuals and whole communities were, and continue to be, affected by. In the grand scheme of things, this is what is most important today.
 
@@ -23,8 +21,30 @@ In the wake of this weekend, we will be making a handful of technology and proce
 
 Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time. 
 
-Q: What do you think?
-A: > A few posts were removed incorrectly Isn't this the understatement of the century? The amount of DELETED comments in those threads was *insane* and it turned out many of them didn't come *close* to violating any policy. Identifying where to go to donate blood? >We have investigated Will this be a transparent investigation or is this all you guys have to say on the matter? >it is never acceptable to harass users or moderators While I agree with the sentiment, it's really bad form, IMO, to include this here, in this post. Part of the disdain for how this was handled included the /r/news mods blaming the users for *their* behavior. >This is a responsibility we take seriously. This is hard to take seriously if theres a) no accountability, b) no transparency, and c) no acknowledgement of how HORRIBLY this whole incident was handled. This post effectively comes down to "One mod crossed the line. And by the way, don't harass mods ever." >We–Reddit Inc, moderators, and users–all have a duty to ensure access to timely information is available. What happens when you - Reddit Inc and moderators (I'd argue that regular users do not have a duty to provide access to info) - fail in this duty? If it's a serious responsibility, as you claim, are there repercussions or is there any accountability, at all, when the system fails? *edit: their/there correction
+<u/thebaron2>: > A few posts were removed incorrectly
 
-Q: > A few posts were removed incorrectly Isn't this the understatement of the century? The amount of DELETED comments in those threads was *insane* and it turned out many of them didn't come *close* to violating any policy. Identifying where to go to donate blood? >We have investigated Will this be a transparent investigation or is this all you guys have to say on the matter? >it is never acceptable to harass users or moderators While I agree with the sentiment, it's really bad form, IMO, to include this here, in this post. Part of the disdain for how this was handled included the /r/news mods blaming the users for *their* behavior. >This is a responsibility we take seriously. This is hard to take seriously if theres a) no accountability, b) no transparency, and c) no acknowledgement of how HORRIBLY this whole incident was handled. This post effectively comes down to "One mod crossed the line. And by the way, don't harass mods ever." >We–Reddit Inc, moderators, and users–all have a duty to ensure access to timely information is available. What happens when you - Reddit Inc and moderators (I'd argue that regular users do not have a duty to provide access to info) - fail in this duty? If it's a serious responsibility, as you claim, are there repercussions or is there any accountability, at all, when the system fails? *edit: their/there correction
-A: Honestly, I'm quite upset myself. As a user, I was disappointed that when I wanted to learn what happened in Orlando, and I found a lot of infighting bullshit. We're still getting to the bottom of it all. Fortunately, the [AskReddit](https://www.reddit.com/r/AskReddit/comments/4nqnrm/breaking_news_orlando_nightclub_massshooting/) was quite good. All of us at Reddit are committed to making sure this doesn't happen again, and we're working with the mods to do so. We have historically stayed hands off and let these situations develop, but in this case we should have stepped in. Next time we will get involved sooner to make sure things don't go off the rails.
+Isn't this the understatement of the century? The amount of DELETED comments in those threads was *insane* and it turned out many of them didn't come *close* to violating any policy. Identifying where to go to donate blood?
+
+>We have investigated
+
+Will this be a transparent investigation or is this all you guys have to say on the matter?
+
+>it is never acceptable to harass users or moderators
+
+While I agree with the sentiment, it's really bad form, IMO, to include this here, in this post. Part of the disdain for how this was handled included the /r/news mods blaming the users for *their* behavior.
+
+>This is a responsibility we take seriously.
+
+This is hard to take seriously if theres a) no accountability, b) no transparency, and c) no acknowledgement of how HORRIBLY this whole incident was handled. This post effectively comes down to "One mod crossed the line. And by the way, don't harass mods ever."
+
+>We–Reddit Inc, moderators, and users–all have a duty to ensure access to timely information is available.
+
+What happens when you - Reddit Inc and moderators (I'd argue that regular users do not have a duty to provide access to info) - fail in this duty? If it's a serious responsibility, as you claim, are there repercussions or is there any accountability, at all, when the system fails?
+
+*edit: their/there correction
+
+<u/spez>: Honestly, I'm quite upset myself. As a user, I was disappointed that when I wanted to learn what happened in Orlando, and I found a lot of infighting bullshit. We're still getting to the bottom of it all. Fortunately, the [AskReddit](https://www.reddit.com/r/AskReddit/comments/4nqnrm/breaking_news_orlando_nightclub_massshooting/) was quite good.
+
+All of us at Reddit are committed to making sure this doesn't happen again, and we're working with the mods to do so. We have historically stayed hands off and let these situations develop, but in this case we should have stepped in. Next time we will get involved sooner to make sure things don't go off the rails.
+
+

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: For your reading pleasure, our 2015 Transparency Report
 
-Title: For your reading pleasure, our 2015 Transparency Report
-
-Body: In 2014, we published our first Transparency Report, which can be found [here](http://www.reddit.com/wiki/transparency/2014). We made a commitment to you to publish an annual report, detailing government and law enforcement agency requests for private information about our users. In keeping with that promise, we’ve published our [2015 transparency report](https://www.reddit.com/wiki/transparency/2015). 
+In 2014, we published our first Transparency Report, which can be found [here](http://www.reddit.com/wiki/transparency/2014). We made a commitment to you to publish an annual report, detailing government and law enforcement agency requests for private information about our users. In keeping with that promise, we’ve published our [2015 transparency report](https://www.reddit.com/wiki/transparency/2015). 
 
 We hope that sharing this information will help you better understand our [Privacy Policy](https://www.reddit.com/help/privacypolicy) and demonstrate our commitment for Reddit to remain a place that actively encourages authentic conversation.
 
@@ -23,23 +21,20 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
 
 
-Q: What do you think?
-A: Interesting to note that the national security Canary in the 2014 transparency report is no longer present in the 2015 transparency report.
+<u/slyf>: Interesting to note that the national security Canary in the 2014 transparency report is no longer present in the 2015 transparency report.
 
-Q: Interesting to note that the national security Canary in the 2014 transparency report is no longer present in the 2015 transparency report.
-A: Even with the canaries, we're treading a fine line. The whole thing is icky, which is why we [joined Twitter](https://upload.wikimedia.org/wikipedia/foundation/3/3d/Twitter_versus_Lynch_Amicus_Brief_February_2016.pdf) in pushing back.
+<u/spez>: Even with the canaries, we're treading a fine line. The whole thing is icky, which is why we [joined Twitter](https://upload.wikimedia.org/wikipedia/foundation/3/3d/Twitter_versus_Lynch_Amicus_Brief_February_2016.pdf) in pushing back.
 
-Q: Even with the canaries, we're treading a fine line. The whole thing is icky, which is why we [joined Twitter](https://upload.wikimedia.org/wikipedia/foundation/3/3d/Twitter_versus_Lynch_Amicus_Brief_February_2016.pdf) in pushing back.
-A: It sounds like reddit has received a National Security Letter since January 29, 2015.
+<u/CarrollQuigley>: It sounds like reddit has received a National Security Letter since January 29, 2015.
 
-Q: It sounds like reddit has received a National Security Letter since January 29, 2015.
-A: That's the entire point of the canary, he isn't allowed to say anything about it, the fact it was removed means that a gag order has been issued. 100% final, no discussion.
+<u/sageDieu>: That's the entire point of the canary, he isn't allowed to say anything about it, the fact it was removed means that a gag order has been issued. 100% final, no discussion.
 
-Q: That's the entire point of the canary, he isn't allowed to say anything about it, the fact it was removed means that a gag order has been issued. 100% final, no discussion.
-A: Or that Reddit decided to remove it voluntarily, for some reason. I don't think that that's likely; I just think it's a bit much to say with 100% certainty that a letter was received. It's a problem inherent to canaries. Edit: /u/spez says below that he's been advised not to say, so it could go either way, though it's still more likely they received a request.
+<u/lazyfrag>: Or that Reddit decided to remove it voluntarily, for some reason. I don't think that that's likely; I just think it's a bit much to say with 100% certainty that a letter was received. It's a problem inherent to canaries.
 
-Q: Or that Reddit decided to remove it voluntarily, for some reason. I don't think that that's likely; I just think it's a bit much to say with 100% certainty that a letter was received. It's a problem inherent to canaries. Edit: /u/spez says below that he's been advised not to say, so it could go either way, though it's still more likely they received a request.
-A: if that were true, there would be no reason for /u/spez not to say so. edit: time to subscribe to /r/privacy. edit2: also https://www.privacytools.io/
+Edit: /u/spez says below that he's been advised not to say, so it could go either way, though it's still more likely they received a request.
 
-Q: if that were true, there would be no reason for /u/spez not to say so. edit: time to subscribe to /r/privacy. edit2: also https://www.privacytools.io/
-A: I've been advised not to say anything one way or the other.
+<u/TelicAstraeus>: if that were true, there would be no reason for /u/spez not to say so.
+
+edit: time to subscribe to /r/privacy. edit2: also https://www.privacytools.io/
+
+<u/spez>: I've been advised not to say anything one way or the other.

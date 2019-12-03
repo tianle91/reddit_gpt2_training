@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: We are updating our Privacy Policy (effective Jan 1, 2016)
 
-Title: We are updating our Privacy Policy (effective Jan 1, 2016)
-
-Body: In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
+In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
 
 Keeping control in your hands is paramount to us, and this is our first consideration any time we change our privacy policy. Our overarching principle continues to be to request as little personally identifiable information as possible. To the extent that we store such information, we do not share it generally. Where there are exceptions to this, notably when you have given us explicit consent to do so, or in response to legal requests, we will spell them out clearly.
 
@@ -22,8 +20,8 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 edit: Thanks for all the feedback. I'm off for now.
 
-Q: What do you think?
-A: .
+<u/[deleted]>: .
 
-Q: .
-A: > We collect information about how all visitors browse the site to make reddit better. We remove personally identifiable data from this information after 90 days. This was a statement in the old policy I never liked because it's vague as to what is actually personally identifiable. Basically what it meant is that we delete our access logs after 90 days, which we will continue to do (but after 100 days).
+<u/spez>: > We collect information about how all visitors browse the site to make reddit better. We remove personally identifiable data from this information after 90 days.
+
+This was a statement in the old policy I never liked because it's vague as to what is actually personally identifiable. Basically what it meant is that we delete our access logs after 90 days, which we will continue to do (but after 100 days).

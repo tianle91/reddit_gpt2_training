@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Do you think you guys are making as much progress as you had hoped? What areas and ideas are you really happy with, and which do you feel still need more work?
+<u/CockTheRipper>: Do you think you guys are making as much progress as you had hoped?  What areas and ideas are you really happy with, and which do you feel still need more work?
 
-Q: Do you think you guys are making as much progress as you had hoped? What areas and ideas are you really happy with, and which do you feel still need more work?
-A: Yes and no. We spent a lot of the last year healing and hiring. I have to remind myself that we can't do everything we want overnight. At the same time, I'm really excited to build all our dreams, and I want to get things online yesterday!
+<u/spez>: Yes and no. We spent a lot of the last year healing and hiring. I have to remind myself that we can't do everything we want overnight. At the same time, I'm really excited to build all our dreams, and I want to get things online yesterday!

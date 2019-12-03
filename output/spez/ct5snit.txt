@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk content. AMA.
 
-Title: Let's talk content. AMA.
-
-Body: We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
+We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
 
 As we grew, I became increasingly uncomfortable projecting my worldview on others. More practically, I didn’t have time to pass judgement on everything, so I decided to judge nothing. 
 
@@ -41,8 +39,14 @@ edit: attempted to clarify harassment based on our existing policy
 
 update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-Q: What do you think?
-A: > Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence) This needs to be removed. There is no other way around it. It's too broad. Is /r/atheism bullying /r/christianity? Is /r/conservative bullying /r/politics? We need opposing views. We need people whose stupidity clashes against our values. Most importantly, **we need to learn how to deal with this people with our words**. We need to foster an environment where those people are silenced not with rules, but with the logic and support of the community.
+<u/-Massachoosite>: > Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence)
 
-Q: > Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence) This needs to be removed. There is no other way around it. It's too broad. Is /r/atheism bullying /r/christianity? Is /r/conservative bullying /r/politics? We need opposing views. We need people whose stupidity clashes against our values. Most importantly, **we need to learn how to deal with this people with our words**. We need to foster an environment where those people are silenced not with rules, but with the logic and support of the community.
-A: I'm specifically soliciting feedback on this language. The goal is to make it as clear as possible.
+This needs to be removed. 
+
+There is no other way around it. It's too broad. Is /r/atheism bullying /r/christianity?  Is /r/conservative bullying /r/politics?
+
+We need opposing views. We need people whose stupidity clashes against our values. Most importantly, **we need to learn how to deal with this people with our words**. We need to foster an environment where those people are silenced not with rules, but with the logic and support of the community. 
+
+
+
+<u/spez>: I'm specifically soliciting feedback on this language. The goal is to make it as clear as possible.

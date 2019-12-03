@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit in 2016
 
-Title: Reddit in 2016
-
-Body: Hi All,
+Hi All,
 
 Now that 2015 is in the books, it’s a good time to reflect on where we are and where we are going. Since I returned last summer, my goal has been to bring a sense of calm; to rebuild our relationship with our users and moderators; and to improve the fundamentals of our business so that we can focus on making you (our users), those that work here, and the world in general, proud of Reddit. Reddit’s mission is to help people discover places where they can be themselves and to empower the community to flourish.
 
@@ -24,8 +22,6 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
 
-Q: What do you think?
-A: That was a lot of words to use to say that little.
+<u/StopThePresses>: That was a lot of words to use to say that little. 
 
-Q: That was a lot of words to use to say that little.
-A: Hey, I'm super excited about this year, that's what I was trying to convey. Android beta is out today, we've been on a hiring tear lately, and we're finally able to test changes to the site in a consistent manner.
+<u/spez>: Hey, I'm super excited about this year, that's what I was trying to convey. Android beta is out today, we've been on a hiring tear lately, and we're finally able to test changes to the site in a consistent manner.

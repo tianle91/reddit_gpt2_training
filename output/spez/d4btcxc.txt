@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let’s all have a town hall about r/all
 
-Title: Let’s all have a town hall about r/all
-
-Body: Hi All,
+Hi All,
 
 A few days ago, we talked about a few technological and process changes we would be working on in order to improve your Reddit experience and ensure access to timely information is available.
 
@@ -20,11 +18,10 @@ Steve
 
 u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
 
-Q: What do you think?
-A: inb4 /r/the_donald starts screaming "HE'S LYING! THEY'RE SABOTAGING US!" But seriously, thanks for being open about the change.
+<u/xenonnsmb>: inb4 /r/the_donald starts screaming "HE'S LYING! THEY'RE SABOTAGING US!"
 
-Q: inb4 /r/the_donald starts screaming "HE'S LYING! THEY'RE SABOTAGING US!" But seriously, thanks for being open about the change.
-A: /r/The_Donald and /r/Circlejerk is more or less one and the same, these days. I welcome this change, and the transparency shown.
+But seriously, thanks for being open about the change.
 
-Q: /r/The_Donald and /r/Circlejerk is more or less one and the same, these days. I welcome this change, and the transparency shown.
-A: As a moderator of r/circlejerk, I resent that.
+<u/zuzahin>: /r/The_Donald and /r/Circlejerk is more or less one and the same, these days. I welcome this change, and the transparency shown. 
+
+<u/spez>: As a moderator of r/circlejerk, I resent that.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,6 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: Question, when the fuck is the Reddit search engine being overhauled? You keep saying it's in the works, but when the hell is it happening?
+<u/Friendlyindividual>: Question, when the fuck is the Reddit search engine being overhauled? You keep saying it's in the works, but when the hell is it happening? 
 
-Q: Question, when the fuck is the Reddit search engine being overhauled? You keep saying it's in the works, but when the hell is it happening?
-A: The old backend was officially retired this week! The new backend is much faster and more reliable, and a little bit more accurate. The next step is to continue to tune and improve the relevancy.
+<u/spez>: The old backend was officially retired this week! The new backend is much faster and more reliable, and a little bit more accurate. The next step is to continue to tune and improve the relevancy.

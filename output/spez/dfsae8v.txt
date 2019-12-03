@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,8 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: Since I'm working on making our monthly report for /r/pics now, have you seen the small reports we write up each month? I like these logs from reddit and hope reddit moderators like myself will start their own small scale efforts to increase transparency "At home" edit: [link to our February report](https://www.reddit.com/r/pics/comments/5wzu6m/february_2017_rpics_transparency_report/)
+<u/[deleted]>: Since I'm working on making our monthly report for /r/pics now, have you seen the small reports we write up each month? I like these logs from reddit and hope reddit moderators like myself will start their own small scale efforts to increase transparency "At home"
 
-Q: Since I'm working on making our monthly report for /r/pics now, have you seen the small reports we write up each month? I like these logs from reddit and hope reddit moderators like myself will start their own small scale efforts to increase transparency "At home" edit: [link to our February report](https://www.reddit.com/r/pics/comments/5wzu6m/february_2017_rpics_transparency_report/)
-A: Yep, I'm a fan.
+edit: [link to our February report](https://www.reddit.com/r/pics/comments/5wzu6m/february_2017_rpics_transparency_report/)
+
+<u/spez>: Yep, I'm a fan.

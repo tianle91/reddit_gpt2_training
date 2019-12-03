@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,6 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: What's this anti-evil team about? Are there jackets? If so, how do I join?
+<u/morr1025>: What's this anti-evil team about?  Are there jackets?  If so, how do I join?
 
-Q: What's this anti-evil team about? Are there jackets? If so, how do I join?
-A: They're the engineering team that focuses on internal tools and abuse at scale: spam, account take-overs (they just release 2FA!), vote manipulation, etc. It's the team I'd love to be on if I was still engineering.
+<u/spez>: They're the engineering team that focuses on internal tools and abuse at scale: spam, account take-overs (they just release 2FA!), vote manipulation, etc. It's the team I'd love to be on if I was still engineering.

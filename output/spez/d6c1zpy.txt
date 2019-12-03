@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
 
-Title: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
-
-Body: I would like to share some of the things we have been up to since we last chatted.
+I would like to share some of the things we have been up to since we last chatted.
 
 On the product side, we’ve been busy. Both our [iPhone](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) apps have had [multiple releases](https://www.reddit.com/r/redditmobile), and we’re proud at how well they are progressing. Mobile web (m.reddit.com) is undergoing a major overhaul that we’re testing internally, and hope to start showing to users in the next couple weeks. We have been running many experiments on desktop web to increase user engagement, particularly for users who are new to Reddit. You can see what experiments we are running on this [live thread](https://www.reddit.com/live/x3ckzbsj6myw/), and notable changes to the site are listed in r/changelog.
 
@@ -20,8 +18,31 @@ e: grammar
 
 u: Thank you! Heading out for now. Will check back later.
 
-Q: What do you think?
-A: /u/spez Are you going to do anything about the buying and selling of reddit accounts at [Removed] Here's what Reddit's Terms of Service says: 11 You are solely responsible for the information associated with Your Account and anything that happens related to Your Account. 12 You may not license, transfer, sell, or assign Your Account without our written approval. If this is done with approval, then it just proves 100% that Reddit is controlled. Most likely, this isn't done with approval. How would people know that there has been a change of accounts? Why would anyone notify someone that they wish to sell their account? Edit: First off, [gold?](https://media.giphy.com/media/1M9fmo1WAFVK0/giphy.gif) Second, i wasnt expecting this to get as popular as it did or for /u/spez to even answer. I've Removed the site. Not giving them anymore traffic. Also, some have been asking why this is an issue. This goes beyond CTR buying accounts and polluting /r/politics. This can jeopardize and affect the entire the site. /u/eSsEnCe_Of_EcLiPsE had a good take on it [here](https://www.reddit.com/r/announcements/comments/4x35a3/click_to_hear_about_some_of_the_things_that_have/d6c3jf1):
+<u/_kill-fx_>: /u/spez
 
-Q: /u/spez Are you going to do anything about the buying and selling of reddit accounts at [Removed] Here's what Reddit's Terms of Service says: 11 You are solely responsible for the information associated with Your Account and anything that happens related to Your Account. 12 You may not license, transfer, sell, or assign Your Account without our written approval. If this is done with approval, then it just proves 100% that Reddit is controlled. Most likely, this isn't done with approval. How would people know that there has been a change of accounts? Why would anyone notify someone that they wish to sell their account? Edit: First off, [gold?](https://media.giphy.com/media/1M9fmo1WAFVK0/giphy.gif) Second, i wasnt expecting this to get as popular as it did or for /u/spez to even answer. I've Removed the site. Not giving them anymore traffic. Also, some have been asking why this is an issue. This goes beyond CTR buying accounts and polluting /r/politics. This can jeopardize and affect the entire the site. /u/eSsEnCe_Of_EcLiPsE had a good take on it [here](https://www.reddit.com/r/announcements/comments/4x35a3/click_to_hear_about_some_of_the_things_that_have/d6c3jf1):
-A: We're aware of it, but can't comment at the moment.
+Are you going to do anything about the  buying and selling of reddit accounts at
+
+[Removed]
+
+
+Here's what Reddit's Terms of Service says:
+
+
+11 You are solely responsible for the information associated with Your Account and anything that happens related to Your Account.
+
+
+
+12 You may not license, transfer, sell, or assign Your Account without our written approval.
+
+If this is done with approval, then it just proves 100% that Reddit is controlled. 
+
+Most likely, this isn't done with approval. How would people know that there has been a change of accounts? Why would anyone notify someone that they wish to sell their account?
+
+
+Edit: First off, [gold?](https://media.giphy.com/media/1M9fmo1WAFVK0/giphy.gif)
+
+Second, i wasnt expecting this to get as popular as it did or for /u/spez to even answer. I've Removed the site. Not giving them anymore traffic.
+
+Also, some have been asking why this is an issue. This goes beyond CTR buying accounts and polluting /r/politics. This can jeopardize and affect the entire the site. /u/eSsEnCe_Of_EcLiPsE had a good take on it [here](https://www.reddit.com/r/announcements/comments/4x35a3/click_to_hear_about_some_of_the_things_that_have/d6c3jf1):
+
+<u/spez>: We're aware of it, but can't comment at the moment.

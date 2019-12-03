@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,14 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Hi Steve, I think the last one of these I inquired about the on-boarding process for new user accounts. Has that made its way into the timetable yet? I'd like to once again emphasize my belief that a thorough introduction to the site, its philosophies, how it works, and the actual nature of subreddits as independent communities will cut out SO many issues faced by both users and moderators. An effective presentation to first-time users could really solve a lot of little issues that we frequently see compound into larger ones. Regardless of the answer, thanks for taking time to do another of these. They're always interesting and informative.
+<u/K_Lobstah>: Hi Steve,  
+  
+I think the last one of these I inquired about the on-boarding process for new user accounts. Has that made its way into the timetable yet?  
+  
+I'd like to once again emphasize my belief that a thorough introduction to the site, its philosophies, how it works, and the actual nature of subreddits as independent communities will cut out SO many issues faced by both users and moderators.  
+  
+An effective presentation to first-time users could really solve a lot of little issues that we frequently see compound into larger ones.  
+  
+Regardless of the answer, thanks for taking time to do another of these. They're always interesting and informative.
 
-Q: Hi Steve, I think the last one of these I inquired about the on-boarding process for new user accounts. Has that made its way into the timetable yet? I'd like to once again emphasize my belief that a thorough introduction to the site, its philosophies, how it works, and the actual nature of subreddits as independent communities will cut out SO many issues faced by both users and moderators. An effective presentation to first-time users could really solve a lot of little issues that we frequently see compound into larger ones. Regardless of the answer, thanks for taking time to do another of these. They're always interesting and informative.
-A: Yes yes yes. Our biggest high-level product need to is to educate new users on what Reddit actually is.
+<u/spez>: Yes yes yes. Our biggest high-level product need to is to educate new users on what Reddit actually is.

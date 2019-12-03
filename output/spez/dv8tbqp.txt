@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
 
-Title: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
-
-Body: In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
+In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
 
 Given the recent news, we’d like to share some of what we’ve learned:
 
@@ -18,8 +16,12 @@ I wish there was a solution as simple as banning all propaganda, but it’s not 
 
 Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve.
 
-Q: What do you think?
-A: > all ads on Reddit are reviewed by humans This is just a blatant lie. You use programmatic ads both on the website and in your mobile apps. Users are constantly making posts about ads that shouldn't have been shown - gigantic ads, ones with autoplaying video/sound, even malware and redirects sometimes. The admins that reply to these posts make it clear that they don't even know what ads are running, and need the user to capture data about the ad for them to be able to do anything about the bad ones.
+<u/FitTension>: > all ads on Reddit are reviewed by humans
 
-Q: > all ads on Reddit are reviewed by humans This is just a blatant lie. You use programmatic ads both on the website and in your mobile apps. Users are constantly making posts about ads that shouldn't have been shown - gigantic ads, ones with autoplaying video/sound, even malware and redirects sometimes. The admins that reply to these posts make it clear that they don't even know what ads are running, and need the user to capture data about the ad for them to be able to do anything about the bad ones.
-A: Point taken. Didn't mean to mislead. I was referring to ads bought directly on Reddit either through our sales team or ads.reddit.com. We do also run programmatic ads that are bought through ad networks that include Reddit. These don't go through the same approval process, but they're also not specific to Reddit. We have had occasional problems in the past where an ad with sound or video sneaks through, usually when an ad is misclassified as non-video. These issues are uncommon, and we've basically eliminated them in the last year.
+This is just a blatant lie. You use programmatic ads both on the website and in your mobile apps. Users are constantly making posts about ads that shouldn't have been shown - gigantic ads, ones with autoplaying video/sound, even malware and redirects sometimes.
+
+The admins that reply to these posts make it clear that they don't even know what ads are running, and need the user to capture data about the ad for them to be able to do anything about the bad ones.
+
+<u/spez>: Point taken. Didn't mean to mislead. I was referring to ads bought directly on Reddit either through our sales team or ads.reddit.com.
+
+We do also run programmatic ads that are bought through ad networks that include Reddit. These don't go through the same approval process, but they're also not specific to Reddit. We have had occasional problems in the past where an ad with sound or video sneaks through, usually when an ad is misclassified as non-video. These issues are uncommon, and we've basically eliminated them in the last year.

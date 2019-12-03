@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,18 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: Hi, /u/spez! I have a very simple question that many, many of us would love an answer to. Why the fuck is /r/The_Donald still around, and why did the Reddit admins go out of their way to nuke the post that that guy made pointing out the Russian interference within that sub?
+<u/stillpiercer_>: Hi, /u/spez!
 
-Q: Hi, /u/spez! I have a very simple question that many, many of us would love an answer to. Why the fuck is /r/The_Donald still around, and why did the Reddit admins go out of their way to nuke the post that that guy made pointing out the Russian interference within that sub?
-A: **as it relates to the_donald** Generally the mods of the_donald have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of the_donald that refuse to work with us. This does not mean we are not going to enforce our content policy on the_donald, nor does it mean we don't expect full cooperation from the mods in doing so. **regarding the Russian interference post from a couple weeks ago** We didn't remove anything. The [user removed the original post](https://www.reddit.com/r/SubredditDrama/comments/9hqzb5/rfuckthealtright_mod_made_a_detailed_post_of_his/e6e4dzf/), and resubmissions of that post were removed as spam because some of the domains in the post were subsequently banned by us.
+I have a very simple question that many, many of us would love an answer to. 
+
+Why the fuck is /r/The_Donald still around, and why did the Reddit admins go out of their way to nuke the post that that guy made pointing out the Russian interference within that sub?
+
+<u/spez>: **as it relates to the_donald**
+
+Generally the mods of the_donald have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of the_donald that refuse to work with us.
+
+This does not mean we are not going to enforce our content policy on the_donald, nor does it mean we don't expect full cooperation from the mods in doing so.
+
+**regarding the Russian interference post from a couple weeks ago**
+
+We didn't remove anything. The [user removed the original post](https://www.reddit.com/r/SubredditDrama/comments/9hqzb5/rfuckthealtright_mod_made_a_detailed_post_of_his/e6e4dzf/), and resubmissions of that post were removed as spam because some of the domains in the post were subsequently banned by us.

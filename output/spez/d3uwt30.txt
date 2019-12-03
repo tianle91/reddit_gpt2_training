@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,12 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Why are power mods still allowed, you know the ones, they lord over 100-300 subs squatting and waiting for them to become relevant...and then they promptly treat redditors like garbage? Visit /r/MakingAMurderer sometime, one just absolutely destroyed it. They all had to flee to another sub /r/TickTockManitowoc. (Another example reached the [front page](https://www.reddit.com/r/AdviceAnimals/comments/4m8kii/the_inmates_are_truly_running_the_asylum/) yesterday.) This is an all too common practice and I don't understand why this type of behavior is allowed? Why are we allowing power mods to exist? Edit: Hey Spez, [look](https://www.reddit.com/r/announcements/comments/4megfw/ama_about_my_darkest_secrets/d3uw68h), one of the very I guys I was talking about turned up. Here's your chance to see for yourself and give us some sort of answer on the issue.
+<u/ProfoundlyProfound>: Why are power mods still allowed, you know the ones, they lord over 100-300 subs squatting and waiting for them to become relevant...and then they promptly treat redditors like garbage?
 
-Q: Why are power mods still allowed, you know the ones, they lord over 100-300 subs squatting and waiting for them to become relevant...and then they promptly treat redditors like garbage? Visit /r/MakingAMurderer sometime, one just absolutely destroyed it. They all had to flee to another sub /r/TickTockManitowoc. (Another example reached the [front page](https://www.reddit.com/r/AdviceAnimals/comments/4m8kii/the_inmates_are_truly_running_the_asylum/) yesterday.) This is an all too common practice and I don't understand why this type of behavior is allowed? Why are we allowing power mods to exist? Edit: Hey Spez, [look](https://www.reddit.com/r/announcements/comments/4megfw/ama_about_my_darkest_secrets/d3uw68h), one of the very I guys I was talking about turned up. Here's your chance to see for yourself and give us some sort of answer on the issue.
-A: This is a tricky one. The problems we see are a result of a couple of decisions we made a long time ago, not understanding their longterm consequences: simplistic moderator hierarchy and valuable real-estate in r/ urls. Unwinding these decisions requires a lot of thought and finesse. Reddit wouldn't exist as it does today without the good moderators, and we need to be very careful to continue to empower them while filtering out the bad actors. I'd like to be more specific–our thinking is more specific–but we're not ready to share anything just yet.
+Visit /r/MakingAMurderer sometime, one just absolutely destroyed it.  They all had to flee to another sub /r/TickTockManitowoc. (Another example reached the [front page](https://www.reddit.com/r/AdviceAnimals/comments/4m8kii/the_inmates_are_truly_running_the_asylum/) yesterday.)
+
+This is an all too common practice and I don't understand why this type of behavior is allowed? Why are we allowing power mods to exist? 
+
+Edit: Hey Spez, [look](https://www.reddit.com/r/announcements/comments/4megfw/ama_about_my_darkest_secrets/d3uw68h), one of the very I guys I was talking about turned up. Here's your chance to see for yourself and give us some sort of answer on the issue.
+
+<u/spez>: This is a tricky one. The problems we see are a result of a couple of decisions we made a long time ago, not understanding their longterm consequences: simplistic moderator hierarchy and valuable real-estate in r/ urls. Unwinding these decisions requires a lot of thought and finesse. Reddit wouldn't exist as it does today without the good moderators, and we need to be very careful to continue to empower them while filtering out the bad actors. I'd like to be more specific–our thinking is more specific–but we're not ready to share anything just yet.

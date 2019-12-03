@@ -1,11 +1,7 @@
-In subreddit: AskReddit
+<r/AskReddit>: What's the oldest reddit user?
 
-Title: What's the oldest reddit user?
+[removed]
 
-Body: [removed]
+<u/relationships_alt>: either /u/spez or /u/kn0thing
 
-Q: What do you think?
-A: either /u/spez or /u/kn0thing
-
-Q: either /u/spez or /u/kn0thing
-A: We don't actually know. There are a handful of testing accounts that predate both of them, but we didn't store timestamps back then so all we know is that both were created on the same day.
+<u/spez>: We don't actually know. There are a handful of testing accounts that predate both of them, but we didn't store timestamps back then so all we know is that both were created on the same day.

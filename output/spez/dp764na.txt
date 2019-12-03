@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,20 +26,34 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: > Additionally, we’ll be slowly migrating folks over to the new profile pages over the next few months, and two-factor authentication rollout should be fully released in a few weeks. Are either of these opt-out? The new profile pages I've seen leave me lost and confused, but I'll be damned if I'm tying my Facebook profile or mobile phone number to my login.
+<u/daveime>: > Additionally, we’ll be slowly migrating folks over to the new profile pages over the next few months, and two-factor authentication rollout should be fully released in a few weeks.
 
-Q: > Additionally, we’ll be slowly migrating folks over to the new profile pages over the next few months, and two-factor authentication rollout should be fully released in a few weeks. Are either of these opt-out? The new profile pages I've seen leave me lost and confused, but I'll be damned if I'm tying my Facebook profile or mobile phone number to my login.
-A: 2FA is opt-in, though we highly encourage it for high-value accounts (e.g. moderators of large subreddits). The new profile pages will eventually be enabled for everyone, but the migration will be slow. Whether you use the new features they enable (namely, posting directly to your profile) is optional. In the case where you don't use it, the new profile pages are basically an easier-to-read version of the current overview page. We'll never require you sync your FB account, not that it's even an option now.
+Are either of these opt-out?
 
-Q: 2FA is opt-in, though we highly encourage it for high-value accounts (e.g. moderators of large subreddits). The new profile pages will eventually be enabled for everyone, but the migration will be slow. Whether you use the new features they enable (namely, posting directly to your profile) is optional. In the case where you don't use it, the new profile pages are basically an easier-to-read version of the current overview page. We'll never require you sync your FB account, not that it's even an option now.
-A: > easier-to-read Allow me to disagree.
+The new profile pages I've seen leave me lost and confused, but I'll be damned if I'm tying my Facebook profile or mobile phone number to my login.
 
-Q: > easier-to-read Allow me to disagree.
-A: Permission granted.
+<u/spez>: 2FA is opt-in, though we highly encourage it for high-value accounts (e.g. moderators of large subreddits).
 
-Q: Permission granted.
-A: The only use I see for profile pages is [advertisement](/u/IranianGenius) which doesn't make sense for users like me. It's just a way to promote yourself. And I don't even *like* myself. Edit: I don't need gold. Instead consider subscribing to my [patreon](/r/iraniangenius) which is currently free because I'm not worth your money.
+The new profile pages will eventually be enabled for everyone, but the migration will be slow. Whether you use the new features they enable (namely, posting directly to your profile) is optional. In the case where you don't use it, the new profile pages are basically an easier-to-read version of the current overview page.
 
-Q: The only use I see for profile pages is [advertisement](/u/IranianGenius) which doesn't make sense for users like me. It's just a way to promote yourself. And I don't even *like* myself. Edit: I don't need gold. Instead consider subscribing to my [patreon](/r/iraniangenius) which is currently free because I'm not worth your money.
-A: Ah, well let me share another perspective. A really important target user of this feature is the original content creator. Back in the beginning, we created the 1-in-10 rule, which meant that you were only allowed to submit 1-in-10 pieces of content from the same domain. This was in response to folks who would show up on Reddit, not know their way around, and submit every piece of content from their blog. We only had one community then, and this behavior was considered rude at best, and spam at worst. Keep in mind we had only links back then as well. Skip ahead to today, we have many thousands of communities, proper spam prevention, and a massive userbase to curate good content. More than 60% of the content on Reddit exists in self posts. The users who create original, unique, relevant content off-site would be huge on Reddit if their content was in text posts hosted on Reddit instead. The only difference is in hosting. Profile pages are intended to be hosting for these users. I was talking to a friend the other night who writes a blog dedicated to news for our neighborhood. It's great content, it would be right at home in a couple of places on Reddit. She is a writer, not a social media expert. I think it's unfair that in addition to creating good content we expect her to source nine other things from around the web so her stuff will be seen by the audience that will probably like it (I'm speaking on behalf of these communities. I'm a part of them). With new profile pages, she can submit her stuff to her profile, and if the relevant communities like it, they can crosspost it in. If they don't, she can build her own following on her profile. The end result is the can write and post without being treated like a spammer. Hope this gives a little more context to what we're trying to build.
+We'll never require you sync your FB account, not that it's even an option now.
+
+<u/throwmeintothewall>: > easier-to-read
+
+Allow me to disagree. 
+
+<u/spez>: Permission granted.
+
+<u/IranianGenius>: The only use I see for profile pages is [advertisement](/u/IranianGenius) which doesn't make sense for users like me. It's just a way to promote yourself. And I don't even *like* myself.
+
+Edit: I don't need gold. Instead consider subscribing to my [patreon](/r/iraniangenius) which is currently free because I'm not worth your money.
+
+<u/spez>: Ah, well let me share another perspective.
+
+A really important target user of this feature is the original content creator. Back in the beginning, we created the 1-in-10 rule, which meant that you were only allowed to submit 1-in-10 pieces of content from the same domain. This was in response to folks who would show up on Reddit, not know their way around, and submit every piece of content from their blog. We only had one community then, and this behavior was considered rude at best, and spam at worst. Keep in mind we had only links back then as well.
+
+Skip ahead to today, we have many thousands of communities, proper spam prevention, and a massive userbase to curate good content. More than 60% of the content on Reddit exists in self posts. The users who create original, unique, relevant content off-site would be huge on Reddit if their content was in text posts hosted on Reddit instead. The only difference is in hosting. Profile pages are intended to be hosting for these users.
+
+I was talking to a friend the other night who writes a blog dedicated to news for our neighborhood. It's great content, it would be right at home in a couple of places on Reddit. She is a writer, not a social media expert. I think it's unfair that in addition to creating good content we expect her to source nine other things from around the web so her stuff will be seen by the audience that will probably like it (I'm speaking on behalf of these communities. I'm a part of them). With new profile pages, she can submit her stuff to her profile, and if the relevant communities like it, they can crosspost it in. If they don't, she can build her own following on her profile. The end result is the can write and post without being treated like a spammer.
+
+Hope this gives a little more context to what we're trying to build.

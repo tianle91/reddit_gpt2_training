@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,14 +25,14 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: I hear you. The designs aren't finalized, we're mostly focused on the tech at the moment. I would like to share an interesting learning. Since the beginning of Reddit, our product design philosophy has been to cram as much content into view as possible, our thinking being that it increases the odds that a user will see something they like. In our native mobile apps, we use a card view, which basically shows one piece of content at a time. Interestingly enough, engagement in the native apps is approximately 4x higher than the desktop. I see this in my own usage as well. I go through a ton more content on mobile than I do on desktop. This could be because everything is pre-expanded or because the apps have infinite scroll. We'll test these things thoroughly before deploying to a wide audience, of course, but it goes to show that our intuition isn't always correct.
+<u/spez>: I hear you. The designs aren't finalized, we're mostly focused on the tech at the moment.
 
-Q: I hear you. The designs aren't finalized, we're mostly focused on the tech at the moment. I would like to share an interesting learning. Since the beginning of Reddit, our product design philosophy has been to cram as much content into view as possible, our thinking being that it increases the odds that a user will see something they like. In our native mobile apps, we use a card view, which basically shows one piece of content at a time. Interestingly enough, engagement in the native apps is approximately 4x higher than the desktop. I see this in my own usage as well. I go through a ton more content on mobile than I do on desktop. This could be because everything is pre-expanded or because the apps have infinite scroll. We'll test these things thoroughly before deploying to a wide audience, of course, but it goes to show that our intuition isn't always correct.
-A: [deleted]
+I would like to share an interesting learning. Since the beginning of Reddit, our product design philosophy has been to cram as much content into view as possible, our thinking being that it increases the odds that a user will see something they like. In our native mobile apps, we use a card view, which basically shows one piece of content at a time. Interestingly enough, engagement in the native apps is approximately 4x higher than the desktop.
 
-Q: [deleted]
-A: They read more, share more, create more, and come back more.
+I see this in my own usage as well. I go through a ton more content on mobile than I do on desktop. This could be because everything is pre-expanded or because the apps have infinite scroll. We'll test these things thoroughly before deploying to a wide audience, of course, but it goes to show that our intuition isn't always correct.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: They read more, share more, create more, and come back more.

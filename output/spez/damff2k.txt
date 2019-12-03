@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TIFU by editing some comments and creating an unnecessary controversy.
 
-Title: TIFU by editing some comments and creating an unnecessary controversy.
-
-Body: **tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
+**tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
 
 Hi All,
 
@@ -34,8 +32,10 @@ Steve
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
 
 
-Q: What do you think?
-A: So do you still have the ability to ninja edit anyone's post, or is that not a thing reddit admins can do anymore? Because I think that should be a thing that reddit admins literally cannot do. Edit: by this I mean that admins/engineers/whatever shouldn't be able to edit without it being marked, not that they shouldn't be able to edit at all. I understand that it's not possible for the latter to happen.
+<u/panthera_tigress>: So do you still have the ability to ninja edit anyone's post, or is that not a thing reddit admins can do anymore?
 
-Q: So do you still have the ability to ninja edit anyone's post, or is that not a thing reddit admins can do anymore? Because I think that should be a thing that reddit admins literally cannot do. Edit: by this I mean that admins/engineers/whatever shouldn't be able to edit without it being marked, not that they shouldn't be able to edit at all. I understand that it's not possible for the latter to happen.
-A: admins (employees) can't do this in general. It's because I had access to everything as an engineer, which we are limiting going forward.
+Because I think that should be a thing that reddit admins literally cannot do.
+
+Edit: by this I mean that admins/engineers/whatever shouldn't be able to edit without it being marked, not that they shouldn't be able to edit at all. I understand that it's not possible for the latter to happen.
+
+<u/spez>: admins (employees) can't do this in general. It's because I had access to everything as an engineer, which we are limiting going forward.

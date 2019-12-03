@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: Reddit is ProCSS
 
-Title: Reddit is ProCSS
-
-Body: Hi Mods,
+Hi Mods,
 
 I wanted to follow up on the [CSS and redesign post](https://www.reddit.com/r/modnews/comments/66q4is/the_web_redesign_css_and_mod_tools/) from a few weeks back and provide some more information as well as clarify some questions that have emerged.
 
@@ -26,8 +24,8 @@ Cool.
 
 ^1 No snark allowed.
 
-Q: What do you think?
-A: Spez do you like onions.
+<u/Isentrope>: Spez do you like onions. 
 
-Q: Spez do you like onions.
-A: I like onions. I don't love onions. I didn't like them as a kid, but they say your tastes change every seven years, and I adopted onions in my 20s. The real enemy here are olives.
+<u/spez>: I like onions. I don't love onions. I didn't like them as a kid, but they say your tastes change every seven years, and I adopted onions in my 20s.
+
+The real enemy here are olives.

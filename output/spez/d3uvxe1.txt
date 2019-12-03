@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Do you ever think about unbanning every single user just to see the chaos it would create?
+<u/ElagabalusRex>: Do you ever think about unbanning every single user just to see the chaos it would create?
 
-Q: Do you ever think about unbanning every single user just to see the chaos it would create?
-A: Yes, actually. There are probably users who were accidentally banned for spamming, but in reality they were just sharing an IP with a spammer. Now that our anti-spam efforts are so much better, I'd like to unban all old spammers and see what happens.
+<u/spez>: Yes, actually. There are probably users who were accidentally banned for spamming, but in reality they were just sharing an IP with a spammer. Now that our anti-spam efforts are so much better, I'd like to unban all old spammers and see what happens.

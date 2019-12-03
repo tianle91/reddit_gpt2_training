@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,8 +25,8 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: Why did the mobile site's functionality suddenly invade my iPad? I was very happy with browsing Reddit with the desktop site on here, but now I get the mobile site, which I hate. How can I go back to the desktop site? EDIT: Looks like this was a bug, and the admins have fixed it. Yay!
+<u/coredumperror>: Why did the mobile site's functionality suddenly invade my iPad? I was very happy with browsing Reddit with the desktop site on here, but now I get the mobile site, which I hate. How can I go back to the desktop site?
 
-Q: Why did the mobile site's functionality suddenly invade my iPad? I was very happy with browsing Reddit with the desktop site on here, but now I get the mobile site, which I hate. How can I go back to the desktop site? EDIT: Looks like this was a bug, and the admins have fixed it. Yay!
-A: Probably because we merged www.reddit.com and m.reddit.com. Click the menu and choose Desktop Site to go back.
+EDIT: Looks like this was a bug, and the admins have fixed it. Yay!
+
+<u/spez>: Probably because we merged www.reddit.com and m.reddit.com. Click the menu and choose Desktop Site to go back.

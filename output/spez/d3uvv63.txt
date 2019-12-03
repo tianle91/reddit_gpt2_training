@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Could you talk more in depth about the decision to conspicuously replace links to various vendor sites with reddit affiliated versions to increase site revenue without the user being aware?
+<u/Bifrons>: Could you talk more in depth about the decision to conspicuously replace links to various vendor sites with reddit affiliated versions to increase site revenue without the user being aware?  
 
-Q: Could you talk more in depth about the decision to conspicuously replace links to various vendor sites with reddit affiliated versions to increase site revenue without the user being aware?
-A: We [announced](https://www.reddit.com/r/changelog/comments/4ldk0r/reddit_change_affiliate_links_on_reddit/) this last week. We haven't enabled it yet, and we will provide an opt-out. We're starting with a test to see what the opportunity size actually is. We're also treading carefully.
+<u/spez>: We [announced](https://www.reddit.com/r/changelog/comments/4ldk0r/reddit_change_affiliate_links_on_reddit/) this last week. We haven't enabled it yet, and we will provide an opt-out. We're starting with a test to see what the opportunity size actually is. We're also treading carefully.

@@ -1,8 +1,6 @@
-In subreddit: redesign
+<r/redesign>: An actual fix for the scrolling performance issue on the Lightbox scroller on macOS Safari
 
-Title: An actual fix for the scrolling performance issue on the Lightbox scroller on macOS Safari
-
-Body: I made a post a month ago saying I found a fix and it got over 200 upvotes, but the post ended up being confusing because I was mistaken in what I thought the problem was. I can see that it hasn't been fixed still.
+I made a post a month ago saying I found a fix and it got over 200 upvotes, but the post ended up being confusing because I was mistaken in what I thought the problem was. I can see that it hasn't been fixed still.
 
 However, I actually found a fix after taking another look.
 
@@ -24,5 +22,6 @@ Here's some code you can paste in the console while navigating between posts.
 
 Hopefully this actually solves the issue now and Safari scrolling can finally be fixed!
 
-Q: What do you think?
-A: Well this is a nice surprise. Works for me. u/keysersosa can you please take a look?
+<u/spez>: Well this is a nice surprise. Works for me.
+
+u/keysersosa can you please take a look?

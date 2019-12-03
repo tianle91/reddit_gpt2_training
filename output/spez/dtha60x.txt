@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,10 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: The only request I want to make is to please add a dark mode into the new upcoming layout natively without needing RES or any addon. Love dark mode on the app, would love to have it on desktop as well. If you do it, I'll totally add a trophy to your profile. I don't know how, but I will think of something. Other than that, keep up the great work.
+<u/BishamonX>: The only request I want to make is to please add a dark mode into the new upcoming layout natively without needing RES or any addon. Love dark mode on the app, would love to have it on desktop as well.
 
-Q: The only request I want to make is to please add a dark mode into the new upcoming layout natively without needing RES or any addon. Love dark mode on the app, would love to have it on desktop as well. If you do it, I'll totally add a trophy to your profile. I don't know how, but I will think of something. Other than that, keep up the great work.
-A: Deal.
+If you do it, I'll totally add a trophy to your profile. I don't know how, but I will think of something.
+
+Other than that, keep up the great work.
+
+<u/spez>: Deal.

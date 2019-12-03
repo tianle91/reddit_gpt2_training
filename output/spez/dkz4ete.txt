@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
 
-Title: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
-
-Body: Hi All,
+Hi All,
 
 We’ve got some updates to share about Reddit the platform, community, and business:
 
@@ -24,14 +22,22 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Q: What do you think?
-A: Geo-specific versions of Reddit seem weird and almost scary to me, fencing off different parts of the world seems like it may create echo-boxes similar to what some more vocal sub-reddits do already. edit: Added a word to create more clarity.
+<u/Tragouls>: Geo-specific versions of Reddit seem weird and almost scary to me, fencing off different parts of the world seems like it may create echo-boxes similar to what some more vocal sub-reddits do already.
 
-Q: Geo-specific versions of Reddit seem weird and almost scary to me, fencing off different parts of the world seems like it may create echo-boxes similar to what some more vocal sub-reddits do already. edit: Added a word to create more clarity.
-A: This is a reasonable concern that we share. On one hand, we want the site to be more relevant to folks all over the world, and geo-specific versions of Reddit increase the odds that a first time user will find something relevant to them. However, if we get really good at relevancy that means we've gotten really good at creating echo-chambers, which is not our goal. For as far as we can see, there will continue to be a few different ways to interact with Reddit: your Home feed, which is stuff you've explicitly chosen, r/popular, which is stuff the whole world finds interesting, and optional geo versions of r/popular, which are a little more specific to your location. The product evolution is fluid, and we'll keep an eye on things as we evolve.
+edit: Added a word to create more clarity.
 
-Q: This is a reasonable concern that we share. On one hand, we want the site to be more relevant to folks all over the world, and geo-specific versions of Reddit increase the odds that a first time user will find something relevant to them. However, if we get really good at relevancy that means we've gotten really good at creating echo-chambers, which is not our goal. For as far as we can see, there will continue to be a few different ways to interact with Reddit: your Home feed, which is stuff you've explicitly chosen, r/popular, which is stuff the whole world finds interesting, and optional geo versions of r/popular, which are a little more specific to your location. The product evolution is fluid, and we'll keep an eye on things as we evolve.
-A: Will there be an option to opt out of the geo stuff? I don't want to be stuck just looking at rocks all day.
+<u/spez>: This is a reasonable concern that we share.
 
-Q: Will there be an option to opt out of the geo stuff? I don't want to be stuck just looking at rocks all day.
-A: It's just a menu. You can choose which view you'd like to see. The only real change is that a new user visiting in specific location will by default see things biased by other users in that location. For example, go to https://www.reddit.com/r/popular/ on the web and play with the "popular in" dropdown below Hot.
+On one hand, we want the site to be more relevant to folks all over the world, and geo-specific versions of Reddit increase the odds that a first time user will find something relevant to them.
+
+However, if we get really good at relevancy that means we've gotten really good at creating echo-chambers, which is not our goal.
+
+For as far as we can see, there will continue to be a few different ways to interact with Reddit: your Home feed, which is stuff you've explicitly chosen, r/popular, which is stuff the whole world finds interesting, and optional geo versions of r/popular, which are a little more specific to your location.
+
+The product evolution is fluid, and we'll keep an eye on things as we evolve.
+
+<u/jstrydor>: Will there be an option to opt out of the geo stuff? I don't want to be stuck just looking at rocks all day. 
+
+<u/spez>: It's just a menu. You can choose which view you'd like to see. The only real change is that a new user visiting in specific location will by default see things biased by other users in that location.
+
+For example, go to https://www.reddit.com/r/popular/ on the web and play with the "popular in" dropdown below Hot.

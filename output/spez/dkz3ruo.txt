@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
 
-Title: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
-
-Body: Hi All,
+Hi All,
 
 We’ve got some updates to share about Reddit the platform, community, and business:
 
@@ -24,20 +22,20 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Q: What do you think?
-A: What do the Trust & Safety and Anti-Evil teams do?
+<u/99X>: What do the Trust & Safety and Anti-Evil teams do?
 
-Q: What do the Trust & Safety and Anti-Evil teams do?
-A: Trust & Safety is the team that enforces our content policy. They fight abuse, harassment, spam, cheating, etc. Anti-Evil is the engineering team that builds tools for T&S and fights abuse at scale. They work closely together, and have made quite an impact in the last year.
+<u/spez>: Trust & Safety is the team that enforces our content policy. They fight abuse, harassment, spam, cheating, etc.
 
-Q: Trust & Safety is the team that enforces our content policy. They fight abuse, harassment, spam, cheating, etc. Anti-Evil is the engineering team that builds tools for T&S and fights abuse at scale. They work closely together, and have made quite an impact in the last year.
-A: Speaking of trust, what is your stance on advertising that masquerades as regular content? Is that a growing concern going forward as reddit continues to grow?
+Anti-Evil is the engineering team that builds tools for T&S and fights abuse at scale. They work closely together, and have made quite an impact in the last year.
 
-Q: Speaking of trust, what is your stance on advertising that masquerades as regular content? Is that a growing concern going forward as reddit continues to grow?
-A: Hitting Reddit's front page with organic-looking content is valuable, so there will always be people trying to game us. Everyone once and a while it succeeds, but rarely more than once. We do a couple things to fight this: the Anti-Evil team looks for vote cheating and the like, and we provide legitimate alternatives through advertising that are hopefully easier and cheaper than gaming us.
+<u/99X>: Speaking of trust, what is your stance on advertising that masquerades as regular content? Is that a growing concern going forward as reddit continues to grow? 
 
-Q: Hitting Reddit's front page with organic-looking content is valuable, so there will always be people trying to game us. Everyone once and a while it succeeds, but rarely more than once. We do a couple things to fight this: the Anti-Evil team looks for vote cheating and the like, and we provide legitimate alternatives through advertising that are hopefully easier and cheaper than gaming us.
-A: As someone who has done advertising through reddit, it is way more worth the money to go black hat and buy votes or to masquerade ads as OC by paying users to post content that rises to the top. Reddit ads don't get the job done in many facets. Are you guys making the necessary updates to the ad program to prevent this? (Answer is no, I can't target ads by certain subs due to their user device or location or the sub's popularity isn't enough.) Fix these problems and /u/99X's question becomes less of a problem.
+<u/spez>: Hitting Reddit's front page with organic-looking content is valuable, so there will always be people trying to game us. Everyone once and a while it succeeds, but rarely more than once.
 
-Q: As someone who has done advertising through reddit, it is way more worth the money to go black hat and buy votes or to masquerade ads as OC by paying users to post content that rises to the top. Reddit ads don't get the job done in many facets. Are you guys making the necessary updates to the ad program to prevent this? (Answer is no, I can't target ads by certain subs due to their user device or location or the sub's popularity isn't enough.) Fix these problems and /u/99X's question becomes less of a problem.
-A: Yes, you can target based on subs, geo, and interests today.
+We do a couple things to fight this: the Anti-Evil team looks for vote cheating and the like, and we provide legitimate alternatives through advertising that are hopefully easier and cheaper than gaming us.
+
+<u/damn_this_is_hard>: As someone who has done advertising through reddit, it is way more worth the money to go black hat and buy votes or to masquerade ads as OC by paying users to post content that rises to the top. Reddit ads don't get the job done in many facets.
+
+Are you guys making the necessary updates to the ad program to prevent this? (Answer is no, I can't target ads by certain subs due to their user device or location or the sub's popularity isn't enough.) Fix these problems and /u/99X's question becomes less of a problem.
+
+<u/spez>: Yes, you can target based on subs, geo, and interests today.

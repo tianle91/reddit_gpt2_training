@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,10 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: First answer: the average age of a post on Reddit's page is dramatically lower now than it was 3-4 years ago (a couple hours vs close to 20). I think people's expectations are higher. Second answer: the mobile app is much more aggressive about content turnover. We have a test running where every time you open the app you see new content. The web behavior lags because we're in the middle of rebuilding it, but it'll speed up as well.
+<u/spez>: First answer: the average age of a post on Reddit's page is dramatically lower now than it was 3-4 years ago (a couple hours vs close to 20). I think people's expectations are higher.
+
+Second answer: the mobile app is much more aggressive about content turnover. We have a test running where every time you open the app you see new content.
+
+The web behavior lags because we're in the middle of rebuilding it, but it'll speed up as well.

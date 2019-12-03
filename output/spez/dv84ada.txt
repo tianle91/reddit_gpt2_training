@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
 
-Title: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
-
-Body: In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
+In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
 
 Given the recent news, we’d like to share some of what we’ve learned:
 
@@ -18,8 +16,19 @@ I wish there was a solution as simple as banning all propaganda, but it’s not 
 
 Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve.
 
-Q: What do you think?
-A: So I see you are carrying on the Reddit Tradition of only taking action after the media notices a problem. Is there any chance this will change in the future? Here is a comment from [3 years ago](https://www.reddit.com/r/announcements/comments/2fpdax/time_to_talk/ckbga2v/) outlining this exact problem. Nothing seems to have changed. Some advice about something you could do: Seeing as the russian propaganda has been actively promoting white suprmacism and extremist ethnostatist neo nationalists, maybe you could look at removing all of the openly nazi subreddits that seem to get ignored by the admins? If you don't give the russians a gaping, festering wound that they can stick their fingers in to enlarge, it will be harder for them to do anything. It should be added that there has been a [study that shows banning shithole subs works](https://gizmodo.com/study-finds-banning-reddits-bigoted-jerkwards-worked-1803766754). Edit: if you are tired of looking at the various shitholes being cited in all of these comment threads, I recommend checking out /r/316cats, one of the few actually good subreddits.
+<u/kerovon>: So I see you are carrying on the Reddit Tradition of only taking action after the media notices a problem.  Is there any chance this will change in the future?
 
-Q: So I see you are carrying on the Reddit Tradition of only taking action after the media notices a problem. Is there any chance this will change in the future? Here is a comment from [3 years ago](https://www.reddit.com/r/announcements/comments/2fpdax/time_to_talk/ckbga2v/) outlining this exact problem. Nothing seems to have changed. Some advice about something you could do: Seeing as the russian propaganda has been actively promoting white suprmacism and extremist ethnostatist neo nationalists, maybe you could look at removing all of the openly nazi subreddits that seem to get ignored by the admins? If you don't give the russians a gaping, festering wound that they can stick their fingers in to enlarge, it will be harder for them to do anything. It should be added that there has been a [study that shows banning shithole subs works](https://gizmodo.com/study-finds-banning-reddits-bigoted-jerkwards-worked-1803766754). Edit: if you are tired of looking at the various shitholes being cited in all of these comment threads, I recommend checking out /r/316cats, one of the few actually good subreddits.
-A: > So I see you are carrying on the Reddit Tradition of only taking action after the media notices a problem. Is there any chance this will change in the future? As I mentioned in the post, we've been taking action for a long time. We have been cagey about it publicly I know, which frustrates us as well, but it's an active investigation, and it's difficult to share specifics without undermining it. I know this isn't a satisfying answer, but I promise you this is something we are deeply focused on.
+Here is a comment from [3 years ago](https://www.reddit.com/r/announcements/comments/2fpdax/time_to_talk/ckbga2v/) outlining this exact problem. Nothing seems to have changed.
+
+Some advice about something you could do:  Seeing as the russian propaganda has been actively promoting white suprmacism and extremist ethnostatist neo nationalists, maybe you could look at removing all of the openly nazi subreddits that seem to get ignored by the admins?  If you don't give the russians a gaping, festering wound that they can stick their fingers in to enlarge, it will be harder for them to do anything.
+
+It should be added that there has been a [study that shows banning shithole subs works](https://gizmodo.com/study-finds-banning-reddits-bigoted-jerkwards-worked-1803766754).
+
+Edit: if you are tired of looking at the various shitholes being cited in all of these comment threads, I recommend checking out /r/316cats, one of the few actually good subreddits.
+
+<u/spez>: > So I see you are carrying on the Reddit Tradition of only taking action after the media notices a problem. Is there any chance this will change in the future?
+
+As I mentioned in the post, we've been taking action for a long time. We have been cagey about it publicly I know, which frustrates us as well, but it's an active investigation, and it's difficult to share specifics without undermining it.
+
+I know this isn't a satisfying answer, but I promise you this is something we are deeply focused on.
+

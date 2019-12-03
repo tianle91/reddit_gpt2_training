@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,12 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: A couple of CEO posts ago, a big deal was made about the reddit canary being taken out indicating that Reddit as a company now had to conform to federal inquisitions for user data. Usually this means that a tool is made for federal investigators to gather data needed for whatever case they are working. So how are you as a company taking active measures to protect users data from similar breaches like what happened to Facebook, Equifax, and more recently; Apple, Uber, and Amazon.
+<u/ChuffyBunny>: A couple of CEO posts ago, a big deal was made about the reddit canary being taken out indicating that Reddit as a company now had to conform to federal inquisitions for user data. Usually this means that a tool is made for federal investigators to gather data needed for whatever case they are working.  
 
-Q: A couple of CEO posts ago, a big deal was made about the reddit canary being taken out indicating that Reddit as a company now had to conform to federal inquisitions for user data. Usually this means that a tool is made for federal investigators to gather data needed for whatever case they are working. So how are you as a company taking active measures to protect users data from similar breaches like what happened to Facebook, Equifax, and more recently; Apple, Uber, and Amazon.
-A: Breaches do happen, even to the best, as you point out. We've had a couple over the years, one of which we [shared](https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/) a few months ago. In addition to the standard best practices, we have a philosophical approach to storing as little personal information as possible. With limited exception, we don't know your names, addresses, genders, dob's, phone numbers, ssn's, or other sensitive information. We can't lose what we don't have. I've always liked the saying "the best logs are no logs," which I believe came from the EFF.
+So how are you as a company taking active measures to protect users data from similar breaches like what happened to Facebook, Equifax, and more recently; Apple, Uber, and Amazon. 
+
+<u/spez>: Breaches do happen, even to the best, as you point out. We've had a couple over the years, one of which we [shared](https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/) a few months ago.
+
+In addition to the standard best practices, we have a philosophical approach to storing as little personal information as possible. With limited exception, we don't know your names, addresses, genders, dob's, phone numbers, ssn's, or other sensitive information. We can't lose what we don't have.
+
+I've always liked the saying "the best logs are no logs," which I believe came from the EFF.

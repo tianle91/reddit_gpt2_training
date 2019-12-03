@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,22 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: 1) Can you please stop pushing the redesign so hard? 2) Can you stop the "Download the app" popups showing up so frequently on mobile? 3) Can you stop employing dark patterns such as [this](https://www.ploggingdev.com/images/dark_login.png) ? Email is optional and should be made clear. 4) Can you remove the [orange coloured chat icon](https://i.imgur.com/IXzbY36.png) next to my inbox? Complaining aside, I continue to enjoy reddit, thanks!
+<u/ploggingdev>: 1) Can you please stop pushing the redesign so hard?
 
-Q: 1) Can you please stop pushing the redesign so hard? 2) Can you stop the "Download the app" popups showing up so frequently on mobile? 3) Can you stop employing dark patterns such as [this](https://www.ploggingdev.com/images/dark_login.png) ? Email is optional and should be made clear. 4) Can you remove the [orange coloured chat icon](https://i.imgur.com/IXzbY36.png) next to my inbox? Complaining aside, I continue to enjoy reddit, thanks!
-A: 1) What are you referring to? Only new users see it by default. Most everyone else needs to opt in. 2) They've been gone a while, but we are chasing down an issue with incognito users seeing it more often. Please let me know if that's the case, or if you are having a different experience.* 3) Historically it has been optional, and it technically still is, though we're reconsidering it. While I was the original proponent of no-emails, we've found it to be problematic for a couple of reasons over the years: lost account passwords take time for our team to resolve, no emails makes tracking abuse more difficult, and there's more pressure than ever to fight such abuse, and it's generally helpful to be able to reach users where they are with important notifications. 4) Have heard this one before, and we're considering a couple other approaches. I didn't notice myself because my icons are always orange. *Update: there was a lingering experiment that is now turned off.
+2) Can you stop the "Download the app" popups showing up so frequently on mobile?
+
+3) Can you stop employing dark patterns such as [this](https://www.ploggingdev.com/images/dark_login.png) ? Email is optional and should be made clear.
+
+4) Can you remove the [orange coloured chat icon](https://i.imgur.com/IXzbY36.png) next to my inbox?
+
+Complaining aside, I continue to enjoy reddit, thanks!
+
+<u/spez>: 1) What are you referring to? Only new users see it by default. Most everyone else needs to opt in.
+
+2) They've been gone a while, but we are chasing down an issue with incognito users seeing it more often. Please let me know if that's the case, or if you are having a different experience.*
+
+3) Historically it has been optional, and it technically still is, though we're reconsidering it. While I was the original proponent of no-emails, we've found it to be problematic for a couple of reasons over the years: lost account passwords take time for our team to resolve, no emails makes tracking abuse more difficult, and there's more pressure than ever to fight such abuse, and it's generally helpful to be able to reach users where they are with important notifications.
+
+4) Have heard this one before, and we're considering a couple other approaches. I didn't notice myself because my icons are always orange.
+
+*Update: there was a lingering experiment that is now turned off.

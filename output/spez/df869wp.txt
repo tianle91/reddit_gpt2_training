@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TL;DR: Today we're testing out a new feature that will allow users to post directly to their profile
 
-Title: TL;DR: Today we're testing out a new feature that will allow users to post directly to their profile
-
-Body: Hi Reddit!
+Hi Reddit!
 
 
 Reddit is the home to the most amazing content creators on the internet. Together, we create a place for artists, writers, scientists, gif-makers, and countless others to express themselves and to share their work and wisdom. They fill our days with beautiful photos, witty poems, thoughtful AMAs, shitty watercolours, and scary stories. Today, we make it easier for them to connect directly to you.
@@ -127,8 +125,38 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
 
-Q: What do you think?
-A: My questions were left unanswered yesterday, so let's try again: How will you counteract [SEO spam](https://en.wikipedia.org/wiki/Spamdexing)? Will you counteract SEO spam posted on user's profiles at all? How will I be able to get spam and prohibited content off this site, especially if it's time-sensitive? Since we're sidestepping automod rules and human moderation here, there does not seem to be an adequate solution to this. Your answers boil down to "let upvotes decide" and "spammers won't get many subs anyway", but we all know that this is not how this works. How will I be able to find OC creators if not by their real name? Will personal posts be included in the reddit-wide search (please no)? Will we be able to differentiate between profile and subreddit posts i.e. will Toolbox still be able to compile an accurate report of submitted domain percentages (only subreddit posts)?
+<u/ScanianMoose>: My questions were left unanswered yesterday, so let's try again:
 
-Q: My questions were left unanswered yesterday, so let's try again: How will you counteract [SEO spam](https://en.wikipedia.org/wiki/Spamdexing)? Will you counteract SEO spam posted on user's profiles at all? How will I be able to get spam and prohibited content off this site, especially if it's time-sensitive? Since we're sidestepping automod rules and human moderation here, there does not seem to be an adequate solution to this. Your answers boil down to "let upvotes decide" and "spammers won't get many subs anyway", but we all know that this is not how this works. How will I be able to find OC creators if not by their real name? Will personal posts be included in the reddit-wide search (please no)? Will we be able to differentiate between profile and subreddit posts i.e. will Toolbox still be able to compile an accurate report of submitted domain percentages (only subreddit posts)?
-A: > Will you counteract SEO spam posted on user's profiles at all? We'll continue to fight spam wherever it is. We have made a lot of progress in the last year, reducing spam reports by over 90%. The vast majority of spam is not caught by automod or humans. > How will I be able to find OC creators if not by their real name? It's important to us that Reddit is useable without real names. Folks can choose to disclose this if they want, of course. As for discoverability, a user's posts could be x-posted elsewhere, which is how Reddit works today, or the user may have their own community, which a handful already do now. > Will personal posts be included in the reddit-wide search (please no)? Search is getting a complete overhaul at the moment, so this will likely be an option. > Will we be able to differentiate between profile and subreddit posts i.e. will Toolbox still be able to compile an accurate report of submitted domain percentages (only subreddit posts)? That's up the toolbox devs, but it should be apparent which subreddits belong to a user and which are traditional communities. e: punctuation
+How will you counteract [SEO spam](https://en.wikipedia.org/wiki/Spamdexing)? 
+
+Will you counteract SEO spam posted on user's profiles at all? 
+
+How will I be able to get spam and prohibited content off this site, especially if it's time-sensitive? Since we're sidestepping automod rules and human moderation here, there does not seem to be an adequate solution to this. 
+
+Your answers boil down to "let upvotes decide" and "spammers won't get many subs anyway", but we all know that this is not how this works. 
+
+How will I be able to find OC creators if not by their real name? 
+
+Will personal posts be included in the reddit-wide search (please no)?
+
+Will we be able to differentiate between profile and subreddit posts i.e. will Toolbox still be able to compile an accurate report of submitted domain percentages (only subreddit posts)?
+
+<u/spez>: > Will you counteract SEO spam posted on user's profiles at all?
+
+We'll continue to fight spam wherever it is. We have made a lot of progress in the last year, reducing spam reports by over 90%. The vast majority of spam is not caught by automod or humans.
+
+> How will I be able to find OC creators if not by their real name?
+
+It's important to us that Reddit is useable without real names. Folks can choose to disclose this if they want, of course.
+
+As for discoverability, a user's posts could be x-posted elsewhere, which is how Reddit works today, or the user may have their own community, which a handful already do now.
+
+> Will personal posts be included in the reddit-wide search (please no)?
+
+Search is getting a complete overhaul at the moment, so this will likely be an option.
+
+> Will we be able to differentiate between profile and subreddit posts i.e. will Toolbox still be able to compile an accurate report of submitted domain percentages (only subreddit posts)?
+
+That's up the toolbox devs, but it should be apparent which subreddits belong to a user and which are traditional communities.
+
+e: punctuation

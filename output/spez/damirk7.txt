@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TIFU by editing some comments and creating an unnecessary controversy.
 
-Title: TIFU by editing some comments and creating an unnecessary controversy.
-
-Body: **tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
+**tl;dr:** I fucked up. I ruined Thanksgiving. I’m sorry. I won’t do it again. We are taking a more aggressive stance against toxic users and poorly behaving communities. You can filter r/all now.
 
 Hi All,
 
@@ -34,8 +32,14 @@ Steve
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
 
 
-Q: What do you think?
-A: 1. Oops. 2. OOOOOPS. 3. Way to be the bigger person and come clean. We love you and we love Reddit. <3
+<u/[deleted]>: 1. Oops.
 
-Q: 1. Oops. 2. OOOOOPS. 3. Way to be the bigger person and come clean. We love you and we love Reddit. <3
-A: 1. I'm sorry 2. I'M SORRY 3. Thanks!
+2. OOOOOPS.
+
+3. Way to be the bigger person and come clean. We love you and we love Reddit. <3
+
+<u/spez>: 1. I'm sorry
+
+2. I'M SORRY
+
+3. Thanks!

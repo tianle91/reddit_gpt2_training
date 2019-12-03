@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
 
-Title: With so much going on in the world, I thought I’d share some Reddit updates to distract you all
-
-Body: Hi All,
+Hi All,
 
 We’ve got some updates to share about Reddit the platform, community, and business:
 
@@ -24,8 +22,22 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Q: What do you think?
-A: I'm sorry, but I (like many) are firmly against the geo-specific version of Reddit. Many of us fell in love with Reddit primarily because it was global. It didn't matter if you were in India (like me), or France, or Korea, you saw what was going on in the world. The problem that many of us predict is that we will see Reddit become just another Facebook, with all new users succumbing to the ecosystem. The key ideal of Reddit is that it helped expand the minds of many who came here. We all changed our opinions as we interacted with people throughout the globe, and expanded our horizons into things we normally would. I'll be honest /u/spez. Many of us core users are afraid that new features like removing CSS, Reddit profiles, and geo specific frontpages will keep users firmly limited to their own ideas and thought processes, and change the uniqueness of each community. I was ambivalent to the first 2 changes, but this is one where I'm legitimately concerned. Also, there's the problem of new users being turned off by the echo chamber. I for example, rarely visit /r/india, despite being an Indian living in India. Will I be forced to see political posts and the general flustercuck of my region? Because if that happens, I'd rather just switch to Facebook. Key thing is IMO you are limiting the kind of Redditors that made Reddit great in the first place, and instead inviting more and more of the kind of people who are alright being locked in just one particular camp.
+<u/yashendra2797>: I'm sorry, but I (like many) are firmly against the geo-specific version of Reddit. Many of us fell in love with Reddit primarily because it was global. It didn't matter if you were in India (like me), or France, or Korea, you saw what was going on in the world. The problem that many of us predict is that we will see Reddit become just another Facebook, with all new users succumbing to the ecosystem.
 
-Q: I'm sorry, but I (like many) are firmly against the geo-specific version of Reddit. Many of us fell in love with Reddit primarily because it was global. It didn't matter if you were in India (like me), or France, or Korea, you saw what was going on in the world. The problem that many of us predict is that we will see Reddit become just another Facebook, with all new users succumbing to the ecosystem. The key ideal of Reddit is that it helped expand the minds of many who came here. We all changed our opinions as we interacted with people throughout the globe, and expanded our horizons into things we normally would. I'll be honest /u/spez. Many of us core users are afraid that new features like removing CSS, Reddit profiles, and geo specific frontpages will keep users firmly limited to their own ideas and thought processes, and change the uniqueness of each community. I was ambivalent to the first 2 changes, but this is one where I'm legitimately concerned. Also, there's the problem of new users being turned off by the echo chamber. I for example, rarely visit /r/india, despite being an Indian living in India. Will I be forced to see political posts and the general flustercuck of my region? Because if that happens, I'd rather just switch to Facebook. Key thing is IMO you are limiting the kind of Redditors that made Reddit great in the first place, and instead inviting more and more of the kind of people who are alright being locked in just one particular camp.
-A: > instead inviting more and more of the kind of people who are alright being locked in just one particular camp r/gatekeeping Stop. Reddit is 300M+ people. It's a big place, and according to users, it has been in steady decline for over a decade now. The reality is not everyone is interested in an English-only, US-centric view of the world. The work we are doing is purely additive. Don't like geo-popular? Don't use it. Don't like profile pages? Don't use it. Want to hang out on r/all all day? Cool. It's not going anywhere.
+The key ideal of Reddit is that it helped expand the minds of many who came here. We all changed our opinions as we interacted with people throughout the globe, and expanded our horizons into things we normally would. 
+
+I'll be honest /u/spez. Many of us core users are afraid that new features like removing CSS, Reddit profiles, and geo specific frontpages will keep users firmly limited to their own ideas and thought processes, and change the uniqueness of each community. I was ambivalent to the first 2 changes, but this is one where I'm legitimately concerned.
+
+Also, there's the problem of new users being turned off by the echo chamber. I for example, rarely visit /r/india, despite being an Indian living in India. Will I be forced to see political posts and the general flustercuck of my region? Because if that happens, I'd rather just switch to Facebook.
+
+Key thing is IMO you are limiting the kind of Redditors that made Reddit great in the first place, and instead inviting more and more  of the kind of people who are alright being locked in just one particular camp.
+
+<u/spez>: > instead inviting more and more of the kind of people who are alright being locked in just one particular camp
+
+r/gatekeeping
+
+Stop. Reddit is 300M+ people. It's a big place, and according to users, it has been in steady decline for over a decade now.
+
+The reality is not everyone is interested in an English-only, US-centric view of the world.
+
+The work we are doing is purely additive. Don't like geo-popular? Don't use it. Don't like profile pages? Don't use it. Want to hang out on r/all all day? Cool. It's not going anywhere.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,11 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: What do you actually do as the CEO of Reddit?
+<u/abovebetweenbelow>: What do you actually do as the CEO of Reddit?
 
-Q: What do you actually do as the CEO of Reddit?
-A: I spend the majority of my time doing four things: * Working with our product teams to improve Reddit, which these days is focused on how do we make Reddit more accessible to new users * Recruiting * Communicating internally to the company about what we're doing and why we're doing it * Taking my lumps with the community, which is what I'm doing right now
+<u/spez>: I spend the majority of my time doing four things:
+
+* Working with our product teams to improve Reddit, which these days is focused on how do we make Reddit more accessible to new users
+* Recruiting
+* Communicating internally to the company about what we're doing and why we're doing it
+* Taking my lumps with the community, which is what I'm doing right now

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: TL;DR: Today we're testing out a new feature that will allow users to post directly to their profile
 
-Title: TL;DR: Today we're testing out a new feature that will allow users to post directly to their profile
-
-Body: Hi Reddit!
+Hi Reddit!
 
 
 Reddit is the home to the most amazing content creators on the internet. Together, we create a place for artists, writers, scientists, gif-makers, and countless others to express themselves and to share their work and wisdom. They fill our days with beautiful photos, witty poems, thoughtful AMAs, shitty watercolours, and scary stories. Today, we make it easier for them to connect directly to you.
@@ -127,8 +125,11 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
 
-Q: What do you think?
-A: I'm not opposed and don't think it's "wrong", but from an initial impression I see some features and concepts that take away the uniqueness of Reddit and make it blend with a lot of other social media platforms. I could just be overprotective of my nostalgia from Redditing for a while now (this account doesn't reflect how long I have been) - but this seems to put an emphasis on names, people, brands - where my enjoyment has come from a focus on content. I didn't have a chance to type out all my thoughts, and I'm just as interested to see how this plays out, just food for thought.
+<u/BrahmsLullaby>: I'm not opposed and don't think it's "wrong", but from an initial impression I see some features and concepts that take away the uniqueness of Reddit and make it blend with a lot of other social media platforms.
 
-Q: I'm not opposed and don't think it's "wrong", but from an initial impression I see some features and concepts that take away the uniqueness of Reddit and make it blend with a lot of other social media platforms. I could just be overprotective of my nostalgia from Redditing for a while now (this account doesn't reflect how long I have been) - but this seems to put an emphasis on names, people, brands - where my enjoyment has come from a focus on content. I didn't have a chance to type out all my thoughts, and I'm just as interested to see how this plays out, just food for thought.
-A: What we really want to see is for users who have things to share, they have a place to put it. Even I have this problem. I often have ideas for a post, but don't know which community I should submit it to. r/announcements, my main home, probably isn't appropriate. Even if I know the right community, I may not know the community norms and rules. This gives me a place to put my thoughts without worry that I'm going to get insta-banned. If someone decides it's appropriate for their community, they can x-post it.
+I could just be overprotective of my nostalgia from Redditing for a while now (this account doesn't reflect how long I have been) - but this seems to put an emphasis on names, people, brands - where my enjoyment has come from a focus on content.
+
+I didn't have a chance to type out all my thoughts, and I'm just as interested to see how this plays out, just food for thought. 
+
+
+<u/spez>: What we really want to see is for users who have things to share, they have a place to put it. Even I have this problem. I often have ideas for a post, but don't know which community I should submit it to. r/announcements, my main home, probably isn't appropriate. Even if I know the right community, I may not know the community norms and rules. This gives me a place to put my thoughts without worry that I'm going to get insta-banned. If someone decides it's appropriate for their community, they can x-post it.

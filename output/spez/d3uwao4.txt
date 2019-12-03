@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Whats your reddit password?
+<u/[deleted]>: Whats your reddit password?
 
-Q: Whats your reddit password?
-A: I don't know, I use [1password](https://1password.com/), and you should too.
+<u/spez>: I don't know, I use [1password](https://1password.com/), and you should too.

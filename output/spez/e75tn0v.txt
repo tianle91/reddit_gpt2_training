@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,24 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: Detailed posts have shown r/the_donald being responsible for pushing russian propaganda through use of coordinated bots and bogus fake articles. r/the_donald also frequently participates in hate speech, including but not limited to: anti-muslim rhetoric, violence surrounding neo-nazi rally in 2017, death threats against John McCain and others, etc. When will you address this issue? When will you stand up to attacks on our democracy by Russia, specifically propagated through a community on your site? edit: here’s the post outlining r/the_donald’s rampant violation of reddit rules. sorry trolls :p http://archive.is/qIDX7 also notice it’s an archive, because certain reddit mods were scared of the truth and deleted the original
+<u/shirleyUcantBserio>: Detailed posts have shown r/the_donald being responsible for pushing russian propaganda through use of coordinated bots and bogus fake articles.
 
-Q: Detailed posts have shown r/the_donald being responsible for pushing russian propaganda through use of coordinated bots and bogus fake articles. r/the_donald also frequently participates in hate speech, including but not limited to: anti-muslim rhetoric, violence surrounding neo-nazi rally in 2017, death threats against John McCain and others, etc. When will you address this issue? When will you stand up to attacks on our democracy by Russia, specifically propagated through a community on your site? edit: here’s the post outlining r/the_donald’s rampant violation of reddit rules. sorry trolls :p http://archive.is/qIDX7 also notice it’s an archive, because certain reddit mods were scared of the truth and deleted the original
-A: My [last post](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/) documented exactly what we know and what we're doing about foreign influence on Reddit. We also listed the accounts that were involved so that you can see for yourself what they were up to. In August, we wrote a [similar post](https://www.reddit.com/r/announcements/comments/9bvkqa/an_update_on_the_fireeye_report_and_reddit/) regarding an Iranian attempt at manipulation. A couple weeks ago, we saw another round of posts centered around usareally.com, which is now banned. What we found in this case was that the users behind it were indeed of Russian origin, though we have no technical evidence that they are affiliated with the IRA. Similar to the IRA's previous efforts, this group's efforts were largely not effective: They submitted 953 posts to 130 different communities. Of the 264 posts submitted to r/the_donald, only one made it into the top 100, and 0 made it into the top 25. We have a team dedicated to finding and preventing coordinated behavior to manipulate Reddit. The first question whenever we find anything is, "what could we have done to find this sooner?" In this case, we would have liked to have caught and banned the domains sooner because they were behaving in a spammy matter, and have adjusted our processes to do so going forward. If you do find anything of this nature, please send it to directly to investigations@reddit.zendesk.com.
+r/the_donald also frequently participates in hate speech, including but not limited to: anti-muslim rhetoric, violence surrounding neo-nazi rally in 2017, death threats against John McCain and others, etc.
+
+When will you address this issue? When will you stand up to attacks on our democracy by Russia, specifically propagated through a community on your site?
+
+edit: here’s the post outlining r/the_donald’s rampant violation of reddit rules. sorry trolls :p
+
+http://archive.is/qIDX7
+
+also notice it’s an archive, because certain reddit mods were scared of the truth and deleted the original
+
+<u/spez>: My [last post](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/) documented exactly what we know and what we're doing about foreign influence on Reddit. We also listed the accounts that were involved so that you can see for yourself what they were up to.
+
+In August, we wrote a [similar post](https://www.reddit.com/r/announcements/comments/9bvkqa/an_update_on_the_fireeye_report_and_reddit/) regarding an Iranian attempt at manipulation.
+
+A couple weeks ago, we saw another round of posts centered around usareally.com, which is now banned. What we found in this case was that the users behind it were indeed of Russian origin, though we have no technical evidence that they are affiliated with the IRA. Similar to the IRA's previous efforts, this group's efforts were largely not effective: They submitted 953 posts to 130 different communities. Of the 264 posts submitted to r/the_donald, only one made it into the top 100, and 0 made it into the top 25.
+
+We have a team dedicated to finding and preventing coordinated behavior to manipulate Reddit. The first question whenever we find anything is, "what could we have done to find this sooner?" In this case, we would have liked to have caught and banned the domains sooner because they were behaving in a spammy matter, and have adjusted our processes to do so going forward.
+
+If you do find anything of this nature, please send it to directly to investigations@reddit.zendesk.com.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
 
-Title: Reddit’s 2018 transparency report (and maybe other stuff)
-
-Body: Hi all,
+Hi all,
 
 Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
 
@@ -24,8 +22,8 @@ edit: Thanks for the silver you cheap bastards.
 
 update: I'm out for now. Will check back later.
 
-Q: What do you think?
-A: Just out of interest. From the perspective of a large company how difficult has/was adapting to the EU's GDPR regulation been?
+<u/The-HilariousFingers>: Just out of interest. From the perspective of a large company how difficult has/was adapting to the EU's GDPR regulation been?
 
-Q: Just out of interest. From the perspective of a large company how difficult has/was adapting to the EU's GDPR regulation been?
-A: It's not easy, but mostly because government regulations often don't factor in the technical realities of their implementations. That said, it's easier for us than others because we don't actually have a lot of non-public data about our users.
+<u/spez>: It's not easy, but mostly because government regulations often don't factor in the technical realities of their implementations.
+
+That said, it's easier for us than others because we don't actually have a lot of non-public data about our users.

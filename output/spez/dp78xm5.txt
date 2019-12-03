@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,6 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Will the search function ever improve?
+<u/[deleted]>: Will the search function ever improve?
 
-Q: Will the search function ever improve?
-A: It's actively improving! We have an entirely new system. Uptime is dramatically better (80s to the 99.9%), and relevancy is improved. We're continuing to refine it. I believe there are a small percentage of users still on the old system so we can measure the improvement, and if this includes you, I'm really really sorry.
+<u/spez>: It's actively improving! We have an entirely new system. Uptime is dramatically better (80s to the 99.9%), and relevancy is improved. We're continuing to refine it. I believe there are a small percentage of users still on the old system so we can measure the improvement, and if this includes you, I'm really really sorry.

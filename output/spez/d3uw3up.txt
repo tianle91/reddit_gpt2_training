@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,11 +12,8 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Be honest, what does /u/drunken_economist actually do at reddit besides keeping the whores in /r/centuryclub in line
+<u/hestonkent>: Be honest, what does /u/drunken_economist actually do at reddit besides keeping the whores in /r/centuryclub in line
 
-Q: Be honest, what does /u/drunken_economist actually do at reddit besides keeping the whores in /r/centuryclub in line
-A: it's a full time jorb
+<u/Drunken_Economist>: it's a full time jorb
 
-Q: it's a full time jorb
-A: Please remember to distinguish comments written in official company capacity.
+<u/spez>: Please remember to distinguish comments written in official company capacity.

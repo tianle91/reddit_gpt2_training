@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,8 +28,8 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: Your last? Are you hinting at something /u/spez? I dont follow the admin team much, but I am very thankful for what you guys do. Hope things go well for ya mate!
+<u/FfanaticR>: Your last? Are you hinting at something /u/spez?
 
-Q: Your last? Are you hinting at something /u/spez? I dont follow the admin team much, but I am very thankful for what you guys do. Hope things go well for ya mate!
-A: Just a joke knowing today was going to be a tough one. I can't go anywhere, no one else wants this job! Fortunately, I love it.
+I dont follow the admin team much, but I am very thankful for what you guys do. Hope things go well for ya mate!
+
+<u/spez>: Just a joke knowing today was going to be a tough one. I can't go anywhere, no one else wants this job! Fortunately, I love it.

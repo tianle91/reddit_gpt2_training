@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,8 +25,6 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: I hear [you're preparing for the apocalypse](http://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich). But what about Reddit? What are your plans to make sure Reddit stays up and running during these next 4 years?
+<u/cleantoe>: I hear [you're preparing for the apocalypse](http://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich). But what about Reddit? What are your plans to make sure Reddit stays up and running during these next 4 years?
 
-Q: I hear [you're preparing for the apocalypse](http://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich). But what about Reddit? What are your plans to make sure Reddit stays up and running during these next 4 years?
-A: If Reddit could be killed, it'd be dead by now.
+<u/spez>: If Reddit could be killed, it'd be dead by now.

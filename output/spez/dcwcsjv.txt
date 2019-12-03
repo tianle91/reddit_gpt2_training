@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,8 +25,10 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: I do see this problem. In fact, we've had a lot more success the past few months going after bad users instead of punishing the communities they frequent. It's a lot easier to do so if we have the support of the mods of the relevant communities. I have in mind to make this more explicit: a literal checkbox that says something to the effect of, "keep the assholes out of my community."
+<u/spez>: I do see this problem. In fact, we've had a lot more success the past few months going after bad users instead of punishing the communities they frequent.
+
+It's a lot easier to do so if we have the support of the mods of the relevant communities.
+
+I have in mind to make this more explicit: a literal checkbox that says something to the effect of, "keep the assholes out of my community."

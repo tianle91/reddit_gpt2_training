@@ -1,13 +1,11 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
 
-Title: I'm Steve Huffman, programmer and Reddit CEO. AMA.
-
-Body: Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
 
 Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
 
-Q: What do you think?
-A: Favorite cs and non cs book suggestions ? :) thanks for the AMA !
+<u/JustForgiven>: Favorite cs and non cs book suggestions ? :) thanks for the AMA !
 
-Q: Favorite cs and non cs book suggestions ? :) thanks for the AMA !
-A: Favorite cs book is probably Ansi Common Lisp or On Lisp by Paul Graham. Favorite non cs book... probably whatever I read last, which is approximately: Pre-suasion, Deep simplicity, the Dark Tower series.
+<u/spez>: Favorite cs book is probably Ansi Common Lisp or On Lisp by Paul Graham.
+
+Favorite non cs book... probably whatever I read last, which is approximately: Pre-suasion, Deep simplicity, the Dark Tower series.

@@ -1,8 +1,7 @@
-In subreddit: AskReddit
+<r/AskReddit>: CEOs of reddit, how did you get there?
 
-Title: CEOs of reddit, how did you get there?
+<u/spez>: I started Reddit with my college roommate of four years, Alexis Ohanian (u/kn0thing), immediately after graduation in 2005. Not having a big vision for the company, we more or less went with the flow, building whatever we felt like each day. As a result, when an opportunity to sell came along, we took it, selling to Condé Nast in 2006. We had little expectations for the company, so it seemed at the time like we were getting away with something.
 
-Body: 
+Alexis and I stayed with Reddit, under contract with CN, through 2009. I left because I wanted to try something else. I started Hipmunk in 2010 with another buddy, Adam Goldstein. He was the CEO and I was the CTO. I worked on Hipmunk for the next five years, learning many important lessons and unlearned many bad habits I had developed at Reddit. Meanwhile, Reddit continued to grow, eventually spinning out from Conde in 2012, and raising more money towards the end of 2014.
 
-Q: What do you think?
-A: I started Reddit with my college roommate of four years, Alexis Ohanian (u/kn0thing), immediately after graduation in 2005. Not having a big vision for the company, we more or less went with the flow, building whatever we felt like each day. As a result, when an opportunity to sell came along, we took it, selling to Condé Nast in 2006. We had little expectations for the company, so it seemed at the time like we were getting away with something. Alexis and I stayed with Reddit, under contract with CN, through 2009. I left because I wanted to try something else. I started Hipmunk in 2010 with another buddy, Adam Goldstein. He was the CEO and I was the CTO. I worked on Hipmunk for the next five years, learning many important lessons and unlearned many bad habits I had developed at Reddit. Meanwhile, Reddit continued to grow, eventually spinning out from Conde in 2012, and raising more money towards the end of 2014. Reddit went through some hard times (yadda yadda yadda...), and in July of 2015, I returned as CEO.
+Reddit went through some hard times (yadda yadda yadda...), and in July of 2015, I returned as CEO.

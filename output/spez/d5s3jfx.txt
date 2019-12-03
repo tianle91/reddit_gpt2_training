@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: New Ad Type: Promoted User Posts
 
-Title: New Ad Type: Promoted User Posts
-
-Body: **TL;DR - [here is what this ad is](https://i.redd.it/dyib2c0odmbx.png)**
+**TL;DR - [here is what this ad is](https://i.redd.it/dyib2c0odmbx.png)**
 
 Hi all,
  
@@ -73,14 +71,14 @@ EDIT 2: I'm back early because there's some confusion around what this is. Pleas
 
 EDIT 3: I believe some redditors may be confusing this announcement with a different one for [in-feed ad tests](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design/) which we announced prior to this.
 
-Q: What do you think?
-A: I know I'm a cynic, but I can't help but see this as step one towards taking promoted posts from just the top of the page and scatterering them liberally throughout the news feed. Hopefully that won't happen, right?
+<u/EternalNewGuy>: I know I'm a cynic, but I can't help but see this as step one towards taking promoted posts from just the top of the page and scatterering them liberally throughout the news feed.
 
-Q: I know I'm a cynic, but I can't help but see this as step one towards taking promoted posts from just the top of the page and scatterering them liberally throughout the news feed. Hopefully that won't happen, right?
-A: This is my second response to this. Please don't bury this because it's preventing people from knowing what's going to happen. I recognize this is controversial but I'm guessing you'd rather people know about it than not... [This was announced and is currently being tested.](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design)
+Hopefully that won't happen, right?
 
-Q: This is my second response to this. Please don't bury this because it's preventing people from knowing what's going to happen. I recognize this is controversial but I'm guessing you'd rather people know about it than not... [This was announced and is currently being tested.](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design)
-A: What happened to "It's OK to be a Redditor with a business, it's not OK for a business to have a Reddit account?"
+<u/starfishjenga>: This is my second response to this. Please don't bury this because it's preventing people from knowing what's going to happen. I recognize this is controversial but I'm guessing you'd rather people know about it than not...
 
-Q: What happened to "It's OK to be a Redditor with a business, it's not OK for a business to have a Reddit account?"
-A: It's not practical to enforce such a rule. There are plenty of business on Reddit representing themselves legitimately, and there are plenty who masquerade as organic users. I think it's wiser to incentivize businesses to be transparent about it.
+[This was announced and is currently being tested.](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design)
+
+<u/[deleted]>: What happened to "It's OK to be a Redditor with a business, it's not OK for a business to have a Reddit account?"
+
+<u/spez>: It's not practical to enforce such a rule. There are plenty of business on Reddit representing themselves legitimately, and there are plenty who masquerade as organic users. I think it's wiser to incentivize businesses to be transparent about it. 

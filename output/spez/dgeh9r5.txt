@@ -1,8 +1,5 @@
-In subreddit: me_irl
+<r/me_irl>: me_irl
 
-Title: me_irl
+<u/spez>: As per our totally authentic announcement, everyone who upvoted this thread gets a little Gold.
 
-Body: 
-
-Q: What do you think?
-A: As per our totally authentic announcement, everyone who upvoted this thread gets a little Gold. update: this offer expired 3 months ago.
+update: this offer expired 3 months ago.

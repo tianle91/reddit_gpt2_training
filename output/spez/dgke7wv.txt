@@ -1,8 +1,6 @@
-In subreddit: modnews
+<r/modnews>: The web redesign, CSS, and mod tools
 
-Title: The web redesign, CSS, and mod tools
-
-Body: Hi Mods,
+Hi Mods,
 
 You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
 
@@ -43,8 +41,17 @@ Thanks for reading.
 
 update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Q: What do you think?
-A: So wait, Reddit customization is being ruined in favor of toolbox support? I'm not sure how I feel about this. Mobile support only works with the fairly feature bare official Reddit app, which doesn't really support mod features anyway. What about subs like /r/Sweden who have a sidebar map with working links to subreddits in them? This sounds like a step in the wrong direction. Sincerely, a mod of pics, the subreddit with CSS that no one notices. Edit: as an actual question, will the final product be closer to selectable themes or selectable elements to add to our subreddit style, Scratch style.
+<u/adeadhead>: So wait, Reddit customization is being ruined in favor of toolbox support? I'm not sure how I feel about this. Mobile support only works with the fairly feature bare official Reddit app, which doesn't really support mod features anyway. 
 
-Q: So wait, Reddit customization is being ruined in favor of toolbox support? I'm not sure how I feel about this. Mobile support only works with the fairly feature bare official Reddit app, which doesn't really support mod features anyway. What about subs like /r/Sweden who have a sidebar map with working links to subreddits in them? This sounds like a step in the wrong direction. Sincerely, a mod of pics, the subreddit with CSS that no one notices. Edit: as an actual question, will the final product be closer to selectable themes or selectable elements to add to our subreddit style, Scratch style.
-A: We're redesigning the site, which means the DOM (the underlying structure of the site) is going to change, which would break CSS and mod tools if we did nothing. What I'm explaining here is what we're going to do about it: * provide a new system of styling that isn't married to the DOM * provide hooks into Reddit for mod tools that is less brittle
+What about subs like /r/Sweden who have a sidebar map with working links to subreddits in them? This sounds like a step in the wrong direction. 
+
+
+Sincerely, a mod of pics, the subreddit with CSS that no one notices.  
+
+
+Edit: as an actual question, will the final product be closer to selectable themes or selectable elements to add to our subreddit style, Scratch style. 
+
+<u/spez>: We're redesigning the site, which means the DOM (the underlying structure of the site) is going to change, which would break CSS and mod tools if we did nothing. What I'm explaining here is what we're going to do about it:
+
+* provide a new system of styling that isn't married to the DOM
+* provide hooks into Reddit for mod tools that is less brittle

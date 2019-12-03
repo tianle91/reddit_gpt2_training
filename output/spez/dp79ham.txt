@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,8 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: Is the front page still limited to a random sampling of 50 of your subscribed subreddits (100 if gold)?? I always find this a frustrating limitation of reddit's technology, as I feel like I'm missing items from subreddits I care about unless I slice them up into many different multi-reddits.
+<u/ColdFury96>: Is the front page still limited to a random sampling of 50 of your subscribed subreddits (100 if gold)??  I always find this a frustrating limitation of reddit's technology, as I feel like I'm missing items from subreddits I care about unless I slice them up into many different multi-reddits.
 
-Q: Is the front page still limited to a random sampling of 50 of your subscribed subreddits (100 if gold)?? I always find this a frustrating limitation of reddit's technology, as I feel like I'm missing items from subreddits I care about unless I slice them up into many different multi-reddits.
-A: It's not 50, but there is a limit. I think it's 100 now but increasing to a few hundred in a couple weeks. Even better, we're testing an entirely new algorithm that doesn't have this limitation and shows you more from smaller communities you frequent.
+<u/spez>: It's not 50, but there is a limit. I think it's 100 now but increasing to a few hundred in a couple weeks.
+
+Even better, we're testing an entirely new algorithm that doesn't have this limitation and shows you more from smaller communities you frequent.

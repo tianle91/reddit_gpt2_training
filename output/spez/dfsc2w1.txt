@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,17 +21,14 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: What is Reddit's official position on providing user data to advertisers and other data aggregators? What type of data and methods of data collection are considered fair game, and which are currently in use?
+<u/iamastrange1oop>: What is Reddit's official position on providing user data to advertisers and other data aggregators?  
 
-Q: What is Reddit's official position on providing user data to advertisers and other data aggregators? What type of data and methods of data collection are considered fair game, and which are currently in use?
-A: We don't share individual browsing habits with advertisers. You can read the full details in our [Privacy Policy](https://www.reddit.com/help/privacypolicy/).
+What type of data and methods of data collection are considered fair game, and which are currently in use?
 
-Q: We don't share individual browsing habits with advertisers. You can read the full details in our [Privacy Policy](https://www.reddit.com/help/privacypolicy/).
-A: Awesome
+<u/spez>: We don't share individual browsing habits with advertisers. You can read the full details in our [Privacy Policy](https://www.reddit.com/help/privacypolicy/).
 
-Q: Awesome
-A: He said browsing habits, there is still a lot of information they have besides that. Email, location, device ID....
+<u/Th3Reallegend>: Awesome
 
-Q: He said browsing habits, there is still a lot of information they have besides that. Email, location, device ID....
-A: We don't share any individually-identifying PII, such as emails, but we do allow advertisers to target based on location.
+<u/LegenW84ITdary>: He said browsing habits, there is still a lot of information they have besides that. Email, location, device ID....
+
+<u/spez>: We don't share any individually-identifying PII, such as emails, but we do allow advertisers to target based on location.

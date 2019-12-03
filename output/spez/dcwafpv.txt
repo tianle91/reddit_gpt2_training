@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,14 +25,12 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: The admins of Reddit did a great job of pushing out updates in 2016 that benefit the community. Thanks for the hard work you guys have put in and thanks for listening to the feedback and suggestions many of us have given you.
+<u/tikotanabi>: The admins of Reddit did a great job of pushing out updates in 2016 that benefit the community. Thanks for the hard work you guys have put in and thanks for listening to the feedback and suggestions many of us have given you. 
 
-Q: The admins of Reddit did a great job of pushing out updates in 2016 that benefit the community. Thanks for the hard work you guys have put in and thanks for listening to the feedback and suggestions many of us have given you.
-A: Thank you! I know the team loves hearing this as well. 2017 should be a fun year. Every day our pace gets a little bit faster.
+<u/spez>: Thank you! I know the team loves hearing this as well.
 
-Q: Thank you! I know the team loves hearing this as well. 2017 should be a fun year. Every day our pace gets a little bit faster.
-A: [/r/guns wants to know what guns you got!](http://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich)
+2017 should be a fun year. Every day our pace gets a little bit faster.
 
-Q: [/r/guns wants to know what guns you got!](http://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich)
-A: My favorite is my Glock 19.
+<u/hestonkent>: [/r/guns wants to know what guns you got!](http://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich)
+
+<u/spez>: My favorite is my Glock 19.

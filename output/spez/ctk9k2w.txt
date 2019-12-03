@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Good morning, I thought I'd give a quick update.
 
-Title: Good morning, I thought I'd give a quick update.
-
-Body: I thought I'd start my day with a quick status update for you all. It's only been a couple weeks since my return, but we've got a lot going on. We are in a phase of emergency fixes to repair a number of longstanding issues that are causing all of us grief. I normally don't like talking about things before they're ready, but because many of you are asking what's going on, and have been asking for a long time before my arrival, I'll share what we're up to.
+I thought I'd start my day with a quick status update for you all. It's only been a couple weeks since my return, but we've got a lot going on. We are in a phase of emergency fixes to repair a number of longstanding issues that are causing all of us grief. I normally don't like talking about things before they're ready, but because many of you are asking what's going on, and have been asking for a long time before my arrival, I'll share what we're up to.
 
 Under active development:
 
@@ -27,8 +25,22 @@ I'll be hanging around in the comments for an hour or so.
 
 update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
 
-Q: What do you think?
-A: Thanks for the update, I appreciates being able to "see behind the curtain". I just have a few questions: - Are there any hard deadlines for any of these changes? Projected ETA's other then ASAP? - Is there a place (like a dedicated subreddit?) that we can tune into to see progress, or maybe offer support when needed? (Community developed tools that have become official come to mind.) - And on that note, can we as the community do anything to enhance our corner of the Internet with you and the Admin team?
+<u/TheBestUkester>: Thanks for the update, I appreciates being able to "see behind the curtain". I just have a few questions:
 
-Q: Thanks for the update, I appreciates being able to "see behind the curtain". I just have a few questions: - Are there any hard deadlines for any of these changes? Projected ETA's other then ASAP? - Is there a place (like a dedicated subreddit?) that we can tune into to see progress, or maybe offer support when needed? (Community developed tools that have become official come to mind.) - And on that note, can we as the community do anything to enhance our corner of the Internet with you and the Admin team?
-A: > Are there any hard deadlines for any of these changes? Projected ETA's other then ASAP? No, but we are on a very short timeline. Weeks, not months, and we've been at it two weeks. > Is there a place (like a dedicated subreddit?) that we can tune into to see progress, or maybe offer support when needed? (Community developed tools that have become official come to mind.) Not presently, but I'm open to ideas. The challenge is that during development we go through a lot of bad ideas, and it's easier to iterate on things when you don't have 100M people breathing down your neck. > And on that note, can we as the community do anything to enhance our corner of the Internet with you and the Admin team? Remember that we are people too, and our primary motivation is to make Reddit an awesome place to hang out. We are way less cynical than everyone thinks we are.
+- Are there any hard deadlines for any of these changes? Projected ETA's other then ASAP?
+
+- Is there a place (like a dedicated subreddit?) that we can tune into to see progress, or maybe offer support when needed? (Community developed tools that have become official come to mind.)
+
+- And on that note, can we as the community do anything to enhance our corner of the Internet with you and the Admin team?
+
+<u/spez>: > Are there any hard deadlines for any of these changes? Projected ETA's other then ASAP?
+
+No, but we are on a very short timeline. Weeks, not months, and we've been at it two weeks.
+
+> Is there a place (like a dedicated subreddit?) that we can tune into to see progress, or maybe offer support when needed? (Community developed tools that have become official come to mind.)
+
+Not presently, but I'm open to ideas. The challenge is that during development we go through a lot of bad ideas, and it's easier to iterate on things when you don't have 100M people breathing down your neck.
+
+> And on that note, can we as the community do anything to enhance our corner of the Internet with you and the Admin team?
+
+Remember that we are people too, and our primary motivation is to make Reddit an awesome place to hang out. We are way less cynical than everyone thinks we are.

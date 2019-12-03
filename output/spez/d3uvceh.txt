@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,8 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: Anything new you can tell us about privacy on reddit?
+<u/[deleted]>: Anything new you can tell us about privacy on reddit?
 
-Q: Anything new you can tell us about privacy on reddit?
-A: Not a lot new, but I can repeat how we feel: privacy colors many of our conversations around here. We have a good [privacy policy](https://www.reddit.com/r/announcements/comments/3tlcil/we_are_updating_our_privacy_policy_effective_jan); we released a thorough [transparency report](https://www.reddit.com/wiki/transparency/2015), which will be even more thorough next year because we're keeping better records; and that whole techno-libertarian, super-paranoid viewpoint that exists on Reddit? That came from me, and has been upheld by many others around here over the years. edit: I have a hard time with links.
+<u/spez>: Not a lot new, but I can repeat how we feel: privacy colors many of our conversations around here. We have a good [privacy policy](https://www.reddit.com/r/announcements/comments/3tlcil/we_are_updating_our_privacy_policy_effective_jan); we released a thorough [transparency report](https://www.reddit.com/wiki/transparency/2015), which will be even more thorough next year because we're keeping better records; and that whole techno-libertarian, super-paranoid viewpoint that exists on Reddit? That came from me, and has been upheld by many others around here over the years.
+
+edit: I have a hard time with links.

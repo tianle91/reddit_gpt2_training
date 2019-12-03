@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk content. AMA.
 
-Title: Let's talk content. AMA.
-
-Body: We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
+We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
 
 As we grew, I became increasingly uncomfortable projecting my worldview on others. More practically, I didn’t have time to pass judgement on everything, so I decided to judge nothing. 
 
@@ -41,8 +39,8 @@ edit: attempted to clarify harassment based on our existing policy
 
 update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-Q: What do you think?
-A: I generally agree with the outline above. Do you have ideas for the name of this second classification? I feel like this kind of thing is easy to conceptualize, hard to bucket and actually classify, and will come down to semantics. The naming of things is such an important factor in how they are accepted and understood by the community. Is there a list of names you are considering? Thanks for the transparency. My favorite thing about Reddit is that it is a platform that gives a voice to the many without garbling in down to the lowest common denominator (but that also happens sometimes.) My least favorite thing are the hateful subcultures that exist and feel entitled to never have their views even questioned or criticized. I appreciate that Reddit does not try to decide what is right or wrong but I also appreciate a clear stance against hate and harassment.
+<u/bhalp1>: I generally agree with the outline above. Do you have ideas for the name of this second classification? I feel like this kind of thing is easy to conceptualize, hard to bucket and actually classify, and will come down to semantics. The naming of things is such an important factor in how they are accepted and understood by the community. Is there a list of names you are considering?
 
-Q: I generally agree with the outline above. Do you have ideas for the name of this second classification? I feel like this kind of thing is easy to conceptualize, hard to bucket and actually classify, and will come down to semantics. The naming of things is such an important factor in how they are accepted and understood by the community. Is there a list of names you are considering? Thanks for the transparency. My favorite thing about Reddit is that it is a platform that gives a voice to the many without garbling in down to the lowest common denominator (but that also happens sometimes.) My least favorite thing are the hateful subcultures that exist and feel entitled to never have their views even questioned or criticized. I appreciate that Reddit does not try to decide what is right or wrong but I also appreciate a clear stance against hate and harassment.
-A: I've tried a lot of names, and none of them fit. I'm all ears. The challenge is that the content itself is very difficult to describe as well.
+Thanks for the transparency. My favorite thing about Reddit is that it is a platform that gives a voice to the many without garbling in down to the lowest common denominator (but that also happens sometimes.) My least favorite thing are the hateful subcultures that exist and feel entitled to never have their views even questioned or criticized. I appreciate that Reddit does not try to decide what is right or wrong but I also appreciate a clear stance against hate and harassment.
+
+<u/spez>: I've tried a lot of names, and none of them fit. I'm all ears. The challenge is that the content itself is very difficult to describe as well.

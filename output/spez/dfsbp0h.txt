@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: It's that time of year again. We just published our 2016 Transparency Report.
 
-Title: It's that time of year again. We just published our 2016 Transparency Report.
-
-Body: Hello Everyone,
+Hello Everyone,
 
 We just posted our [2016 Transparency Report](https://www.reddit.com/wiki/transparency/2016). It details government and law-enforcement-agency requests for private information about our users. We publish it each year, and you can find previous versions [here](https://www.reddit.com/wiki/transparency/).
 
@@ -23,8 +21,6 @@ I’ll answer any questions that I can, but please understand I can’t always b
 Steve (spez)
 
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: I mention this elsewhere, but part of our strategy has been to store as little as possible to minimize surface area. However, it's not practical to store nothing (e.g. IPs and emails), and we may ask for more down the road to enable other features (e.g. friends). Where we can, we want to give you the ability to choose how you participate.
+<u/spez>: I mention this elsewhere, but part of our strategy has been to store as little as possible to minimize surface area. However, it's not practical to store nothing (e.g. IPs and emails), and we may ask for more down the road to enable other features (e.g. friends). Where we can, we want to give you the ability to choose how you participate.

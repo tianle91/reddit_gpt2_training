@@ -1,8 +1,6 @@
-In subreddit: hockey
+<r/hockey>: /r/hockey and the Redesign
 
-Title: /r/hockey and the Redesign
-
-Body: tl;dr, in case you missed it, /r/nfl scrapped their CSS in protest of the redesign rollout and while we understand and agree with their decision, it doesn't make sense for /r/hockey to participate during the playoffs. We do however share the same concerns with all of the major sports subreddits about this redesign.
+tl;dr, in case you missed it, /r/nfl scrapped their CSS in protest of the redesign rollout and while we understand and agree with their decision, it doesn't make sense for /r/hockey to participate during the playoffs. We do however share the same concerns with all of the major sports subreddits about this redesign.
 
 [The /r/nfl mods made a better post than we could possibly hope, so if you have the time, please read it](https://www.reddit.com/r/nfl/comments/8glmp1/rnfl_the_redesign_and_the_future_of_reddit/?st=jgqy74wp&sh=692fedad). 
 
@@ -70,17 +68,16 @@ P.S. Links to other sports subs posts regarding this issue:
 
  
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: /u/spez wants playoff hockey to have shootouts.
+<u/Bigmaq>: /u/spez wants playoff hockey to have shootouts.
 
-Q: /u/spez wants playoff hockey to have shootouts.
-A: I'll take a lot of shit on this site, but this I cannot stand for. I think they should remove a player from each side every 3 minutes of overtime until there's nothing left but two goalies. As it relates to the redesign, thanks for the feedback. I believe most of your concerns will be addressed (e.g. flair). Chat is super early, that's why we're testing. And the wiki and automod work just fine. Not sure where that rumor started.
+<u/spez>: I'll take a lot of shit on this site, but this I cannot stand for. I think they should remove a player from each side every 3 minutes of overtime until there's nothing left but two goalies.
 
-Q: I'll take a lot of shit on this site, but this I cannot stand for. I think they should remove a player from each side every 3 minutes of overtime until there's nothing left but two goalies. As it relates to the redesign, thanks for the feedback. I believe most of your concerns will be addressed (e.g. flair). Chat is super early, that's why we're testing. And the wiki and automod work just fine. Not sure where that rumor started.
-A: Honest question, did you run the design visually past anyone other than the admins? Is anybody actually telling you that the new design looks good?
+As it relates to the redesign, thanks for the feedback. I believe most of your concerns will be addressed (e.g. flair). Chat is super early, that's why we're testing. And the wiki and automod work just fine. Not sure where that rumor started.
 
-Q: Honest question, did you run the design visually past anyone other than the admins? Is anybody actually telling you that the new design looks good?
-A: We've had thousands of testers over the past year of pretty much every variety: users, non\-users, in\-person, remote, prototypes, real code, quantitative, and qualitative. This in addition to the long\-running alpha with thousands of users for the past six months, and now the slow roll out to real users and optional opt\-in for many more. Wired wrote a really good [piece](https://www.wired.com/story/reddit-redesign/) about the whole process, and we wrote a [couple](https://www.reddit.com/r/blog/comments/7ul5k9/hey_were_here_to_talk_about_that_desktop_redesign/) [posts](https://www.reddit.com/r/announcements/comments/817lmi/til_reddit_has_a_design_team/) about it as well.
+<u/[deleted]>: Honest question, did you run the design visually past anyone other than the admins? Is anybody actually telling you that the new design looks good?
+
+<u/spez>: We've had thousands of testers over the past year of pretty much every variety: users, non\-users, in\-person, remote, prototypes, real code, quantitative, and qualitative. This in addition to the long\-running alpha with thousands of users for the past six months, and now the slow roll out to real users and optional opt\-in for many more.
+
+Wired wrote a really good [piece](https://www.wired.com/story/reddit-redesign/) about the whole process, and we wrote a [couple](https://www.reddit.com/r/blog/comments/7ul5k9/hey_were_here_to_talk_about_that_desktop_redesign/) [posts](https://www.reddit.com/r/announcements/comments/817lmi/til_reddit_has_a_design_team/) about it as well.

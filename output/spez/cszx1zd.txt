@@ -1,8 +1,6 @@
-In subreddit: IAmA
+<r/IAmA>: I am Steve Huffman, the new CEO of reddit. AMA.
 
-Title: I am Steve Huffman, the new CEO of reddit. AMA.
-
-Body: Hey Everyone, I'm Steve, aka spez, the new CEO around here. For those of you who don't know me, I founded reddit ten years ago with my college roommate Alexis, aka kn0thing. Since then, reddit has grown far larger than my wildest dreams. I'm so proud of what it's become, and I'm very excited to be back.
+Hey Everyone, I'm Steve, aka spez, the new CEO around here. For those of you who don't know me, I founded reddit ten years ago with my college roommate Alexis, aka kn0thing. Since then, reddit has grown far larger than my wildest dreams. I'm so proud of what it's become, and I'm very excited to be back.
 
 I know we have a lot of work to do. One of my first priorities is to re-establish a relationship with the community. This is the first of what I expect will be many AMAs (I'm thinking I'll do these weekly).
 
@@ -10,20 +8,16 @@ My proof: it's me!
 
 edit: I'm done for now. Time to get back to work. Thanks for all the questions!
 
-Q: What do you think?
-A: >the board asked me to demonstrate higher user growth in the next six months than I believe I can deliver while maintaining reddit’s core principles. Can you explain this statement from Pao in her resignation post? Does the board expect you to attain a level of growth that requires violation of reddit's core principles?
+<u/terminal157>: >the board asked me to demonstrate higher user growth in the next six months than I believe I can deliver while maintaining reddit’s core principles.
 
-Q: >the board asked me to demonstrate higher user growth in the next six months than I believe I can deliver while maintaining reddit’s core principles. Can you explain this statement from Pao in her resignation post? Does the board expect you to attain a level of growth that requires violation of reddit's core principles?
-A: Board relationships need to be managed. The message they will be hearing from me loudly and often is that we need to build out the team here if we want to get anything done. All the planning in the world is useless if we can't execute.
+Can you explain this statement from Pao in her resignation post? Does the board expect you to attain a level of growth that requires violation of reddit's core principles?
 
-Q: Board relationships need to be managed. The message they will be hearing from me loudly and often is that we need to build out the team here if we want to get anything done. All the planning in the world is useless if we can't execute.
-A: In other words, yes, but I'm stalling for time.
+<u/spez>: Board relationships need to be managed. The message they will be hearing from me loudly and often is that we need to build out the team here if we want to get anything done. All the planning in the world is useless if we can't execute.
 
-Q: In other words, yes, but I'm stalling for time.
-A: Stalling isn't the right word, but of course the board wants to see growth. I want to see growth too. We're not going to see much growth without serious product efforts, and we're not going to get serious product efforts without more resources. Fortunately, I have the ability to get those resources, so that's what I'll do.
+<u/RedAero>: In other words, yes, but I'm stalling for time.
 
-Q: Stalling isn't the right word, but of course the board wants to see growth. I want to see growth too. We're not going to see much growth without serious product efforts, and we're not going to get serious product efforts without more resources. Fortunately, I have the ability to get those resources, so that's what I'll do.
-A: Do you think you'll end the no negotiation policy?
+<u/spez>: Stalling isn't the right word, but of course the board wants to see growth. I want to see growth too. We're not going to see much growth without serious product efforts, and we're not going to get serious product efforts without more resources. Fortunately, I have the ability to get those resources, so that's what I'll do.
 
-Q: Do you think you'll end the no negotiation policy?
-A: No. We use it at Hipmunk and it works really well. A key component is paying the market rate. I don't like to start relationships with a negotiation. If we make our best offer first, we don't have to worry about it.
+<u/kickme444>: Do you think you'll end the no negotiation policy?
+
+<u/spez>: No. We use it at Hipmunk and it works really well. A key component is paying the market rate. I don't like to start relationships with a negotiation. If we make our best offer first, we don't have to worry about it.

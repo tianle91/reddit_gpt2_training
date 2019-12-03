@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
 
-Title: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
-
-Body: Dearest Redditors,
+Dearest Redditors,
 
 We have been hard at work the past few months adding features, improving our ads business, and protecting users. Here is some of the stuff we have been up to:
 
@@ -24,8 +22,6 @@ Steve
 
 u: I'm out for now. Will check back later. Thanks!
 
-Q: What do you think?
-A: Can you sort out the front page so breaking news gets there quicker? Also so a third of my front page isn't the same as when I went to sleep 9 hours earlier?
+<u/Spid1>: Can you sort out the front page so breaking news gets there quicker? Also so a third of my front page isn't the same as when I went to sleep 9 hours earlier?
 
-Q: Can you sort out the front page so breaking news gets there quicker? Also so a third of my front page isn't the same as when I went to sleep 9 hours earlier?
-A: Yes. We have a brand new team dedicated to this. It's called Content Relevance, and you should start seeing the results of their work over the next couple of months.
+<u/spez>: Yes. We have a brand new team dedicated to this. It's called Content Relevance, and you should start seeing the results of their work over the next couple of months.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,8 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: What's the best and worst thing about running Reddit?
+<u/ConfusedHerring>: What's the best and worst thing about running Reddit?
 
-Q: What's the best and worst thing about running Reddit?
-A: The best part is being a part of something so important to so many people. It's a lot of fun most of the time, and even when it's not fun, it's very exciting and challenging. It's not always easy to find that in a job, and I'm really fortunate to have it in mine. The hardest part is watching what I say publicly. Everything is recorded and judged. Our PR team is always lecturing me to be a little less Joe Biden.
+<u/spez>: The best part is being a part of something so important to so many people. It's a lot of fun most of the time, and even when it's not fun, it's very exciting and challenging. It's not always easy to find that in a job, and I'm really fortunate to have it in mine.
+
+The hardest part is watching what I say publicly. Everything is recorded and judged. Our PR team is always lecturing me to be a little less Joe Biden.

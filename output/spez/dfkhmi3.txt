@@ -1,8 +1,6 @@
-In subreddit: u_kn0thing
+<r/u_kn0thing>: The email I wrote u/spez from Singapore on July 11, 2004 that kicked off our entrepreneurial career together
 
-Title: The email I wrote u/spez from Singapore on July 11, 2004 that kicked off our entrepreneurial career together
-
-Body: I don't think I've ever used so many "bros" in my entire life, but here's the original email I sent Steve in all of its embarrassing glory. We started working on our original company, My Mobile Menu (MMM!) not long after I got back to the States that summer of our third year at UVA. That's "the pitch" I'm referring to below. Reddit came later. That's another post...
+I don't think I've ever used so many "bros" in my entire life, but here's the original email I sent Steve in all of its embarrassing glory. We started working on our original company, My Mobile Menu (MMM!) not long after I got back to the States that summer of our third year at UVA. That's "the pitch" I'm referring to below. Reddit came later. That's another post...
 
 > hey bro,
 
@@ -14,11 +12,10 @@ Body: I don't think I've ever used so many "bros" in my entire life, but here's 
 
 > honestly, this is the kind of thing that could change our lives–and his motivation has really spurred me.but i need you and the same kind of commitment.
 
-Q: What do you think?
-A: Let's be clear: that pitch that was "one of the best he's heard," wasn't Reddit. Who knows what it could have been? Oh, well. There's always another train coming.
+<u/spez>: Let's be clear: that pitch that was "one of the best he's heard," wasn't Reddit. Who knows what it could have been? Oh, well. There's always another train coming.
 
-Q: Let's be clear: that pitch that was "one of the best he's heard," wasn't Reddit. Who knows what it could have been? Oh, well. There's always another train coming.
-A: Wait this reminds me, is the shuffman56 account yours? Lots of reddit blog posts from 2006-ish are signed by that name, like this one: https://redditblog.com/2006/02/24/crossposting/
+<u/RonDunE>: Wait this reminds me, is the shuffman56 account yours? Lots of reddit blog posts from 2006-ish are signed by that name, like this one:
 
-Q: Wait this reminds me, is the shuffman56 account yours? Lots of reddit blog posts from 2006-ish are signed by that name, like this one: https://redditblog.com/2006/02/24/crossposting/
-A: Yep
+https://redditblog.com/2006/02/24/crossposting/
+
+<u/spez>: Yep

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,10 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: How are you preventing Russian bots from meddling with the reddit experience?
+<u/Geopolitics1555>: How are you preventing Russian bots from meddling with the reddit experience? 
 
-Q: How are you preventing Russian bots from meddling with the reddit experience?
-A: This is the domain of the Anti-Evil team that I've mentioned in previous posts. They are the engineering team whose mandate is to prevent those who cheat, manipulate, and otherwise attempt to undermine Reddit. I can't get too specific in this forum, but we detect and prevent manipulation in a variety of ways, generally looking at where accounts come from, how they work together, and behaviors of groups of accounts that differ from typical behavior. Folks have been trying to manipulate Reddit for a long time, so this is not a new problem for us. Their tactics and our responses do evolve over time, so it's been constant work for us over the years.
+<u/spez>: This is the domain of the Anti-Evil team that I've mentioned in previous posts. They are the engineering team whose mandate is to prevent those who cheat, manipulate, and otherwise attempt to undermine Reddit.
+
+I can't get too specific in this forum, but we detect and prevent manipulation in a variety of ways, generally looking at where accounts come from, how they work together, and behaviors of groups of accounts that differ from typical behavior.
+
+Folks have been trying to manipulate Reddit for a long time, so this is not a new problem for us. Their tactics and our responses do evolve over time, so it's been constant work for us over the years.

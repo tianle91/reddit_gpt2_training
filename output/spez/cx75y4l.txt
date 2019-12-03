@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: We are updating our Privacy Policy (effective Jan 1, 2016)
 
-Title: We are updating our Privacy Policy (effective Jan 1, 2016)
-
-Body: In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
+In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
 
 Keeping control in your hands is paramount to us, and this is our first consideration any time we change our privacy policy. Our overarching principle continues to be to request as little personally identifiable information as possible. To the extent that we store such information, we do not share it generally. Where there are exceptions to this, notably when you have given us explicit consent to do so, or in response to legal requests, we will spell them out clearly.
 
@@ -22,8 +20,14 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 edit: Thanks for all the feedback. I'm off for now.
 
-Q: What do you think?
-A: >I encourage everyone to understand how browsers and the web work and what steps you can take to protect your own privacy. Notably, browsers allow you to disable third-party cookies, and you can customize your browser with a variety of privacy-related extensions. This can't be emphasized enough. This should be a required class in high school (or maybe even elementary school, IMO). I've met too many people who think they're being tracked illegally when in reality they just don't understand how their browsers work. Thanks for being proactive in documenting changes to the privacy policy and keeping your users informed. Other tech companies could take a hint from you.
+<u/twenafeesh>: >I encourage everyone to understand how browsers and the web work and what steps you can take to protect your own privacy. Notably, browsers allow you to disable third-party cookies, and you can customize your browser with a variety of privacy-related extensions.
 
-Q: >I encourage everyone to understand how browsers and the web work and what steps you can take to protect your own privacy. Notably, browsers allow you to disable third-party cookies, and you can customize your browser with a variety of privacy-related extensions. This can't be emphasized enough. This should be a required class in high school (or maybe even elementary school, IMO). I've met too many people who think they're being tracked illegally when in reality they just don't understand how their browsers work. Thanks for being proactive in documenting changes to the privacy policy and keeping your users informed. Other tech companies could take a hint from you.
-A: Right, we only see what's given to us. Personal responsibility is important in all of this. One of our responsibilities is to educate users on what control they actually have, which is quite a bit.
+This can't be emphasized enough. This should be a required class in high school (or maybe even elementary school, IMO). 
+
+I've met too many people who think they're being tracked illegally when in reality they just don't understand how their browsers work. 
+
+Thanks for being proactive in documenting changes to the privacy policy and keeping your users informed. Other tech companies could take a hint from you. 
+
+<u/spez>: Right, we only see what's given to us. Personal responsibility is important in all of this.
+
+One of our responsibilities is to educate users on what control they actually have, which is quite a bit.

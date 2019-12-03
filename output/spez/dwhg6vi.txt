@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: And Now a Word from Reddit’s Engineers…
 
-Title: And Now a Word from Reddit’s Engineers…
-
-Body: Hi all,
+Hi all,
 
 As you may have heard, we’ve been hard at work redesigning our desktop for the past year. In our previous four redesign blog posts, [u/Amg137](https://www.reddit.com/user/Amg137) and [u/hueylewisandthesnoos](https://www.reddit.com/user/hueylewisandthesnoos) talked about[ why we're redesigning](https://www.reddit.com/r/blog/comments/7ul5k9/hey_were_here_to_talk_about_that_desktop_redesign),[ moderation in the redesign](https://www.reddit.com/r/announcements/comments/7xjt6g/because_its_valentines_day_heres_a_longwinded),[ our approach to design](https://www.reddit.com/r/announcements/comments/817lmi/til_reddit_has_a_design_team), and[ Reddit’s evolution](https://www.reddit.com/r/announcements/comments/84nyj6/a_shortish_history_of_new_features_on_reddit). Today, Reddit’s Engineering team invites you “under the hood” look at how we’re giving a long overdue update to Reddit’s core stack.
 
@@ -50,5 +48,4 @@ Over the past few weeks, we have given all moderators and beta users access to t
 
 PS: [We’re still hiring.](https://about.reddit.com/engineering/) :\)
 
-Q: What do you think?
-A: If anyone's interested, I found a hard drive in my garage with the [original Reddit Lisp code](https://github.com/reddit/reddit1.0/) from 2005. Been looking for it for years. Enjoy.
+<u/spez>: If anyone's interested, I found a hard drive in my garage with the [original Reddit Lisp code](https://github.com/reddit/reddit1.0/) from 2005. Been looking for it for years. Enjoy.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Time for my quarterly inquisition. Reddit CEO here, AMA.
 
-Title: Time for my quarterly inquisition. Reddit CEO here, AMA.
-
-Body: Hello Everyone!
+Hello Everyone!
 
 It’s been a few months since I last did one of these, so I thought I’d check in and share a few updates.
 
@@ -28,8 +26,12 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-Q: What do you think?
-A: [deleted]
+<u/[deleted]>: [deleted]
 
-Q: [deleted]
-A: Many of these links are probably in violation of our policy, but most are unreported, which is what alerts the mods and our team, especially when there are few votes. We'll consider them reported now. Generally the mods of the_donald have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of the_donald that refuse to work with us. Finally, the_donald is a small part of a large problem we face in this country—that a large part of the population feels unheard, and the last thing we're going to do is take their voice away.
+<u/spez>: Many of these links are probably in violation of our policy, but most are unreported, which is what alerts the mods and our team, especially when there are few votes. We'll consider them reported now.
+
+Generally the mods of the_donald have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of the_donald that refuse to work with us.
+
+Finally, the_donald is a small part of a large problem we face in this country—that a large part of the population feels unheard, and the last thing we're going to do is take their voice away.
+
+

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,14 +12,13 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: When will m.reddit.com be not horrible and useless, and what was the impetus to change it from not horrible and useless to horrible and useless originally?
+<u/combuchan>: When will m.reddit.com be not horrible and useless, and what was the impetus to change it from not horrible and useless to horrible and useless originally?
 
-Q: When will m.reddit.com be not horrible and useless, and what was the impetus to change it from not horrible and useless to horrible and useless originally?
-A: > When will m.reddit.com be not horrible and useless 5pm pst. Mark my words.
+<u/spez>: > When will m.reddit.com be not horrible and useless
 
-Q: > When will m.reddit.com be not horrible and useless 5pm pst. Mark my words.
-A: Hi Spez. I made this account on the dawn of the last retarded thing you said. I'm sure you've said lots of dumb shit between now and then but hey, that's not the issue. Literally forcing my phone into m.reddit.com mode is goddam cancer. Is there any way to opt out of it or am I fucked for good?
+5pm pst. Mark my words.
 
-Q: Hi Spez. I made this account on the dawn of the last retarded thing you said. I'm sure you've said lots of dumb shit between now and then but hey, that's not the issue. Literally forcing my phone into m.reddit.com mode is goddam cancer. Is there any way to opt out of it or am I fucked for good?
-A: https://i.redd.it/a7xmc3frn52x.gif
+<u/popcorneater20948309>: Hi Spez.
+I made this account on the dawn of the last retarded thing you said. I'm sure you've said lots of dumb shit between now and then but hey, that's not the issue. Literally forcing my phone into m.reddit.com mode is goddam cancer. Is there any way to opt out of it or am I fucked for good?
+
+<u/spez>: https://i.redd.it/a7xmc3frn52x.gif

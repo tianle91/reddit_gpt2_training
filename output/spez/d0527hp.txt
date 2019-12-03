@@ -1,8 +1,6 @@
-In subreddit: AlienBlue
+<r/AlienBlue>: A New Chapter: Reddit for iOS
 
-Title: A New Chapter: Reddit for iOS
-
-Body: Hey everyone! I'm the product manager for our mobile apps here at Reddit. 
+Hey everyone! I'm the product manager for our mobile apps here at Reddit. 
 
 We wanted to give you an update on the state of Reddit for iOS, which some of you may have heard about in u/spez’s [most recent AMA](https://www.reddit.com/r/announcements/comments/434h6c/reddit_in_2016/). What started last year as a plan to update Alien Blue to make it bigger and better - grew into a much bigger project. We now have a beautiful, functional new app for iOS that we’re confident will be the best way to access Reddit content on your phone. 
 
@@ -22,11 +20,10 @@ Thanks again for all your support. We know our Alien Blue users are some of our 
 I’ll be hanging out here in the comments to answer questions! 
 
 
-Q: What do you think?
-A: Casual reddits and night mode are must haves. Gallery would be nice. But really zero chance I use the new version if it doesn't support casual reddits and night mode.
+<u/ShyHero>: Casual reddits and night mode are must haves. Gallery would be nice. 
 
-Q: Casual reddits and night mode are must haves. Gallery would be nice. But really zero chance I use the new version if it doesn't support casual reddits and night mode.
-A: This. Night mode is an awesome feature!
+But really zero chance I use the new version if it doesn't support casual reddits and night mode. 
 
-Q: This. Night mode is an awesome feature!
-A: I didn't know about night mode in AB until a few months ago, and I now find it indispensable. Worry not.
+<u/carcollectornj>: This. Night mode is an awesome feature!
+
+<u/spez>: I didn't know about night mode in AB until a few months ago, and I now find it indispensable. Worry not.

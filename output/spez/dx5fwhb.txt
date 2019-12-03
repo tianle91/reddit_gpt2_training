@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,10 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: It's actually really honest and open of administration to be posting such detailed information about state propoganda actors. The very interesting part is how only 7% had more than 1,000 karma, a relatively trivial amount for a real person to access. Of course, the actions of those accounts are the same kind of low grade pot stirring expected, but with large enough, and echoy enough pots, stirring them only makes the nutty clumps hold together more.
+<u/LeVentNoir>: It's actually really honest and open of administration to be posting such detailed information about state propoganda actors.
 
-Q: It's actually really honest and open of administration to be posting such detailed information about state propoganda actors. The very interesting part is how only 7% had more than 1,000 karma, a relatively trivial amount for a real person to access. Of course, the actions of those accounts are the same kind of low grade pot stirring expected, but with large enough, and echoy enough pots, stirring them only makes the nutty clumps hold together more.
-A: The funny thing is these accounts had the same trouble onboarding into Reddit as regular new users do...
+The very interesting part is how only 7% had more than 1,000 karma, a relatively trivial amount for a real person to access.
+
+Of course, the actions of those accounts are the same kind of low grade pot stirring expected, but with large enough, and echoy enough pots, stirring them only makes the nutty clumps hold together more.
+
+<u/spez>: The funny thing is these accounts had the same trouble onboarding into Reddit as regular new users do...

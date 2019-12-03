@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,8 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: why do you have all our secrets? - what did you mean by that statement?
+<u/ReallyAmused>: why do you have all our secrets? - what did you mean by that statement? 
 
-Q: why do you have all our secrets? - what did you mean by that statement?
-A: The sentiment I was trying to convey is that people share many different facets of their personalities on Reddit, which doesn't happen many other places online or even in real life sometimes. As it happens, the quote you're referring to was tongue-in-cheek and needlessly douchey. My bad.
+<u/spez>: The sentiment I was trying to convey is that people share many different facets of their personalities on Reddit, which doesn't happen many other places online or even in real life sometimes. 
+
+As it happens, the quote you're referring to was tongue-in-cheek and needlessly douchey. My bad.

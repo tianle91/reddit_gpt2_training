@@ -1,8 +1,7 @@
-In subreddit: TheoryOfReddit
+<r/TheoryOfReddit>: If you created a Reddit-type website, would you implement shadow bans?
 
-Title: If you created a Reddit-type website, would you implement shadow bans?
+[deleted]
 
-Body: [deleted]
+<u/spez>: If we knew everything everything we know today about spam, enforcement, and transparency, we probably wouldn’t build shadow-banning. It’s use is really limited to spam, and I think the downsides (false positives, lack of transparency) outweigh the benefits. 
 
-Q: What do you think?
-A: If we knew everything everything we know today about spam, enforcement, and transparency, we probably wouldn’t build shadow-banning. It’s use is really limited to spam, and I think the downsides (false positives, lack of transparency) outweigh the benefits. That said, it was useful in the early days when spam was more of an arms race, we didn’t have moderators or reporting, and our content policy was limited to spam.
+That said, it was useful in the early days when spam was more of an arms race, we didn’t have moderators or reporting, and our content policy was limited to spam. 

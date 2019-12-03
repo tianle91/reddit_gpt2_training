@@ -1,8 +1,6 @@
-In subreddit: hockey
+<r/hockey>: /r/hockey and the Redesign
 
-Title: /r/hockey and the Redesign
-
-Body: tl;dr, in case you missed it, /r/nfl scrapped their CSS in protest of the redesign rollout and while we understand and agree with their decision, it doesn't make sense for /r/hockey to participate during the playoffs. We do however share the same concerns with all of the major sports subreddits about this redesign.
+tl;dr, in case you missed it, /r/nfl scrapped their CSS in protest of the redesign rollout and while we understand and agree with their decision, it doesn't make sense for /r/hockey to participate during the playoffs. We do however share the same concerns with all of the major sports subreddits about this redesign.
 
 [The /r/nfl mods made a better post than we could possibly hope, so if you have the time, please read it](https://www.reddit.com/r/nfl/comments/8glmp1/rnfl_the_redesign_and_the_future_of_reddit/?st=jgqy74wp&sh=692fedad). 
 
@@ -70,8 +68,6 @@ P.S. Links to other sports subs posts regarding this issue:
 
  
 
-Q: What do you think?
-A: /u/spez can you explain why is Reddit ruining all of the fun parts of using Reddit?
+<u/Crossfiyah>: /u/spez can you explain why is Reddit ruining all of the fun parts of using Reddit?
 
-Q: /u/spez can you explain why is Reddit ruining all of the fun parts of using Reddit?
-A: I just want you to have the same experience I'm having.
+<u/spez>: I just want you to have the same experience I'm having.

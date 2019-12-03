@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Reddit’s 2017 transparency report and suspect account findings
 
-Title: Reddit’s 2017 transparency report and suspect account findings
-
-Body: Hi all,
+Hi all,
 
 Each year around this time, we share Reddit’s latest transparency report and a few highlights from our Legal team’s efforts to protect user privacy. This year, our annual post happens to coincide with one of the biggest national discussions of privacy online and the integrity of the platforms we use, so I wanted to share a more in\-depth update in an effort to be as transparent with you all as possible.
 
@@ -34,8 +32,19 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 update: I'm off for now. Thanks for the questions!
 
-Q: What do you think?
-A: > efforts to protect user privacy. Yeah, you don't give the slightest shit about user privacy - the vastly increased tracking on the site shows that. Can't even right-click to copy a link (to share or to open in a browser that renders it differently), or to bookmark it or whatever, without it being tracked now (and showing up in the recently-viewed liinks list), as the most recent example.
+<u/JDGumby>: > efforts to protect user privacy.
 
-Q: > efforts to protect user privacy. Yeah, you don't give the slightest shit about user privacy - the vastly increased tracking on the site shows that. Can't even right-click to copy a link (to share or to open in a browser that renders it differently), or to bookmark it or whatever, without it being tracked now (and showing up in the recently-viewed liinks list), as the most recent example.
-A: On the contrary, user privacy has been paramount since our founding. From the beginning and through to this day we've not collected PII (Personally Identifying Information). We don't know your name, address, age, race, gender, and we don't want to know, and we'll never force you to share it to use Reddit. We only store the IP addresses you use to access Reddit for 100 days. We do this for a couple of reasons: * We don't want the burden of storing this information * We don't want to risk compromising it * What makes Reddit special is that people can be themselves. We believe disconnecting from your real world identity makes this possible. * We want to minimize the surface area against which we can be subpoenaed We haven't made any significant changes to our tracking in the last year beyond updating our endpoints to avoid site-breaking changes by ad-blockers (though not to block ad-blockers themselves). We do track your clicks. We do this so we can better rank which subreddits you see in your home feed. You can opt out at https://www.reddit.com/prefs/. Furthermore, you can opt out of other advertising related tracking at https://www.reddit.com/personalization/.
+Yeah, you don't give the slightest shit about user privacy - the vastly increased tracking on the site shows that.  Can't even right-click to copy a link (to share or to open in a browser that renders it differently), or to bookmark it or whatever, without it being tracked now (and showing up in the recently-viewed liinks list), as the most recent example.
+
+<u/spez>: On the contrary, user privacy has been paramount since our founding. From the beginning and through to this day we've not collected PII (Personally Identifying Information). We don't know your name, address, age, race, gender, and we don't want to know, and we'll never force you to share it to use Reddit. We only store the IP addresses you use to access Reddit for 100 days.
+
+We do this for a couple of reasons:
+
+* We don't want the burden of storing this information
+* We don't want to risk compromising it
+* What makes Reddit special is that people can be themselves. We believe disconnecting from your real world identity makes this possible.
+* We want to minimize the surface area against which we can be subpoenaed
+
+We haven't made any significant changes to our tracking in the last year beyond updating our endpoints to avoid site-breaking changes by ad-blockers (though not to block ad-blockers themselves).
+
+We do track your clicks. We do this so we can better rank which subreddits you see in your home feed. You can opt out at https://www.reddit.com/prefs/. Furthermore, you can opt out of other advertising related tracking at https://www.reddit.com/personalization/.

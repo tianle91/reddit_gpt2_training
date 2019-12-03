@@ -1,8 +1,6 @@
-In subreddit: cscareerquestions
+<r/cscareerquestions>: Upcoming AMA Announcement - Reddit co-founder Steve Huffman (aka u/Spez) April 24th
 
-Title: Upcoming AMA Announcement - Reddit co-founder Steve Huffman (aka u/Spez) April 24th
-
-Body: We hit 100K readers this week and I'd hoped we could do something big to commemorate the occasion. After a little [back and forth](https://twitter.com/alexisohanian/status/853038610869866497) with u/kn0thing (co-founder Alexis Ohanian) on Twitter and some arrangements with Reddit's PR team, we can now announce that Reddit co-founder Steve Huffman (u/Spez) will be doing an AMA with us on Monday April 24th at 4PM EDT / 1PM PDT. And he's already [verified](http://imgur.com/JNyzBwJ) with a bit of current events humor.
+We hit 100K readers this week and I'd hoped we could do something big to commemorate the occasion. After a little [back and forth](https://twitter.com/alexisohanian/status/853038610869866497) with u/kn0thing (co-founder Alexis Ohanian) on Twitter and some arrangements with Reddit's PR team, we can now announce that Reddit co-founder Steve Huffman (u/Spez) will be doing an AMA with us on Monday April 24th at 4PM EDT / 1PM PDT. And he's already [verified](http://imgur.com/JNyzBwJ) with a bit of current events humor.
 
 Internships for everybody?? Please keep it classy.
 
@@ -13,8 +11,8 @@ Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddi
 https://about.reddit.com/careers/  
 
 
-Q: What do you think?
-A: You do say reddit is hiring, but we hear that all the time. Companies that say this usually mean that they're passively hiring the same way an engineer will say "I'm keeping my eyes out for opportunities" even though some may not go anywhere at all. Is Reddit passively hiring or actively hiring? By active, I mean going through an expansion and have to fill-in those positions by a certain deadline.
+<u/darexinfinity>: You do say reddit is hiring, but we hear that all the time. Companies that say this usually mean that they're passively hiring the same way an engineer will say "I'm keeping my eyes out for opportunities" even though some may not go anywhere at all. 
 
-Q: You do say reddit is hiring, but we hear that all the time. Companies that say this usually mean that they're passively hiring the same way an engineer will say "I'm keeping my eyes out for opportunities" even though some may not go anywhere at all. Is Reddit passively hiring or actively hiring? By active, I mean going through an expansion and have to fill-in those positions by a certain deadline.
-A: In advance of Monday, yes, we are actively [hiring!](https://www.reddit.com/jobs) Pretty much any sort of engineer. Yes, in San Francisco.
+Is Reddit passively hiring or actively hiring? By active, I mean going through an expansion and have to fill-in those positions by a certain deadline.
+
+<u/spez>: In advance of Monday, yes, we are actively [hiring!](https://www.reddit.com/jobs) Pretty much any sort of engineer. Yes, in San Francisco. 

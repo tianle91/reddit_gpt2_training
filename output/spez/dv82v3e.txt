@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
 
-Title: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
-
-Body: In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
+In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
 
 Given the recent news, we’d like to share some of what we’ve learned:
 
@@ -18,8 +16,6 @@ I wish there was a solution as simple as banning all propaganda, but it’s not 
 
 Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve.
 
-Q: What do you think?
-A: Why aren't you doing more to stop reddit from being used as a platform to advocate violence? People are being radicalized and then acting on that radicalization. Just ban the subs and the users that permit such tactics. Don't let the users or the mods of the subs with those users get away with it.
+<u/lawvas>: Why aren't you doing more to stop reddit from being used as a platform to advocate violence?  People are being radicalized and then acting on that radicalization.  Just ban the subs and the users that permit such tactics.  Don't let the users or the mods of the subs with those users get away with it.  
 
-Q: Why aren't you doing more to stop reddit from being used as a platform to advocate violence? People are being radicalized and then acting on that radicalization. Just ban the subs and the users that permit such tactics. Don't let the users or the mods of the subs with those users get away with it.
-A: A few months ago, we expanded our [policy around violent speech](https://www.reddit.com/r/modnews/comments/78p7bz/update_on_sitewide_rules_regarding_violent_content/). Since then, we have removed dozens of communities and actioned thousands of users. When you see violent content, please report it to us.
+<u/spez>: A few months ago, we expanded our [policy around violent speech](https://www.reddit.com/r/modnews/comments/78p7bz/update_on_sitewide_rules_regarding_violent_content/). Since then, we have removed dozens of communities and actioned thousands of users. When you see violent content, please report it to us.

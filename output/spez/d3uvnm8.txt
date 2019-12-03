@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: I don't know much about you. What's the one word / sentence that sums you up best?
+<u/groglisterine>: I don't know much about you. What's the one word / sentence that sums you up best?
 
-Q: I don't know much about you. What's the one word / sentence that sums you up best?
-A: Troll.
+<u/spez>: Troll.

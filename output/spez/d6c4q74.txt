@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
 
-Title: Click to hear about some of the things that have been keeping us busy. #2 will blow your mind.
-
-Body: I would like to share some of the things we have been up to since we last chatted.
+I would like to share some of the things we have been up to since we last chatted.
 
 On the product side, we’ve been busy. Both our [iPhone](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) apps have had [multiple releases](https://www.reddit.com/r/redditmobile), and we’re proud at how well they are progressing. Mobile web (m.reddit.com) is undergoing a major overhaul that we’re testing internally, and hope to start showing to users in the next couple weeks. We have been running many experiments on desktop web to increase user engagement, particularly for users who are new to Reddit. You can see what experiments we are running on this [live thread](https://www.reddit.com/live/x3ckzbsj6myw/), and notable changes to the site are listed in r/changelog.
 
@@ -20,8 +18,7 @@ e: grammar
 
 u: Thank you! Heading out for now. Will check back later.
 
-Q: What do you think?
-A: hey /u/Spez! I'm a mod for /r/Watches, and a decent chunk of our mod team uses reddit on mobile, specifically iPhones. What is the time table for moderator tools (even just a measly remove/approve function!) coming to the mobile app? It would be *phenomenal* to get other things, such as a separate button for mod mail, but I imagine that is not coming any time soon.
+<u/LogicWavelength>: hey /u/Spez!  I'm a mod for /r/Watches, and a decent chunk of our mod team uses reddit on mobile, specifically iPhones.  What is the time table for moderator tools (even just a measly remove/approve function!) coming to the mobile app?  It would be *phenomenal* to get other things, such as a separate button for mod mail, but I imagine that is not coming any time soon.
 
-Q: hey /u/Spez! I'm a mod for /r/Watches, and a decent chunk of our mod team uses reddit on mobile, specifically iPhones. What is the time table for moderator tools (even just a measly remove/approve function!) coming to the mobile app? It would be *phenomenal* to get other things, such as a separate button for mod mail, but I imagine that is not coming any time soon.
-A: The new mod mail should work well on mobile. The rest of the tools will follow.
+
+<u/spez>: The new mod mail should work well on mobile. The rest of the tools will follow.

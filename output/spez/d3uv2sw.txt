@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: How often do you ban people while on the toilet?
+<u/Thedutchjelle>: How often do you ban people while on the toilet?
 
-Q: How often do you ban people while on the toilet?
-A: Never. But how often do I do AMAs while on the toilet? Now that's a question worth asking.
+<u/spez>: Never. But how often do I do AMAs while on the toilet? Now that's a question worth asking.

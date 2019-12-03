@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: AMA about my darkest secrets
 
-Title: AMA about my darkest secrets
-
-Body: Hi All,
+Hi All,
 
 We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
 
@@ -14,8 +12,6 @@ Steve
 
 edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Q: What do you think?
-A: When do you expect more mod tools to become available?
+<u/TonyQuark>: When do you expect more mod tools to become available?
 
-Q: When do you expect more mod tools to become available?
-A: The big one is new moderator mail. We've got a whole product team on it. The short answer is, as soon as it's ready–as soon as possible.
+<u/spez>: The big one is new moderator mail. We've got a whole product team on it. The short answer is, as soon as it's ready–as soon as possible.

@@ -1,8 +1,5 @@
-In subreddit: CollegeBasketball
+<r/CollegeBasketball>: [Post Game Thread] #1 Virginia defeats #3 Texas Tech 85-77 in OT
 
-Title: [Post Game Thread] #1 Virginia defeats #3 Texas Tech 85-77 in OT
+[Box score](http://www.espn.com/mens-college-basketball/boxscore?gameId=401123374)
 
-Body: [Box score](http://www.espn.com/mens-college-basketball/boxscore?gameId=401123374)
-
-Q: What do you think?
-A: Thank god now we can talk about last year.
+<u/spez>: Thank god now we can talk about last year.

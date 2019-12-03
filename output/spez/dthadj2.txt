@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Not my first, could be my last, State of the Snoo-nion
 
-Title: Not my first, could be my last, State of the Snoo-nion
-
-Body: Hello again,
+Hello again,
 
 Now that it’s far enough into the year that we’re all [writing the date correctly](https://www.reddit.com/r/pics/comments/7npj23/first_day_back_in_this_office_this_year_i_never/), I thought I’d give a quick recap of 2017 and share some of what we’re working on in 2018.
 
@@ -30,14 +28,14 @@ Steve and the Reddit team
 
 update: I'm off for now. As always, thanks for the feedback and questions.
 
-Q: What do you think?
-A: Will mods ever be getting tools to help combat the surge of sockpuppet accounts that appear on the site daily? Also what happened to antibrigading tools that were talked about a long time ago?
+<u/-eDgAR->: Will mods ever be getting tools to help combat the surge of sockpuppet accounts that appear on the site daily? Also what happened to antibrigading tools that were talked about a long time ago?
 
-Q: Will mods ever be getting tools to help combat the surge of sockpuppet accounts that appear on the site daily? Also what happened to antibrigading tools that were talked about a long time ago?
-A: Moderators shouldn't have to deal with sockpuppets and brigading, but we do take abuse of Reddit seriously, and spend a fair amount of time working on it. Our VP Product gave a [long answer](https://www.reddit.com/r/TheoryOfReddit/comments/7sn6b0/regarding_crossposts/dt6bhm9/?context=0) on this topic earlier this week. The tl;dr is we're adopting more sophisticated approaches to brigading and manipulation.
+<u/spez>: Moderators shouldn't have to deal with sockpuppets and brigading, but we do take abuse of Reddit seriously, and spend a fair amount of time working on it. Our VP Product gave a [long answer](https://www.reddit.com/r/TheoryOfReddit/comments/7sn6b0/regarding_crossposts/dt6bhm9/?context=0) on this topic earlier this week.
 
-Q: Moderators shouldn't have to deal with sockpuppets and brigading, but we do take abuse of Reddit seriously, and spend a fair amount of time working on it. Our VP Product gave a [long answer](https://www.reddit.com/r/TheoryOfReddit/comments/7sn6b0/regarding_crossposts/dt6bhm9/?context=0) on this topic earlier this week. The tl;dr is we're adopting more sophisticated approaches to brigading and manipulation.
-A: But what if mods **want** to combat the surge of sockpuppet accounts? Shouldn't they have the means?
+The tl;dr is we're adopting more sophisticated approaches to brigading and manipulation.
 
-Q: But what if mods **want** to combat the surge of sockpuppet accounts? Shouldn't they have the means?
-A: We'd really like to, tbh, but there are major privacy concerns with exposing that sort of information.
+
+
+<u/AnArcher>: But what if mods **want** to combat the surge of sockpuppet accounts? Shouldn't they have the means?
+
+<u/spez>: We'd really like to, tbh, but there are major privacy concerns with exposing that sort of information.

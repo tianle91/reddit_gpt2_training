@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,8 +25,6 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: I've seen a rise in doxxing and witch hunting on this site. Any plans to address that?
+<u/maybesaydie>: I've seen a  rise in doxxing and witch hunting on this site. Any plans to address that?
 
-Q: I've seen a rise in doxxing and witch hunting on this site. Any plans to address that?
-A: Please report or send to contact@reddit.com
+<u/spez>: Please report or send to contact@reddit.com

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,8 +25,6 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: How can reddit avoid the same fate as Digg after their desktop site update?
+<u/SpaceMasters>: How can reddit avoid the same fate as Digg after their desktop site update?
 
-Q: How can reddit avoid the same fate as Digg after their desktop site update?
-A: By testing carefully and being considerate to our users. The biggest mistake Digg made was they couldn't undo the change, or didn't want to, or just didn't.
+<u/spez>: By testing carefully and being considerate to our users. The biggest mistake Digg made was they couldn't undo the change, or didn't want to, or just didn't. 

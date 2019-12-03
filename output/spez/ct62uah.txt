@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Let's talk content. AMA.
 
-Title: Let's talk content. AMA.
-
-Body: We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
+We started Reddit to be—as we said back then with our tongues in our cheeks—“The front page of the Internet.” Reddit was to be a source of enough news, entertainment, and random distractions to fill an entire day of pretending to work, every day. Occasionally, someone would start spewing hate, and I would ban them. The community rarely questioned me. When they did, they accepted my reasoning: “because I don’t want that content on our site.”
 
 As we grew, I became increasingly uncomfortable projecting my worldview on others. More practically, I didn’t have time to pass judgement on everything, so I decided to judge nothing. 
 
@@ -41,8 +39,8 @@ edit: attempted to clarify harassment based on our existing policy
 
 update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-Q: What do you think?
-A: Hi /u/spez. Sorry I'm here late. I'm happy you're back (whatever my feelings about how the transition went down) and that you're taking strong action. Events and circumstances change, and each successive leader makes different decisions. It's a tough job. Anyhow... a question: anything I can do to help?
+<u/yishan>: Hi /u/spez.  Sorry I'm here late.  I'm happy you're back (whatever my feelings about how the transition went down) and that you're taking strong action.  Events and circumstances change, and each successive leader makes different decisions.  It's a tough job.
 
-Q: Hi /u/spez. Sorry I'm here late. I'm happy you're back (whatever my feelings about how the transition went down) and that you're taking strong action. Events and circumstances change, and each successive leader makes different decisions. It's a tough job. Anyhow... a question: anything I can do to help?
-A: This morning I thought we might be in the market for a new CEO.
+Anyhow... a question: anything I can do to help?
+
+<u/spez>: This morning I thought we might be in the market for a new CEO.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
 
-Title: You have thousands of questions, I have dozens of answers! Reddit CEO here, AMA.
-
-Body: Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
+Update: I've got to take off for now. I hear the anger today, and I get it. I hope you take that anger straight to the polls next month. You may not be able to vote me out, but you can vote everyone else out.
 
 —
 
@@ -30,8 +28,10 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 —spez
 
-Q: What do you think?
-A: Do you take to heart the thousands of posts outlining why people hate new Reddit?
+<u/drumber42>: Do you take to heart the thousands of posts outlining why people hate new Reddit?
 
-Q: Do you take to heart the thousands of posts outlining why people hate new Reddit?
-A: We do, in fact. We wrote a [lengthy post](https://www.reddit.com/r/beta/comments/9iu1ax/we_conducted_an_opt_out_survey_on_new_reddit_here/) about how we collect and respond to feedback just last week. tl;dr: about 70% of user are on the redesign, and the top two complaints are "change aversion" and "performance". Long story short, we hear it, we see it, and we've been working hard to make the redesign great. The top priority for us right is performance, and we've made quite a bit of improvement over the last month.
+<u/spez>: We do, in fact. We wrote a [lengthy post](https://www.reddit.com/r/beta/comments/9iu1ax/we_conducted_an_opt_out_survey_on_new_reddit_here/) about how we collect and respond to feedback just last week.
+
+tl;dr: about 70% of user are on the redesign, and the top two complaints are "change aversion" and "performance".
+
+Long story short, we hear it, we see it, and we've been working hard to make the redesign great. The top priority for us right is performance, and we've made quite a bit of improvement over the last month.

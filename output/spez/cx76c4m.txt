@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: We are updating our Privacy Policy (effective Jan 1, 2016)
 
-Title: We are updating our Privacy Policy (effective Jan 1, 2016)
-
-Body: In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
+In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
 
 Keeping control in your hands is paramount to us, and this is our first consideration any time we change our privacy policy. Our overarching principle continues to be to request as little personally identifiable information as possible. To the extent that we store such information, we do not share it generally. Where there are exceptions to this, notably when you have given us explicit consent to do so, or in response to legal requests, we will spell them out clearly.
 
@@ -22,8 +20,26 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 edit: Thanks for all the feedback. I'm off for now.
 
-Q: What do you think?
-A: A quick glance **New policy** > How We Use Information About You : **Personalize the Services and provide advertisements**, content and features that match user profiles or interests. > We will not share, sell, or give away any of our users’ personal information to third parties, unless one of the following circumstances applies: Except as it relates to advertisers and our ad partners, **we may share information with vendors, consultants, and other service providers** who need access to such information to carry out work for us **Old policy** > While advertisers may target their ads to the topic of a given subreddit or based on your IP address, we do not sell or otherwise give access to any information collected about our users to any third party. --- So it looks like you are going to be profiling users in order to advertise to them. The old system had advertising based on the profile of the subreddit and not the users. It also looks like you are sharing/selling information with your advertisers. Sounds like the changes to the privacy policy is to allow the creepy annoying advertising. The type that makes adblocking popular.
+<u/eberkneezer>: A quick glance
 
-Q: A quick glance **New policy** > How We Use Information About You : **Personalize the Services and provide advertisements**, content and features that match user profiles or interests. > We will not share, sell, or give away any of our users’ personal information to third parties, unless one of the following circumstances applies: Except as it relates to advertisers and our ad partners, **we may share information with vendors, consultants, and other service providers** who need access to such information to carry out work for us **Old policy** > While advertisers may target their ads to the topic of a given subreddit or based on your IP address, we do not sell or otherwise give access to any information collected about our users to any third party. --- So it looks like you are going to be profiling users in order to advertise to them. The old system had advertising based on the profile of the subreddit and not the users. It also looks like you are sharing/selling information with your advertisers. Sounds like the changes to the privacy policy is to allow the creepy annoying advertising. The type that makes adblocking popular.
-A: We're still not selling or giving access to individual user data. That is important to us, and we state in the privacy we won't do this. ("This means that Reddit does not share your individual account browsing habits with advertisers.") We would like to allow advertisers to target on more than just communities, however. For example, targeting based on keywords will be helpful–there is a lot gaming content on Reddit outside of communities dedicate specifically to gaming.
+**New policy**
+
+> How We Use Information About You :    **Personalize the Services and provide advertisements**, content and features that match user profiles or interests.
+
+
+> We will not share, sell, or give away any of our users’ personal information to third parties, unless one of the following circumstances applies:  Except as it relates to advertisers and our ad partners, **we may share information with vendors, consultants, and other service providers** who need access to such information to carry out work for us
+
+
+**Old policy**
+
+> While advertisers may target their ads to the topic of a given subreddit or based on your IP address, we do not sell or otherwise give access to any information collected about our users to any third party.
+
+---
+
+So it looks like you are going to be profiling users in order to advertise to them.  The old system had advertising based on the profile of the subreddit and not the users.  It also looks like you are sharing/selling  information with your advertisers.
+
+Sounds like the changes to the privacy policy is to allow the creepy annoying advertising.  The type that makes adblocking popular.
+
+<u/spez>: We're still not selling or giving access to individual user data. That is important to us, and we state in the privacy we won't do this. ("This means that Reddit does not share your individual account browsing habits with advertisers.")
+
+We would like to allow advertisers to target on more than just communities, however. For example, targeting based on keywords will be helpful–there is a lot gaming content on Reddit outside of communities dedicate specifically to gaming.

@@ -1,8 +1,6 @@
-In subreddit: announcements
+<r/announcements>: Out with 2016, in with 2017
 
-Title: Out with 2016, in with 2017
-
-Body: Hi All,
+Hi All,
 
 I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
 
@@ -27,8 +25,7 @@ Steve and the Reddit team
 update: I'm off for now. Will check back in a couple hours. Thanks!
 
 
-Q: What do you think?
-A: Could you share the stats on image hosting? I'd be really interested to see how Reddits own platform has taken over imgur in a relatively short time frame. Keep up the great work!
+<u/Sambo13>: Could you share the stats on image hosting? I'd be really interested to see how Reddits own platform has taken over imgur in a relatively short time frame.
+Keep up the great work!
 
-Q: Could you share the stats on image hosting? I'd be really interested to see how Reddits own platform has taken over imgur in a relatively short time frame. Keep up the great work!
-A: More than 50% of the uploads are to us now. This is encouraging because we didn't really promote the feature, and the flow could be a lot better (and it will get a lot better).
+<u/spez>: More than 50% of the uploads are to us now. This is encouraging because we didn't really promote the feature, and the flow could be a lot better (and it will get a lot better).
