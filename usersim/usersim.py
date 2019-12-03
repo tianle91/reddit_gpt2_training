@@ -11,19 +11,17 @@ class UserSim:
         if not os.path.isdir(cache_dir):
             os.makedirs(cache_dir)
         self.cache_dir = cache_dir
-        self.comments = {}
+        self.comments = []
 
     def get_comments_done(self):
-        # consider using file path as value instead if there's a lot of data
-        for fpath in os.listdir(self.cache_dir):
-            with open(os.path.join(self.cache_dir, fpath), 'r') as f:
-                self.comments[''.join(fpath.split('.txt'))] = f.read()
+        self.comments += [''.join(fpath.split('.txt')) for fpath in os.listdir(self.cache_dir)]
+        self.comments = list(set(self.comments))
 
     def get_comments_new(self, count=1000):
         i = 0
         for c in self.u.comments.new(limit=count):
             if c.id not in self.comments:
-                s = gen_qa_training(c, self.r)
+                s = gen_qa_training(c, self.u, self.r)
                 print ('[%.0f/%.0f] id: %s, time: %s, s: %s' % (
                     i,
                     count,
@@ -31,7 +29,7 @@ class UserSim:
                     datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
                     ' '.join(s.split())[-50:]
                 ))
-                self.comments[c.id] = s
+                self.comments.append(c.id)
                 fpath = os.path.join(self.cache_dir, '%s.txt' % c.id)
                 with open(fpath, 'w') as f:
                     f.write(s)
@@ -46,10 +44,14 @@ class UserSim:
             i += 1
 
     def get_training(self):
-        return '\n\n'.join(self.comments.values())
+        sl = []
+        for comment in self.comments:
+            with open(os.path.join(self.cache_dir, '%s.txt' % comment)) as f:
+                sl.append(f.read())
+        return '\n\n'.join(sl)
 
     def get_infer(self, url):
-        return gen_qa_infer(url, self.r)
+        return gen_qa_infer(url, self.u, self.r)
 
 
 if __name__ == '__main__':
