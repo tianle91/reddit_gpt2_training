@@ -1,8 +1,5 @@
-In subreddit: beta
+<r/beta>: There should be an option to change your username but...
 
-Title: There should be an option to change your username but...
+But there will be a limit so no will change for the username constantly, I think you should only be able to change your username 2 times. Or maybe even 1. I mean look at my username! Yes, I want to be a screenwriter but I don't want to run it around. (Which is my fault)
 
-Body: But there will be a limit so no will change for the username constantly, I think you should only be able to change your username 2 times. Or maybe even 1. I mean look at my username! Yes, I want to be a screenwriter but I don't want to run it around. (Which is my fault)
-
-Q: What do you think?
-A: I'd be supportive of once a year or so. We can technically do it now, but I think there are bunch of little edge cases we'd need to explore before making it real. It could be an interesting Premium/Gold feature to allow it more often.
+<u/spez>: I'd be supportive of once a year or so. We can technically do it now, but I think there are bunch of little edge cases we'd need to explore before making it real. It could be an interesting Premium/Gold feature to allow it more often.

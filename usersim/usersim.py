@@ -50,6 +50,12 @@ class UserSim:
                 sl.append(f.read())
         return '\n\n'.join(sl)
 
+    def dump_training(self, fout):
+        for comment in self.comments:
+            with open(os.path.join(self.cache_dir, '%s.txt' % comment)) as f:
+                fout.write(f.read() + '\n\n')
+        return True
+
     def get_infer(self, url):
         return gen_qa_infer(url, self.u, self.r)
 
@@ -60,7 +66,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='dump user comments')
     parser.add_argument('-user', default='spez', type=str)
-    parser.add_argument('-num-comments', default=10, type=int)
+    parser.add_argument('-num-comments', default=2, type=int)
     parser.add_argument('-output', default='/output', type=str)
     args = parser.parse_args()
 
@@ -68,7 +74,6 @@ if __name__ == '__main__':
     usim.get_comments_done()
     usim.get_comments_new(args.num_comments)
 
-    s = usim.get_training()
     fpath = os.path.join(args.output, '%s.txt' % args.user)
     with open(fpath, 'w+') as f:
-        f.write(s)
+        usim.dump_training(f)
