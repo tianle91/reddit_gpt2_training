@@ -1,6 +1,10 @@
 import os
 from datetime import datetime
-from data import gen_qa_training, gen_qa_infer
+from data import gen_qa_training, gen_qa_infer, STARTSTR, ENDSTR
+
+
+def pack_document(doc):
+    return ' '.join([STARTSTR, doc, ENDSTR])
 
 
 class UserSim:
@@ -44,16 +48,16 @@ class UserSim:
             i += 1
 
     def get_training(self):
-        sl = []
+        docl = []
         for comment in self.comments:
             with open(os.path.join(self.cache_dir, '%s.txt' % comment)) as f:
-                sl.append(f.read())
-        return '\n\n'.join(sl)
+                docl.append(pack_document(f.read()))
+        return ''.join(docl)
 
     def dump_training(self, fout):
         for comment in self.comments:
             with open(os.path.join(self.cache_dir, '%s.txt' % comment)) as f:
-                fout.write(f.read() + '\n\n')
+                fout.write(pack_document(f.read()))
         return True
 
     def get_infer(self, url):

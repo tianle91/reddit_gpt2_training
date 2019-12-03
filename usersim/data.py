@@ -41,7 +41,7 @@ def gen_qa_training(comment, redditor, reddit):
     for u, s in get_parent_comments(comment, reddit)[::-1]:
         sl.append(gen_comment_string(u, s))
     sl.append(gen_comment_string(redditor.name, comment.body))
-    return STARTSTR + ' '.join(sl) + ENDSTR
+    return ' '.join(sl)
 
 
 def gen_qa_infer(url, redditor, reddit):
