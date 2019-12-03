@@ -7,7 +7,10 @@ def get_parent_comments(comment, reddit):
     parent_comments = []
     while parent_id != comment.link_id:
         parent_comment = reddit.comment(id=parent_id[3:])
-        parent_comments.append((parent_comment.author.name, parent_comment.body))
+        parent_comments.append((
+            parent_comment.author.name if parent_comment.author is not None else '[deleted]',
+            parent_comment.body
+        ))
         parent_id = parent_comment.parent_id
     return parent_comments
 
