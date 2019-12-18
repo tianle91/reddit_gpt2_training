@@ -1,0 +1,29 @@
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
+
+Hi all,
+
+Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
+
+The purpose of the report is to share information about the requests Reddit receives to disclose user data or remove content from the site. We value your privacy and believe you have a right to know how data is being managed by Reddit and how it is shared (and not shared) with governmental and non-governmental parties.
+
+We’ve included a breakdown of requests from governmental entities worldwide and from private parties from within the United States. The most common types of requests are subpoenas, court orders, search warrants, and emergency requests. In 2018, Reddit received a total of 581 requests to produce user account information from both United States and foreign governmental entities, which represents a 151% increase from the year before. We scrutinize all requests and object when appropriate, and we didn’t disclose any information for 23% of the requests. We received 28 requests from foreign government authorities for the production of user account information and did not comply with any of those requests.
+
+This year, we expanded the report to included details on two additional types of content removals: those taken by us at Reddit, Inc., and those taken by subreddit moderators (including Automod actions). We remove content that is in violation of our site-wide policies, but subreddits often have additional rules specific to the [purpose, tone, and norms of their community](https://www.cc.gatech.edu/~sjhaver3/The-internets-hidden-rules-cscw2018.pdf). You can now see the breakdown of these two types of takedowns for a more holistic view of company and community actions.
+
+In other news, you may have heard that we closed an additional round of funding this week, which gives us more runway and will help us continue to improve our platform. What else does this mean for you? Not much. Our strategy and governance model remain the same. And—of course—we do not share specific user data with any investor, new or old.
+
+I’ll hang around for a while to answer your questions.
+
+–Steve
+
+&#x200B;
+
+edit: Thanks for the silver you cheap bastards.
+
+update: I'm out for now. Will check back later. <u/Inri137>: Will you ever modify or remove content to appease your new Chinese ~~overlords~~ investors? Can you commit to never doing so? <u/spez>: > Will you ever modify or remove content to appease your new Chinese investors?
+
+No
+
+> Can you commit to never doing so?
+
+Yes <u/[deleted]>: [deleted] <u/BigFish8>: Can't wait until your comment is changed by spez to "yes". <u/jdpatric>: As wrong as that would be on so very many levels, it would also be at least kinda funny. Maybe just ~~linethrough~~ the "no" and write yes beside it. <u/spez>: I thought it would be funny on r/the_donald, and that really backfired.

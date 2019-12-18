@@ -1,0 +1,18 @@
+<r/announcements>: Content Policy Update
+
+Today we are releasing an update to our [Content Policy](https://www.reddit.com/help/contentpolicy). Our goal was to consolidate the various rules and policies that have accumulated over the years into a single set of guidelines we can point to.
+
+Thank you to all of you who provided feedback throughout this process. Your thoughts and opinions were invaluable. This is not the last time our policies will change, of course. They will continue to evolve along with Reddit itself.
+
+Our policies are not changing dramatically from what we have had in the past. One new concept is Quarantining a community, which entails applying a set of restrictions to a community so its content will only be viewable to those who explicitly opt in. We will Quarantine communities whose content would be considered extremely offensive to the average redditor.
+
+Today, in addition to applying Quarantines, we are banning a handful of communities that exist solely to annoy other redditors, prevent us from improving Reddit, and generally make Reddit worse for everyone else. Our most important policy over the last ten years has been to allow just about anything so long as it does not prevent others from enjoying Reddit for what it is: the best place online to have truly authentic conversations.
+
+I believe these policies strike the right balance.
+
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/illegal_deagle>: Unfortunately it looks like SRS will continue to enjoy their harassment and downvote brigading. 
+
+
+Edit: Come on, guys. I make a comment about downvote brigading and y'all mass downvote /u/spez for actually responding when he didn't have to.  <u/spez>: For the the time being we believe that brigading is best fought with technology, which we are actively working on. <u/[deleted]>: >For the the time being we believe that brigading is best fought with technology, which we are actively working on.
+
+What does that mean exactly? <u/spez>: It means that we can see downvoting brigades in that data, and we are working on preventing them from working. We used to do this in the past, and it worked quite well. <u/[deleted]>: [deleted] <u/spez>: We take banning **very** seriously. I believe we can combat negative actions like theirs by improving our own technology without banning them, so that is what we'll try first.

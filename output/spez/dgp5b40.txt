@@ -1,0 +1,7 @@
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
+
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+
+Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators! <u/Shunrea>: Hey Steve,
+
+What is your advice for CS students just about to graduate?  <u/spez>: I often talk to students who are struggling with the decision of whether to go to a company, join a startup, or start their own thing. The truth is, there isn't a wrong answer. The only wrong answer is to do multiple things at once. No matter what you choose, work hard and keep your mind open to learning. There is plenty of time in life to do all these things. You can always change your mind.

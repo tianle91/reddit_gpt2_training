@@ -1,0 +1,11 @@
+<r/TheoryOfReddit>: Has r/popular caused the loss of actually discussion on Reddit for new users (and by extension, all of Reddit over time)?
+
+Edit - sorry about the typo, phone keyboard. Please don't spam r/titlegore in the comments
+
+Back when the site had a list of curated defaults, new users were exposed to a variety of quality topics and communities that delivered a great deal of quality discussion 
+
+Now with r/popular the user experience is almost entirely driven by comedy and memes since this content gets a quick reaction from the most users and thus the highest ranking on the site. Content with more substance doesn't reach users who aren't already subscribed to these subreddits.
+
+I don't have a good example off the top of my head but when a non comedy oriented sub his the front page, it's almost always just because somebody posted a meta meme that gets the most laughs.
+
+Is Reddit going to continue to let this happen? You can say that users have the option to go find subs to subscribe to, but I really think this is a loss of the quality discussion Reddit was once known for. <u/ggAlex>: You might be right. We noticed this too and have been looking into it. We will have more to share soon. <u/spez>: Dang I was just writing a reply to this as well. Guess we got the same push notif. 

@@ -1,0 +1,17 @@
+<r/TheoryOfReddit>: Do downvotes make Reddit better?
+
+Downvoting abusive, off topic, or inaccurate posts improves the quality of the content, but anecdotally I observe that downvotes to seem to be used to indicate disagreement overwhelmingly more often.
+
+So what this ends up doing, as I’m sure anyone here has already thought about, is disincentivizing minority opinions, and also longer more thoughtful comments in general as well as sincerity in general as opposed to sarcasm.
+
+Anecdotally, what I experience is that downvotes make Reddit seem toxic and unpleasant and incentivize brief sarcastic exchanges which are also toxic and unpleasant. What do you think?
+
+E: the opinion seems overwhelmingly that it’s bad. Interesting that the feature exists. There must be a reason. <u/spez>: A couple years ago, I was wondering this exact question.
+
+Ups and downs are something we've had since *nearly* the first version of Reddit (but not the very first version: early iterations had words instead of arrows, but words were too subjective and restrictive).
+
+Anyway... a couple years ago I considered the idea that downvotes were purely destructive, and that we'd be better off without them. My reasoning was that it feels bad to receive downvotes, and getting downvoted is an especially poor experience if you're a new user. If our goal is to make Reddit more welcoming and accessible, we were working against ourselves. Also, downvotes are weaponized by users and communities to harass and brigade, further compounding the problem.
+
+However, despite their flaws, downvotes are a critical tool for communities to develop and maintain their voice, and without them we couldn't scale moderation. There are only so many moderators and far fewer admins, and by allowing community members to moderate content in a lightweight way, they can develop their own identities and voice and keep out the junk (most of it at least).
+
+I know downvotes have their flaws, but they've been critical to growth of every large subreddit, making addressing their flaws supremely important. Improving downvotes is one of our current initiatives, and hopefully you'll feel the changes in the coming weeks if you haven't felt them already.

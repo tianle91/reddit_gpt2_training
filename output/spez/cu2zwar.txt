@@ -1,0 +1,13 @@
+<r/technology>: Reddit is now censoring posts and communities on a country-by-country basis <u/TheChickening>: Reddit is not the freedom fighter you want it to be. It's a company that wants to earn money. <u/spez>: Of course we want to earn money–that's how businesses continue to exist–but that didn't factor into our decision here.
+
+The issue in this case is we faced the dilemma of either banning content in specific regions or having Reddit blocked entirely in these regions. Unfortunately, there isn't a middle ground in this case.
+
+While we believe government censorship of the Internet is wrong (not to mention futile), we also need to make practical decisions to ensure Reddit is accessible to as many people as possible around the entire world.
+
+ <u/ZineZ>: Websites such as reddit often end up being information hubs in times of public uprisings/protests in countries. Are you planning on adhering to every takedown request? And if not, how are you going to distinguish between what should be censored/kept?
+
+This is an INCREDIBLY slippery slope and if you're going to continue to do so, there needs to be some way for you to publish what you're banning and when.  <u/spez>: No, we consider each request on a case-by-case basis.
+
+I don't want to get stuck considering too many hypotheticals, but I will entertain this one. If a government wants to ban Reddit entirely because we're the center of an uprising, there's nothing we can do to stop them. However, if they send us a takedown request for specific content, and give us a chance to consider it, we will absolutely take into account the greater context of what's going on.
+
+We've published transparency reports in the past, and will continue to do so in the future.

@@ -1,0 +1,19 @@
+<r/announcements>: AMA about my darkest secrets
+
+Hi All,
+
+We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
+
+We’ve launched a [bunch of stuff](https://www.reddit.com/r/changelog) recently, and we’re hard at work on lots more: m.reddit.com improvements, the next versions of Reddit for iOS and Android, moderator mail, relevancy experiments (lots of [little tests](https://www.reddit.com/r/changelog/comments/4jzit9/reddit_change_several_small_tests_to_improve_user/) to improve experience), account take-over prevention, technology improvements so we can move faster, and–of course–hiring.
+
+I’ve got a couple hours, so, ask me anything!
+
+Steve
+
+edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later. <u/reseph>: Can you tell us why this was removed from reddit's core values?
+
+>1. Respect anonymity and privacy
+
+>You are not required to share more than you are comfortable with. Having information doesn't give you a license to use it. Allow people to be as anonymous as they choose, including ourselves. Value the candor afforded by anonymity.
+
+See https://np.reddit.com/r/videos/comments/4lmfmj/ceo_of_reddit_steve_huffman_about_advertising_on/d3olvco <u/spez>: I wanted to have as few values as possible so their impact is greater. We felt that both Remember the Human and What Would Snoo Do? encompass the ideas of respect and privacy.

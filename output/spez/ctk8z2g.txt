@@ -1,0 +1,26 @@
+<r/announcements>: Good morning, I thought I'd give a quick update.
+
+I thought I'd start my day with a quick status update for you all. It's only been a couple weeks since my return, but we've got a lot going on. We are in a phase of emergency fixes to repair a number of longstanding issues that are causing all of us grief. I normally don't like talking about things before they're ready, but because many of you are asking what's going on, and have been asking for a long time before my arrival, I'll share what we're up to.
+
+Under active development:
+
+* Content Policy. We're consolidating all our rules into one place. We won't release this formally until we have the tools to enforce it.
+* Quarantine the communities we don't want to support
+* Improved banning for both admins and moderators (a less sneaky alternative to shadowbanning)
+* Improved ban-evasion detection techniques (to make the former possible).
+* Anti-brigading research (what techniques are working to coordinate attacks)
+* AlienBlue bug fixes
+* AlienBlue improvements
+* Android app
+
+Next up:
+
+* Anti-abuse and harassment (e.g. preventing PM harassment)
+* Anti-brigading
+* Modmail improvements
+
+As you can see, lots on our plates right now, but the team is cranking, and we're excited to get this stuff shipped as soon as possible!
+
+I'll be hanging around in the comments for an hour or so.
+
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/iiTecck>: If actual accounts are not supposed to get shadowbanned, why is it still happening? As the CEO, can't you put an end to it immediately? <u/spez>: Yes, but it's literally the only tool we have right now. The best thing we can do is build better tools as fast we we can, which is what we're doing.

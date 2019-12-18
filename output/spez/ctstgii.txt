@@ -1,0 +1,20 @@
+<r/announcements>: Content Policy Update
+
+Today we are releasing an update to our [Content Policy](https://www.reddit.com/help/contentpolicy). Our goal was to consolidate the various rules and policies that have accumulated over the years into a single set of guidelines we can point to.
+
+Thank you to all of you who provided feedback throughout this process. Your thoughts and opinions were invaluable. This is not the last time our policies will change, of course. They will continue to evolve along with Reddit itself.
+
+Our policies are not changing dramatically from what we have had in the past. One new concept is Quarantining a community, which entails applying a set of restrictions to a community so its content will only be viewable to those who explicitly opt in. We will Quarantine communities whose content would be considered extremely offensive to the average redditor.
+
+Today, in addition to applying Quarantines, we are banning a handful of communities that exist solely to annoy other redditors, prevent us from improving Reddit, and generally make Reddit worse for everyone else. Our most important policy over the last ten years has been to allow just about anything so long as it does not prevent others from enjoying Reddit for what it is: the best place online to have truly authentic conversations.
+
+I believe these policies strike the right balance.
+
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/raldi>: I'm sure some of you are rushing to find [the Imgur link](http://i.imgur.com/FVJfxB5.png) about how ripping out someone's tongue doesn't prove them wrong, and that the real answer is to engage them in debate.
+
+But it doesn't really apply, because nobody's tongue was ripped out. [The bigots have already migrated](https://voat.co/v/coontown) to another site, and they're doing just fine.
+
+Shockingly, it doesn't look like the conversation going on over there in any way resembles an intellectually-honest debate on racial issues. <u/spez>: It's more than that, even. We take banning very seriously, which is why it takes so long for us to do it. In this case, a small group of people were causing on outsized amount of harm to Reddit. <u/kopkaas2000>: You're probably getting flooded with questions about this, but would you be willing to elaborate on the harm they were causing? As big as my distaste for racist bigots is, there's a strong narrative going on that they weren't breaking any rules / weren't harassing other users / were staying on their own shitty little island.
+
+If you in fact just want to get rid of racist subs, it seems to me that just being clear on the issue would work out better. If it was indeed about rulebreaking, some more information would put the "they did nothing wrong"-narrative, and the implication of capricious justice, to bed.
+ <u/spez>: We didn't ban them for being racist. We banned them because we have to spend a disproportionate amount of time dealing with them. If we want to improve Reddit, we need more people, but CT's existence and popularity has also made recruiting here more difficult.

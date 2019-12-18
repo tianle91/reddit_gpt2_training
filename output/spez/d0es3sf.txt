@@ -1,0 +1,11 @@
+<r/ModSupport>: Amazon links being flagged as SPAM.
+
+I have seen several Amazon links show up in the SPAM view and I am trying to figure out why.  The links do not have "tag=" which I understand indicate referral links.  I have checked AutoMod config and there is nothing there to trigger it.  The Automod is pretty sparse as is.
+
+Here are two links that got thrown into SPAM.
+http://www.amazon.com/dp/B017QQWQT8/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3QROHAK4C49EU&coliid=ISICZQW32W9S6&psc=1
+http://www.amazon.com/dp/B00GTV05XG/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&colid=3SVRV4O01G75L&coliid=IDMP2LCHUHECL&psc=1
+
+My best guess is another Mod though "ref=" meant referral and tagged them some time ago.  And since the system "learns" it remembered it?  I don't know if that is the case, nor how to check or fix it if it is.
+
+Or maybe it is something else I missed? <u/spez>: Ironically, this post was also banned. Someone else can probably chime in with the exact cause.

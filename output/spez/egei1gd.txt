@@ -1,0 +1,37 @@
+<r/announcements>: Reddit’s 2018 transparency report (and maybe other stuff)
+
+Hi all,
+
+Today we’ve posted our latest [Transparency Report](https://www.redditinc.com/policies/transparency-report-2018).
+
+The purpose of the report is to share information about the requests Reddit receives to disclose user data or remove content from the site. We value your privacy and believe you have a right to know how data is being managed by Reddit and how it is shared (and not shared) with governmental and non-governmental parties.
+
+We’ve included a breakdown of requests from governmental entities worldwide and from private parties from within the United States. The most common types of requests are subpoenas, court orders, search warrants, and emergency requests. In 2018, Reddit received a total of 581 requests to produce user account information from both United States and foreign governmental entities, which represents a 151% increase from the year before. We scrutinize all requests and object when appropriate, and we didn’t disclose any information for 23% of the requests. We received 28 requests from foreign government authorities for the production of user account information and did not comply with any of those requests.
+
+This year, we expanded the report to included details on two additional types of content removals: those taken by us at Reddit, Inc., and those taken by subreddit moderators (including Automod actions). We remove content that is in violation of our site-wide policies, but subreddits often have additional rules specific to the [purpose, tone, and norms of their community](https://www.cc.gatech.edu/~sjhaver3/The-internets-hidden-rules-cscw2018.pdf). You can now see the breakdown of these two types of takedowns for a more holistic view of company and community actions.
+
+In other news, you may have heard that we closed an additional round of funding this week, which gives us more runway and will help us continue to improve our platform. What else does this mean for you? Not much. Our strategy and governance model remain the same. And—of course—we do not share specific user data with any investor, new or old.
+
+I’ll hang around for a while to answer your questions.
+
+–Steve
+
+&#x200B;
+
+edit: Thanks for the silver you cheap bastards.
+
+update: I'm out for now. Will check back later. <u/Inri137>: Will you ever modify or remove content to appease your new Chinese ~~overlords~~ investors? Can you commit to never doing so? <u/spez>: > Will you ever modify or remove content to appease your new Chinese investors?
+
+No
+
+> Can you commit to never doing so?
+
+Yes <u/FreeSpeechWarrior>: How can we trust that when reddit once said:
+
+> We stand for free speech. This means we are not going to ban distasteful subreddits. We will not ban legal content even if we find it odious or if we personally condemn it. Not because that's the law in the United States - because as many people have pointed out, privately-owned forums are under no obligation to uphold it - but because we believe in that ideal independently, and that's what we want to promote on our platform. We are clarifying that now because in the past it wasn't clear, and (to be honest) in the past we were not completely independent and there were other pressures acting on reddit. Now it's just reddit, and we serve the community, we serve the ideals of free speech, and we hope to ultimately be a universal platform for human discourse
+
+Clearly this promise has been broken as countless subreddits have since been banned for content legal in the US.
+
+What makes your promise now any more believable? <u/spez>: These words, which were not mine, were in defense of sexualized pictures of young girls. Child porn is a real crime in the United States, and sexualizing minors is an adjacent behavior, and not only is it not welcome on Reddit, it's explicitly forbidden.
+
+I have made many arguments in my career in defense of Free Speech and continue to do so, but there are limits, and this is one of them.

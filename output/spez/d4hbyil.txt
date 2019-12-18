@@ -1,0 +1,27 @@
+<r/announcements>: Let’s all have a town hall about r/all
+
+Hi All,
+
+A few days ago, we talked about a few technological and process changes we would be working on in order to improve your Reddit experience and ensure access to timely information is available.
+
+Over the last day we rolled out a behavior change to r/all. The r/all listing gives us a glimpse into what is happening on all of Reddit independent of specific interests or subscriptions. In many ways, r/all is a reflection of what is happening online in general. It is culturally important and drives many conversations around the world.
+
+The changes we are making are to preserve this aspect of r/all—our specific goal being to prevent any one community from dominating the listing. The algorithm change is fairly simple—as a community is represented more and more often in the listing, the hotness of its posts will be increasingly lessened. This results in more variety in r/all.
+
+Many people will ask if this is related to r/the_donald. The short answer is no, we have been working on this change for a while, but I cannot deny their behavior hastened its deployment. We have seen many communities like r/the_donald over the years—ones that attempt to dominate the conversation on Reddit at the expense of everyone else. This undermines Reddit, and we are not going to allow it. 
+
+Interestingly enough, r/the_donald was already getting downvoted out of r/all yesterday morning before we made any changes. It seems the rest of the Reddit community had had enough. Ironically, r/EnoughTrumpSpam was hit harder than any other community when we rolled out the changes. That’s Reddit for you. ¯\\\_(ツ)_/¯ 
+
+As always, we will keep an eye out for any unintended side-effects and make changes as necessary. Community has always been one of the very best things about Reddit—let’s remember that. Thank you for reading, thank you for Reddit-ing, let’s all get back to connecting with our fellow humans, sharing ferret gifs, and making the Reddit the most fun, authentic place online.
+
+Steve
+
+u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours. <u/ThogOfWar>: Hey /u/spez, how do you feel about the new "Stickied Posts" being used only for announcement texts, disrupting services in subreddits like /r/ScenesFromAHat where they can no longer post their Scenes Of The Week properly?
+
+I, for one, am sad :( <u/spez>: Thanks for the feedback. We're still thinking about stickies, and will likely make more changes. In the meantime, sorry we upset your usage of it. <u/geo1088>: So when can we expect these more changes?
+
+The sticky changes are just bad. The new requirements are still breaking mod workflows, even though it's been said before that good mod tools should be the priority. You're just taking us backward here.
+
+The announcement post for the new stickies seems to have the lowest upvote/downvote ration since the new search page came out, and if you [look at the "new" sort in the comments](https://www.reddit.com/r/changelog/comments/4ny8y6/renaming_sticky_posts_to_announcements/?sort=new), you'll find *tons* of moderators complaining about it. The restrictions aren't changes anyone wanted, because they're limiting people's ability to moderate. Some subreddits have even had to tell users to post news as text posts, so the mods can get around these changes.
+
+The changes made just seem so poorly thought out. I'm still not sure what you and the team were trying to accomplish by them, but I can tell you that the moderators who have to live with it are *not* happy. Something has to be changed here. <u/spez>: Thanks for the feedback. We reverted the sticky behavior a little while ago.

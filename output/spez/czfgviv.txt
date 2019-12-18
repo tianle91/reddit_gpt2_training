@@ -1,0 +1,52 @@
+<r/announcements>: Reddit in 2016
+
+Hi All,
+
+Now that 2015 is in the books, it’s a good time to reflect on where we are and where we are going. Since I returned last summer, my goal has been to bring a sense of calm; to rebuild our relationship with our users and moderators; and to improve the fundamentals of our business so that we can focus on making you (our users), those that work here, and the world in general, proud of Reddit. Reddit’s mission is to help people discover places where they can be themselves and to empower the community to flourish.
+
+2015 was a big year for Reddit. First off, we cleaned up many of our external policies including our Content Policy, Privacy Policy, and API terms. We also established internal policies for managing requests from law enforcement and governments. Prior to my return, [Reddit took an industry-changing stance on involuntary pornography](https://www.reddit.com/r/announcements/comments/2x0g9v/from_1_to_9000_communities_now_taking_steps_to/).
+
+Reddit is a collection of communities, and the moderators play a critical role shepherding these communities. It is our job to help them do this. We have shipped a [number of improvements](https://www.reddit.com/r/modnews/new/) to these tools, and while we have a long way to go, I am happy to see steady progress.
+
+Spam and abuse threaten Reddit’s communities. We created a Trust and Safety team to focus on abuse at scale, which has the added benefit of freeing up our Community team to focus on the positive aspects of our communities. We are still in transition, but you should feel the impact of the change more as we progress. We know we have a lot to do here.
+
+I believe we have positioned ourselves to have a strong 2016. A phrase we will be using a lot around here is "Look Forward." Reddit has a long history, and it’s important to focus on the future to ensure we live up to our potential. Whether you access it from your desktop, a mobile browser, or a native app, we will work to make the Reddit product more engaging. Mobile in particular continues to be a priority for us. Our new Android app is going into beta today, and our new iOS app should follow it out soon.
+
+We receive many requests from law enforcement and governments. We take our stewardship of your data seriously, and we know transparency is important to you, which is why we are putting together a Transparency Report. This will be available in March.
+
+This year will see a lot of changes on Reddit. Recently we built an A/B testing system, which allows us to test changes to individual features scientifically, and we are excited to put it through its paces. Some changes will be big, others small and, inevitably, not everything will work, but all our efforts are towards making Reddit better. We are all redditors, and we are all driven to understand why Reddit works for some people, but not for others; which changes are working, and what effect they have; and to get into a rhythm of constant improvement. We appreciate your patience while we modernize Reddit.
+
+As always, Reddit would not exist without you, our community, so thank you. We are all excited about what 2016 has in store for us.
+
+–Steve
+
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs. <u/reseph>: >to rebuild our relationship with our users and moderators
+
+As a moderator, I'm not really sure this happened. Look in /r/ModSupport which was suppose to be a communication channel between mods and admins. The majority of the topics (which are questions) have no admin response. I have a couple topics in there from weeks ago with no admin comment. I sent a modmail to that subreddit 7 days ago just asking if the subreddit was still planned to be a communication tool between us mods and admins. I never got a reply. I'm losing count of all the "having major spam issues" questions in /r/ModSupport that receive no admin reply; a single response would be enough. It seems to have fallen to as little admin participation as /r/modtalk gets.
+
+I don't think I've heard a peep around what's going on with the anti-brigading tools.
+
+A year ago, reddit hired a "Community Engineer" to rebuild modmail. There are literally no signs of progress on this. Modmail is one of the most important things for us moderators; even having an acknowledge/resolved button would be fantastic.
+
+/r/snoogaming (created by an admin) remains abandoned by the admins with us moderators trying to pick up the slack. I had to pull teeth like no tomorrow to get a basic answer on what the future of this was from an admin perspective. This was before you returned though I think.
+
+I barely hear anything from the admins nowadays. I get replies on /r/reddit.com PMs when I contact them about ban evasion, but I got replies like that 2 years ago so things are as they were.
+
+In the same light, AlienBlue was taken over by reddit recently and seems to be dead in the water. There is an error topic [stickied](https://www.reddit.com/r/AlienBlue/comments/3zrckp/bug_i_am_getting_this_error_almost_daily_since/) and has been for 3 weeks. No fix nor admin comments in the last 20 days. Not only that, but with reddit.com owning the app now the admins developing that app don't seem to be staying on top of their own reddit changes. I don't believe the new subreddit rule system (which was in beta for a while) is even implemented on the app? And as a moderator, subreddit rules being front and center on mobile is very important to us. If reddit is developing a new system like that, don't you think it should be implemented into AlienBlue in parallel?
+
+I'm not trying to pick on individual admins, scenarios or people. I am trying to show a pattern that is not changing. reddit is a *professional business*. It's very concerning.
+
+There are good things, like the new subreddit rules system (although it's limited to 10 rules only) and sticky comments. But communication doesn't seem improved. It's not the end of the world, it's just things don't feel different outside new mod features. <u/spez>: 3 of the top 10 posts in r/ModSupport are from us. I'm sorry we don't get to every question, but we're absolutely in there. We are very aware of the spam issues.
+
+> I don't think I've heard a peep around what's going on with the anti-brigading tools.
+
+You won't really. We've improved here, and we're continuing to invest in it, but anti-brigading is something we do quietly so the bad guys don't know what's working.
+
+> A year ago, reddit hired a "Community Engineer" to rebuild modmail. There are literally no signs of progress on this.
+
+I'm sad to say that although we invested quite a bit, my favorite feature [didn't work out](https://www.reddit.com/r/ModSupport/comments/42o57u/modmailtoemail_beta_closing/). I had thought by forwarding mail out of Reddit we could do an end-run around the problem. I was trying to avoid a wholesale rewrite of the system because that will take forever with our current resources. We're not doing nothing, but we haven't succeeded either. We're still on it.
+
+> AlienBlue was taken over by reddit recently and seems to be dead in the water.
+
+We bought it years ago, actually, and have put out a number of releases in the past few months, [at least five](https://www.reddit.com/user/alien-blue). We are working on a new iOS app as we speak, and that will be the future for us, but we're continuing to maintain AB during the meantime.
+

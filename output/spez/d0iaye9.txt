@@ -1,0 +1,9 @@
+<r/ModSupport>: [Request] Implement reCAPCHA on the signup form
+
+So, as we're all aware, there's a lot of porn spam lately. The spam filter and my automod config are thankfully catching all of them (They still however fill my modqueue).
+
+Now, they really shouldn't be happening in the first place. I really feel that implementing reCAPCHA or a similar bot checking service to the site signup form could really help stop these spammers getting through in the first place, and would make it a lot easier for subreddits as a whole since they wouldn't have to deal with the ridiculous amount of bots. As it is currently, these bots seem to be getting past the old style capchas on the post pages just fine.
+
+EDIT: It has been noted that the login capcha [was removed](https://www.reddit.com/r/changelog/comments/2mlr1g/reddit_change_redesign_of_loginaccount_creation/cm5e78f), however the issues listed in that comment do not apply with reCAPCHA as it is simply a tickbox. <u/spez>: It's right around the corner. I saw a demo the other day. We've got a few loose ends to wrap up, but we're trying to move quickly on this spam stuff.
+
+edit: (3/4/2016) It's up for suspicious users and in a test for all users. <u/[deleted]>: [deleted] <u/spez>: "Soon" as in, "daylight savings is coming up soon" as opposed to "the sun is going to explode soon."

@@ -1,0 +1,23 @@
+<r/announcements>: We are updating our Privacy Policy (effective Jan 1, 2016)
+
+In a little over a month we’ll be updating our [Privacy Policy](https://www.reddit.com/help/privacypolicy). We know this is important to you, so I want to explain what has changed and why.
+
+Keeping control in your hands is paramount to us, and this is our first consideration any time we change our privacy policy. Our overarching principle continues to be to request as little personally identifiable information as possible. To the extent that we store such information, we do not share it generally. Where there are exceptions to this, notably when you have given us explicit consent to do so, or in response to legal requests, we will spell them out clearly.
+
+The new policy is functionally very similar to the previous one, but it’s shorter, simpler, and less repetitive. We have clarified what information we collect automatically (basically anything your browser sends us) and what we share with advertisers (nothing specific to your Reddit account).
+
+One notable change is that we are increasing the number of days we store IP addresses from 90 to 100 so we can measure usage across an entire quarter. In addition to internal analytics, the primary reason we store IPs is to fight spam and abuse. I believe in the future we will be able to accomplish this without storing IPs at all (e.g. with hashing), but we still need to work out the details.
+
+In addition to changes to our Privacy Policy, we are also beginning to roll out support for [Do Not Track](http://donottrack.us/). Do Not Track is an option you can enable in modern browsers to notify websites that you do not wish to be tracked, and websites can interpret it however they like (most ignore it). If you have Do Not Track enabled, we will not load any third-party analytics. We will keep you informed as we develop more uses for it in the future.
+
+Individually, you have control over what information you share with us and what your browser sends to us automatically. I encourage everyone to understand how browsers and the web work and what steps you can take to protect your own privacy. Notably, browsers allow you to disable [third-party cookies](https://en.wikipedia.org/wiki/HTTP_cookie#Third-party_cookie), and you can customize your browser with a variety of privacy-related [extensions](http://lifehacker.com/the-best-browser-extensions-that-protect-your-privacy-479408034).
+
+We are proud that Reddit is home to many of the most open and genuine conversations online, and we know this is only made possible by your trust, without which we would not exist. We will continue to do our best to earn this trust and to respect your basic assumptions of privacy.
+
+Thank you for reading. I’ll be here for an hour to answer questions, and I'll check back in again the week of Dec 14th before the changes take effect.
+
+-Steve (spez)
+
+edit: Thanks for all the feedback. I'm off for now. <u/aphoenix>: Supporting Do Not Track is an interesting choice. It'll be a big win for Do Not Track to have another major website following it. Moving towards not actually storing IP addresses is also an interesting move. I like that you're putting a strong emphasis on privacy.
+
+I'm also generally a fan of making it so that people can understand what's being tracked and why. <u/spez>: The IP stuff has been an interesting challenge. The fewer we can store, the better for all of us.

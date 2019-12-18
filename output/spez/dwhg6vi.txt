@@ -1,0 +1,49 @@
+<r/announcements>: And Now a Word from Reddit’s Engineers…
+
+Hi all,
+
+As you may have heard, we’ve been hard at work redesigning our desktop for the past year. In our previous four redesign blog posts, [u/Amg137](https://www.reddit.com/user/Amg137) and [u/hueylewisandthesnoos](https://www.reddit.com/user/hueylewisandthesnoos) talked about[ why we're redesigning](https://www.reddit.com/r/blog/comments/7ul5k9/hey_were_here_to_talk_about_that_desktop_redesign),[ moderation in the redesign](https://www.reddit.com/r/announcements/comments/7xjt6g/because_its_valentines_day_heres_a_longwinded),[ our approach to design](https://www.reddit.com/r/announcements/comments/817lmi/til_reddit_has_a_design_team), and[ Reddit’s evolution](https://www.reddit.com/r/announcements/comments/84nyj6/a_shortish_history_of_new_features_on_reddit). Today, Reddit’s Engineering team invites you “under the hood” look at how we’re giving a long overdue update to Reddit’s core stack.
+
+Spoiler: There’s going to be a fair bit of programming jargon in this post, but I promise we’ll get through it together.
+
+**History and Journey**
+
+For most of Reddit's history, the core engineering team supporting the site has been extremely small. Over its first five years, Reddit’s engineering team was comprised of just six employees. While there were some big engineering milestones in the early days—a [complete rewrite](https://redditblog.com/2005/12/05/on-lisp/) from Lisp to Python in 2006, then *another* Python rewrite \(aka “r2”\) in 2008, when we introduced jQuery. Much of the code that Reddit is running on right now is code that [u/spez](https://www.reddit.com/user/spez) wrote about ten years ago.
+
+Given Reddit’s historically tiny eng team \(at one point it was literally just [u/spladug](/user/spladug)\), our code wasn’t always ideal... But before I get into how we've gone about fixing that, I thought it'd be fun to ask some of the engineers who have been here longest to share a few highlights:
+
+* [u/spladug](https://www.reddit.com/user/spladug): "For a while now, ‘The controller was now a giant mass of tendrils with an exciting twist’ has been the description of the r2 repository on GitHub.”
+* [u/KeyserSosa](https://www.reddit.com/user/KeyserSosa): "After being gone for 5 years and having first come back, I discovered that \(unsurprisingly\) part of the code review process is to use ‘git blame’ to figure out who last touched some code so they can be pulled into a code review. A couple of days in, I got pinged on a code review for some JS changes that were coming because I was the last one to edit the file \(one of the more core JS files we had\). Keeping in mind that during most of those intervening years I had switched from being ‘full stack’ to being pretty much focused on backend/infra/data, I was somewhat surprised \(and depressed\) to be looking at my old JS again. I let the reviewee \(a senior web dev\) know that in the future that he has carte blanche to make changes to anything in JS that has my blame on it because I know for a fact that that version of me was winging it and probably didn't know what I was doing."
+* [u/ketralnis](http://reddit.com/user/ketralnis): “I worked at Reddit from 2008 to 2011, then took a break and came back in 2016. When I returned my first project was to work on some performance stuff in our query caching. One piece was clearly incorrect in a way that had me concerned that the damage had spread elsewhere. I looked up who wrote it so I could go ask them what the deal was... and it was me.”
+
+Luckily, Reddit's engineering team has grown *a lot* since those days, with most of that growth in the past two years. At our team’s current size, we're finally able to execute on a lot of the ideas you’ve given us over the years for fixes, moderation improvements \(like mod mode, bulk mod actions and removal reasons\), and new features \(like inline images in text posts and submit validation\). But even with a larger team, our ancient code base has made it extremely difficult to do this quickly and effectively.
+
+Enter the redesign, the latest and most challenging rewrite of Reddit’s desktop code to date.
+
+**Designing Engineering Networks that Neutralize Inevitable Snags**
+
+Two years ago, engineers at Reddit had to work on complicated UI templated code, which was written in two different languages \(Javascript on the client and Python on the server\). The lack of separation of the frontend and backend code made it really hard to develop new features, as it took several days to even set up a developer environment. The old code base had a lot of inheritance pattern, which meant that small changes had a large impact and we spent much more time pushing those changes than we wanted to. For example, once it took us about a month to push a simple comments flat list change due to the complexity of our code base and the fact that the changes had to work well with CSS in certain communities, which we didn’t want to outright break.
+
+When we set out to rewrite our code to solve these problems, we wanted to make sure we weren't just fixing small, isolated issues but creating a new, more modern frontend stack that allowed our engineering team to be nimble—with a componentized architecture and the scalability necessary to handle Reddit’s 330 million monthly users.
+
+But above all, we wanted to use the rewrite as an opportunity to increase "developer velocity," or the amount of time it takes an engineer to ship a fix or new feature. No more "git blame" for decade\-old code. Just a giant mass of tendrils, shipping faster than ever.
+
+**The New Tech Stack**
+
+These are the three main components we use in the redesign today:
+
+* React is a Javascript library designed around the concept of reusable components. The components\-based approach scaled well as we were hiring and our teams grew. React also supports server side rendering, which was a key requirement for us.
+* Redux is a predictable state container for JS apps. It greatly simplifies state management and has good performance.
+* TypeScript is a language that functions as a superset of Javascript. It reduces type\-related bugs, has good built\-in tooling, and allows for easier onboarding of new devs. \(You can read more about why we chose TypeScript in [this post](https://redditblog.com/2017/06/30/why-we-chose-typescript/) by [u/nr4madas.\)](http://reddit.com/user/nr4madas)
+
+**Just the Beginning**
+
+With our new tech stack, we were able to ship a basic rewrite of our desktop site by September of last year. We’ve built a ton of features since then, addressing feedback we’ve gotten from a steadily growing number of users \(well, [a *mostly* steady number...](https://www.reddit.com/r/shittychangelog/comments/82jufo/reddit_change_loadtesting_the_redesign_by_turning/)\). So far, we’ve shipped over 150 features, we've fixed over 1,400 bugs, and we're moving forward at a rate of \~20 features and 200\+ bugs per month.
+
+We know we still have work to do as Reddit has a very long tail of features. Fortunately, our team is already working on the majority of the most requested items \(like nightmode and keyboard shortcuts\), so you can expect a lot more updates from our team as more users begin to see the redesign—and because of our engineers’ work rewriting our stack over the past year, now we can ship these updates faster and more efficiently.
+
+Over the past few weeks, we have given all moderators and beta users access to the redesign. Next week we plan to begin adding more users to make sure we can support a bigger user base on our new codebase. Users will have the option to keep the current design as their default if they wish—we do not want to force the redesign on anyone who doesn’t want to use it.
+
+[Thank you](https://media3.giphy.com/media/IcGkqdUmYLFGE/giphy.gif) to everyone who’s helped test, reported bugs, and given feedback on the redesign so far; all of this helps a lot.
+
+PS: [We’re still hiring.](https://about.reddit.com/engineering/) :\) <u/spez>: If anyone's interested, I found a hard drive in my garage with the [original Reddit Lisp code](https://github.com/reddit/reddit1.0/) from 2005. Been looking for it for years. Enjoy.

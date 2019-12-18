@@ -1,0 +1,22 @@
+<r/announcements>: For your reading pleasure, our 2015 Transparency Report
+
+In 2014, we published our first Transparency Report, which can be found [here](http://www.reddit.com/wiki/transparency/2014). We made a commitment to you to publish an annual report, detailing government and law enforcement agency requests for private information about our users. In keeping with that promise, we’ve published our [2015 transparency report](https://www.reddit.com/wiki/transparency/2015). 
+
+We hope that sharing this information will help you better understand our [Privacy Policy](https://www.reddit.com/help/privacypolicy) and demonstrate our commitment for Reddit to remain a place that actively encourages authentic conversation.
+
+Our goal is to provide information about the number and types of requests for user account information and removal of content that we receive, and how often we are legally required to respond. This isn’t easy as a small company as we don’t always have the tools we need to accurately track the large volume of requests we receive. We will continue, when legally possible, to inform users before sharing user account information in response to these requests.
+
+In 2015, we did not produce records in response to 40% of government requests, and we did not remove content in response to 79% of government requests.
+
+In 2016, we’ve taken further steps to protect the privacy of our users. We joined our industry peers in an amicus brief [supporting Twitter](https://upload.wikimedia.org/wikipedia/foundation/3/3d/Twitter_versus_Lynch_Amicus_Brief_February_2016.pdf), detailing our desire to be honest about the national security requests for removal of content and the disclosure of user account information.
+
+In addition, we joined an amicus brief [supporting Apple](http://images.apple.com/pr/pdf/Airbnb_Atlassian_Automattic_CloudFlare_eBay_GitHub_Kickstarter_LinkedIn_Mapbox_Medium_Meetup_Reddit_Square_Squarespace_Twilio_Twitter_and_Wickr.pdf) in their fight against the government's attempt to force a private company to work on behalf of them. While the government asked the court to [vacate the court order](http://www.nytimes.com/interactive/2016/03/28/technology/document-us-filing-dropping-apple-case.html) compelling Apple to assist them, we felt it was important to stand with Apple and speak out against this unprecedented move by the government, which threatens the relationship of trust between a platforms and its users, in addition to jeopardizing your privacy. 
+
+We are also excited to announce the launch of our [external law enforcement guidelines](https://www.reddit.com/wiki/law_enforcement_guidelines). Beyond clarifying how Reddit works as a platform and briefly outlining how both federal and state law enforcements can compel Reddit to turn over user information, we believe they make very clear that we adhere to strict standards. 
+
+We know the success of Reddit is made possible by your trust. We hope this transparency report strengthens that trust, and is a signal to you that we care deeply about your privacy.
+
+(I'll do my best to answer questions, but as with all legal matters, I can't always be completely candid.)
+
+edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
+ <u/iBleeedorange>: How should I respond when I get PMs of users requesting me to take down posts that I posted. Also, how should I respond when a user contacts me (as a mod) requesting to take down a post/comment? <u/spez>: ╭∩╮(-_-)╭∩╮

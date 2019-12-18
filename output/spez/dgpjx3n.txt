@@ -1,0 +1,11 @@
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
+
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+
+Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators! <u/[deleted]>: [deleted] <u/spez>: 1. In the beginning, we didn't have a vision. Every day we worked on what we felt like each day. One one hand this was a good thing: the site came from a pure, organic place. One the other, we didn't have a long term vision to focus us, which is why we sold so early.
+
+2. Hash passwords.
+
+3. Spend time with my friends. Ski. Read Reddit. Read books.
+
+4. Test your assumptions. Have a bug? Make sure all your assumptions about the surrounding code are correct. Fix a bug? Make sure you can reproduce it and fix it again. Even if it seems like a waste of time, it's a good use of time.

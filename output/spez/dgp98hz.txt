@@ -1,0 +1,12 @@
+<r/cscareerquestions>: I'm Steve Huffman, programmer and Reddit CEO. AMA.
+
+Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
+
+Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators! <u/sxeteej>: Hi Spez, I'm going to be starting as a full time developer working strictly on short term iOS, macOS, and watchOS apps. I love the job I'm going to be going into and I couldn't pick a better position to start my career with. However, I worry a lot of the skills I will gain may not be transferable in the future. Any advice on how I can avoid bottlenecking myself and maybe one day be able to become a CTO? <u/spez>: There are few things you are learning now that *aren't* transferable into the future, so don't worry too much about that.
+
+There are two paths to becoming a CTO:
+
+* Start your own company and be the CTO (that's basically what I did).
+* Be the best engineer at the company you work for, and by best engineer, it's more than just being a good programmer. You need to be able to communicate up and down; have a high enough ego to be confident in your decisions, and a low enough ego to constantly be learning; and be flexible enough to take on all sorts of challenges, engineering or not.
+
+e: typo <u/ipod123432>: On the flipside, if I wanted to go towards management (tech lead, manager, etc.) from the position of a full time developer, what kind of skills or experience or connections (or anything in particular) should I be trying to cultivate? <u/spez>: The general skill is to make your peers' lives easier. Being a good manager is all about unblocking your people so they can focus on what they're good it.

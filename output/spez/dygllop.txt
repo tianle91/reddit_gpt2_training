@@ -1,0 +1,73 @@
+<r/hockey>: /r/hockey and the Redesign
+
+tl;dr, in case you missed it, /r/nfl scrapped their CSS in protest of the redesign rollout and while we understand and agree with their decision, it doesn't make sense for /r/hockey to participate during the playoffs. We do however share the same concerns with all of the major sports subreddits about this redesign.
+
+[The /r/nfl mods made a better post than we could possibly hope, so if you have the time, please read it](https://www.reddit.com/r/nfl/comments/8glmp1/rnfl_the_redesign_and_the_future_of_reddit/?st=jgqy74wp&sh=692fedad). 
+
+A few changes that have us concerned:
+
+##Flairs
+
+Emojis will be replacing flairs and are currently locked in at 15 x 15 pixels, despite the recommended upload size being 128 x 128 pixels. On the legacy website, we use 30 x 30 for flair images which allows users to clearly see the team logos that they're representing but doesn't distract from the content.
+
+In addition, with no indication of CSS continuing through to the redesign, we will have to drastically rework our flair system. [We have 1,326 flairs](https://www.reddit.com/r/hockey/wiki/flair/stats) (only 828 of them currently used ya ungrateful schmucks). The number we've seen thrown out as the flair limit is 300. We currently have 251 NHL flairs alone, and while I personally would love to get rid of /u/crazy_canucklehead's pooh bear flair, he assures me bodily harm if I do.
+
+##Chatroom rollout
+
+Reddit recently rolled out this chatroom feature as an opt-in thing. The modtools available are woefully lacking, reports don't go to the mods, and the expectation that we'll have the bandwidth to moderate this + our normal threads really isn't fair to the modteams. It *is* opt-in, but like many features we expect this to be a delayed rollout to everyone.
+
+In addition we already have a [discord server](https://discord.gg/ZmmYu8) with a mod team that totally fucking owns. Seriously, huge shoutout to /u/Axepig and his team for all the work they do. 
+
+##API support
+
+The redesign really doesn't have much in the way of API tools. For the non-technical folks, these are interfaces provided by reddit that allow us to interact with the website directly from code. This may seem like a very nerdy thing to complain about, but a lot of the nice features available in the sidebar and top nav are enabled by this support. Tero has written a number of wonderful bots that provide stuff like updating schedules, brackets, box scores, etc. These are useful features we wouldn't want to deprive y'all from.
+
+##Other random issues
+
+* No Wiki support in the redesign. This is important both as informational tools, and for some of our internal mod tools. Here are a few examples:  
+  - [/u/crazy_canucklehead's expansion draft writeup](https://www.reddit.com/r/hockey/wiki/expansion_draft)
+  - [/u/LAKingsDave's curated list of AMAs](https://www.reddit.com/r/hockey/wiki/amas)
+  - [A list of recommended podcasts that really needs to be updated](https://www.reddit.com/r/hockey/wiki/podcasts) 
+
+* No custom AMA/text flair. We hand out a quarterly text flair to a user every month as a thank you from the mod team for being a good member of the community. We also use it to signify AMA posters and some of the official team accounts. There's no support for this in the redesign.
+
+* Minimal support in the way of RES.
+
+* Automod support is lacking/absent. Automod is still running, but we have no way to configure it via the redesign. I can tell you up front that moderating a subreddit of this size will be near impossible without automod to handle the front lines.
+
+
+
+# So where does that leave us
+
+We're in the middle of the playoffs. We have no intention of joining /r/nfl in removing our CSS right now, as it would be incredibly unfair to y'all. That said, we would like to participate in this wider discussion. **Our intention isn't to get up on our cross, create some horrible internet witch hunt, or to prevent any kind of change.** Personally I totally understand the reasons for the redesign, and I think there's room for everyone to be happy. We as the volunteer mod team just want to share our concerns with the current trajectory of the redesign, and the potential downstream impacts to y'all as a community.
+
+If you haven't seen it yet, a preview of the it may be found at https://new.reddit.com/r/hockey. **We cannot currently recommend the redesign as the preferred viewing method at /r/hockey**. If you would like to permanently (for now) opt out of using the Redesign, open your Reddit preferences and then scroll to the bottom and deselect "Use the redesign as my default experience." This will return your account to using the current version of Reddit without relying on the https://old.reddit.com url.
+
+If you wish to follow along and provide respectful feedback about the redesign, you can do so at /r/Redesign. Like many of the sporting subreddits, we have seen many users throughout the various subreddits speak up for your concerns. We appreciate this. /r/hockey has always been user led and the most impactful feedback will not come from the mod teams, but the rest of the users. If you do give feedback, please be certain to specify your concerns, so the engineers will be most able to provide solutions. We will continue to work with what we have available to us (and to keep you all informed should we hear updates), but if you have any ideas on what we can do to improve the site or different ways to keep features currently threatened, let us know by replying here or sending us a modmail. 
+
+Sincerely,
+
+The Mod Team
+
+P.S. Links to other sports subs posts regarding this issue:
+
+[/r/nfl](https://www.reddit.com/r/nfl/comments/8glmp1/rnfl_the_redesign_and_the_future_of_reddit/?st=jgqy74wp&sh=692fedad)
+
+[/r/cfb](https://www.reddit.com/r/CFB/comments/8gr02y/rcfb_the_redesign_and_you_impact_and_future/?st=jgqyv6n1&sh=acfd08b0)
+
+[/r/nba](https://www.reddit.com/r/nba/comments/8gs7ni/rnba_and_the_upcoming_reddit_redesign/?st=jgqy8xms&sh=53066ec3)
+
+[/r/cbb](https://www.reddit.com/r/CollegeBasketball/comments/8gry8b/the_redesign_and_rcollegebasketball//?utm_source=reddit&utm_medium=usertext&utm_name=nfl&utm_content=t3_8glmp1)
+
+[/r/baseball](https://www.reddit.com/r/baseball/comments/8gqjv1/on_css_and_the_reddit_redesign/?utm_source=reddit&utm_medium=usertext&utm_name=nfl&utm_content=t3_8glmp1)
+
+[/r/soccer](https://www.reddit.com/r/soccer/comments/8gttqn/rsoccer_and_the_redesign/?st=jgr15hy8&sh=043fa161)
+
+[/r/SquaredCircle](https://www.reddit.com/r/SquaredCircle/comments/8gvky5/the_reddit_redesign_or_how_i_learned_to_stop/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=SquaredCircle)
+
+
+  <u/[deleted]>: [deleted] <u/Bigmaq>: /u/spez wants playoff hockey to have shootouts. <u/spez>: I'll take a lot of shit on this site, but this I cannot stand for. I think they should remove a player from each side every 3 minutes of overtime until there's nothing left but two goalies.
+
+As it relates to the redesign, thanks for the feedback. I believe most of your concerns will be addressed (e.g. flair). Chat is super early, that's why we're testing. And the wiki and automod work just fine. Not sure where that rumor started. <u/[deleted]>: Honest question, did you run the design visually past anyone other than the admins? Is anybody actually telling you that the new design looks good? <u/spez>: We've had thousands of testers over the past year of pretty much every variety: users, non\-users, in\-person, remote, prototypes, real code, quantitative, and qualitative. This in addition to the long\-running alpha with thousands of users for the past six months, and now the slow roll out to real users and optional opt\-in for many more.
+
+Wired wrote a really good [piece](https://www.wired.com/story/reddit-redesign/) about the whole process, and we wrote a [couple](https://www.reddit.com/r/blog/comments/7ul5k9/hey_were_here_to_talk_about_that_desktop_redesign/) [posts](https://www.reddit.com/r/announcements/comments/817lmi/til_reddit_has_a_design_team/) about it as well.

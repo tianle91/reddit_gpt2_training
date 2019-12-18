@@ -1,0 +1,5 @@
+<r/redesign>: After 3 months of negative comments about inline ads, are there any statements about how they are going to change?
+
+From what I can see, disguising them as posts is only generating animosity towards the advertisers. <u/spez>: The ads will change. While they will stay inline, we are going to try a few more versions. The trade off of course is that if they stand out too much, they’re distracting, if they are too subtle, they’re deceptive. We’re trying to find the right balance.
+
+I'll spare you our excuses for while we haven't been more responsive on this particular topic, but suffice to say we can do better on the communication, and I'll work on that as well.

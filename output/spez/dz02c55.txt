@@ -1,0 +1,13 @@
+<r/TheoryOfReddit>: Reddit recently implemented some sort of tracking "algorithm"?
+
+Reddits frontpage consists of posts from your subscribed subreddits. Since people can subscribe to over 200+ subreddits, instead of Reddit showing you a post from each one it chooses a random list of 50 or so subreddit and shows you posts from them. Every half hour or so it chooses 50 different random subreddits. 
+
+Or atleast thats how it used to work. In the past, whenever I visited Reddit.com, my frontpage was filled with a completely random selection of the various subreddits I subscribed to over  the years.
+
+Recently, however, I have noticed that it seems like Reddit is keeping track of what subreddits you are visiting and showing you more of those algorithmically. It is no longer random. For example, if I visit the /r/yugioh subreddit out of the blue and spend some time on it, for the next week, /r/yugioh will always be in my list of 50 subreddits for the frontpage, especially if I reinforce it by revisiting it every time it shows up. 
+
+Is this a known change that has been announced somewhere? <u/spez>: Yes. The "Best" sort on your home feed is the new version of the algorithm\(s\). We're constantly running tests here with the goal of surfacing content from your subscriptions that you're more likely to engage with. It also removes content you've already seen, which creates the appearance of much faster turnover.
+
+The old algorithm, which was effectively a random selection of top posts from your subscriptions, is still accessible under "Hot." <u/iBleeedorange>: have you guys noticed any changes to reddit since rolling out "best" as default? Votes lower/views lower on posts since posts change more often? If they are, do you think that's good or bad, or irrelevant? <u/spez>: Votes, comments, and posts per user are up by 15&#37;. Time on site and retention is also improved. It's rare that just about every metric we care about goes up. This is presumably because users are seeing relevant posts.
+
+Anecdotally, I see a lot more r/TheoryOfReddit posts, which I'm happy about.

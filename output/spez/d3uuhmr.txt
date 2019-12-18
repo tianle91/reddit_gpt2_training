@@ -1,0 +1,15 @@
+<r/announcements>: AMA about my darkest secrets
+
+Hi All,
+
+We haven’t done one of these in a little while, and I thought it would be a good time to catch up.
+
+We’ve launched a [bunch of stuff](https://www.reddit.com/r/changelog) recently, and we’re hard at work on lots more: m.reddit.com improvements, the next versions of Reddit for iOS and Android, moderator mail, relevancy experiments (lots of [little tests](https://www.reddit.com/r/changelog/comments/4jzit9/reddit_change_several_small_tests_to_improve_user/) to improve experience), account take-over prevention, technology improvements so we can move faster, and–of course–hiring.
+
+I’ve got a couple hours, so, ask me anything!
+
+Steve
+
+edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later. <u/ReallyAmused>: why do you have all our secrets? - what did you mean by that statement?  <u/spez>: The sentiment I was trying to convey is that people share many different facets of their personalities on Reddit, which doesn't happen many other places online or even in real life sometimes. 
+
+As it happens, the quote you're referring to was tongue-in-cheek and needlessly douchey. My bad.

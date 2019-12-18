@@ -1,0 +1,35 @@
+<r/TheoryOfReddit>: Would CT (and related subreddits) be banned if they still existed today?
+
+In light of \/u/spez's recent comments in regards to Reddit's position of sub-reddits which openly post racist content, numerous news outlets have taken notice of this and cited it whilst citing the reactions of various reddit users.
+
+Example Headlines:
+
+The Guardian: [Open racism and slurs are fine to post on Reddit, says CEO
+](https://www.theguardian.com/technology/2018/apr/12/racism-slurs-reddit-post-ceo-steve-huffman)
+
+The BBC: [Racism allowed on Reddit, says chief
+](http://www.bbc.com/news/technology-43738032)
+
+Sky News: ['Racism is fine on our site,' says Reddit's chief executive](https://news.sky.com/story/racism-is-fine-on-our-site-says-reddits-chief-executive-11327584)
+
+BT: [Racism not against Reddit’s rules, says chief executive](https://home.bt.com/tech-gadgets/tech-news/racism-not-against-reddits-rules-says-chief-executive-11364264044878)
+
+The Inquisitr: [Reddit Founder Said In 2009 The Site ‘Always Banned’ Hate Speech, Now That’s Reversed And Racism Is Thriving](https://www.inquisitr.com/4866963/reddit-founder-said-in-2009-the-site-always-banned-hate-speech-now-thats-reversed-and-racism-is-thriving/)
+
+SBS News: [Reddit CEO says racism is not against the rules](https://www.sbs.com.au/news/reddit-ceo-says-racism-is-not-against-the-rules)
+
+This gets redundant after a while, but the point is that this viewpoint has been noted by no shortage of news outlets both large and small. It is also a complete about-face from [spez's own original position 9 years ago.](https://www.reddit.com/r/reddit.com/comments/6m87a/can_we_ban_this_extremely_racist_asshole/c0497kd/)
+
+> ? This isn't any change in policy: we've always banned hate speech, and we always will. It's not up for debate.
+
+> You can bitch and moan all you like, but me and my team aren't going to be responsible for encouraging behaviors that lead to hate.
+
+However, it is more consistent with his recent views such as ["...the last thing we're going to do is take their voice away."](https://www.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp708xx/)
+
+At one point in time, reddit played host to [one of the internet's largest known collection of hate-specific forums online.](https://en.wikipedia.org/w/index.php?title=Controversial_Reddit_communities&oldid=836344847#The_"Chimpire") Over the years, one or two related subreddits would be banned at a time, but it wasn't until August 2015's banning of CT that the entire network of participating subreddits was effectively banned.
+
+With the present observed shift in ideals by Reddit and its present leadership, assuming that it still existed today, would CT be banned? <u/spez>: Yes. Since we banned CT in 2015, we’ve updated our policies against harassment, bullying, and violence, all of which would be grounds for dismissal for that community.
+
+Furthermore, the teams who make and enforce these decisions are much more robust. 
+
+CT was frustrating as the time because we didn’t have the policies and processes in place, but they wouldn’t last long today. 

@@ -1,0 +1,28 @@
+<r/announcements>: In response to recent reports about the integrity of Reddit, I’d like to share our thinking.
+
+In the past couple of weeks, Reddit has been mentioned as one of the platforms used to promote Russian propaganda. As it’s an ongoing investigation, we have been relatively quiet on the topic publicly, which I know can be frustrating. While transparency is important, we also want to be careful to not tip our hand too much while we are investigating. We take the integrity of Reddit extremely seriously, both as the stewards of the site and as Americans.
+
+Given the recent news, we’d like to share some of what we’ve learned:
+
+When it comes to Russian influence on Reddit, there are three broad areas to discuss: ads, direct propaganda from Russians, indirect propaganda promoted by our users.
+
+On the first topic, ads, there is not much to share. We don’t see a lot of ads from Russia, either before or after the 2016 election, and what we do see are mostly ads promoting spam and ICOs.  Presently, ads from Russia are blocked entirely, and all ads on Reddit are reviewed by humans. Moreover, our [ad policies](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/reddit-advertising-policy) prohibit content that depicts intolerant or overly contentious political or cultural views.
+
+As for direct propaganda, that is, content from accounts we suspect are of Russian origin or content linking directly to known propaganda domains, we are doing our best to identify and remove it. We have found and removed a few hundred accounts, and of course, every account we find expands our search a little more. The vast majority of suspicious accounts we have found in the past months were banned back in 2015–2016 through our enhanced efforts to prevent abuse of the site generally.
+
+The final case, indirect propaganda, is the most complex. For example, the Twitter account @TEN\_GOP is now known to be a Russian agent. @TEN\_GOP’s Tweets were amplified by thousands of Reddit users, and sadly, from everything we can tell, these users are mostly American, and appear to be unwittingly promoting Russian propaganda. I believe the biggest risk we face as Americans is our own ability to discern reality from nonsense, and this is a burden we all bear.
+
+I wish there was a solution as simple as banning all propaganda, but it’s not that easy. Between truth and fiction are a thousand shades of grey. It’s up to all of us—Redditors, citizens, journalists—to work through these issues. It’s somewhat ironic, but I actually believe what we’re going through right now will actually reinvigorate Americans to be more vigilant, hold ourselves to higher standards of discourse, and fight back against propaganda, whether foreign or not.
+
+Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve. <u/megustalogin>: A lot of words were used, but very little was said. Most of this has been said and discussed in many a thread before. This post is completely reactionary due to recent articles in the news. This type of post is better for your media relations, not the users. You've told us nothing about the current atmosphere. Why you will ban certain havens, but not others. This post is anything but transparent. It's basically 'yeah, yeah, shit's happening, please don't leave us because we're not doing anything about it'.  <u/spez>: This post is really the first time we've said anything of consequence regarding Russia, and we wanted to share it with you, the community, first.
+
+> A lot of words were used, but very little was said.
+
+Let me try again, with at least fewer words, but hopefully a little more clearly as well.
+
+1. In regards to ads, we haven't seen much on Reddit. It's been an issue elsewhere online, but not a factor on Reddit. We'll stay vigilant going forward.
+
+2. As it relates to actual Russia accounts on Reddit. We have found a few hundred accounts through a variety of means. The vast majority of these accounts were rejected by our communities back in 2015–2016 before Russia was even a topic of conversation. Our spam filters, community rules against self-promotion, and moderators banned nearly all of them. I don't want to give the impression the work stops there. That's what we've seen so far, and we're still looking deeply.
+
+3. As for propaganda (Russian or otherwise, and there was plenty of American propaganda to go around) hosted elsewhere that was amplified by real organic users, we’ve seen a lot of that, both on Reddit and elsewhere. Reddit is a huge place with thousands of communities and opinions. That's both what makes us special and what creates conflict. That's not to say there isn't plenty of work for us: we will continue to invest in better tooling, both for our internal teams and for moderators; we'll continue to ensure our voting systems aren't being manipulated; and we'll continue grow our teams so we can enforce our policies at scale.
+ <u/ggppjj>: I don't think their gripe was literally word count. <u/spez>: I didn't succeed in making it much shorter, either.

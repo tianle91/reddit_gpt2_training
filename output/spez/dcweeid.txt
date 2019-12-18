@@ -1,0 +1,55 @@
+<r/announcements>: Out with 2016, in with 2017
+
+Hi All,
+
+I would like to take a minute to look back on 2016 and share what is in store for Reddit in 2017.
+
+2016 was a transformational year for Reddit. We are a completely different company than we were a year ago, having improved in just about every dimension. We hired most of the company, creating many new teams and growing the rest. As a result, we are capable of building more than ever before.
+
+Last year was our most productive ever. We shipped well-reviewed apps for both [iOS](https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en). It is crazy to think these apps did not exist a year ago—especially considering they now account for over 40% of our content views. Despite being relatively new and not yet having all the functionality of the desktop site, the apps are fastest and best way to browse Reddit. If you haven’t given them a try yet, you should definitely take them for a spin.
+
+Additionally, we built a new web tech stack, upon which we built the long promised new version [moderator mail](https://www.reddit.com/r/modnews/comments/5h1j48/new_modmail_now_available_for_all_subreddits) and our [mobile website](https://www.reddit.com/r/changelog/comments/58ir49/reddit_change_mobile_website_architectural_revamp/). We added [image hosting](https://www.reddit.com/r/announcements/comments/4p5dm9/image_hosting_on_reddit/) on all platforms as well, which now supports the majority of images uploaded to Reddit.
+
+We want Reddit to be a welcoming place for all. We know we still have a long way to go, but I want to share with you some of the progress we have made. Our Anti-Evil and Trust & Safety teams reduced spam by over 90%, and we released the first version of our [blocking tool](https://www.reddit.com/r/announcements/comments/4dmnn6/new_and_improved_block_user_feature_in_your_inbox/), which made a nice dent in reported abuse. In the wake of [Spezgiving](https://www.reddit.com/r/announcements/comments/5frg1n/tifu_by_editing_some_comments_and_creating_an/), we increased actions taken against individual bad actors by nine times. Your continued engagement helps us make the site better for everyone, thank you for that feedback.
+
+As always, the Reddit community did many wonderful things for the world. You raised a [lot](https://www.reddit.com/r/CFB/comments/5j7z3d/rcfb_buys_donates_6250_in_toys_and_cash_to_toys/) [of](https://www.donorschoose.org/reddit-gifts-for-the-teachers) [money](https://www.reddit.com/r/ExtraLife/wiki/leaderboard); stepped up to help [grieving](https://www.reddit.com/r/videos/comments/5k5xjn/does_anyone_know_a_place_that_will_remove/) [families](https://www.reddit.com/r/audioengineering/comments/4v2jbv/odd_request_for_help_my_wife_recently_died_during/?sort=top); and even helped [diagnose](http://abcnews.go.com/Health/girl-diagnosed-rare-genetic-disorder-reddit-years-inconclusive/story?id=38876898) a rare genetic disorder. There are stories like this every day, and they are one of the reasons why we are all so proud to work here. Thank you.
+
+We have lot upcoming this year. Some of the things we are working on right now include a new frontpage algorithm, improved performance on all platforms, and [moderation tools on mobile](https://www.reddit.com/r/changelog/comments/5pxvlg/mod_tools_on_mobile_web_approveremovespam/) (native support to follow). We will publish our yearly transparency report in March.
+
+One project I would like to preview is a rewrite of the desktop website. It is a long time coming. The desktop website has not meaningfully changed in many years; it is not particularly welcoming to new users (or old for that matter); and still runs code from the earliest days of Reddit over ten years ago. We know there are implications for community styles and various browser extensions. This is a massive project, and the transition is going to take some time. We are going to need a lot of volunteers to help with testing: new users, old users, creators, lurkers, mods, [please sign up here](https://reddit-research.typeform.com/to/TdKcop)!
+
+Here's to a happy, productive, drama-free (ha), 2017!
+
+Steve and the Reddit team
+
+update: I'm off for now. Will check back in a couple hours. Thanks!
+ <u/[deleted]>: 1. Do you guys check out /r/ideasfortheadmins? There are quite a few great ideas that you could choose from there to introduce to reddit  
+2. What is the process to get subs that blatantly violate [reddit's involuntary pornography rules](https://reddit.zendesk.com/hc/en-us/articles/205704725-What-is-involuntary-pornography-and-glorification-of-sexual-violence-) banned or atleast have an admin look at them?   
+3. I wish the /r/communitydialogue project gets started again. There are quite a lot of things moderators wish to discuss with the admins like /u/achievementunlockd. I hope you're able to allocate more resources to this subreddit. Two particular areas of concern for me anyway is how to deal with spam that is not caught by the spambot at /r/spam, and how to better deal with ban evaders.  
+4. Why do admins mod hate subs like /r/onionhate? They ban innocent users from /r/OnionLovers   
+5. Can we have better traffic stats for subreddits? The existing stats exclude mobile traffic and are not very indepth.  <u/spez>: 1. Yes. The limiting factor for improvements isn't ideas, it's our ancient codebase and hesitation to break things like RES and custom styles. In that respect, I feel like we've been held hostage from a development point of view (Stockholm syndrome?). That's why we're so excited to rewrite desktop web. It's going to be a doozy, but worth it in the end.
+
+2. Please send to contact@reddit.com
+
+3. Yes. I'll follow up there. I know it got a little derailed with Spezgiving and the holidays.
+
+4. If u/sodypop says so, that's the way it is  <u/awkwardtheturtle>: Important follow up question regarding Question 4:
+
+How do **you** feel about onions? Are they:
+
+- a.) An acceptable ingredient that while is not terribly important to a meal, detracts little
+
+- b.) Literally the bee's knees and they should be present in every dish
+
+- c.) Literally the Devil's root vegetable. They're a scourge on this earth, a wretched and inferior filler ingredient, and an abomination to the very idea of culinary greatness
+
+We appreciate your answer. Please keep in mind that only one of these answers could result in the esteemed and remarkable reward of being made a moderator at /r/OnionHate.
+
+Have a nice day. 
+ <u/spez>: I have three tiers of food dislike.
+
+Tier 1: I hate them. I will spit them out. Olives.
+
+Tier 2: I don't like them, but will get it down to be polite. Eggplant.
+
+Tier 3: I don't like them, but I wish I did, and I'm trying. Tomatoes, Mushrooms.

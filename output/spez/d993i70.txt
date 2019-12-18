@@ -1,0 +1,23 @@
+<r/announcements>: Hey, it’s Reddit’s totally politically neutral CEO here to provide updates and dodge questions.
+
+Dearest Redditors,
+
+We have been hard at work the past few months adding features, improving our ads business, and protecting users. Here is some of the stuff we have been up to:
+
+Hopefully you did not notice, but as of last week, the m.reddit.com is powered by an entirely new tech platform. We call it 2X. In addition to load times being significantly faster for users (by about 2x…) development is also much quicker. This means faster iteration and more improvements going forward. Our recently released [AMP site](https://www.reddit.com/r/changelog/comments/53q42z/read_reddit_faster_via_google_with_amp/) and moderator mail are already running on 2X.
+
+Speaking of modmail, the beta we [announced](https://www.reddit.com/r/modnews/comments/4wwzzs/new_modmail_a_demo_and_a_call_for_beta_testers/) a couple months ago is going well. Thirty communities volunteered to help us iron out the kinks (thank you, r/DIY!). The community [feedback](http://reddit.com/r/modmailbeta) has been invaluable, and we are incorporating as much as we can in preparation for the general release, which we expect to be sometime next month.
+
+Prepare your pitchforks: we are enabling basic interest targeting in our advertising product. This will allow advertisers to target audiences based on a handful of predefined interests (e.g. sports, gaming, music, etc.), which will be informed by which communities they frequent. A targeted ad is more relevant to users and more valuable to advertisers. We describe this functionality in our [privacy policy](https://www.reddit.com/help/privacypolicy/) and have added a permanent link to this [opt-out page](https://www.reddit.com/adsprefs). The main changes are in 'Advertising and Analytics’. The opt-out is per-browser, so it should work for both logged in and logged out users.
+
+We have a cool community feature in the works as well. Improved [spoiler tags](https://www.reddit.com/r/changelog/comments/59jkbq/reddit_change_spoiler_tags_beta/) went into beta earlier today. Communities have long been using tricks with NSFW tags to hide spoilers, which is clever, but also results in side-effects like actual NSFW content everywhere just because you want to discuss the latest episode of The Walking Dead.
+
+We did have some fun with Atlantic Recording Corporation in the last couple of months.  After a user posted a link to a leaked Twenty One Pilots song from the Suicide Squad soundtrack, Atlantic petitioned a NY court to order us to turn over all information related to the user and any users with the same IP address. We pushed back on the request, and our lawyer, who knows how to turn a phrase, opposed the petition by arguing, "Because Atlantic seeks to use pre-action discovery as an impermissible fishing expedition to determine if it has a plausible claim for breach of contract or breach of fiduciary duty against the Reddit user and not as a means to match an existing, meritorious claim to an individual, its petition for pre-action discovery should be denied." After seeing our opposition and arguing its case in front of a NY judge, Atlantic withdrew its petition entirely, signaling our victory. While pushing back on these requests requires time and money on our end, we believe it is important for us to ensure applicable legal standards are met before we disclose user information.
+
+Lastly, we are celebrating the kick-off of our eighth annual Secret Santa exchange next Tuesday on Reddit Gifts! It is true Reddit tradition, often filled with great gifts and surprises. If you have never participated, now is the perfect time to [create an account](https://www.redditgifts.com/profiles/signup/). It will be a fantastic event this year.
+
+I will be hanging around to answer questions about this or anything else for the next hour or so.
+
+Steve
+
+u: I'm out for now. Will check back later. Thanks! <u/UgandanPresident>: Why are you the CEO of Reddit? <u/spez>: First, no one else wanted the job. Second, it is my dream job. So, that makes a nice match.
