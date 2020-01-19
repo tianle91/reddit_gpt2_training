@@ -17,4 +17,4 @@ docker build -t reddit_user_scraper .
 docker run -v /path/to/output:/output reddit_user_scraper -user spez -num-comments 1000
 ```
 
-Here's a [colab notebook](https://colab.research.google.com/drive/1AvgK26CPFYFJi6QFRjrpXxwY2DallQL5) where you can scrape `/u/spez` comments and interrogate him using `gpt_2_simple`.
+Here's a [colab notebook](https://colab.research.google.com/drive/1AvgK26CPFYFJi6QFRjrpXxwY2DallQL5) where you can scrape `/u/spez` comments and interrogate him using `gpt_2_simple` by fine-tuning a pre-trained language model.
