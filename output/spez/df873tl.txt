@@ -123,7 +123,9 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/BobHogan>: Why are you trying to turn Reddit into a social media clone? 
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
+
+<u/BobHogan>: Why are you trying to turn Reddit into a social media clone? 
 
 I didn't get an answer yesterday, but I really want to know.
 
@@ -131,7 +133,11 @@ Edit - /u/HideHideHidden, /u/spez, /u/kn0thing, I really hope you guys are takin
 
 Not to mention that the top comments in this thread are all about how this will either be bad or how actual Reddit users don't want this. Note that they are the highest comments in this  thread. These are the sentiments that your own users agree with the most. And collectively they have already obtained at least 21 gildings (only looking at the top 10 top level replies, not accounting for any gildings that may have happened in those threads), all about how people do not want this to come to Reddit.
 
-I'm begging you guys to reconsider this heavily. This is not what your users want. A lot of us are feeling a bit betrayed, and you haven't given us a good reason as to why you went this route. You have several times now cited the difficulty in creating a personal subreddit to do exactly what you claim these user pages are for, so if that is one of the true focuses here, why did you not simply make that process easier? Reddit users, your users, are not happy about this change, and we do not want it to come to Reddit. We are, rightfully so, scared of the implications that such a change will bring later on.  <u/HideHideHidden>: We're working on making it easier for content creators to find a home for their content on Reddit. In practice, this is very similar to a subreddit with one submitter but making the entire process a lot easier for our users. <u/Luna_LoveWell>: I'm one of those people with my own eponymous subreddit (and the largest one for posting OC, as far as I know!) that you're targeting with this change, and I still do not understand the value that this adds *at all*. All I can see is that it takes *away* several features that I regularly use in my personal subreddit including:
+I'm begging you guys to reconsider this heavily. This is not what your users want. A lot of us are feeling a bit betrayed, and you haven't given us a good reason as to why you went this route. You have several times now cited the difficulty in creating a personal subreddit to do exactly what you claim these user pages are for, so if that is one of the true focuses here, why did you not simply make that process easier? Reddit users, your users, are not happy about this change, and we do not want it to come to Reddit. We are, rightfully so, scared of the implications that such a change will bring later on. 
+
+<u/HideHideHidden>: We're working on making it easier for content creators to find a home for their content on Reddit. In practice, this is very similar to a subreddit with one submitter but making the entire process a lot easier for our users.
+
+<u/Luna_LoveWell>: I'm one of those people with my own eponymous subreddit (and the largest one for posting OC, as far as I know!) that you're targeting with this change, and I still do not understand the value that this adds *at all*. All I can see is that it takes *away* several features that I regularly use in my personal subreddit including:
 
 1. Text in the sidebar with more information about me.
 
@@ -144,6 +150,12 @@ I'm begging you guys to reconsider this heavily. This is not what your users wan
 
 -----
 
-As a content creator, what I *really* need from the admins is a better way to let readers out there know that I exist and where they can find my stuff (/r/Luna_Lovewell for all you readers out there!). That's what you should be working on, instead of duplicating what personal subreddits already offer. <u/HideHideHidden>: We'll be adding in these features in time with the new profile experience. We want to enable more great content creators like you to be able to post to their own profile and a following. For content creators today, it's very challenging and we want to make that much easier. If you're happy with your current setup, we're not asking you to do anything different. <u/[deleted]>: [deleted] <u/spez>: > you're claiming setting up a subreddit with posting privileges restricted to yourself is hard
+As a content creator, what I *really* need from the admins is a better way to let readers out there know that I exist and where they can find my stuff (/r/Luna_Lovewell for all you readers out there!). That's what you should be working on, instead of duplicating what personal subreddits already offer.
+
+<u/HideHideHidden>: We'll be adding in these features in time with the new profile experience. We want to enable more great content creators like you to be able to post to their own profile and a following. For content creators today, it's very challenging and we want to make that much easier. If you're happy with your current setup, we're not asking you to do anything different.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: > you're claiming setting up a subreddit with posting privileges restricted to yourself is hard
 
 It's totally hard, which is why few people do it. Yes, we do have other problems, including a clunky UI around some of this stuff, which we're working on.

@@ -16,4 +16,8 @@ As always, we will keep an eye out for any unintended side-effects and make chan
 
 Steve
 
-u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours. <u/raven12456>: How will this affect when an event occurs and a subreddit has a lot of activity? (Ex- /r/Sports or sport specific subs during playoffs/finals, /r/news when something happens before it gets rolled into a megathread, /r/DOTA 2 during The Internationals, etc) Will we be seeing less of those on r/all when that happens?  <u/spez>: You'll see fewer powers from the same community. This is one of those cases where we might be throwing out some of the good with the bad. We'll keep a watch during major events and see how it feels. I don't believe r/all or our current front page is the best solution for Reddit, but it's the best we have right now.
+u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
+
+<u/raven12456>: How will this affect when an event occurs and a subreddit has a lot of activity? (Ex- /r/Sports or sport specific subs during playoffs/finals, /r/news when something happens before it gets rolled into a megathread, /r/DOTA 2 during The Internationals, etc) Will we be seeing less of those on r/all when that happens? 
+
+<u/spez>: You'll see fewer powers from the same community. This is one of those cases where we might be throwing out some of the good with the bad. We'll keep a watch during major events and see how it feels. I don't believe r/all or our current front page is the best solution for Reddit, but it's the best we have right now.

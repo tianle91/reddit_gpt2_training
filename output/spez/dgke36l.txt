@@ -39,7 +39,9 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/[deleted]>: > We’re designing a new set of tools to address the challenges with CSS but continue to allow communities to express their identities  
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/[deleted]>: > We’re designing a new set of tools to address the challenges with CSS but continue to allow communities to express their identities  
    
 I'm not even remotely technically literate, so can I ask what this means? Are you replacing CSS with something else?  
   
@@ -47,4 +49,6 @@ I'm not even remotely technically literate, so can I ask what this means? Are yo
   
 Indeed, great job admins  
   
- <u/spez>: Yes, we're replacing CSS with a set of tools for customizing the appearance of your subreddit. One of the reasons for this is to make custome styling more accessible to those who are not as technically literate.
+
+
+<u/spez>: Yes, we're replacing CSS with a set of tools for customizing the appearance of your subreddit. One of the reasons for this is to make custome styling more accessible to those who are not as technically literate.

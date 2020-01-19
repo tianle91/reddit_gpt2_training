@@ -30,8 +30,12 @@ Again, I am sorry for the trouble I have caused. While I intended no harm, that 
 Steve
 
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
- <u/CaptInsane>: How do you feel about [ArsTechnica's David Kravets](http://arstechnica.com/tech-policy/2016/11/reddit-chief-admits-to-editing-comments-that-were-critical-of-him/) comparing you to Ellen Pao, and that despite all the hate she got she didn't stoop this low?
 
-> Even Ellen Pao, the former Reddit CEO, didn't change comments despite a barrage of insults levied at her last year as the site began cleaning up its community. <u/spez>: It's fair. Ellen wasn't the first Reddit engineer, so she probably lacked the expertise to do it, and even if she did, she was smart enough to not.
+
+<u/CaptInsane>: How do you feel about [ArsTechnica's David Kravets](http://arstechnica.com/tech-policy/2016/11/reddit-chief-admits-to-editing-comments-that-were-critical-of-him/) comparing you to Ellen Pao, and that despite all the hate she got she didn't stoop this low?
+
+> Even Ellen Pao, the former Reddit CEO, didn't change comments despite a barrage of insults levied at her last year as the site began cleaning up its community.
+
+<u/spez>: It's fair. Ellen wasn't the first Reddit engineer, so she probably lacked the expertise to do it, and even if she did, she was smart enough to not.
 
 u: Since this is blowing up, let me clarify. Ellen wasn't an engineer, so she probably lacked access, and if she did have access, she wouldn't have done this. I have said many times I thought the way she was treated on Reddit was despicable. The changes we made to r/all earlier this summer would have mitigated some of the harassment, and I regret we didn't make those changes years ago.

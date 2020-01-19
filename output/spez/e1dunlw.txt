@@ -2,13 +2,21 @@
 
 Let me try: https://www.reddit.com/comments/8u9vhi
 
-EDIT: Shit I was close <u/the-crotch>: What you're describing is a self post, there's a button for it <u/FreeSpeechWarrior>: This was actually the origin of self posts, they were not originally a reddit feature, but users created the feature by guessing the link to their own post.
+EDIT: Shit I was close
 
- <u/RunDNA>: This is true. Here are the two earliest known self-posts:
+<u/the-crotch>: What you're describing is a self post, there's a button for it
+
+<u/FreeSpeechWarrior>: This was actually the origin of self posts, they were not originally a reddit feature, but users created the feature by guessing the link to their own post.
+
+
+
+<u/RunDNA>: This is true. Here are the two earliest known self-posts:
 
 6 Jan 2006:  https://www.reddit.com/r/reddit.com/comments/24912/ask_reddit_were_can_a_student_get_internshipstyle/
 
-16 Jan 2006: https://www.reddit.com/r/reddit.com/comments/27353/recursive_reddit_self_link/ <u/spez>: There are also a bunch of examples of users guessing wrong, which created all sorts of hilarious confusion.
+16 Jan 2006: https://www.reddit.com/r/reddit.com/comments/27353/recursive_reddit_self_link/
+
+<u/spez>: There are also a bunch of examples of users guessing wrong, which created all sorts of hilarious confusion.
 
 The first version of text posts required the user to type “self” in the url field to create it automatically. 
 

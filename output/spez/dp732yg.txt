@@ -24,6 +24,10 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 -Steve
 
-update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers! <u/tecnocrat>: What is reddit doing to find and shut down toxic communities before they rise to the level of media prominence? <u/spez>: We have a more clear content policy than we've had in the past, we've staffed our team to handle more load, and we have internal processes to speed decision making.
+update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
+
+<u/tecnocrat>: What is reddit doing to find and shut down toxic communities before they rise to the level of media prominence?
+
+<u/spez>: We have a more clear content policy than we've had in the past, we've staffed our team to handle more load, and we have internal processes to speed decision making.
 
 The result is that we are in fact getting to toxic communities far quicker than we have in the past. This is evidenced by the size of communities themselves. In 2015/16, these communities were often 50k+ subscribers. In the most recent wave, the largest community was about 7k.

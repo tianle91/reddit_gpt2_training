@@ -20,7 +20,11 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/reusaubaous>: Will the mobile web site be receiving a redesign as well? <u/spez>: Yes. And, we're investing more in the AMP (trimmed down, super fast) version as well.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/reusaubaous>: Will the mobile web site be receiving a redesign as well?
+
+<u/spez>: Yes. And, we're investing more in the AMP (trimmed down, super fast) version as well.
 
 > I don’t use reddit often enough to justify the app
 

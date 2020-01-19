@@ -30,13 +30,17 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/nacho_grande>: Thanks for being more transparent then facebook has been with tracking down accounts linked back the IRA. 
+update: I'm off for now. Thanks for the questions!
+
+<u/nacho_grande>: Thanks for being more transparent then facebook has been with tracking down accounts linked back the IRA. 
 
 Facebook mentioned today that there may be 10's of thousands of accounts that may be bots/actors on their platform. Do you think that there could be more bots/actors on the reddit platform? How do you go about tracking that?
 
 Also, when is reddit going to be reviewing /r/the_donald for rules that they are obviously breaking? I'm not saying to ban the sub, but to enforce rules for the accounts breaking reddit site rules.
 
-Edit: RIP MY INBOX <u/spez>: The accounts we released today are the ones we confirmed as suspicious, but we continue to look for more.
+Edit: RIP MY INBOX
+
+<u/spez>: The accounts we released today are the ones we confirmed as suspicious, but we continue to look for more.
 
 We review r/the_donald frequently. We don't believe they are presently breaking our [site-wide rules](https://www.reddit.com/help/contentpolicy/). That does not mean we endorse their views, however. In many cases their views and values conflict with my own, but allowing other views to exist is what lends authenticity to all of Reddit.
 

@@ -22,4 +22,8 @@ Cool.
 
 &nbsp;
 
-^1 No snark allowed. <u/[deleted]>: If we opt-in to the alpha, can we pull out if the alpha fucks things up too much? <u/spez>: The alpha will be a separate website, so, yes.
+^1 No snark allowed.
+
+<u/[deleted]>: If we opt-in to the alpha, can we pull out if the alpha fucks things up too much?
+
+<u/spez>: The alpha will be a separate website, so, yes.

@@ -23,4 +23,8 @@ As you can see, lots on our plates right now, but the team is cranking, and we'r
 
 I'll be hanging around in the comments for an hour or so.
 
-update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/RamsesThePigeon>: There have been quite a few scripted bots and spammers showing up lately, and with increasing frequency. Are there plans to make it more difficult for them to operate? <u/spez>: I consider them in the same context as brigaders. Any automated or coordinated behaviors that undermine Reddit will be examined. That said, there are lots of bots that provide useful services as well.
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
+
+<u/RamsesThePigeon>: There have been quite a few scripted bots and spammers showing up lately, and with increasing frequency. Are there plans to make it more difficult for them to operate?
+
+<u/spez>: I consider them in the same context as brigaders. Any automated or coordinated behaviors that undermine Reddit will be examined. That said, there are lots of bots that provide useful services as well.

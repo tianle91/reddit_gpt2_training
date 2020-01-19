@@ -30,10 +30,14 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/aznanimality>: >In my post last month, I described that we had found and removed a few hundred accounts that were of suspected Russian Internet Research Agency origin.  
+update: I'm off for now. Thanks for the questions!
+
+<u/aznanimality>: >In my post last month, I described that we had found and removed a few hundred accounts that were of suspected Russian Internet Research Agency origin.  
   
   
-Any info on what subs they were posting to? <u/spez>: There were about 14k posts in total by all of these users. The top ten communities by posts were:
+Any info on what subs they were posting to?
+
+<u/spez>: There were about 14k posts in total by all of these users. The top ten communities by posts were:
 
 * funny: 1455
 * uncen: 1443
@@ -46,7 +50,9 @@ Any info on what subs they were posting to? <u/spez>: There were about 14k posts
 * POLITIC: 232
 * racism: 214
 
-We left the accounts up so you may dig in yourselves. <u/RamsesThePigeon>: Speaking as a moderator of both /r/Funny and /r/GIFs, I'd like to offer a bit of clarification here.
+We left the accounts up so you may dig in yourselves.
+
+<u/RamsesThePigeon>: Speaking as a moderator of both /r/Funny and /r/GIFs, I'd like to offer a bit of clarification here.
 
 When illicit accounts are created, they usually go through a period of posting low-effort content that's intended to quickly garner a lot of karma. These accounts generally aren't registered by the people who wind up using them for propaganda purposes, though. In fact, they're often "farmed" by call-center-like environments overseas – popular locations are India, Pakistan, China, Indonesia, and Russia – then sold to firms that specialize in spinning information (whether for advertising, pushing political agendas, or anything else).
 
@@ -56,4 +62,6 @@ Now, the reason I bring this up is because for every shill account that actually
 
 When you spot one, please report it to the moderators of that subReddit.
 
-Reddit has gotten a lot better at cracking down on these accounts behind the scenes, but there's still a long way to go... and as users, every one of us can make a difference, even if it sometimes doesn't seem like it. <u/spez>: It's not clear from the banned users pages, but mods banned more than half of the users and a majority of the posts before they got any traction at all. That was heartening to see. Thank you for all that you and your mod cabal do for Reddit.
+Reddit has gotten a lot better at cracking down on these accounts behind the scenes, but there's still a long way to go... and as users, every one of us can make a difference, even if it sometimes doesn't seem like it.
+
+<u/spez>: It's not clear from the banned users pages, but mods banned more than half of the users and a majority of the posts before they got any traction at all. That was heartening to see. Thank you for all that you and your mod cabal do for Reddit.

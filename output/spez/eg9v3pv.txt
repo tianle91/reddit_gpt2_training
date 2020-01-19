@@ -6,7 +6,9 @@ So what this ends up doing, as I’m sure anyone here has already thought about,
 
 Anecdotally, what I experience is that downvotes make Reddit seem toxic and unpleasant and incentivize brief sarcastic exchanges which are also toxic and unpleasant. What do you think?
 
-E: the opinion seems overwhelmingly that it’s bad. Interesting that the feature exists. There must be a reason. <u/spez>: A couple years ago, I was wondering this exact question.
+E: the opinion seems overwhelmingly that it’s bad. Interesting that the feature exists. There must be a reason.
+
+<u/spez>: A couple years ago, I was wondering this exact question.
 
 Ups and downs are something we've had since *nearly* the first version of Reddit (but not the very first version: early iterations had words instead of arrows, but words were too subjective and restrictive).
 

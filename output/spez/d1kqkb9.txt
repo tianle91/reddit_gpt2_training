@@ -19,11 +19,19 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 (I'll do my best to answer questions, but as with all legal matters, I can't always be completely candid.)
 
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
- <u/DistortedShadow>: [deleted]  
- ^^^^^^^^^^^^^^^^0.7787 
- > [What is this?](https://pastebin.com/64GuVi2F/01356) <u/spez>: My understanding is we can delete whatever we want, unless we receive a "preservation request."
 
-We keep the deleted comments in an attempt to preserve the continuity of conversation. It's purely a product decision. <u/[deleted]>: [deleted] <u/spez>: The behavior is different when someone explicitly deletes a comment (we don't show it) versus deleting their account (we don't show the account name on the comment).
+
+<u/DistortedShadow>: [deleted]  
+ ^^^^^^^^^^^^^^^^0.7787 
+ > [What is this?](https://pastebin.com/64GuVi2F/01356)
+
+<u/spez>: My understanding is we can delete whatever we want, unless we receive a "preservation request."
+
+We keep the deleted comments in an attempt to preserve the continuity of conversation. It's purely a product decision.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: The behavior is different when someone explicitly deletes a comment (we don't show it) versus deleting their account (we don't show the account name on the comment).
 
 update to answer some questions:
 

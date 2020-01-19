@@ -10,7 +10,9 @@ Today, in addition to applying Quarantines, we are banning a handful of communit
 
 I believe these policies strike the right balance.
 
-update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/Teh_Compass>: Quarantining is a good step from outright banning. But banning more subreddits in addition to that isn't going to solve anything.
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
+
+<u/Teh_Compass>: Quarantining is a good step from outright banning. But banning more subreddits in addition to that isn't going to solve anything.
 
 Banning subreddits that break the TOS like harassing users and such makes sense, but you can't go and ban subreddits that don't, no matter how much people don't like them.
 
@@ -18,4 +20,6 @@ Banning subreddits that break the TOS like harassing users and such makes sense,
 
 /r/coontown, for example is easily ignored and doesn't deserve to be banned, even if they are racist as shit. I hear rumors about brigading but I personally don't know enough about it. If there is evidence that they are doing something like that then by all means ban them. But just because you don't agree with them doesn't mean they should be banned.
 
-You essentially run the site and can do whatever you want. But remember what the users want. <u/spez>: We didn't ban them because we disagree with them. We banned them because this exist solely to annoy other redditors, prevent us from improving Reddit, and generally make Reddit worse for everyone else. 
+You essentially run the site and can do whatever you want. But remember what the users want.
+
+<u/spez>: We didn't ban them because we disagree with them. We banned them because this exist solely to annoy other redditors, prevent us from improving Reddit, and generally make Reddit worse for everyone else. 

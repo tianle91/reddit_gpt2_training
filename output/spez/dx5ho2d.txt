@@ -30,4 +30,8 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/mostoriginalusername>: Why is reddit.com using 10-20% CPU  when all of my other 10-20 tabs combined are using 1-2%? <u/spez>: Believe me, this annoys me to no end. We're releasing a lot of product changes, and not all of them are optimized (I'll take the good with the bad). We do have a couple people specifically tackling perf right now.
+update: I'm off for now. Thanks for the questions!
+
+<u/mostoriginalusername>: Why is reddit.com using 10-20% CPU  when all of my other 10-20 tabs combined are using 1-2%?
+
+<u/spez>: Believe me, this annoys me to no end. We're releasing a lot of product changes, and not all of them are optimized (I'll take the good with the bad). We do have a couple people specifically tackling perf right now.

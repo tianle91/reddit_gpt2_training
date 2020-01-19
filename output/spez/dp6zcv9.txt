@@ -24,9 +24,13 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 -Steve
 
-update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers! <u/herennius>: Why was it only in the last week that the new policy on violence was instated?
+update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-What is the process like for considering and implementing new/changed policies? <u/spez>: There were two main reasons. The first is that we take our time on policy changes. We want to be thoughtful about the policy itself, which takes time, and the policy roll-out was done in conjunction with mass enforcement actions, which also take time to plan and coordinate.
+<u/herennius>: Why was it only in the last week that the new policy on violence was instated?
+
+What is the process like for considering and implementing new/changed policies?
+
+<u/spez>: There were two main reasons. The first is that we take our time on policy changes. We want to be thoughtful about the policy itself, which takes time, and the policy roll-out was done in conjunction with mass enforcement actions, which also take time to plan and coordinate.
 
 The second reason is that we waited until we had more staff on our Trust and Safety team so we guarantee coverage.
 

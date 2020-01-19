@@ -24,7 +24,9 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 -Steve
 
-update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers! <u/[deleted]>: 1. Please remove r/ice_poseidon from r/all, or maybe reddit altogether. It's a whole sub dedicated to abusing and bullying a streamers girlfriend and this week has taken to spamming porn. It's toxic.
+update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
+
+<u/[deleted]>: 1. Please remove r/ice_poseidon from r/all, or maybe reddit altogether. It's a whole sub dedicated to abusing and bullying a streamers girlfriend and this week has taken to spamming porn. It's toxic.
 
 2. You owe the community an explanation as to why the_donald is allowed to continue to operate after another one of reddits famous clean ups.
 
@@ -32,10 +34,16 @@ Thanks.
 
 Edit 2: seeing as this is gaining prominence perhaps.we can talk about r/freshmodels and why reddit is ok with paedophilia?
 
-Edit: by r/all I meant r/popular. However u/spez has chosen to pretend that I edited in my second question for some reason. To clarify; I did not. <u/spez>: We're taking another pass at r/popular, Reddit's default listing, as we speak, and I expect their remove.
+Edit: by r/all I meant r/popular. However u/spez has chosen to pretend that I edited in my second question for some reason. To clarify; I did not.
+
+<u/spez>: We're taking another pass at r/popular, Reddit's default listing, as we speak, and I expect their remove.
 
 r/all will remain unfiltered, but it's opt-in.
 
-edit: you added a second question after I answered. See my [response re the_donald](https://www.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp708xx/). <u/IranianGenius>: Any chance that users will be able to filter more than 100 subreddits?
+edit: you added a second question after I answered. See my [response re the_donald](https://www.reddit.com/r/announcements/comments/7a4bjo/time_for_my_quarterly_inquisition_reddit_ceo_here/dp708xx/).
 
-For users who don't want politics, games they don't play, certain memes, or certain nsfw subs, surely the count is well over 100 now. Not to mention languages we can't speak so we can't really participate in those. There are so many subreddits big enough to hit /r/all now.  <u/spez>: I'm not sure off the top of my head if there is a performance reason or if it's arbitrary. I can follow up, and if it's the latter, it's an easy change.
+<u/IranianGenius>: Any chance that users will be able to filter more than 100 subreddits?
+
+For users who don't want politics, games they don't play, certain memes, or certain nsfw subs, surely the count is well over 100 now. Not to mention languages we can't speak so we can't really participate in those. There are so many subreddits big enough to hit /r/all now. 
+
+<u/spez>: I'm not sure off the top of my head if there is a performance reason or if it's arbitrary. I can follow up, and if it's the latter, it's an easy change.

@@ -19,6 +19,10 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/orochi>: I know reddit admins sometimes take action (though they wont say what) when they encounter suicidal users on their platform.
 
-I wish you would include when/if you notified authorities for those users in your transparency report. I think it would be beneficial to see that. <u/spez>: What happens in these cases is we notify law enforcement and ask them to send a formal request. Those formal requests are counted in the report.
+
+<u/orochi>: I know reddit admins sometimes take action (though they wont say what) when they encounter suicidal users on their platform.
+
+I wish you would include when/if you notified authorities for those users in your transparency report. I think it would be beneficial to see that.
+
+<u/spez>: What happens in these cases is we notify law enforcement and ask them to send a formal request. Those formal requests are counted in the report.

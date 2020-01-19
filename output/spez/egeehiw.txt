@@ -20,6 +20,10 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/The-HilariousFingers>: Just out of interest. From the perspective of a large company how difficult has/was adapting to the EU's GDPR regulation been? <u/spez>: It's not easy, but mostly because government regulations often don't factor in the technical realities of their implementations.
+update: I'm out for now. Will check back later.
+
+<u/The-HilariousFingers>: Just out of interest. From the perspective of a large company how difficult has/was adapting to the EU's GDPR regulation been?
+
+<u/spez>: It's not easy, but mostly because government regulations often don't factor in the technical realities of their implementations.
 
 That said, it's easier for us than others because we don't actually have a lot of non-public data about our users.

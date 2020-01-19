@@ -8,4 +8,6 @@ http://www.amazon.com/dp/B00GTV05XG/ref=wl_it_dp_o_pd_S_ttl?_encoding=UTF8&colid
 
 My best guess is another Mod though "ref=" meant referral and tagged them some time ago.  And since the system "learns" it remembered it?  I don't know if that is the case, nor how to check or fix it if it is.
 
-Or maybe it is something else I missed? <u/spez>: Ironically, this post was also banned. Someone else can probably chime in with the exact cause.
+Or maybe it is something else I missed?
+
+<u/spez>: Ironically, this post was also banned. Someone else can probably chime in with the exact cause.

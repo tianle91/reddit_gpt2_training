@@ -39,11 +39,19 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/iNeverQuiteWas>: What does this mean for the people like /u/qtx and myself and many others who put in time to design subreddits. Was all of that for nothing?  <u/spez>: No. It was awesome work, and we hope you continue to help your fellow mods.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/iNeverQuiteWas>: What does this mean for the people like /u/qtx and myself and many others who put in time to design subreddits. Was all of that for nothing? 
+
+<u/spez>: No. It was awesome work, and we hope you continue to help your fellow mods.
 
 Saying it was for nothing would be like saying all the work I and the team did on the current site was for nothing.
 
-We should all be proud of what we've accomplished, but know that everything evolves over time. <u/iNeverQuiteWas>: Yes but let's be honest here: you get paid for this, and I don't. My reward was seeing my work reach thousands of people. At the end of the day, you still have a site, users, etc., while my work is completely lost. I'm a little butt hurt I guess.  <u/spez>: While I do get paid, I don't do it for the money.
+We should all be proud of what we've accomplished, but know that everything evolves over time.
+
+<u/iNeverQuiteWas>: Yes but let's be honest here: you get paid for this, and I don't. My reward was seeing my work reach thousands of people. At the end of the day, you still have a site, users, etc., while my work is completely lost. I'm a little butt hurt I guess. 
+
+<u/spez>: While I do get paid, I don't do it for the money.
 
 You've touched the lives of thousands (millions?) of people, and should be proud.
 

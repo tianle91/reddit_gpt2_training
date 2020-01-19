@@ -24,4 +24,8 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 -Steve
 
-update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers! <u/YoureNotEvenWhite>: Mobile user here... Are you guys looking to implement more detailed subreddit info on the mobile app? When I go onto a subreddit, I'm currently unable to view the subreddit rules, etc. and a lot of times have my posts removed because of my lack of information. Thank you! <u/spez>: Submit-time validation is high on our list. That'll mean users get errors immediately instead of being surprised later. Should help, I think.
+update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
+
+<u/YoureNotEvenWhite>: Mobile user here... Are you guys looking to implement more detailed subreddit info on the mobile app? When I go onto a subreddit, I'm currently unable to view the subreddit rules, etc. and a lot of times have my posts removed because of my lack of information. Thank you!
+
+<u/spez>: Submit-time validation is high on our list. That'll mean users get errors immediately instead of being surprised later. Should help, I think.

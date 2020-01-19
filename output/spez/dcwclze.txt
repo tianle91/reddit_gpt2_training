@@ -23,4 +23,8 @@ Here's to a happy, productive, drama-free (ha), 2017!
 Steve and the Reddit team
 
 update: I'm off for now. Will check back in a couple hours. Thanks!
- <u/[deleted]>: What do you guys think of the mods that use a bot to detect when a user posts on a sub they don't like and then bans them from their own sub when most of the time that user hasn't broken any rules in their sub or even participated in it? <u/spez>: I don't like it, but I also know sometimes it's necessary. There are a handful of things like this (e.g. auto-banning, shadow-banning) that I'd like to get rid of, but if we do so without providing a better alternative, we'd cause a lot of trouble.
+
+
+<u/[deleted]>: What do you guys think of the mods that use a bot to detect when a user posts on a sub they don't like and then bans them from their own sub when most of the time that user hasn't broken any rules in their sub or even participated in it?
+
+<u/spez>: I don't like it, but I also know sometimes it's necessary. There are a handful of things like this (e.g. auto-banning, shadow-banning) that I'd like to get rid of, but if we do so without providing a better alternative, we'd cause a lot of trouble.

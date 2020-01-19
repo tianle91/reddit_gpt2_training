@@ -18,4 +18,8 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/LintGrazOr8>: What kind of 3rd party analytics does reddit actually use? <u/spez>: Presently, Google, but these things come and go. One of the reasons I like DNT is a user can set it once and not worry about it.
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/LintGrazOr8>: What kind of 3rd party analytics does reddit actually use?
+
+<u/spez>: Presently, Google, but these things come and go. One of the reasons I like DNT is a user can set it once and not worry about it.

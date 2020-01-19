@@ -19,6 +19,18 @@ In the wake of this weekend, we will be making a handful of technology and proce
 * We are working on a change to the r/all algorithm to promote more diversity in the feed, which will help provide more variety of viewpoints and prevent vote manipulation.
 * We are nearly fully staffed on our Community team, and will continue increasing support for moderator teams of major communities.
 
-Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time.  <u/ghostsnstufx>: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything? <u/spez>: Their response is [here](https://www.reddit.com/r/news/comments/4nsiw1/state_of_the_subreddit_and_the_orlando_shooting/). <u/CaptainDogeSparrow>: What do you have to say about one of /r/mods telling a user to "Kill yourself"? <u/spez>: It's totally inappropriate and that person is no longer a mod. <u/Buelldozer>: C'mon, none of us here are stupid. That mod account was 4 months old, it was clearly someone's sock puppet and it's highly likely that person is another mod on the team. No account goes from new to moderator of a default sub (with almost no history) in 4 months.
+Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time. 
 
-This kind of crud threatens your business, the business of Reddit Inc, and you'd better start taking it more seriously. <u/spez>: My understanding is it was a new account from an old mod. His original account is also gone. He stepped down about a year ago when he got a new job, and returned a few months ago.
+<u/ghostsnstufx>: Is there an official response from the /r/news mods? Do we know what was removed and WHY, or was it just everything?
+
+<u/spez>: Their response is [here](https://www.reddit.com/r/news/comments/4nsiw1/state_of_the_subreddit_and_the_orlando_shooting/).
+
+<u/CaptainDogeSparrow>: What do you have to say about one of /r/mods telling a user to "Kill yourself"?
+
+<u/spez>: It's totally inappropriate and that person is no longer a mod.
+
+<u/Buelldozer>: C'mon, none of us here are stupid. That mod account was 4 months old, it was clearly someone's sock puppet and it's highly likely that person is another mod on the team. No account goes from new to moderator of a default sub (with almost no history) in 4 months.
+
+This kind of crud threatens your business, the business of Reddit Inc, and you'd better start taking it more seriously.
+
+<u/spez>: My understanding is it was a new account from an old mod. His original account is also gone. He stepped down about a year ago when he got a new job, and returned a few months ago.

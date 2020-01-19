@@ -37,8 +37,12 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/[deleted]>: You really need to clarify 
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/[deleted]>: You really need to clarify 
 
 >Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence)
 
-because that's rather vague and is very much open to interpretation (one person's definition of harassment is not necessarily another's - is it harassment just because one person says so?). To be honest, I see nothing here that's really new to the existing content policy outside of "the common decency opt in", which I'm probably ok with - that will depend on how it's implemented and what is classified as abhorrent. <u/spez>: Right. This isn't different from what we have right now, but we really need to enforce it better.
+because that's rather vague and is very much open to interpretation (one person's definition of harassment is not necessarily another's - is it harassment just because one person says so?). To be honest, I see nothing here that's really new to the existing content policy outside of "the common decency opt in", which I'm probably ok with - that will depend on how it's implemented and what is classified as abhorrent.
+
+<u/spez>: Right. This isn't different from what we have right now, but we really need to enforce it better.

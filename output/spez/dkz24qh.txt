@@ -20,8 +20,12 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/FlavourFlavius>: How do you enforce something proactively, rather than reactively? Is this catching abuse before it is reported?
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-I'm desperately hoping for a 'Minority Report' system of mods in a paddling pool. <u/spez>: Who told you about the paddling pool?
+<u/FlavourFlavius>: How do you enforce something proactively, rather than reactively? Is this catching abuse before it is reported?
+
+I'm desperately hoping for a 'Minority Report' system of mods in a paddling pool.
+
+<u/spez>: Who told you about the paddling pool?
 
 We build models of past bad behavior to detect future bad behavior before it hits scale (report abuse, login bots, etc).

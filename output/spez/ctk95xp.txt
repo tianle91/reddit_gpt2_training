@@ -23,4 +23,14 @@ As you can see, lots on our plates right now, but the team is cranking, and we'r
 
 I'll be hanging around in the comments for an hour or so.
 
-update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/bbrazil>: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe? <u/spez>: A straight-up, "you are banned because of X" is the first thing we need. <u/MerryChoppins>: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster?  <u/scsuhockey>: How about suspensions instead of bans? Tell them the reason then tell them the length of suspension will be revealed within a short period of time. Basically, give them hope that they'll get their handle back for as long as possible to discourage them from starting a new account. Cruel, but possibly more effective. <u/spez>: I think timeouts are an important part of this. Plus, it makes mods/admins lives easier.
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
+
+<u/bbrazil>: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe?
+
+<u/spez>: A straight-up, "you are banned because of X" is the first thing we need.
+
+<u/MerryChoppins>: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster? 
+
+<u/scsuhockey>: How about suspensions instead of bans? Tell them the reason then tell them the length of suspension will be revealed within a short period of time. Basically, give them hope that they'll get their handle back for as long as possible to discourage them from starting a new account. Cruel, but possibly more effective.
+
+<u/spez>: I think timeouts are an important part of this. Plus, it makes mods/admins lives easier.

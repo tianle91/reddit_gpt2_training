@@ -23,16 +23,24 @@ Here's to a happy, productive, drama-free (ha), 2017!
 Steve and the Reddit team
 
 update: I'm off for now. Will check back in a couple hours. Thanks!
- <u/[deleted]>: 1. Do you guys check out /r/ideasfortheadmins? There are quite a few great ideas that you could choose from there to introduce to reddit  
+
+
+<u/[deleted]>: 1. Do you guys check out /r/ideasfortheadmins? There are quite a few great ideas that you could choose from there to introduce to reddit  
 2. What is the process to get subs that blatantly violate [reddit's involuntary pornography rules](https://reddit.zendesk.com/hc/en-us/articles/205704725-What-is-involuntary-pornography-and-glorification-of-sexual-violence-) banned or atleast have an admin look at them?   
 3. I wish the /r/communitydialogue project gets started again. There are quite a lot of things moderators wish to discuss with the admins like /u/achievementunlockd. I hope you're able to allocate more resources to this subreddit. Two particular areas of concern for me anyway is how to deal with spam that is not caught by the spambot at /r/spam, and how to better deal with ban evaders.  
 4. Why do admins mod hate subs like /r/onionhate? They ban innocent users from /r/OnionLovers   
-5. Can we have better traffic stats for subreddits? The existing stats exclude mobile traffic and are not very indepth.  <u/spez>: 1. Yes. The limiting factor for improvements isn't ideas, it's our ancient codebase and hesitation to break things like RES and custom styles. In that respect, I feel like we've been held hostage from a development point of view (Stockholm syndrome?). That's why we're so excited to rewrite desktop web. It's going to be a doozy, but worth it in the end.
+5. Can we have better traffic stats for subreddits? The existing stats exclude mobile traffic and are not very indepth. 
+
+<u/spez>: 1. Yes. The limiting factor for improvements isn't ideas, it's our ancient codebase and hesitation to break things like RES and custom styles. In that respect, I feel like we've been held hostage from a development point of view (Stockholm syndrome?). That's why we're so excited to rewrite desktop web. It's going to be a doozy, but worth it in the end.
 
 2. Please send to contact@reddit.com
 
 3. Yes. I'll follow up there. I know it got a little derailed with Spezgiving and the holidays.
 
-4. If u/sodypop says so, that's the way it is  <u/[deleted]>: >I feel like we've been held hostage from a development point of view 
+4. If u/sodypop says so, that's the way it is 
 
-Does this mean reddit will prioritize utility over design? Because current proto reddit 2.0 designs are pretty but lacking entirely a lot of functionality. On mobile this may work out, but your power users are on desktop. How will you tackle that? <u/spez>: We test everything carefully. One of the major efforts of 2016 was both building the testing framework and the culture of experimentation.
+<u/[deleted]>: >I feel like we've been held hostage from a development point of view 
+
+Does this mean reddit will prioritize utility over design? Because current proto reddit 2.0 designs are pretty but lacking entirely a lot of functionality. On mobile this may work out, but your power users are on desktop. How will you tackle that?
+
+<u/spez>: We test everything carefully. One of the major efforts of 2016 was both building the testing framework and the culture of experimentation.

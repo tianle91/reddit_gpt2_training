@@ -19,4 +19,8 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/-eDgAR->: Any update on 2FA for accounts? This whole talk about privacy reminded me I haven't heard anything in a while <u/spez>: Yes, pretty sure it's on the roadmap for this quarter. Our focus the past couple of quarters has been to identify accounts that are likely to be taken over and protecting those (usually by issuing password resets).
+
+
+<u/-eDgAR->: Any update on 2FA for accounts? This whole talk about privacy reminded me I haven't heard anything in a while
+
+<u/spez>: Yes, pretty sure it's on the roadmap for this quarter. Our focus the past couple of quarters has been to identify accounts that are likely to be taken over and protecting those (usually by issuing password resets).

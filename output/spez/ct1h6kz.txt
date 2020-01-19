@@ -2,7 +2,9 @@
 
 Some of his comments in the public AMA regarding shadowbans and deletion are going to be of great concern to more than just a few mods.  I'm predicting another sitewide shitstorm if the concerns about it are not addressed sooner rather than later.
 
-http://redd.it/3cxedn <u/AsAChemicalEngineer>: I wrote these two comments in /r/modtalk and /r/IAmA. Here is the brunt of my concern:  
+http://redd.it/3cxedn
+
+<u/AsAChemicalEngineer>: I wrote these two comments in /r/modtalk and /r/IAmA. Here is the brunt of my concern:  
 ______  
 From the AMA:  
 
@@ -27,12 +29,18 @@ This is a question of resources. We moderators already can have very full plates
 ______  
 Spez, I don't think you understand what an impossible idea this is. Some of the biggest and high quality subs moderate and remove thousands of comments for a variety of reasons. Are you telling us that we, moderators, need to be accountable for every single removal? This simply isn't a feasible prospect and the best mod tools in the world will not make it so.  
 
-Why should /r/AskScience allow users to appeal our decision to ban young earth creationism in that sub? Or holocaust denial in /r/history? Why make more work for the good folks at /r/AskHistorians? <u/spez>: I think I've said many times that my intention isn't to make anyone's duties more difficult. I believe we can build better tools that will save everyone time.
+Why should /r/AskScience allow users to appeal our decision to ban young earth creationism in that sub? Or holocaust denial in /r/history? Why make more work for the good folks at /r/AskHistorians?
+
+<u/spez>: I think I've said many times that my intention isn't to make anyone's duties more difficult. I believe we can build better tools that will save everyone time.
 
 I also believe that shadow banning shouldn't be the only option because it isn't needed in many cases. It happens that in practice is *is* the only option, but we can build a better variety of tools.
 
-After seeing all the discussion over the weekend, I think the most important thing we can do is work on tools to curb harassment of mods. I won't have time for an AMA tomorrow, but I'll find some time later this week. <u/Amablue>: > I also believe that shadow banning shouldn't be the only option because it isn't needed in many cases. It happens that in practice is is the only option, but we can build a better variety of tools.
+After seeing all the discussion over the weekend, I think the most important thing we can do is work on tools to curb harassment of mods. I won't have time for an AMA tomorrow, but I'll find some time later this week.
+
+<u/Amablue>: > I also believe that shadow banning shouldn't be the only option because it isn't needed in many cases. It happens that in practice is is the only option, but we can build a better variety of tools.
 
 On this subject, if you haven't seen it before, I highly recommend  watching the GDC talk [The Science Behind Shaping Player Behavior in Online Games](http://gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player) (and it's follow up talk [More Science Behind Shaping Player Behavior in Online Games](http://www.gdcvault.com/play/1022160/More-Science-Behind-Shaping-Player)) by Riot Games. It's targeted at online game communities, but I think most of the talk's take-aways can be applied to reddit as well. They talked about how ineffective their moderating was when they only had one tool (banning) and how drastically they improved things when they ~~game~~ gave themselves better tools which pretty strongly mirrors the growing pains that reddit has been going through lately. Both videos together are under an hour and it's well worth it. 
 
-Edit: fixed typo <u/spez>: Cool, thanks.
+Edit: fixed typo
+
+<u/spez>: Cool, thanks.

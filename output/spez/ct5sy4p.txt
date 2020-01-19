@@ -37,6 +37,10 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/hansjens47>: www.Reddit.com/rules outlines the 5 rules of reddit. They're really vague, and the rest of the Reddit wiki has tonnes of extra details on what the rules actually imply. 
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-What's the plan for centralizing the rules so they make up a "Content Policy" ?  <u/spez>: That's the exact plan: centralize the rules.
+<u/hansjens47>: www.Reddit.com/rules outlines the 5 rules of reddit. They're really vague, and the rest of the Reddit wiki has tonnes of extra details on what the rules actually imply. 
+
+What's the plan for centralizing the rules so they make up a "Content Policy" ? 
+
+<u/spez>: That's the exact plan: centralize the rules.

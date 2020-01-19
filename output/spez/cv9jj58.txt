@@ -26,6 +26,10 @@ Finally, yes, it’s true.  I am running for President of the United States.  My
 
 I have about 1.17 hours now to answer questions, and then I'm going and playing with my wee ones.
 
-Edit: Running to my train.  If I can get a seat, I'll finish off some in-flight answers.  XOXOXO, Marty <u/ColdstreamRed>: What're the plans with the iOS interface? Are we going to see a major revamp, or are you sticking with the diagonal 'theme'? <u/spez>: Major UI revamp is underway with, amongst many things, more traditional navigation.
+Edit: Running to my train.  If I can get a seat, I'll finish off some in-flight answers.  XOXOXO, Marty
+
+<u/ColdstreamRed>: What're the plans with the iOS interface? Are we going to see a major revamp, or are you sticking with the diagonal 'theme'?
+
+<u/spez>: Major UI revamp is underway with, amongst many things, more traditional navigation.
 
 (You can also enable Classic UI mode in AlienBlue settings, which is what I personally do for the time being).

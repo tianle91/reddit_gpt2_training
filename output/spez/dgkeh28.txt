@@ -39,8 +39,12 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/justjanne>: How about, instead of replacing, you could allow subreddits to keep using the old system for PC users for a few months?
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/justjanne>: How about, instead of replacing, you could allow subreddits to keep using the old system for PC users for a few months?
 
 This would make it easier to compare, test, find out what is missing, etc.
 
-So that by the time the change becomes mandatory, all features will be there? <u/spez>: Yep. We'll keep the current site running for quite a while. We're not planning a violent switch. That would be suicide.
+So that by the time the change becomes mandatory, all features will be there?
+
+<u/spez>: Yep. We'll keep the current site running for quite a while. We're not planning a violent switch. That would be suicide.

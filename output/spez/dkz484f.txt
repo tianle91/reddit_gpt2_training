@@ -20,4 +20,8 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/[deleted]>: Can you elaborate on 1M fewer reports? With spam shutdown, of course reports will drop.  <u/spez>: The r/spam removal had very little impact on reports, as r/spam had relatively little impact on spam overall. The improvement in reports is mostly on the harassment side (many of which don't come from moderators but individual users).
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/[deleted]>: Can you elaborate on 1M fewer reports? With spam shutdown, of course reports will drop. 
+
+<u/spez>: The r/spam removal had very little impact on reports, as r/spam had relatively little impact on spam overall. The improvement in reports is mostly on the harassment side (many of which don't come from moderators but individual users).

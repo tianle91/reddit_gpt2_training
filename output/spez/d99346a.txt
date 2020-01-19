@@ -20,8 +20,12 @@ I will be hanging around to answer questions about this or anything else for the
 
 Steve
 
-u: I'm out for now. Will check back later. Thanks! <u/[deleted]>: Hey spez! Is there any additional focus being given by your poor team about the issue of catching spam? A lot of spam is reported and some of them somehow stay up, especially if they have no submission history and all their spam is exclusively comment spam.   
+u: I'm out for now. Will check back later. Thanks!
+
+<u/[deleted]>: Hey spez! Is there any additional focus being given by your poor team about the issue of catching spam? A lot of spam is reported and some of them somehow stay up, especially if they have no submission history and all their spam is exclusively comment spam.   
   
- <u/spez>: Yes! Even though we've reduced spam by about 90% the last couple of quarters, it's still an ongoing battle. Please report any spam that you see.
+
+
+<u/spez>: Yes! Even though we've reduced spam by about 90% the last couple of quarters, it's still an ongoing battle. Please report any spam that you see.
 
 e: thanks for the reports, assholes.

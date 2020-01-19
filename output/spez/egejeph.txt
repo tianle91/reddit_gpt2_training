@@ -20,6 +20,10 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/thebiglebowskiii>: Hi Steve, I'm one of the authors on the [recent CSCW paper](https://www.cc.gatech.edu/~eshwar3/uploads/3/8/0/4/38043045/eshwar-norms-cscw2018.pdf) studying moderation and community norms on Reddit. I'm glad that our paper was useful to explain Reddit's multi-layered architecture for moderating content and the norms that develop. Look forward to going through the transparency report in detail! <u/spez>: You just outed yourself on Reddit, you brave soul!
+update: I'm out for now. Will check back later.
+
+<u/thebiglebowskiii>: Hi Steve, I'm one of the authors on the [recent CSCW paper](https://www.cc.gatech.edu/~eshwar3/uploads/3/8/0/4/38043045/eshwar-norms-cscw2018.pdf) studying moderation and community norms on Reddit. I'm glad that our paper was useful to explain Reddit's multi-layered architecture for moderating content and the norms that develop. Look forward to going through the transparency report in detail!
+
+<u/spez>: You just outed yourself on Reddit, you brave soul!
 
 LOVED the paper. I thought your approach of comparing models across communities to find common sentiments was really clever, and I'd love to see us incorporate that into Reddit itself.

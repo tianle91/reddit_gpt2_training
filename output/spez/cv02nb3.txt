@@ -1,6 +1,8 @@
 <r/AskReddit>: Are less people using reddit since the whole Pao debacle? Why is the front page the same since last night?
 
-[removed] <u/spez>: First, traffic is higher than ever. We're considering a more consistent CEO change schedule as a result. Stay tuned.
+[removed]
+
+<u/spez>: First, traffic is higher than ever. We're considering a more consistent CEO change schedule as a result. Stay tuned.
 
 The front page algo is the same as it has been for the past while (year? more?), with the exception of a couple weeks ago when we started fiddling with it. We often fiddle with the constants in the algo to make sure there is fresh content on the front page, but the change last week didn't work right. It's back to the way it was before. As traffic grows, front page behavior changes. So, while the algo is the same, the content very well might be aging differently from what you've been used to (we haven't measured it yet). 
 

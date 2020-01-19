@@ -26,4 +26,8 @@ Happy New Year,
 
 Steve and the Reddit team
 
-update: I'm off for now. As always, thanks for the feedback and questions. <u/morr1025>: What's this anti-evil team about?  Are there jackets?  If so, how do I join? <u/spez>: They're the engineering team that focuses on internal tools and abuse at scale: spam, account take-overs (they just release 2FA!), vote manipulation, etc. It's the team I'd love to be on if I was still engineering.
+update: I'm off for now. As always, thanks for the feedback and questions.
+
+<u/morr1025>: What's this anti-evil team about?  Are there jackets?  If so, how do I join?
+
+<u/spez>: They're the engineering team that focuses on internal tools and abuse at scale: spam, account take-overs (they just release 2FA!), vote manipulation, etc. It's the team I'd love to be on if I was still engineering.

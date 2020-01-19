@@ -26,6 +26,10 @@ Happy New Year,
 
 Steve and the Reddit team
 
-update: I'm off for now. As always, thanks for the feedback and questions. <u/BlatantConservative>: >I’m particularly proud of how far our Community, Trust & Safety, and Anti-Evil teams have come. We’ve steadily shifted the balance of our work from reactive to proactive, which means that much more often we’re catching issues before they become issues. I’d like to highlight one stat in particular: at the beginning of 2017 our T&S work was almost entirely driven by user reports. Today, more than half of the users and content we action are caught by us proactively using more sophisticated modeling. Often we catch policy violations before being reported or even seen by users or mods
+update: I'm off for now. As always, thanks for the feedback and questions.
 
-This is a lot of words, but I don't know what they mean.  Are you talking about spam, brigades, doxxing, bots, or what? <u/spez>: All of those things, yes, with a particular focus on PM harassment last year. This year our focus will be reducing the amount of noise in our reporting system so that the reports moderators and we see will be much more useful.
+<u/BlatantConservative>: >I’m particularly proud of how far our Community, Trust & Safety, and Anti-Evil teams have come. We’ve steadily shifted the balance of our work from reactive to proactive, which means that much more often we’re catching issues before they become issues. I’d like to highlight one stat in particular: at the beginning of 2017 our T&S work was almost entirely driven by user reports. Today, more than half of the users and content we action are caught by us proactively using more sophisticated modeling. Often we catch policy violations before being reported or even seen by users or mods
+
+This is a lot of words, but I don't know what they mean.  Are you talking about spam, brigades, doxxing, bots, or what?
+
+<u/spez>: All of those things, yes, with a particular focus on PM harassment last year. This year our focus will be reducing the amount of noise in our reporting system so that the reports moderators and we see will be much more useful.

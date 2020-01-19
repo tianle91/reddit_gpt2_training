@@ -18,10 +18,16 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/DoorMarkedPirate>: Out of curiosity, why aren't the IP addresses encrypted and hashed already?  I imagine usernames and passwords are already treated like that, so is it to computationally intensive to do so with IP addresses because dynamic ones change so frequently?  Or is it because you need them for location tracking? <u/phyzome>: There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours.
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/DoorMarkedPirate>: Out of curiosity, why aren't the IP addresses encrypted and hashed already?  I imagine usernames and passwords are already treated like that, so is it to computationally intensive to do so with IP addresses because dynamic ones change so frequently?  Or is it because you need them for location tracking?
+
+<u/phyzome>: There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours.
 
 Encryption (using symmetric ciphers, or an asymmetric cipher where the "public" key is just as well protected as the private key) would only allow you to compare addresses for abuse prevention if the initialization vector or similar is constant, which decreases the protection of the encryption!
 
-I'm sure someone could come up with a scenario where this is useful, but I can't think of one off the top of my head. <u/spez>: > There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours.
+I'm sure someone could come up with a scenario where this is useful, but I can't think of one off the top of my head.
+
+<u/spez>: > There's no point in hashing IP addresses -- it's such a small search space, an attacker would be able to reverse the hash in hours.
 
 Our thinking is to hash with a salt and throw away the salts periodically. For abuse, we mostly care about "is this IP the same?" 

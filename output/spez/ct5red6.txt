@@ -37,7 +37,11 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/[deleted]>: [deleted] <u/spez>: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others.
 
 There are many subreddits whose contents I and many others find offensive, but that alone is not justification for banning.
 
@@ -47,6 +51,10 @@ There are many subreddits whose contents I and many others find offensive, but t
 
 edit: elevating my reply below so more people can see it.
 
- <u/obadetona>: What would you define as causing harm to others? <u/spez>: Very good question, and that's one of the things we need to be clear about. I think we have an intuitive sense of what this means (e.g. death threats, inciting rape), but before we release an official update to our policy we will spell this out as precisely as possible.
+
+
+<u/obadetona>: What would you define as causing harm to others?
+
+<u/spez>: Very good question, and that's one of the things we need to be clear about. I think we have an intuitive sense of what this means (e.g. death threats, inciting rape), but before we release an official update to our policy we will spell this out as precisely as possible.
 
 Update: I added an example to my post. It's ok to say, "I don't like this group of people." It's not ok to say, "I'm going to kill this group of people."

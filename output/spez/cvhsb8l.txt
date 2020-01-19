@@ -26,11 +26,17 @@ Finally, yes, it’s true.  I am running for President of the United States.  My
 
 I have about 1.17 hours now to answer questions, and then I'm going and playing with my wee ones.
 
-Edit: Running to my train.  If I can get a seat, I'll finish off some in-flight answers.  XOXOXO, Marty <u/[deleted]>: [deleted] <u/spez>: The big feature we lack right now is keyword targeting, and perhaps more importantly, anti-keyword targeting. Right now, advertisers have very little control over who actually sees their ads because they can only target at the community level, and they're very concerned about brand safety. Basically, they want to say, I want my ad to show around conversations about *this* topic, but not *that* topic.
+Edit: Running to my train.  If I can get a seat, I'll finish off some in-flight answers.  XOXOXO, Marty
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: The big feature we lack right now is keyword targeting, and perhaps more importantly, anti-keyword targeting. Right now, advertisers have very little control over who actually sees their ads because they can only target at the community level, and they're very concerned about brand safety. Basically, they want to say, I want my ad to show around conversations about *this* topic, but not *that* topic.
 
 As far as tracking, we will continue to serve ads in an iframe, which dramatically limits what information an advertiser sees (e.g. they don't see what urls you're on), and we will provide ways to opt-out (more than we offer now).
 
-Philosophically, I'm as paranoid as anyone about advertisers knowing what I'm up to online–it's a common characteristic of most Reddit employees, in fact–so that guides our thinking. <u/verdatum>: /u/spez, I've genuinely been impressed of the changes that I've seen since you took over.  (and I will happily go on record that I never bore ill will towards Ellen Pao; she did fine by me) but much of the excellent input from yourself, and from the other admins have frequently fallen under the upvote radar.
+Philosophically, I'm as paranoid as anyone about advertisers knowing what I'm up to online–it's a common characteristic of most Reddit employees, in fact–so that guides our thinking.
+
+<u/verdatum>: /u/spez, I've genuinely been impressed of the changes that I've seen since you took over.  (and I will happily go on record that I never bore ill will towards Ellen Pao; she did fine by me) but much of the excellent input from yourself, and from the other admins have frequently fallen under the upvote radar.
 
 I'm very glad that I have the ability to lookup admins by username and read through recent comments.  Doing this, I have often learned pieces of the story that I would have otherwise missed out upon.
 
@@ -40,4 +46,6 @@ As often is the case with these burgeoning online communities, the more time tha
 
 I hate to be one to just point out problems without offering solutions; but I don't know if I have terribly good solutions.  I don't know if I'm such a major demographic, but I suppose I would like to see a centralized place, that regularly tracks the activity of these sort of accounts, and gives an account of what details have been revealed. And then have that place well advertised to users, while at the same time not coming off as spammy and propaganda; just a neutral accounting of what's new.  This wouldn't be easy, but I, for one at least, feel such a thing would be useful to get out a clear narrative.
 
-Thanks for doing what you do. Similar to PotUSA, I wouldn't take on such a task for the world. <u/spez>: Thanks for the kind words. Your suggestion is something to think about. Honestly, it would be helpful for me as well. A lot has changed over the years...
+Thanks for doing what you do. Similar to PotUSA, I wouldn't take on such a task for the world.
+
+<u/spez>: Thanks for the kind words. Your suggestion is something to think about. Honestly, it would be helpful for me as well. A lot has changed over the years...

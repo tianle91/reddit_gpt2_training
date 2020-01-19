@@ -26,11 +26,15 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/stillpiercer_>: Hi, /u/spez!
+—spez
+
+<u/stillpiercer_>: Hi, /u/spez!
 
 I have a very simple question that many, many of us would love an answer to. 
 
-Why the fuck is /r/The_Donald still around, and why did the Reddit admins go out of their way to nuke the post that that guy made pointing out the Russian interference within that sub? <u/spez>: **as it relates to the_donald**
+Why the fuck is /r/The_Donald still around, and why did the Reddit admins go out of their way to nuke the post that that guy made pointing out the Russian interference within that sub?
+
+<u/spez>: **as it relates to the_donald**
 
 Generally the mods of the_donald have been cooperative when we approach them with systematic abuses. Typically we ban entire communities only when the mods are uncooperative or the entire premise of the community is in violation of our policies. In the past we have removed mods of the_donald that refuse to work with us.
 

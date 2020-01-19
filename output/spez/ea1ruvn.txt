@@ -116,6 +116,8 @@ Chat has the same conduct rules as the subreddit.
 
 We've taken on a handful of chat-only moderators to help keep the chat friendly and open. Huge shoutout to the help we've been getting from our chat moderators - along with a large number of incredible new mod team volunteers we've added to our subreddit team.
 
-Since chat is so new, we're still figuring out how it should be run - it is very much a new experiment for us. We'd love to hear your ideas and feedback on how we can make the chat experience useful and fun for our users! <u/spez>: This is great. There are some really good ideas in here that we might be able to make easier for you.
+Since chat is so new, we're still figuring out how it should be run - it is very much a new experiment for us. We'd love to hear your ideas and feedback on how we can make the chat experience useful and fun for our users!
+
+<u/spez>: This is great. There are some really good ideas in here that we might be able to make easier for you.
 
 For example, what do you think about a feature to sync headlines (maybe automatically, or automatically add a flair and allowing a mod to edit?). This has always been complicated for a variety of reasons (title shenanigans on Reddit, and inconsistent publishers), but I think your specific use-case might be a good one to work with to make things easier, whether fancy tech or manual mod editing.

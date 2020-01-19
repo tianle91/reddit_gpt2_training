@@ -1,6 +1,8 @@
 <r/TheoryOfReddit>: Why did they change the reddit to new reddit?
 
-[removed] <u/spez>: You can use the old layout indefinitely. Go to [https://www.reddit.com/prefs/](https://www.reddit.com/prefs/) and uncheck "use the redesign as my default experience." I know the prefs page is a bit of a mess. It's one of the things we're rebuilding in the redesign. We have no plans to turn off old.reddit.com. 
+[removed]
+
+<u/spez>: You can use the old layout indefinitely. Go to [https://www.reddit.com/prefs/](https://www.reddit.com/prefs/) and uncheck "use the redesign as my default experience." I know the prefs page is a bit of a mess. It's one of the things we're rebuilding in the redesign. We have no plans to turn off old.reddit.com. 
 
 As for why:
 

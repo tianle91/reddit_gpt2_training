@@ -20,7 +20,11 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 –Steve
 
-edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs. <u/kerovon>: It does seem like the Reddit community has become more bitter and divided, with some groups actively protesting against moderators and large communities. Do you have any plans to try to address the gap between groups like moderators and subredditcancer/undelete? <u/spez>: > It does seem like the Reddit community has become more bitter and divided
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
+
+<u/kerovon>: It does seem like the Reddit community has become more bitter and divided, with some groups actively protesting against moderators and large communities. Do you have any plans to try to address the gap between groups like moderators and subredditcancer/undelete?
+
+<u/spez>: > It does seem like the Reddit community has become more bitter and divided
 
 I believe that's a side effect of our community broadening. As I mentioned elsewhere,  improving the front page algorithm and addressing the default situation will go a long way. We're seeing the effects of a bunch of people who have wildly differing viewpoints crammed into a small room.
 

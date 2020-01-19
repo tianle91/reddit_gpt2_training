@@ -20,7 +20,9 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 –Steve
 
-edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs. <u/reseph>: >to rebuild our relationship with our users and moderators
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
+
+<u/reseph>: >to rebuild our relationship with our users and moderators
 
 As a moderator, I'm not really sure this happened. Look in /r/ModSupport which was suppose to be a communication channel between mods and admins. The majority of the topics (which are questions) have no admin response. I have a couple topics in there from weeks ago with no admin comment. I sent a modmail to that subreddit 7 days ago just asking if the subreddit was still planned to be a communication tool between us mods and admins. I never got a reply. I'm losing count of all the "having major spam issues" questions in /r/ModSupport that receive no admin reply; a single response would be enough. It seems to have fallen to as little admin participation as /r/modtalk gets.
 
@@ -36,7 +38,9 @@ In the same light, AlienBlue was taken over by reddit recently and seems to be d
 
 I'm not trying to pick on individual admins, scenarios or people. I am trying to show a pattern that is not changing. reddit is a *professional business*. It's very concerning.
 
-There are good things, like the new subreddit rules system (although it's limited to 10 rules only) and sticky comments. But communication doesn't seem improved. It's not the end of the world, it's just things don't feel different outside new mod features. <u/spez>: 3 of the top 10 posts in r/ModSupport are from us. I'm sorry we don't get to every question, but we're absolutely in there. We are very aware of the spam issues.
+There are good things, like the new subreddit rules system (although it's limited to 10 rules only) and sticky comments. But communication doesn't seem improved. It's not the end of the world, it's just things don't feel different outside new mod features.
+
+<u/spez>: 3 of the top 10 posts in r/ModSupport are from us. I'm sorry we don't get to every question, but we're absolutely in there. We are very aware of the spam issues.
 
 > I don't think I've heard a peep around what's going on with the anti-brigading tools.
 
@@ -50,4 +54,8 @@ I'm sad to say that although we invested quite a bit, my favorite feature [didn'
 
 We bought it years ago, actually, and have put out a number of releases in the past few months, [at least five](https://www.reddit.com/user/alien-blue). We are working on a new iOS app as we speak, and that will be the future for us, but we're continuing to maintain AB during the meantime.
 
- <u/[deleted]>: [deleted] <u/spez>: On mobile, I believe the plan is to put them on the submission page.
+
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: On mobile, I believe the plan is to put them on the submission page.

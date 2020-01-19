@@ -9,6 +9,10 @@ This from Spez
 Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid and in high school and college at Virginia (CS major), I worked as a developer. As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! Oh, and, we’re hiring...
 
 https://about.reddit.com/careers/  
- <u/darexinfinity>: You do say reddit is hiring, but we hear that all the time. Companies that say this usually mean that they're passively hiring the same way an engineer will say "I'm keeping my eyes out for opportunities" even though some may not go anywhere at all. 
 
-Is Reddit passively hiring or actively hiring? By active, I mean going through an expansion and have to fill-in those positions by a certain deadline. <u/spez>: In advance of Monday, yes, we are actively [hiring!](https://www.reddit.com/jobs) Pretty much any sort of engineer. Yes, in San Francisco. 
+
+<u/darexinfinity>: You do say reddit is hiring, but we hear that all the time. Companies that say this usually mean that they're passively hiring the same way an engineer will say "I'm keeping my eyes out for opportunities" even though some may not go anywhere at all. 
+
+Is Reddit passively hiring or actively hiring? By active, I mean going through an expansion and have to fill-in those positions by a certain deadline.
+
+<u/spez>: In advance of Monday, yes, we are actively [hiring!](https://www.reddit.com/jobs) Pretty much any sort of engineer. Yes, in San Francisco. 

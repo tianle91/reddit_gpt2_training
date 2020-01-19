@@ -30,9 +30,13 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/JDGumby>: > efforts to protect user privacy.
+update: I'm off for now. Thanks for the questions!
 
-Yeah, you don't give the slightest shit about user privacy - the vastly increased tracking on the site shows that.  Can't even right-click to copy a link (to share or to open in a browser that renders it differently), or to bookmark it or whatever, without it being tracked now (and showing up in the recently-viewed liinks list), as the most recent example. <u/spez>: On the contrary, user privacy has been paramount since our founding. From the beginning and through to this day we've not collected PII (Personally Identifying Information). We don't know your name, address, age, race, gender, and we don't want to know, and we'll never force you to share it to use Reddit. We only store the IP addresses you use to access Reddit for 100 days.
+<u/JDGumby>: > efforts to protect user privacy.
+
+Yeah, you don't give the slightest shit about user privacy - the vastly increased tracking on the site shows that.  Can't even right-click to copy a link (to share or to open in a browser that renders it differently), or to bookmark it or whatever, without it being tracked now (and showing up in the recently-viewed liinks list), as the most recent example.
+
+<u/spez>: On the contrary, user privacy has been paramount since our founding. From the beginning and through to this day we've not collected PII (Personally Identifying Information). We don't know your name, address, age, race, gender, and we don't want to know, and we'll never force you to share it to use Reddit. We only store the IP addresses you use to access Reddit for 100 days.
 
 We do this for a couple of reasons:
 

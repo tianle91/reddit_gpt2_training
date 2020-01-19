@@ -1,3 +1,7 @@
 <r/AskReddit>: What's the oldest reddit user?
 
-[removed] <u/relationships_alt>: either /u/spez or /u/kn0thing <u/spez>: We don't actually know. There are a handful of testing accounts that predate both of them, but we didn't store timestamps back then so all we know is that both were created on the same day.
+[removed]
+
+<u/relationships_alt>: either /u/spez or /u/kn0thing
+
+<u/spez>: We don't actually know. There are a handful of testing accounts that predate both of them, but we didn't store timestamps back then so all we know is that both were created on the same day.

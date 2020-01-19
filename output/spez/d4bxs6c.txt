@@ -16,4 +16,8 @@ As always, we will keep an eye out for any unintended side-effects and make chan
 
 Steve
 
-u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours. <u/gdshephe88>: Do these changes only apply to "HOT"? If we go to /r/all/top, will we still see a "true" listing of what is on top of /r/all today/year/hour/etc?  <u/spez>: It only affects Hot.
+u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
+
+<u/gdshephe88>: Do these changes only apply to "HOT"? If we go to /r/all/top, will we still see a "true" listing of what is on top of /r/all today/year/hour/etc? 
+
+<u/spez>: It only affects Hot.

@@ -20,4 +20,8 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 –Steve
 
-edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs. <u/ChrisSlicks>: Hi Steve, are there any plans in place to deal with the server overload that occurs during peak hours? <u/spez>: Yes. We're making steady progress. We've made a couple of solid new hires on that team as well.
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
+
+<u/ChrisSlicks>: Hi Steve, are there any plans in place to deal with the server overload that occurs during peak hours?
+
+<u/spez>: Yes. We're making steady progress. We've made a couple of solid new hires on that team as well.

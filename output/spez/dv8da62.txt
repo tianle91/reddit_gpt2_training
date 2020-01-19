@@ -14,7 +14,9 @@ The final case, indirect propaganda, is the most complex. For example, the Twitt
 
 I wish there was a solution as simple as banning all propaganda, but it’s not that easy. Between truth and fiction are a thousand shades of grey. It’s up to all of us—Redditors, citizens, journalists—to work through these issues. It’s somewhat ironic, but I actually believe what we’re going through right now will actually reinvigorate Americans to be more vigilant, hold ourselves to higher standards of discourse, and fight back against propaganda, whether foreign or not.
 
-Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve. <u/UntestedShuttle>: Edit: Apologies for highlighting another subject on an unrelated thread. Didn't intend to hijack the thread. :/
+Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve.
+
+<u/UntestedShuttle>: Edit: Apologies for highlighting another subject on an unrelated thread. Didn't intend to hijack the thread. :/
 
 Spez, What about images of dead babies/corpses and harming animals on \/r/nomorals [**NSFL warning**] ?
 
@@ -48,13 +50,19 @@ Another example:
 
 A dog and few puppies being hanged from their neck, its titled - "Multipurpose Wind Chime"
 
-https://np.reddit.com/r/nomorals/comments/7t3msf/multipurpose_wind_chime/ <u/spez>: We are aware, and this community is under review.
+https://np.reddit.com/r/nomorals/comments/7t3msf/multipurpose_wind_chime/
 
-More context: the original creator of the sub nuked it about two months ago and deleted all the content. It’s now back up and running, which is why we’re getting new reports. <u/lpisme>: "We are aware" 
+<u/spez>: We are aware, and this community is under review.
+
+More context: the original creator of the sub nuked it about two months ago and deleted all the content. It’s now back up and running, which is why we’re getting new reports.
+
+<u/lpisme>: "We are aware" 
 
 OK, wonderful and I mean that. You have been "aware" of a myriad of subreddits that you rightfully nixed, from gore to near child porn. What kind of internal review process do you have for subreddits and what actually - and finally - gets stuff dropped? 
 
 You are making a really great attempt at transparency to the extent you can with this post and it's appreciated...so can you share a little bit about what actually gets a subreddit canned or not? Because this is a constant question and it has always, at least from my understanding, been so damn grey and ambiguous. 
- <u/spez>: We don’t take banning subs lightly. Each sub is reviewed by a human—and in some cases, a team of humans—before it is banned for a content policy violation. In cases where a sub’s sole purpose is in direct violation of our policies (i.e. sharing of involuntary porn), we will ban a sub outright. But generally before banning, we attempt to work with the mods to clarify our expectations and policies regarding what content is welcome.
+
+
+<u/spez>: We don’t take banning subs lightly. Each sub is reviewed by a human—and in some cases, a team of humans—before it is banned for a content policy violation. In cases where a sub’s sole purpose is in direct violation of our policies (i.e. sharing of involuntary porn), we will ban a sub outright. But generally before banning, we attempt to work with the mods to clarify our expectations and policies regarding what content is welcome.
 
 Communities do evolve over time, sometimes positively and sometimes negatively, so we do need to re-review communities from time to time, which is what's going on in this case. Revenue isn't a factor.

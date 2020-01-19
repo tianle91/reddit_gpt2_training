@@ -4,6 +4,10 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/[deleted]>: Anything to say about the servers, more specifically about improving them? 
+update: I'm outta here. Thanks for the questions!
 
-Errors are way too often. <u/spez>: One of our major priorities this quarter is to stabilize the infrastructure. We're making progress, but we still have a ways to go.
+<u/[deleted]>: Anything to say about the servers, more specifically about improving them? 
+
+Errors are way too often.
+
+<u/spez>: One of our major priorities this quarter is to stabilize the infrastructure. We're making progress, but we still have a ways to go.

@@ -20,6 +20,10 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/Norci>: Question, a bit offtopic. What is Reddit's stance on subreddits using bots to auto-ban users for participating in certain other subs? Will any actions be taken against that, or is it allowed.  <u/spez>: We don't like it, but we haven't provided an alternative solution. They live in a grey area.
+update: I'm out for now. Will check back later.
+
+<u/Norci>: Question, a bit offtopic. What is Reddit's stance on subreddits using bots to auto-ban users for participating in certain other subs? Will any actions be taken against that, or is it allowed. 
+
+<u/spez>: We don't like it, but we haven't provided an alternative solution. They live in a grey area.
 
 One thing we're going to make better use of is the idea of "community karma." It'll be useful for helping communities grow safely while keep trolls and abusers at bay.

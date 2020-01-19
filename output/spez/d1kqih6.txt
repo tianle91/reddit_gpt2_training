@@ -19,17 +19,25 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 (I'll do my best to answer questions, but as with all legal matters, I can't always be completely candid.)
 
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
- <u/adeadhead>: In 2014, reddit didnt give out any information when requested by non US government bodies. In 2015, it did, despite still being a US company. Were those disclosures legal obligations or reddit simply willingly disclosing information? (Also, what is an 'emergency request'?)
+
+
+<u/adeadhead>: In 2014, reddit didnt give out any information when requested by non US government bodies. In 2015, it did, despite still being a US company. Were those disclosures legal obligations or reddit simply willingly disclosing information? (Also, what is an 'emergency request'?)
 
 
 
 
-Edit: as is mentioned in a lower comment, the gag canary is no longer present in this years report. Thats not the sort of thing that would have been accidently been omitted.   <u/spez>: ~~We didn't receive any in 2014, I believe.~~ We received 5 in 2014, but didn't disclose any information. In 2015, we complied with one non-emergency foreign request from Canada because we ended up receiving a subpoena from the US Department of Homeland Security as well. The other foreign requests were emergency requests.
+Edit: as is mentioned in a lower comment, the gag canary is no longer present in this years report. Thats not the sort of thing that would have been accidently been omitted.  
+
+<u/spez>: ~~We didn't receive any in 2014, I believe.~~ We received 5 in 2014, but didn't disclose any information. In 2015, we complied with one non-emergency foreign request from Canada because we ended up receiving a subpoena from the US Department of Homeland Security as well. The other foreign requests were emergency requests.
 
 An emergency request is something like a suicide or bomb threat.
 
-update: clarified the foreign requests. <u/[deleted]>: > In 2015, it did, despite still being a US company. Were those disclosures legal obligations or reddit simply willingly disclosing information? 
+update: clarified the foreign requests.
 
-You skirted right over this. Whats the answer? <u/spez>: We never willingly hand over information. I don't know this specific case off the top of my head, but I will ask.
+<u/[deleted]>: > In 2015, it did, despite still being a US company. Were those disclosures legal obligations or reddit simply willingly disclosing information? 
+
+You skirted right over this. Whats the answer?
+
+<u/spez>: We never willingly hand over information. I don't know this specific case off the top of my head, but I will ask.
 
 update: updated the my first reply above with more context.

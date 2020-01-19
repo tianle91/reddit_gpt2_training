@@ -26,9 +26,13 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/ChuffyBunny>: A couple of CEO posts ago, a big deal was made about the reddit canary being taken out indicating that Reddit as a company now had to conform to federal inquisitions for user data. Usually this means that a tool is made for federal investigators to gather data needed for whatever case they are working.  
+—spez
 
-So how are you as a company taking active measures to protect users data from similar breaches like what happened to Facebook, Equifax, and more recently; Apple, Uber, and Amazon.  <u/spez>: Breaches do happen, even to the best, as you point out. We've had a couple over the years, one of which we [shared](https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/) a few months ago.
+<u/ChuffyBunny>: A couple of CEO posts ago, a big deal was made about the reddit canary being taken out indicating that Reddit as a company now had to conform to federal inquisitions for user data. Usually this means that a tool is made for federal investigators to gather data needed for whatever case they are working.  
+
+So how are you as a company taking active measures to protect users data from similar breaches like what happened to Facebook, Equifax, and more recently; Apple, Uber, and Amazon. 
+
+<u/spez>: Breaches do happen, even to the best, as you point out. We've had a couple over the years, one of which we [shared](https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/) a few months ago.
 
 In addition to the standard best practices, we have a philosophical approach to storing as little personal information as possible. With limited exception, we don't know your names, addresses, genders, dob's, phone numbers, ssn's, or other sensitive information. We can't lose what we don't have.
 

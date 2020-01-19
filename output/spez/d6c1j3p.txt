@@ -16,8 +16,12 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/potentialPizza>: I don't want to be that guy, but I also do kinda want to correct an admin's grammar.
+u: Thank you! Heading out for now. Will check back later.
+
+<u/potentialPizza>: I don't want to be that guy, but I also do kinda want to correct an admin's grammar.
 
 >You can see what experiments we are running on this live thread, as well as notable changes to the site are listed in r/changelog.
 
-Should either replace "as well as" with "and," or remove "are listed" for the grammar to be correct. <u/spez>: Thank you
+Should either replace "as well as" with "and," or remove "are listed" for the grammar to be correct.
+
+<u/spez>: Thank you

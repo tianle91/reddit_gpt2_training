@@ -20,7 +20,9 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/yashendra2797>: I'm sorry, but I (like many) are firmly against the geo-specific version of Reddit. Many of us fell in love with Reddit primarily because it was global. It didn't matter if you were in India (like me), or France, or Korea, you saw what was going on in the world. The problem that many of us predict is that we will see Reddit become just another Facebook, with all new users succumbing to the ecosystem.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/yashendra2797>: I'm sorry, but I (like many) are firmly against the geo-specific version of Reddit. Many of us fell in love with Reddit primarily because it was global. It didn't matter if you were in India (like me), or France, or Korea, you saw what was going on in the world. The problem that many of us predict is that we will see Reddit become just another Facebook, with all new users succumbing to the ecosystem.
 
 The key ideal of Reddit is that it helped expand the minds of many who came here. We all changed our opinions as we interacted with people throughout the globe, and expanded our horizons into things we normally would. 
 
@@ -28,7 +30,9 @@ I'll be honest /u/spez. Many of us core users are afraid that new features like 
 
 Also, there's the problem of new users being turned off by the echo chamber. I for example, rarely visit /r/india, despite being an Indian living in India. Will I be forced to see political posts and the general flustercuck of my region? Because if that happens, I'd rather just switch to Facebook.
 
-Key thing is IMO you are limiting the kind of Redditors that made Reddit great in the first place, and instead inviting more and more  of the kind of people who are alright being locked in just one particular camp. <u/spez>: > instead inviting more and more of the kind of people who are alright being locked in just one particular camp
+Key thing is IMO you are limiting the kind of Redditors that made Reddit great in the first place, and instead inviting more and more  of the kind of people who are alright being locked in just one particular camp.
+
+<u/spez>: > instead inviting more and more of the kind of people who are alright being locked in just one particular camp
 
 r/gatekeeping
 
@@ -36,12 +40,16 @@ Stop. Reddit is 300M+ people. It's a big place, and according to users, it has b
 
 The reality is not everyone is interested in an English-only, US-centric view of the world.
 
-The work we are doing is purely additive. Don't like geo-popular? Don't use it. Don't like profile pages? Don't use it. Want to hang out on r/all all day? Cool. It's not going anywhere. <u/explorer_c37>: As a startup guy myself, I understand where you're going with all these and what your ambitions are.
+The work we are doing is purely additive. Don't like geo-popular? Don't use it. Don't like profile pages? Don't use it. Want to hang out on r/all all day? Cool. It's not going anywhere.
+
+<u/explorer_c37>: As a startup guy myself, I understand where you're going with all these and what your ambitions are.
 
 But as a user of Reddit for ~8 years, I'm not very happy.
 ______________
 
-If there is negative feedback during the beta stage of a feature, isn't it much more beneficial for a company to roll back and keep the core base happy instead of investing on features that no one wants? You do understand that no one wants the features you're pushing on us, (as far as I've seen). From one founder to another, I'd suggest you don't implement these unwanted features and save yourself from loss of daily users.  <u/spez>: Assuming we're talking about profile pages...
+If there is negative feedback during the beta stage of a feature, isn't it much more beneficial for a company to roll back and keep the core base happy instead of investing on features that no one wants? You do understand that no one wants the features you're pushing on us, (as far as I've seen). From one founder to another, I'd suggest you don't implement these unwanted features and save yourself from loss of daily users. 
+
+<u/spez>: Assuming we're talking about profile pages...
 
 > If there is negative feedback during the beta stage of a feature, isn't it much more beneficial for a company to roll back
 

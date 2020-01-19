@@ -23,4 +23,8 @@ As you can see, lots on our plates right now, but the team is cranking, and we'r
 
 I'll be hanging around in the comments for an hour or so.
 
-update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/Aaron215>: On the topic of PM harassment, how would you feel about a button that either party could press to allow a PM to be read by Reddit admins? It would open just that PM thread, and only to admins, along with a note about why it was forwarded. Sorry if something like that is already available. I just figure it's better than taking images that can be altered and it allows admins to follow along if the harassment continues from one user. <u/spez>: That's exactly what we're thinking, yes.
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
+
+<u/Aaron215>: On the topic of PM harassment, how would you feel about a button that either party could press to allow a PM to be read by Reddit admins? It would open just that PM thread, and only to admins, along with a note about why it was forwarded. Sorry if something like that is already available. I just figure it's better than taking images that can be altered and it allows admins to follow along if the harassment continues from one user.
+
+<u/spez>: That's exactly what we're thinking, yes.

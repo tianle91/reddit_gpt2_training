@@ -16,6 +16,10 @@ As always, we will keep an eye out for any unintended side-effects and make chan
 
 Steve
 
-u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours. <u/[deleted]>: [deleted] <u/spez>: Yes, we'll expose filtering to everyone in the near future.
+u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: Yes, we'll expose filtering to everyone in the near future.
 
 In your mind, what's the difference between filtering and blocking?

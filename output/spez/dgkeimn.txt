@@ -39,4 +39,8 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/Alkser>: So what's the timeline for this?  <u/spez>: We'll be testing over the summer and go from there. I'd like to be more specific, but this is a big project that's a little difficult to nail down.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/Alkser>: So what's the timeline for this? 
+
+<u/spez>: We'll be testing over the summer and go from there. I'd like to be more specific, but this is a big project that's a little difficult to nail down.

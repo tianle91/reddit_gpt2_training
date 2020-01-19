@@ -23,6 +23,10 @@ Here's to a happy, productive, drama-free (ha), 2017!
 Steve and the Reddit team
 
 update: I'm off for now. Will check back in a couple hours. Thanks!
- <u/coredumperror>: Why did the mobile site's functionality suddenly invade my iPad? I was very happy with browsing Reddit with the desktop site on here, but now I get the mobile site, which I hate. How can I go back to the desktop site?
 
-EDIT: Looks like this was a bug, and the admins have fixed it. Yay! <u/spez>: Probably because we merged www.reddit.com and m.reddit.com. Click the menu and choose Desktop Site to go back.
+
+<u/coredumperror>: Why did the mobile site's functionality suddenly invade my iPad? I was very happy with browsing Reddit with the desktop site on here, but now I get the mobile site, which I hate. How can I go back to the desktop site?
+
+EDIT: Looks like this was a bug, and the admins have fixed it. Yay!
+
+<u/spez>: Probably because we merged www.reddit.com and m.reddit.com. Click the menu and choose Desktop Site to go back.

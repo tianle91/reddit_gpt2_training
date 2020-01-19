@@ -38,10 +38,18 @@ Alex
 
 **Noon PT Edit:** Thanks for your questions and warm welcome everyone! I'm going to take a quick break to check in on our Android team – we're going to submit a hotfix for Android 4.4 crashes and back button issues. That should be in your hands before EOD. I'll be back to answer more Qs and read the rest of the comments in a few hours.
 
-**11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now.  <u/[deleted]>: [deleted] <u/spez>: Every app is featureless compared to AlienBlue. Seriously, I learned about new hidden features just this morning.
+**11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now. 
 
-This is just version 1! More to come. <u/Zaydene>: >Every app is featureless compared to AlienBlue
+<u/[deleted]>: [deleted]
 
-Said it yourself, why start from scratch when there has been a flawless Alien Blue for YEARS. Even when reddit bought Jase out, Alien Blue just got even better. You can't even view NSFW content on this new crap. How out of touch are the guys working there? <u/spez>: That was our first approach, in fact, but we found we could set ourselves up to move faster down the road with a new codebase.
+<u/spez>: Every app is featureless compared to AlienBlue. Seriously, I learned about new hidden features just this morning.
+
+This is just version 1! More to come.
+
+<u/Zaydene>: >Every app is featureless compared to AlienBlue
+
+Said it yourself, why start from scratch when there has been a flawless Alien Blue for YEARS. Even when reddit bought Jase out, Alien Blue just got even better. You can't even view NSFW content on this new crap. How out of touch are the guys working there?
+
+<u/spez>: That was our first approach, in fact, but we found we could set ourselves up to move faster down the road with a new codebase.
 
 You can enable NSFW in the preferences.

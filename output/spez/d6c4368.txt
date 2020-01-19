@@ -16,12 +16,16 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/solemn_fable>: I'm actually enjoying the official reddit app for iOS. Took a while, but it's growing on me. 
+u: Thank you! Heading out for now. Will check back later.
+
+<u/solemn_fable>: I'm actually enjoying the official reddit app for iOS. Took a while, but it's growing on me. 
 
 My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap?  
 
 Usually it's simple. [Click on comment, vote buttons appear, pick my vote.]
 
-But then there's the comments with only one or two words. Or pun threads. [Click on comment. Somehow missed and collapsed comments below it. Tap to uncollapse. Oops, tapped on commenter's username. Back out of user page. Try again til it works].  <u/spez>: > My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap?
+But then there's the comments with only one or two words. Or pun threads. [Click on comment. Somehow missed and collapsed comments below it. Tap to uncollapse. Oops, tapped on commenter's username. Back out of user page. Try again til it works]. 
+
+<u/spez>: > My biggest criticism: can we have an option to make the buttons on comments bigger or easier to tap?
 
 Yes, this gets me too.

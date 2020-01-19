@@ -22,7 +22,11 @@ Cool.
 
 &nbsp;
 
-^1 No snark allowed. <u/cool_creeper500>: Thanks for listening and caring spez, quick question, what led to the ~~dumb~~ idea of removing CSS? <u/spez>: It was u/powerlanguage. I've been telling him for weeks he's crazy, but r/place really went to his head.
+^1 No snark allowed.
+
+<u/cool_creeper500>: Thanks for listening and caring spez, quick question, what led to the ~~dumb~~ idea of removing CSS?
+
+<u/spez>: It was u/powerlanguage. I've been telling him for weeks he's crazy, but r/place really went to his head.
 
 But, actually... Everything I said in the last post is still true. CSS shouldn't be the only way to customize a community. We are still going to build a structured system, which will be more accessible, cross-platform, and less brittle. If we do a job with this and the widget system, I expect CSS to be less required, but we can leave CSS for more advanced use-cases.
 

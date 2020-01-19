@@ -39,7 +39,9 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/Baldemoto>: I have been wondering, what is the ultimate goal for this? 
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/Baldemoto>: I have been wondering, what is the ultimate goal for this? 
 
 Is it to make Reddit easier to navigate and make more accessible?
 
@@ -49,7 +51,9 @@ Is it to make Reddit more inviting to new users?
 
 Or maybe it's to make Reddit look like the new Modmail or Reddit mobile?
 
-What is the ultimate goal here? <u/spez>: There are multiple reasons:
+What is the ultimate goal here?
+
+<u/spez>: There are multiple reasons:
 
 * Yes, make it easier to use generally
 * Yes, more inviting to new users

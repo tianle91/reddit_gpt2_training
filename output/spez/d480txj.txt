@@ -19,7 +19,9 @@ In the wake of this weekend, we will be making a handful of technology and proce
 * We are working on a change to the r/all algorithm to promote more diversity in the feed, which will help provide more variety of viewpoints and prevent vote manipulation.
 * We are nearly fully staffed on our Community team, and will continue increasing support for moderator teams of major communities.
 
-Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time.  <u/thebaron2>: > A few posts were removed incorrectly
+Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time. 
+
+<u/thebaron2>: > A few posts were removed incorrectly
 
 Isn't this the understatement of the century? The amount of DELETED comments in those threads was *insane* and it turned out many of them didn't come *close* to violating any policy. Identifying where to go to donate blood?
 
@@ -39,7 +41,9 @@ This is hard to take seriously if theres a) no accountability, b) no transparenc
 
 What happens when you - Reddit Inc and moderators (I'd argue that regular users do not have a duty to provide access to info) - fail in this duty? If it's a serious responsibility, as you claim, are there repercussions or is there any accountability, at all, when the system fails?
 
-*edit: their/there correction <u/spez>: Honestly, I'm quite upset myself. As a user, I was disappointed that when I wanted to learn what happened in Orlando, and I found a lot of infighting bullshit. We're still getting to the bottom of it all. Fortunately, the [AskReddit](https://www.reddit.com/r/AskReddit/comments/4nqnrm/breaking_news_orlando_nightclub_massshooting/) was quite good.
+*edit: their/there correction
+
+<u/spez>: Honestly, I'm quite upset myself. As a user, I was disappointed that when I wanted to learn what happened in Orlando, and I found a lot of infighting bullshit. We're still getting to the bottom of it all. Fortunately, the [AskReddit](https://www.reddit.com/r/AskReddit/comments/4nqnrm/breaking_news_orlando_nightclub_massshooting/) was quite good.
 
 All of us at Reddit are committed to making sure this doesn't happen again, and we're working with the mods to do so. We have historically stayed hands off and let these situations develop, but in this case we should have stepped in. Next time we will get involved sooner to make sure things don't go off the rails.
 

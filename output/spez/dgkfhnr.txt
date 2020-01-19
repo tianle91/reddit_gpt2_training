@@ -39,9 +39,15 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/Zackeezy116>: > but we’ll be deprecating CSS during the redesign
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Just to be clear, does this mean subreddits will lose their stylesheets? <u/spez>: Stylesheets, yes. Styles, no. Does that make sense? <u/itty53>: Not at all. 
+<u/Zackeezy116>: > but we’ll be deprecating CSS during the redesign
+
+Just to be clear, does this mean subreddits will lose their stylesheets?
+
+<u/spez>: Stylesheets, yes. Styles, no. Does that make sense?
+
+<u/itty53>: Not at all. 
 
 Style sheets are just groups of styles. A style is
 
@@ -53,8 +59,14 @@ As it stands, you allow stylesheets. Not individual styles.
 
 So I'm still confused here.
 
-Sidenote, I think you are walking a razor wire over a bed of nails on this decision. Doing away with stylesheets affects a lot. That might just be a big enough shakeup to be comparable to digg changes. Just sayin'. Does not sound *good*. <u/spez>: When I say Styles, I mean custom styling: images, colors, themes, menus. We're keeping the functionality, but changing the technology. <u/spkr4thedead51>: what you're actually saying is that they will lose the styles until they learn the new technology and adapt their CSS stylesheets to the new technology
+Sidenote, I think you are walking a razor wire over a bed of nails on this decision. Doing away with stylesheets affects a lot. That might just be a big enough shakeup to be comparable to digg changes. Just sayin'. Does not sound *good*.
 
-I assume that the new system will be made available ahead of time so that mods can test it and configure the new system prior to the deprecation of CSS on the live site? <u/spez>: It will be available well in advance, yes. That's why we're here now.
+<u/spez>: When I say Styles, I mean custom styling: images, colors, themes, menus. We're keeping the functionality, but changing the technology.
+
+<u/spkr4thedead51>: what you're actually saying is that they will lose the styles until they learn the new technology and adapt their CSS stylesheets to the new technology
+
+I assume that the new system will be made available ahead of time so that mods can test it and configure the new system prior to the deprecation of CSS on the live site?
+
+<u/spez>: It will be available well in advance, yes. That's why we're here now.
 
 We'll help with the transition for communities that want it.

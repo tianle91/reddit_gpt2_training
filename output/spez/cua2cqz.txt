@@ -13,4 +13,10 @@ I’m suuuuper excited to be here!  I don’t know much at all yet (I’ve been 
 
 If you are interested in joining our engineering team, please head over to [reddit.com/jobs](https://www.reddit.com/jobs). We are in the market for engineers of all shapes and sizes: frontend, backend, data, ops, anything in between!
 
-Edit: And I'm off to my train to diaper land.  Let's do this again in 30 days!  Love you! <u/spez>: When I first arrived back at Reddit, one of the first things I learned is that we were in desperate need for more technical leadership, and the first person we reached out to was Marty. He has the perfect combination of qualities we want in a CTO: [He has impressive technical chops](http://www.infoq.com/presentations/Pinterest); experience growing a team through many phases (taking Pinterest from 2 to 300 engineers); very thoughtful opinions on company culture (but don’t ask him about them unless you’ve got some time); and a long history on Reddit (he may replace his brother [Zach](https://www.reddit.com/u/mrweiner) as the most significant Weiner). <u/sh4rkbait>: Would you say the fact that his name is Weiner had the most or the absolute most influence in you choosing him? <u/spez>: I wouldn't not say that.
+Edit: And I'm off to my train to diaper land.  Let's do this again in 30 days!  Love you!
+
+<u/spez>: When I first arrived back at Reddit, one of the first things I learned is that we were in desperate need for more technical leadership, and the first person we reached out to was Marty. He has the perfect combination of qualities we want in a CTO: [He has impressive technical chops](http://www.infoq.com/presentations/Pinterest); experience growing a team through many phases (taking Pinterest from 2 to 300 engineers); very thoughtful opinions on company culture (but don’t ask him about them unless you’ve got some time); and a long history on Reddit (he may replace his brother [Zach](https://www.reddit.com/u/mrweiner) as the most significant Weiner).
+
+<u/sh4rkbait>: Would you say the fact that his name is Weiner had the most or the absolute most influence in you choosing him?
+
+<u/spez>: I wouldn't not say that.

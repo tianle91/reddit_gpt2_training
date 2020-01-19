@@ -20,6 +20,10 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 –Steve
 
-edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs. <u/duckvimes_>: As a mod, there's been a huge increase in spam lately. Reporting spammers via r/spam seems to be hit or miss, and it's not clear if there's any way to report entire spam domains (which would make everything so much easier). Modmails and username summons in r/spam usually go unanswered. 
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
 
-You acknowledged that there's a spam problem, but what are you planning to actually do about it? <u/spez>: We don't have the bandwidth to answer every summons, but we're aware of the uptick lately. Our efforts right now are to improve in a more scalable fashion. Historically, it's been a lot of one-offs and by-hand efforts, which isn't sustainable.
+<u/duckvimes_>: As a mod, there's been a huge increase in spam lately. Reporting spammers via r/spam seems to be hit or miss, and it's not clear if there's any way to report entire spam domains (which would make everything so much easier). Modmails and username summons in r/spam usually go unanswered. 
+
+You acknowledged that there's a spam problem, but what are you planning to actually do about it?
+
+<u/spez>: We don't have the bandwidth to answer every summons, but we're aware of the uptick lately. Our efforts right now are to improve in a more scalable fashion. Historically, it's been a lot of one-offs and by-hand efforts, which isn't sustainable.

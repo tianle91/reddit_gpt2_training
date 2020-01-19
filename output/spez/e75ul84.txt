@@ -26,7 +26,11 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/abovebetweenbelow>: What do you actually do as the CEO of Reddit? <u/spez>: I spend the majority of my time doing four things:
+—spez
+
+<u/abovebetweenbelow>: What do you actually do as the CEO of Reddit?
+
+<u/spez>: I spend the majority of my time doing four things:
 
 * Working with our product teams to improve Reddit, which these days is focused on how do we make Reddit more accessible to new users
 * Recruiting

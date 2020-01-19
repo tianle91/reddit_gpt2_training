@@ -26,8 +26,16 @@ Happy New Year,
 
 Steve and the Reddit team
 
-update: I'm off for now. As always, thanks for the feedback and questions. <u/-eDgAR->: Will mods ever be getting tools to help combat the surge of sockpuppet accounts that appear on the site daily? Also what happened to antibrigading tools that were talked about a long time ago? <u/spez>: Moderators shouldn't have to deal with sockpuppets and brigading, but we do take abuse of Reddit seriously, and spend a fair amount of time working on it. Our VP Product gave a [long answer](https://www.reddit.com/r/TheoryOfReddit/comments/7sn6b0/regarding_crossposts/dt6bhm9/?context=0) on this topic earlier this week.
+update: I'm off for now. As always, thanks for the feedback and questions.
+
+<u/-eDgAR->: Will mods ever be getting tools to help combat the surge of sockpuppet accounts that appear on the site daily? Also what happened to antibrigading tools that were talked about a long time ago?
+
+<u/spez>: Moderators shouldn't have to deal with sockpuppets and brigading, but we do take abuse of Reddit seriously, and spend a fair amount of time working on it. Our VP Product gave a [long answer](https://www.reddit.com/r/TheoryOfReddit/comments/7sn6b0/regarding_crossposts/dt6bhm9/?context=0) on this topic earlier this week.
 
 The tl;dr is we're adopting more sophisticated approaches to brigading and manipulation.
 
- <u/AnArcher>: But what if mods **want** to combat the surge of sockpuppet accounts? Shouldn't they have the means? <u/spez>: We'd really like to, tbh, but there are major privacy concerns with exposing that sort of information.
+
+
+<u/AnArcher>: But what if mods **want** to combat the surge of sockpuppet accounts? Shouldn't they have the means?
+
+<u/spez>: We'd really like to, tbh, but there are major privacy concerns with exposing that sort of information.

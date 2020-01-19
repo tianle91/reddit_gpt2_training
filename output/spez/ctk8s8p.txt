@@ -23,4 +23,12 @@ As you can see, lots on our plates right now, but the team is cranking, and we'r
 
 I'll be hanging around in the comments for an hour or so.
 
-update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/bbrazil>: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe? <u/spez>: A straight-up, "you are banned because of X" is the first thing we need. <u/MerryChoppins>: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster?  <u/spez>: See my follow up task
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
+
+<u/bbrazil>: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe?
+
+<u/spez>: A straight-up, "you are banned because of X" is the first thing we need.
+
+<u/MerryChoppins>: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster? 
+
+<u/spez>: See my follow up task

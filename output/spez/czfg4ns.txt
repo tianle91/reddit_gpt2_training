@@ -20,6 +20,10 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 –Steve
 
-edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs. <u/hatessw>: Reddit has a history of banning users rather opaquely, such as by means of the still well-known shadowban.
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
 
-What will users see and not see during 2016 when the T&S team deems a user to have violated a rule? <u/spez>: We added the [account suspension](https://www.reddit.com/r/announcements/comments/3sbrro/account_suspensions_a_transparent_alternative_to/) tool just for this purpose. Instead of shadowbanning, a user will be put in timeout with an explanation.
+<u/hatessw>: Reddit has a history of banning users rather opaquely, such as by means of the still well-known shadowban.
+
+What will users see and not see during 2016 when the T&S team deems a user to have violated a rule?
+
+<u/spez>: We added the [account suspension](https://www.reddit.com/r/announcements/comments/3sbrro/account_suspensions_a_transparent_alternative_to/) tool just for this purpose. Instead of shadowbanning, a user will be put in timeout with an explanation.

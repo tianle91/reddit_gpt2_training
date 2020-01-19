@@ -123,7 +123,9 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/DavesWorldInfo>: This is going to pull people, both the individual posters (whether they're a company or a Youtuber or a random person who makes a thing that catches on) and the subreddit general users, into the profile posts.  And out of the subreddits.
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
+
+<u/DavesWorldInfo>: This is going to pull people, both the individual posters (whether they're a company or a Youtuber or a random person who makes a thing that catches on) and the subreddit general users, into the profile posts.  And out of the subreddits.
 
 Why would a game company, a creator, a whoever who has a thing that's gaining traction, want to post in a mere subreddit when they can focus all their posts on their profile page?  Where they have mod control by default?  Where they can tune and shape what they're doing.
 
@@ -138,7 +140,9 @@ One of the default 'rules' of Reddit is "participate, don't promote."  How does 
 And I say all this as a content creator.  If you guys push this change through, I'll use it for whatever it's worth.  While it lasts.  But me and a lot of other people will be looking for the next thing.  Making this change go live and wide sets a ticking clock on Reddit's destruction.
 
 The community is what makes Reddit work.  Not power users, and certainly not companies showing up to big foot and massage and control their messages they way they do everywhere else in life.
- <u/spez>: Thanks for your thoughts. While the scenario you paint is possible, I think it's the bleakest possible outcome, and one nobody wants to see happen. We still have plenty of work to do, and the feature will continue to evolve as we roll it out.
+
+
+<u/spez>: Thanks for your thoughts. While the scenario you paint is possible, I think it's the bleakest possible outcome, and one nobody wants to see happen. We still have plenty of work to do, and the feature will continue to evolve as we roll it out.
 
 Instead of the total destruction of Reddit, what we'd like to accomplish is to make it easier for folks to find a place to share on Reddit.
 

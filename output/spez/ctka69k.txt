@@ -23,4 +23,8 @@ As you can see, lots on our plates right now, but the team is cranking, and we'r
 
 I'll be hanging around in the comments for an hour or so.
 
-update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/Mister_Jay_Peg>: You mentioned an Android app, are you looking to go down the same path you did with Alien Blue and purchase/team with a current app or will this be homegrown based on the Alien Blue platform? <u/spez>: We're building it ourselves. It was already in progress when I arrived, and it's coming along nicely.
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
+
+<u/Mister_Jay_Peg>: You mentioned an Android app, are you looking to go down the same path you did with Alien Blue and purchase/team with a current app or will this be homegrown based on the Alien Blue platform?
+
+<u/spez>: We're building it ourselves. It was already in progress when I arrived, and it's coming along nicely.

@@ -4,7 +4,9 @@
 
 I know that I personally use shadowbanning via automoderator quite leniently as a way to stop people that are *obviously* trolls or have been *repeatedly* causing unnecessary work/drama for the mods. So it's a bit of a shock for me that the CEO is against this kind of thing when it's clearly such a useful tool. 
 
-Anyway, I just wanted to see what the general reaction was to this. <u/spez>: I'm not even talking about modtools in that quote. It's about the perception of reddit the company banning users, which I don't want us (the company) doing.
+Anyway, I just wanted to see what the general reaction was to this.
+
+<u/spez>: I'm not even talking about modtools in that quote. It's about the perception of reddit the company banning users, which I don't want us (the company) doing.
 
 Everyone, let me be clear. My intention is to make your jobs easier. I'm not going to come in and remove a bunch of features you depend on, but rather to add more tools so clumsy things like shadowbanning aren't necessary. This is going to require some tech cleverness, but I know we can do it because I've done stuff like this plenty of times before.
 
@@ -14,8 +16,12 @@ My other goal is to remove some of the mystery from how communities are managed 
 
 (I'm x-posting this in the other mod subreddits)
 
-edit: added the first sentence. <u/splattypus>: > My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors.
+edit: added the first sentence.
+
+<u/splattypus>: > My other goal is to remove some of the mystery from how communities are managed from the reader's perspective. Seeing people cry "censorship" every time a spammer is caught doesn't do anyone any favors.
 
 Go on.....
 
-I gotta be honest with you though, the second there becomes a target my head just because I'm upholding the clearly-defined rules of my subreddit, I'm done modding.  I don't need that kind of shit, so I really hope what you've got in mind can account for petty and pissed off users with nothing but contempt for mods and too much time on their hands.  <u/spez>: I'd like to hear more about this. Seems to be a recurring theme today-- people receiving threats.
+I gotta be honest with you though, the second there becomes a target my head just because I'm upholding the clearly-defined rules of my subreddit, I'm done modding.  I don't need that kind of shit, so I really hope what you've got in mind can account for petty and pissed off users with nothing but contempt for mods and too much time on their hands. 
+
+<u/spez>: I'd like to hear more about this. Seems to be a recurring theme today-- people receiving threats.

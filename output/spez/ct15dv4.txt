@@ -1,17 +1,29 @@
 <r/GamerGhazi>: All I am saying is, Give Spez a Chance
 
-[deleted] <u/madhaus>: Wonder if u/spez is a fan of the old Hewlett-Packard practice of "Managing By Walking Around." If he is, he really should be at least checking out these posts that namedrop him.  Unlimited Free Speech enables harassment, bullying, and Tyranny of the Majority (either in karma, in post quantity, or in gaming the system). The question is, does Huffman know this and not care, or are these concepts that never occurred to him since Reddit was created for bros like him so by definition I SEE NO PROBLEM HERE. <u/spez>: Yeah, I see 'em. Most of them, at least (I won't get to read all 5k I received on day 1). <u/madhaus>: Thanks for replying, u/spez. Would appreciate knowing you are taking in that there are problems endemic to valuing free speech above all else. Communities like this require constant comment pruning  and troll banning due to brigading and harassment. It is VERY real, and a lot of it is fueled by sexism and racism, not just political disagreements. <u/spez>: Totally get it.
+[deleted]
+
+<u/madhaus>: Wonder if u/spez is a fan of the old Hewlett-Packard practice of "Managing By Walking Around." If he is, he really should be at least checking out these posts that namedrop him.  Unlimited Free Speech enables harassment, bullying, and Tyranny of the Majority (either in karma, in post quantity, or in gaming the system). The question is, does Huffman know this and not care, or are these concepts that never occurred to him since Reddit was created for bros like him so by definition I SEE NO PROBLEM HERE.
+
+<u/spez>: Yeah, I see 'em. Most of them, at least (I won't get to read all 5k I received on day 1).
+
+<u/madhaus>: Thanks for replying, u/spez. Would appreciate knowing you are taking in that there are problems endemic to valuing free speech above all else. Communities like this require constant comment pruning  and troll banning due to brigading and harassment. It is VERY real, and a lot of it is fueled by sexism and racism, not just political disagreements.
+
+<u/spez>: Totally get it.
 
 I know people are on edge about me right now. That's expected.
 
-I think if we can build better tech for harassment, avoiding bans, alt detection, etc., a lot of the other problems become simpler. <u/srhbutts>: thank you for taking the time to reply to people. means a lot. i know the volume of concerns must be overwhelming. 
+I think if we can build better tech for harassment, avoiding bans, alt detection, etc., a lot of the other problems become simpler.
+
+<u/srhbutts>: thank you for taking the time to reply to people. means a lot. i know the volume of concerns must be overwhelming. 
 
 a lot of us are concerned that ellen pao's departure will be indicative of the commitment on reddit's part to address harassment. if you could address that somewhere it'd be pretty amazing. 
 
 harassment on reddit is a chronic issue, and disproportionately affects marginalized people on the platform-- as a random example, i'm a trans woman, and my dox/deadname/personal info have literally appeared hundreds of times on various boards on reddit and the vast majority of the time, the admins don't reply or even ban the offending users, much less the subs where these things happen chronically. 
 
 
-i get the commitment to free speech, but the thing is, doing nothing re: harassment effectively silences people as well. <u/spez>: Yes, I should have been more sensitive to the harassment angle yesterday. The next time I do a big public AMA, I'll keep that in mind.
+i get the commitment to free speech, but the thing is, doing nothing re: harassment effectively silences people as well.
+
+<u/spez>: Yes, I should have been more sensitive to the harassment angle yesterday. The next time I do a big public AMA, I'll keep that in mind.
 
 In short, it's important, and I think there is quite a bit we can do. I want reddit to continue to grow, and I think one of the main obstacles to growth right now is how hostile reddit can be.
 

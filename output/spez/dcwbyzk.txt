@@ -23,8 +23,12 @@ Here's to a happy, productive, drama-free (ha), 2017!
 Steve and the Reddit team
 
 update: I'm off for now. Will check back in a couple hours. Thanks!
- <u/raldi>: How big a problem is ban evasion? Every time I've [messaged the admins](https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&subject=Ban%20Evasion) about a suspected case, it's always been quickly resolved, but I'm curious whether it's whack-a-mole or if the Anti-Evil team is building a robot army to automatically eradicate it as part of their 2017 OKRs.
 
-Edit, since all the replies except spez appear to have misread my comment: I'm asking about ban **evasion**, not ban abuse. As in, people who get banned and then immediately make a new sockpuppet to continue their trolling.  <u/spez>: A little bit of column A, a little bit of column B.
+
+<u/raldi>: How big a problem is ban evasion? Every time I've [messaged the admins](https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&subject=Ban%20Evasion) about a suspected case, it's always been quickly resolved, but I'm curious whether it's whack-a-mole or if the Anti-Evil team is building a robot army to automatically eradicate it as part of their 2017 OKRs.
+
+Edit, since all the replies except spez appear to have misread my comment: I'm asking about ban **evasion**, not ban abuse. As in, people who get banned and then immediately make a new sockpuppet to continue their trolling. 
+
+<u/spez>: A little bit of column A, a little bit of column B.
 
 As you know, solve it once by hand. Solve it twice by hand. If it's still a problem, automate it.

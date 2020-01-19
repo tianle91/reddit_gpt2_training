@@ -20,8 +20,12 @@ As always, Reddit would not exist without you, our community, so thank you. We a
 
 –Steve
 
-edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs. <u/adeadhead>: >A/B testing system
+edit: I'm off. Thanks for the feedback and questions. We've got a lot to deliver on this year, but the whole team is excited for what's in store. We've brought on a bunch of new people lately, but our biggest need is still hiring. If you're interested, please check out https://www.reddit.com/jobs.
+
+<u/adeadhead>: >A/B testing system
 
 Are different users experiencing different versions of reddit without their input?
 
-EDIT: A/B testing explained in this [new admin post over in /r/changelog](https://www.reddit.com/r/changelog/comments/434n3a/reddit_change_ab_testing_read_next/) for those who are interested.  <u/spez>: Yes, from time to time. That's the best way to actually measure if something is an improvement or not.
+EDIT: A/B testing explained in this [new admin post over in /r/changelog](https://www.reddit.com/r/changelog/comments/434n3a/reddit_change_ab_testing_read_next/) for those who are interested. 
+
+<u/spez>: Yes, from time to time. That's the best way to actually measure if something is an improvement or not.

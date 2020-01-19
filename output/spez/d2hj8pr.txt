@@ -14,10 +14,14 @@ I want to give you all an update with the things that are keeping us busy, and h
 
 We appreciate all you do for Reddit as moderators, and we appreciate seeing the questions you ask in this community. We are particularly thankful for those of you who jump in and help the other moderators here and elsewhere.
 
-– The Reddit Team <u/Thunderclaww>: Glad to hear it! I've definitely seen a lot less spam recently.
+– The Reddit Team
+
+<u/Thunderclaww>: Glad to hear it! I've definitely seen a lot less spam recently.
 
 As for the ATOs, I've heard of a few mods having their accounts broken into as a result of poor passwords. Have you considered enabling some sort of 2FA system to help deal with this issue?
 
-Thanks for your hard work! <u/spez>: > Have you considered enabling some sort of 2FA system to help deal with this issue?
+Thanks for your hard work!
+
+<u/spez>: > Have you considered enabling some sort of 2FA system to help deal with this issue?
 
 Yes, we will add that in time, but it doesn't solve the acute problem. Many of the compromised accounts are old / inactive / owned by users who have shitty passwords.

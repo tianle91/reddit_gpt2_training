@@ -10,9 +10,13 @@ I’ve got a couple hours, so, ask me anything!
 
 Steve
 
-edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later. <u/jdp407>: Quite a few people were concerned by [your recent comments](https://www.reddit.com/r/videos/comments/4lmfmj/ceo_of_reddit_steve_huffman_about_advertising_on/) to which the title of this post alludes ("We know all of your interests. Not only just your interests you are willing to declare publicly on Facebook - we know your dark secrets, we know everything"), and would like further explanation. Are your comments representative of the policies of reddit Inc.?
+edit: Thanks for the questions! I'm stepping away for a bit. I'll check back later.
 
-Does this herald the implementation of highly targeted advertising based on subreddit preferences, or  perhaps something much more sinister, like mass data collection which could then be sold on? I think if you could clarify these comments it might put people slightly more at ease. <u/spez>: We would like to make better use of all the data we have. The front page could be a lot more relevant; we can make better content suggestions; and yes, ads can be better targeted. There are many opportunities to make Reddit better and more relevant.
+<u/jdp407>: Quite a few people were concerned by [your recent comments](https://www.reddit.com/r/videos/comments/4lmfmj/ceo_of_reddit_steve_huffman_about_advertising_on/) to which the title of this post alludes ("We know all of your interests. Not only just your interests you are willing to declare publicly on Facebook - we know your dark secrets, we know everything"), and would like further explanation. Are your comments representative of the policies of reddit Inc.?
+
+Does this herald the implementation of highly targeted advertising based on subreddit preferences, or  perhaps something much more sinister, like mass data collection which could then be sold on? I think if you could clarify these comments it might put people slightly more at ease.
+
+<u/spez>: We would like to make better use of all the data we have. The front page could be a lot more relevant; we can make better content suggestions; and yes, ads can be better targeted. There are many opportunities to make Reddit better and more relevant.
 
 We're not actually doing it now. I've mentioned this sort of thing before. When do, we'll always provide an opt-out or way of resetting things.
 

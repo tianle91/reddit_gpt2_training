@@ -4,4 +4,12 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/iHazFail99>: Is the AMA app abandoned? <u/spez>: Yes <u/jb7410>: Can you elaborate as to why? <u/spez>: We're focusing our mobile resources on the main Reddit apps.
+update: I'm outta here. Thanks for the questions!
+
+<u/iHazFail99>: Is the AMA app abandoned?
+
+<u/spez>: Yes
+
+<u/jb7410>: Can you elaborate as to why?
+
+<u/spez>: We're focusing our mobile resources on the main Reddit apps.

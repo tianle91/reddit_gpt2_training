@@ -20,4 +20,8 @@ I will be hanging around to answer questions about this or anything else for the
 
 Steve
 
-u: I'm out for now. Will check back later. Thanks! <u/Ruddiver>: Why cant I filter a subreddit even when I am on r/all? It annoys me to refresh the new or even rising and see um, a certain cretinous subreddit in every post, and I don't mean /r/adviceanimals. <u/spez>: I wrote half this feature, actually, and ran out of time. We will finish it.
+u: I'm out for now. Will check back later. Thanks!
+
+<u/Ruddiver>: Why cant I filter a subreddit even when I am on r/all? It annoys me to refresh the new or even rising and see um, a certain cretinous subreddit in every post, and I don't mean /r/adviceanimals.
+
+<u/spez>: I wrote half this feature, actually, and ran out of time. We will finish it.

@@ -20,13 +20,17 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/Halaku>: >ii) Foreign Requests (Non-Emergency)
+update: I'm out for now. Will check back later.
+
+<u/Halaku>: >ii) Foreign Requests (Non-Emergency)
 In 2018, Reddit received 28 requests for the production of user account information from foreign governmental authorities (excluding emergency requests). Reddit did not comply with any of these requests.
 
 I noticed that the specific foreign governments are unlisted in either the posted summation above or the actual Report.
 
 Is there a legal reason why the governments were unlisted?
 
-Wouldn't transparency be better served by saying "X from Canada, Y from the UK, Z from Russia, and 1 from Vatican City", or something like that? <u/spez>: Good question. We're updating that as we speak.
+Wouldn't transparency be better served by saying "X from Canada, Y from the UK, Z from Russia, and 1 from Vatican City", or something like that?
+
+<u/spez>: Good question. We're updating that as we speak.
 
 Update: updated.

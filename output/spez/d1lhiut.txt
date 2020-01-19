@@ -19,6 +19,10 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 (I'll do my best to answer questions, but as with all legal matters, I can't always be completely candid.)
 
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
- <u/chengiz>: > **India** We received 11 requests from cyber crime investigation authorities in India requesting the removal of content, which was allegedly “disturbing public order”. None were complied with, with a majority of the content not being hosted by Reddit. 
 
-However the table just above this says 8 posts and 1 user account were affected. What does that mean? In what ways can posts/users be affected if requests arent complied with? <u/spez>: In India, you're right our phrasing could be better, and we'll take into account for our next report.  The "What was affected" means that the 11 requests related to 8 posts and 1 user account (there were 3 requests related to that 1 user account). 
+
+<u/chengiz>: > **India** We received 11 requests from cyber crime investigation authorities in India requesting the removal of content, which was allegedly “disturbing public order”. None were complied with, with a majority of the content not being hosted by Reddit. 
+
+However the table just above this says 8 posts and 1 user account were affected. What does that mean? In what ways can posts/users be affected if requests arent complied with?
+
+<u/spez>: In India, you're right our phrasing could be better, and we'll take into account for our next report.  The "What was affected" means that the 11 requests related to 8 posts and 1 user account (there were 3 requests related to that 1 user account). 

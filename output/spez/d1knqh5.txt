@@ -19,9 +19,13 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 (I'll do my best to answer questions, but as with all legal matters, I can't always be completely candid.)
 
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
- <u/MrLegilimens>: >
+
+
+<u/MrLegilimens>: >
 In 2015, we did not produce records in response to 40% of government requests, 
 
-I'm curious what kind of requests were made in which you did provide records? I'm just confused why / what would it take to make both a government say "We want to know about /u/MrLegilimens" but also what would make you say Yes (or no). <u/spez>: Our [law enforcement guidelines](https://www.reddit.com/wiki/law_enforcement_guidelines) document how we can be legally compelled to share information.
+I'm curious what kind of requests were made in which you did provide records? I'm just confused why / what would it take to make both a government say "We want to know about /u/MrLegilimens" but also what would make you say Yes (or no).
+
+<u/spez>: Our [law enforcement guidelines](https://www.reddit.com/wiki/law_enforcement_guidelines) document how we can be legally compelled to share information.
 
 Our general strategy is to store as little as possible to minimize our surface area. I also encourage users to share as little as possible for the same reason.

@@ -19,4 +19,8 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/abodyweightquestion>: You had 5 requests from the UK Govt. Are you able to say whether you complied fully with the requests (eg. you were requested but ultimately did not give information), and are you able to say more on each case? <u/spez>: We didn't turn over any information for these requests
+
+
+<u/abodyweightquestion>: You had 5 requests from the UK Govt. Are you able to say whether you complied fully with the requests (eg. you were requested but ultimately did not give information), and are you able to say more on each case?
+
+<u/spez>: We didn't turn over any information for these requests

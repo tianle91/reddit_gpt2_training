@@ -20,6 +20,10 @@ I will be hanging around to answer questions about this or anything else for the
 
 Steve
 
-u: I'm out for now. Will check back later. Thanks! <u/reseph>: Ah actually I did have a question. When are we mods getting the anti-brigading tools that was promised?
+u: I'm out for now. Will check back later. Thanks!
 
-https://www.reddit.com/r/ModSupport/comments/4tpla8/where_are_the_promised_antibrigading_tools/ <u/spez>: We've been working on it steadily for the last year, but it's not something we talk specifics about. We will continue to make progress.
+<u/reseph>: Ah actually I did have a question. When are we mods getting the anti-brigading tools that was promised?
+
+https://www.reddit.com/r/ModSupport/comments/4tpla8/where_are_the_promised_antibrigading_tools/
+
+<u/spez>: We've been working on it steadily for the last year, but it's not something we talk specifics about. We will continue to make progress.

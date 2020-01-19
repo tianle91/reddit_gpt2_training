@@ -10,10 +10,18 @@ Today, in addition to applying Quarantines, we are banning a handful of communit
 
 I believe these policies strike the right balance.
 
-update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/TheMentalist10>: Will you be sharing information about the communities which are Quarantined? Will moderators of those communities know if their subreddit has been affected?
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
+
+<u/TheMentalist10>: Will you be sharing information about the communities which are Quarantined? Will moderators of those communities know if their subreddit has been affected?
 
 Edit: Just as it's not immediately obvious, **/r/Coontown has been banned**
 
 Edit 2: [Here's what it looks like when you try to access a Quarantined subreddit](https://imgur.com/BkUsoz2)
 
-Edit 3: [And here's what private subs now look like. Fancy!](https://imgur.com/k8fptkw) <u/spez>: They receive a message, yes. <u/booklover13>: Will there be a list of quarantined subs keep so we which have been quarantined? Will there be an appeal process for a quarantined sub or a way for them to be quarantined if they can make the necessary changes? <u/spez>: The mods of a quarantined community are not banned, so they can message us just fine.
+Edit 3: [And here's what private subs now look like. Fancy!](https://imgur.com/k8fptkw)
+
+<u/spez>: They receive a message, yes.
+
+<u/booklover13>: Will there be a list of quarantined subs keep so we which have been quarantined? Will there be an appeal process for a quarantined sub or a way for them to be quarantined if they can make the necessary changes?
+
+<u/spez>: The mods of a quarantined community are not banned, so they can message us just fine.

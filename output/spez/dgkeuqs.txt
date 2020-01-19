@@ -39,6 +39,10 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/pimanac>: So what's the plan for the API?  Are you making any major (breaking) changes to it as part of the site redesign?  
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-There are a lot of bots floating around there to assist with Mod Tasks, it would be nice to plan for future changes if they're going to be there. <u/spez>: The API isn't going anywhere.
+<u/pimanac>: So what's the plan for the API?  Are you making any major (breaking) changes to it as part of the site redesign?  
+
+There are a lot of bots floating around there to assist with Mod Tasks, it would be nice to plan for future changes if they're going to be there.
+
+<u/spez>: The API isn't going anywhere.

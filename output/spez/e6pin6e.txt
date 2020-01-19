@@ -32,7 +32,11 @@ u/0perspective
 
 UPDATED 3/14:
 
-We've made a few Event and Collections endpoints available for our beta communities to start trying out and giving us feedback on. You can read more about these APIs here, https://www.reddit.com/dev/api/.  <u/likeafox>: Yes we like this. Can you talk about different use cases you have envisioned for the post collections tool? Will the collections have an exposed public API?  <u/0perspective>: For different use cases, we're really excited to see the creative use cases the communities come up with. Some idea we've talked about internally a few
+We've made a few Event and Collections endpoints available for our beta communities to start trying out and giving us feedback on. You can read more about these APIs here, https://www.reddit.com/dev/api/. 
+
+<u/likeafox>: Yes we like this. Can you talk about different use cases you have envisioned for the post collections tool? Will the collections have an exposed public API? 
+
+<u/0perspective>: For different use cases, we're really excited to see the creative use cases the communities come up with. Some idea we've talked about internally a few
 
 \-- All the discussion threads for seasons 2 of Game of Thrones
 
@@ -47,4 +51,8 @@ We've made a few Event and Collections endpoints available for our beta communit
 **What ideas do you have?**  
 
 
-As for API access, it's something we're considering this during the beta. **How would you use API access?** <u/shiruken>: Back when /r/science hosted AMAs, collections would have been perfect for organizing our themed AMA weeks. <u/spez>: We hope so. r/science AMAs were one of the inspirations for this feature. The idea is you can create a landing page for an AMA days before the event to build up excitement, and then bring everybody back at the same time for the actual event.
+As for API access, it's something we're considering this during the beta. **How would you use API access?**
+
+<u/shiruken>: Back when /r/science hosted AMAs, collections would have been perfect for organizing our themed AMA weeks.
+
+<u/spez>: We hope so. r/science AMAs were one of the inspirations for this feature. The idea is you can create a landing page for an AMA days before the event to build up excitement, and then bring everybody back at the same time for the actual event.

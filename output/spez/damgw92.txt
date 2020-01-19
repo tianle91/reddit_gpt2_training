@@ -30,7 +30,9 @@ Again, I am sorry for the trouble I have caused. While I intended no harm, that 
 Steve
 
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
- <u/i_am_not_sam>: * Can any admin edit a comment/post? How would we know?
+
+
+<u/i_am_not_sam>: * Can any admin edit a comment/post? How would we know?
 
 * Has this ever happened before?
 
@@ -47,7 +49,9 @@ I'm also glad you guys finally got around to implementing the sub-reddit blockin
 * if the sub isn't responsible then how are you 
  * evaluating the truth in this accusation
  * taking action to protect reddit from other websites and social media
- * planning to prevent something like this (power user getting harassed to the point of doing something extremely silly/unprofessional) from every happening again? <u/spez>: > Can any admin edit a comment/post? How would we know?
+ * planning to prevent something like this (power user getting harassed to the point of doing something extremely silly/unprofessional) from every happening again?
+
+<u/spez>: > Can any admin edit a comment/post? How would we know?
 
 No. Only engineers with access to production data, and that is being limited.
 
@@ -60,10 +64,14 @@ This whole experience has been pretty painful. Even with the best of intentions,
 > Are there any clear cut policies for what constitutes a ban-worthy offense for a sub-reddit?
 
 The clear cut policies are in our [Content Policy](https://www.reddit.com/help/contentpolicy).
- <u/Jaciola>: >Over the years I have fixed typos in titles when people ask since we don't allow title editing by default.
+
+
+<u/Jaciola>: >Over the years I have fixed typos in titles when people ask since we don't allow title editing by default.
 
 Question for you. I understand the reason for not editing titles is to not have people create popular posts and then change the title to something inflammatory.
 
-However, why not allow a small 5 minute window to change the title? It shouldn't be long enough to blow up but may be long enough to help prevent a typo  <u/spez>: > However, why not allow a small 5 minute window to change the title? It shouldn't be long enough to blow up but may be long enough to help prevent a typo
+However, why not allow a small 5 minute window to change the title? It shouldn't be long enough to blow up but may be long enough to help prevent a typo 
+
+<u/spez>: > However, why not allow a small 5 minute window to change the title? It shouldn't be long enough to blow up but may be long enough to help prevent a typo
 
 Totally reasonable.

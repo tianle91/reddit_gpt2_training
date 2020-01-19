@@ -123,9 +123,17 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/AllTheRowboats93>: I wonder if this will change the dynamic of the site.  <u/HideHideHidden>: We're testing this carefully but the goal is to give a home for people to put their original content. We think more original content and content creators will spur more conversations throughout Reddit. <u/HungJurror>: I can see people trying to (and maybe succeeding) become famous much like people have done on vine, twitter, and youtube. That might mean seeing the same several users' profile posts on the top of /r/all just about every day. Any chance we'll be able to filter certain user posts out of /r/all? My filter has no room to add any more, but I'd sacrifice a few filtered subs to keep from seeing the same person's blog every day
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
+
+<u/AllTheRowboats93>: I wonder if this will change the dynamic of the site. 
+
+<u/HideHideHidden>: We're testing this carefully but the goal is to give a home for people to put their original content. We think more original content and content creators will spur more conversations throughout Reddit.
+
+<u/HungJurror>: I can see people trying to (and maybe succeeding) become famous much like people have done on vine, twitter, and youtube. That might mean seeing the same several users' profile posts on the top of /r/all just about every day. Any chance we'll be able to filter certain user posts out of /r/all? My filter has no room to add any more, but I'd sacrifice a few filtered subs to keep from seeing the same person's blog every day
 
 
 I do like this change though
 
- <u/spez>: We haven't decided whether user pages will appear in communal spaces like r/all and r/popular. We'll see how the feature evolves.
+
+
+<u/spez>: We haven't decided whether user pages will appear in communal spaces like r/all and r/popular. We'll see how the feature evolves.

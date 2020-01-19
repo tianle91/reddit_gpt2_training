@@ -2,7 +2,9 @@
 
 Some of his comments in the public AMA regarding shadowbans and deletion are going to be of great concern to more than just a few mods.  I'm predicting another sitewide shitstorm if the concerns about it are not addressed sooner rather than later.
 
-http://redd.it/3cxedn <u/AsAChemicalEngineer>: I wrote these two comments in /r/modtalk and /r/IAmA. Here is the brunt of my concern:  
+http://redd.it/3cxedn
+
+<u/AsAChemicalEngineer>: I wrote these two comments in /r/modtalk and /r/IAmA. Here is the brunt of my concern:  
 ______  
 From the AMA:  
 
@@ -27,7 +29,9 @@ This is a question of resources. We moderators already can have very full plates
 ______  
 Spez, I don't think you understand what an impossible idea this is. Some of the biggest and high quality subs moderate and remove thousands of comments for a variety of reasons. Are you telling us that we, moderators, need to be accountable for every single removal? This simply isn't a feasible prospect and the best mod tools in the world will not make it so.  
 
-Why should /r/AskScience allow users to appeal our decision to ban young earth creationism in that sub? Or holocaust denial in /r/history? Why make more work for the good folks at /r/AskHistorians? <u/spez>: I think I've said many times that my intention isn't to make anyone's duties more difficult. I believe we can build better tools that will save everyone time.
+Why should /r/AskScience allow users to appeal our decision to ban young earth creationism in that sub? Or holocaust denial in /r/history? Why make more work for the good folks at /r/AskHistorians?
+
+<u/spez>: I think I've said many times that my intention isn't to make anyone's duties more difficult. I believe we can build better tools that will save everyone time.
 
 I also believe that shadow banning shouldn't be the only option because it isn't needed in many cases. It happens that in practice is *is* the only option, but we can build a better variety of tools.
 

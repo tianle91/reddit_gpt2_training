@@ -1,3 +1,7 @@
-<r/programming>: The Evolution of Code Deploys at Reddit <u/KeyserSosa>: The *original* original deployment scheme was pretty much "\^C the reddit process running in screen on the server."  
+<r/programming>: The Evolution of Code Deploys at Reddit
 
-At least I hope it was in screen... <u/spez>: It was not.
+<u/KeyserSosa>: The *original* original deployment scheme was pretty much "\^C the reddit process running in screen on the server."  
+
+At least I hope it was in screen...
+
+<u/spez>: It was not.

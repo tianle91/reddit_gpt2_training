@@ -4,8 +4,12 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/MisterWoodhouse>: Hey Steve, any plans/desire to build out the East Coast presence a little more with the workforce? I'm sure a lot of qualified people are interested in working for Reddit, but don't want to be in the San Francisco area.
+update: I'm outta here. Thanks for the questions!
 
-Perhaps you could expand the New York office or set up shop in Silicon Alley outside of Boston? <u/spez>: We have a small presence in NYC, mostly for ad sales, though.
+<u/MisterWoodhouse>: Hey Steve, any plans/desire to build out the East Coast presence a little more with the workforce? I'm sure a lot of qualified people are interested in working for Reddit, but don't want to be in the San Francisco area.
+
+Perhaps you could expand the New York office or set up shop in Silicon Alley outside of Boston?
+
+<u/spez>: We have a small presence in NYC, mostly for ad sales, though.
 
 For the foreseeable future I want all product people (product, design, engineering) and general leadership to be in the same office. It's easier to build our culture when everyone is face-to-face.

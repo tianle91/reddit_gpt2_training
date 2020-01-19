@@ -26,7 +26,9 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/BestRbx>: Afternoon from the UK Spez, /r/funny here! Was a pleasure speaking to you during the London Roadshow.
+—spez
+
+<u/BestRbx>: Afternoon from the UK Spez, /r/funny here! Was a pleasure speaking to you during the London Roadshow.
 
 What are we working on to combat the karma farming epidemic? politics and russian trolls aside, there's been an abhorrent amount of sheer shitposting cluttering up the default subs.
 
@@ -40,7 +42,9 @@ Now imagine that 24/7.
 
 Now imagine filtering, tagging, banning, tracking groups, and responding to messages at that pace. 
 
-Your abusive attitude towards those who volunteer their time to battle such a seemingly hopeless cause with no reward but their own understanding that they get to help the community should embarrass you. <u/spez>: Thanks for the question, and thanks for hanging with us. Help is coming.
+Your abusive attitude towards those who volunteer their time to battle such a seemingly hopeless cause with no reward but their own understanding that they get to help the community should embarrass you.
+
+<u/spez>: Thanks for the question, and thanks for hanging with us. Help is coming.
 
 We know these kinds of accounts have been a problem, and they’re not easy for moderators to deal with alone. We’ve talked a bit elsewhere about a relatively new team we’ve spun up to deal with content manipulation. While their focus has been largely on political manipulation, many of the same tools and methods they’re developing are also effective against these kinds of spam networks. As those things work their way into production, we hope you’ll see far less of these accounts in your subreddits.
 

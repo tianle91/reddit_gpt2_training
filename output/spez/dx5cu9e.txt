@@ -30,4 +30,8 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/Friendlyindividual>: Question, when the fuck is the Reddit search engine being overhauled? You keep saying it's in the works, but when the hell is it happening?  <u/spez>: The old backend was officially retired this week! The new backend is much faster and more reliable, and a little bit more accurate. The next step is to continue to tune and improve the relevancy.
+update: I'm off for now. Thanks for the questions!
+
+<u/Friendlyindividual>: Question, when the fuck is the Reddit search engine being overhauled? You keep saying it's in the works, but when the hell is it happening? 
+
+<u/spez>: The old backend was officially retired this week! The new backend is much faster and more reliable, and a little bit more accurate. The next step is to continue to tune and improve the relevancy.

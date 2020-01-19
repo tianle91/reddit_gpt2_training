@@ -37,7 +37,9 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/Darr_Syn>: Thanks for doing this AMA.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/Darr_Syn>: Thanks for doing this AMA.
 
 I'm a moderator of more than a few NSFW subreddits, including /r/BDSMcommunity and /r/BDSM, and as I stated in the teaser announcement earlier this week: this decision, and the specific wording, is worrying.
 
@@ -53,6 +55,8 @@ You can see where this is the type of announcement that raises more than a few e
 
 At what point do the minority opinion and positions be accepted as obscene, offensive, and unwanted?
 
-BDSM between two consenting adults has been seen and labeled as both offensive and obscene for decades now.   <u/spez>: I can tell you with confidence that these specific communities are not what we are referring to. Not even close.
+BDSM between two consenting adults has been seen and labeled as both offensive and obscene for decades now.  
+
+<u/spez>: I can tell you with confidence that these specific communities are not what we are referring to. Not even close.
 
 But this is also why I prefer separation over banning. Banning is like capital punishment, and we don't want to do it except in the clearest of cases.

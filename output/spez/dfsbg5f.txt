@@ -19,7 +19,9 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/BellyandKen>: /u/spez, thanks for posting this! 
+
+
+<u/BellyandKen>: /u/spez, thanks for posting this! 
 
 A question on the requests for user account information:
 The number of requests went up from 98 requests to 170, which is quite a jump. Why is it that these numbers increased so much from the previous year? I know Reddit is growing in users but is it that much or are sites like Reddit being used as evidence more in court cases?
@@ -30,7 +32,9 @@ Of the 234 million users of this website, it is quite impressive that only aroun
 
 What can we as users do or know to have a better peace of mind when it comes to our privacy on Reddit? (Not necessarily looking for advice on VPNs or the other wonderful info available at /r/privacy )
 
-Thanks again for the transparency and answering any questions you can! Have a great day! <u/spez>: Yes, I expect the number to continue to grow.
+Thanks again for the transparency and answering any questions you can! Have a great day!
+
+<u/spez>: Yes, I expect the number to continue to grow.
 
 For context, check out the scale of [Google's report](https://www.google.com/transparencyreport/).
 

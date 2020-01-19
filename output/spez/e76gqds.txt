@@ -26,7 +26,9 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/ploggingdev>: 1) Can you please stop pushing the redesign so hard?
+—spez
+
+<u/ploggingdev>: 1) Can you please stop pushing the redesign so hard?
 
 2) Can you stop the "Download the app" popups showing up so frequently on mobile?
 
@@ -34,7 +36,9 @@ Other than that, I can’t imagine we have much to talk about, but I’ll hang t
 
 4) Can you remove the [orange coloured chat icon](https://i.imgur.com/IXzbY36.png) next to my inbox?
 
-Complaining aside, I continue to enjoy reddit, thanks! <u/spez>: 1) What are you referring to? Only new users see it by default. Most everyone else needs to opt in.
+Complaining aside, I continue to enjoy reddit, thanks!
+
+<u/spez>: 1) What are you referring to? Only new users see it by default. Most everyone else needs to opt in.
 
 2) They've been gone a while, but we are chasing down an issue with incognito users seeing it more often. Please let me know if that's the case, or if you are having a different experience.*
 
@@ -42,7 +46,9 @@ Complaining aside, I continue to enjoy reddit, thanks! <u/spez>: 1) What are you
 
 4) Have heard this one before, and we're considering a couple other approaches. I didn't notice myself because my icons are always orange.
 
-*Update: there was a lingering experiment that is now turned off. <u/stpfun>: > 2) They've been gone a while, but we are chasing down an issue with incognito users seeing it more often. Please let me know if that's the case, or if you are having a different experience.
+*Update: there was a lingering experiment that is now turned off.
+
+<u/stpfun>: > 2) They've been gone a while, but we are chasing down an issue with incognito users seeing it more often. Please let me know if that's the case, or if you are having a different experience.
 
 Mobile app prompts have been gone for a while? I see an [aggressive prompt](https://imgur.com/izp56QO) EVERY TIME I use Reddit on iOS Safari, not incognito.
 
@@ -58,6 +64,8 @@ Have someone on your team try to use Reddit's mobile website for a week and see 
 
 
 
-^^[I ^^get ^^that ^^you ^^want ^^to ^^encourage ^^people ^^to ^^use ^^the ^^mobile ^^app ^^where ^^you ^^can ^^offer ^^a ^^smoother ^^and ^^more ^^powerful ^^experience ^^[and ^^where ^^ad ^^blockers ^^often ^^don't ^^work...] ^^but ^^the ^^current ^^approach ^^is ^^extreme. ^^Even ^^showing ^^the ^^"USE ^^MOBILE!!!111" ^^popup ^^once ^^every ^^24 ^^hours ^^instead ^^of ^^once ^^per ^^refresh ^^would ^^be ^^a ^^welcome ^^improvement. ^^Also, ^^the ^^mobile ^^website's ^^frequent ^^"Something ^^went ^^wrong" ^^errors, ^^loss ^^of ^^scroll ^^position, ^^and ^^flakey ^^video/gif ^^playback ^^is ^^the ^^main ^^reason ^^I ^^use ^^the ^^mobile ^^app ^^at ^^all ^^when ^^I ^^do] <u/spez>: Got it. Annoying. Will follow up on this.
+^^[I ^^get ^^that ^^you ^^want ^^to ^^encourage ^^people ^^to ^^use ^^the ^^mobile ^^app ^^where ^^you ^^can ^^offer ^^a ^^smoother ^^and ^^more ^^powerful ^^experience ^^[and ^^where ^^ad ^^blockers ^^often ^^don't ^^work...] ^^but ^^the ^^current ^^approach ^^is ^^extreme. ^^Even ^^showing ^^the ^^"USE ^^MOBILE!!!111" ^^popup ^^once ^^every ^^24 ^^hours ^^instead ^^of ^^once ^^per ^^refresh ^^would ^^be ^^a ^^welcome ^^improvement. ^^Also, ^^the ^^mobile ^^website's ^^frequent ^^"Something ^^went ^^wrong" ^^errors, ^^loss ^^of ^^scroll ^^position, ^^and ^^flakey ^^video/gif ^^playback ^^is ^^the ^^main ^^reason ^^I ^^use ^^the ^^mobile ^^app ^^at ^^all ^^when ^^I ^^do]
+
+<u/spez>: Got it. Annoying. Will follow up on this.
 
 Update: there was a lingering experiment that is now turned off.

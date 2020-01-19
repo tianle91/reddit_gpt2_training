@@ -16,7 +16,9 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/Georgy_K_Zhukov>: /u/spez,
+u: Thank you! Heading out for now. Will check back later.
+
+<u/Georgy_K_Zhukov>: /u/spez,
 
 Yesterday /r/AskHistorians was approached about being part of the A/B testing for this new 'subreddit suggestion' system you are planning for mobile and told that it "*might drive some new traffic to your subreddit*." We also were told to "*let us know if you have any questions, or see any problems*."
 
@@ -26,4 +28,6 @@ Unfortunately, this answer leaves us without any further information. So /u/spez
 
 Regards, 
 
-Zhukov and the AH Mod Team <u/spez>: The short-term goal is to find communities that reflect the best of Reddit and include them in some onboarding experiments we are running. We don't want to include people against their will or cause harm to communities. Happy to chat further once this AMA dies down.
+Zhukov and the AH Mod Team
+
+<u/spez>: The short-term goal is to find communities that reflect the best of Reddit and include them in some onboarding experiments we are running. We don't want to include people against their will or cause harm to communities. Happy to chat further once this AMA dies down.

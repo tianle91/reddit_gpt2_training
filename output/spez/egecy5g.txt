@@ -20,6 +20,10 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/TheBatsford>: Who are you selling my data to and how can I know who you are selling my data to on an ongoing basis? <u/spez>: We don't sell any private user data, though we do sell access to an API to more easily access already publicly available content.
+update: I'm out for now. Will check back later.
+
+<u/TheBatsford>: Who are you selling my data to and how can I know who you are selling my data to on an ongoing basis?
+
+<u/spez>: We don't sell any private user data, though we do sell access to an API to more easily access already publicly available content.
 
 How you data is used is documented in our [Privacy Policy](https://www.redditinc.com/policies/privacy-policy-may-25-2018).

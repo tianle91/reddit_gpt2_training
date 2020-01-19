@@ -16,4 +16,8 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/Jakeable>: Could you guys fix how Google puts m.reddit.com links in desktop results? Not sure if it's something that can be fixed but it's annoying nonetheless.  <u/spez>: Yes. The m.reddit.com domain will go away, and we'll use www.reddit.com for both, relying on browsers / user preferences to show the correct site.
+u: Thank you! Heading out for now. Will check back later.
+
+<u/Jakeable>: Could you guys fix how Google puts m.reddit.com links in desktop results? Not sure if it's something that can be fixed but it's annoying nonetheless. 
+
+<u/spez>: Yes. The m.reddit.com domain will go away, and we'll use www.reddit.com for both, relying on browsers / user preferences to show the correct site.

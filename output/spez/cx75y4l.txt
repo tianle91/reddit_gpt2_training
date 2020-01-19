@@ -18,12 +18,16 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/twenafeesh>: >I encourage everyone to understand how browsers and the web work and what steps you can take to protect your own privacy. Notably, browsers allow you to disable third-party cookies, and you can customize your browser with a variety of privacy-related extensions.
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/twenafeesh>: >I encourage everyone to understand how browsers and the web work and what steps you can take to protect your own privacy. Notably, browsers allow you to disable third-party cookies, and you can customize your browser with a variety of privacy-related extensions.
 
 This can't be emphasized enough. This should be a required class in high school (or maybe even elementary school, IMO). 
 
 I've met too many people who think they're being tracked illegally when in reality they just don't understand how their browsers work. 
 
-Thanks for being proactive in documenting changes to the privacy policy and keeping your users informed. Other tech companies could take a hint from you.  <u/spez>: Right, we only see what's given to us. Personal responsibility is important in all of this.
+Thanks for being proactive in documenting changes to the privacy policy and keeping your users informed. Other tech companies could take a hint from you. 
+
+<u/spez>: Right, we only see what's given to us. Personal responsibility is important in all of this.
 
 One of our responsibilities is to educate users on what control they actually have, which is quite a bit.

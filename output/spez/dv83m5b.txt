@@ -14,7 +14,11 @@ The final case, indirect propaganda, is the most complex. For example, the Twitt
 
 I wish there was a solution as simple as banning all propaganda, but it’s not that easy. Between truth and fiction are a thousand shades of grey. It’s up to all of us—Redditors, citizens, journalists—to work through these issues. It’s somewhat ironic, but I actually believe what we’re going through right now will actually reinvigorate Americans to be more vigilant, hold ourselves to higher standards of discourse, and fight back against propaganda, whether foreign or not.
 
-Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve. <u/dank2918>: How can we as a community more effectively identify and remove the propaganda when it is reposted by Americans? How can we increase awareness and more effectively watch for it?  <u/spez>: These are the important questions we should be asking, both on Reddit and more broadly in America.
+Thank you for reading. While I know it’s frustrating that we don’t share everything we know publicly, I want to reiterate that we take these matters very seriously, and we are cooperating with congressional inquiries. We are growing more sophisticated by the day, and we remain open to suggestions and feedback for how we can improve.
+
+<u/dank2918>: How can we as a community more effectively identify and remove the propaganda when it is reposted by Americans? How can we increase awareness and more effectively watch for it? 
+
+<u/spez>: These are the important questions we should be asking, both on Reddit and more broadly in America.
 
 On Reddit, we see our users and communities taking action, whether it's moderators banning domains or users downvoting posts and comments. During the same time periods mentioned in this [Buzzfeed analysis](https://www.buzzfeed.com/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook), engagement of biased news sources on Reddit dropped 58% and engagement of fake news sources (as defined at the domain level by Buzzfeed) dropped 56%. Trustworthy new sources on Reddit receive 5x the engagement of biased sources and 100x the engagement of fake news sources.
 

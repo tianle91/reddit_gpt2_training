@@ -30,12 +30,16 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/FreedomDatAss>: It seems like ads targeting people do just as much harm as posts triggering people.  
+update: I'm off for now. Thanks for the questions!
+
+<u/FreedomDatAss>: It seems like ads targeting people do just as much harm as posts triggering people.  
 
 Have you (as Reddit) seen or been monitoring ad purchases originating outside the US?  Aka Russia purchasing ad space to push their own messages/etc.   
 
 Also, if its possible to label the ads and who they were purchased by?  Similar to the UK law recently pushed that discloses the identities of groups that purchased the ads.  [Source](https://uk.reuters.com/article/uk-facebook-privacy/facebook-backs-political-ad-bill-sets-limits-on-issue-ads-idUKKCN1HD2JD)
 
- <u/spez>: We didn't see any political ads from Russia during the election. Nevertheless, we no longer accept advertising from Russia at all.
+
+
+<u/spez>: We didn't see any political ads from Russia during the election. Nevertheless, we no longer accept advertising from Russia at all.
 
 With regard to ads transparency, I think we can do more here, yes.

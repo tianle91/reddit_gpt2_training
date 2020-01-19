@@ -37,7 +37,11 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/[deleted]>: [deleted] <u/spez>: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others.
 
 There are many subreddits whose contents I and many others find offensive, but that alone is not justification for banning.
 
@@ -47,12 +51,28 @@ There are many subreddits whose contents I and many others find offensive, but t
 
 edit: elevating my reply below so more people can see it.
 
- <u/jstrydor>: > We'll consider banning subreddits that clearly violate the guidelines in my post
 
-I'm sure you guys have been considering it for quite a while, can you give us any idea which subs these might be? <u/spez>: Sure. /r/rapingwomen will be banned. They are encouraging people to rape.
 
-/r/coontown will be reclassified. The content there is offensive to many, but does not violate our current rules for banning. <u/xlnqeniuz>: What do you mean with 'refclassified'?
+<u/jstrydor>: > We'll consider banning subreddits that clearly violate the guidelines in my post
 
-Also, why wasn't this done with /r/Fatpeoplehate? Just curious. <u/spez>: I explain this in my post. Similar to NSFW but with a different warning and an explicit opt-in. <u/EmilioTextevez>: Have you thought about simply revoking "offensive" subreddit's ability to reach /r/All?  So only the users of those communities come across it when browsing Reddit? <u/spez>: That's more or less the idea, yes, but I also want to claim we don't profit from them. <u/Sargon16>: How does it work then if someone gilds a post in one of the 'unsavory' subreddits?  I mean reddit still gets the money right?  Will you just disable gilding in those places?  
+I'm sure you guys have been considering it for quite a while, can you give us any idea which subs these might be?
 
-Or here's an idea, donate revenue from the unsavory subreddits to charity.   <u/spez>: There won't be any gold on those communities
+<u/spez>: Sure. /r/rapingwomen will be banned. They are encouraging people to rape.
+
+/r/coontown will be reclassified. The content there is offensive to many, but does not violate our current rules for banning.
+
+<u/xlnqeniuz>: What do you mean with 'refclassified'?
+
+Also, why wasn't this done with /r/Fatpeoplehate? Just curious.
+
+<u/spez>: I explain this in my post. Similar to NSFW but with a different warning and an explicit opt-in.
+
+<u/EmilioTextevez>: Have you thought about simply revoking "offensive" subreddit's ability to reach /r/All?  So only the users of those communities come across it when browsing Reddit?
+
+<u/spez>: That's more or less the idea, yes, but I also want to claim we don't profit from them.
+
+<u/Sargon16>: How does it work then if someone gilds a post in one of the 'unsavory' subreddits?  I mean reddit still gets the money right?  Will you just disable gilding in those places?  
+
+Or here's an idea, donate revenue from the unsavory subreddits to charity.  
+
+<u/spez>: There won't be any gold on those communities

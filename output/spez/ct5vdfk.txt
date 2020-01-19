@@ -37,7 +37,9 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/justcool393>: Hi everyone answering these questions. I have a "few" questions that I, like probably most of reddit would like answers to. Like a recent AMA I asked questions in, the bold will be the meat of the question, and the non-bolded will be context. ***If you don't know an answer to a question, say so, and do so directly!*** Honesty is very much appreciated. With that said, here goes.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/justcool393>: Hi everyone answering these questions. I have a "few" questions that I, like probably most of reddit would like answers to. Like a recent AMA I asked questions in, the bold will be the meat of the question, and the non-bolded will be context. ***If you don't know an answer to a question, say so, and do so directly!*** Honesty is very much appreciated. With that said, here goes.
 
 #Content Policy
 
@@ -81,7 +83,9 @@ update: I'm out of here, everyone. Thank you so much for the feedback. I found t
 [6]: http://en.wikipedia.org/wiki/Safe-space
 [7]: http://i.imgur.com/lq1QtBd.png
 [8]: http://i.imgur.com/I4Ba3Vq.png
-[9]: http://i.imgur.com/UsmaD9I.png <u/spez>: I’ll try
+[9]: http://i.imgur.com/UsmaD9I.png
+
+<u/spez>: I’ll try
 
 Content Policy
 
@@ -114,8 +118,12 @@ Related
 4. No, we’ve been debating non-stop since I arrived here, and will continue to do so. Many people in this thread have made good points that we’ll incorporate into our policy. Clearly defining Harassment is the most obvious example.
 
 5. I know. It was frustrating for me to watch as an outsider as well. Now that I’m here, I’m looking forward to moving forward and improving things.
- <u/Senray>: >The content creators one is an issue I’d like to leave to the moderators. Beyond this, if it’s submitted with a script, it’s spam.
+
+
+<u/Senray>: >The content creators one is an issue I’d like to leave to the moderators. Beyond this, if it’s submitted with a script, it’s spam.
 
 Uh, this would ban all bots
 
-OKAY THANKS FOR THE REPLIES I  GET IT <u/spez>: I meant specifically in regard to "content creators." For example, it used to be common that a site would write a script that automatically spammed multiple subreddits every time they wrote something.
+OKAY THANKS FOR THE REPLIES I  GET IT
+
+<u/spez>: I meant specifically in regard to "content creators." For example, it used to be common that a site would write a script that automatically spammed multiple subreddits every time they wrote something.

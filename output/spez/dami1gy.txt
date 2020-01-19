@@ -30,7 +30,9 @@ Again, I am sorry for the trouble I have caused. While I intended no harm, that 
 Steve
 
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
- <u/78952497829864>: Hi spez,
+
+
+<u/78952497829864>: Hi spez,
 
 Related to the editing incident and trust, in [this article in New York Magazine](http://nymag.com/daily/intelligencer/2015/10/reddit-founder-steve-huffman.html), it says:
 
@@ -43,7 +45,9 @@ If that is true, it's extremely alarming and raises a lot of questions, includin
 * Why did you need administrative access after quitting?
 * What supervision was there of a non-employee with admin access?
 * Have there been other non-employees with admin access? Are there any right now?
-* How was it acceptable (or even legal) to use "a back door" to take back privileged access that the company clearly didn't want you to have? <u/spez>: > Why did you need administrative access after quitting?
+* How was it acceptable (or even legal) to use "a back door" to take back privileged access that the company clearly didn't want you to have?
+
+<u/spez>: > Why did you need administrative access after quitting?
 
 When I left, Reddit was six people, and I had the majority of the engineering knowledge, so I continued to help out even after I left.
 

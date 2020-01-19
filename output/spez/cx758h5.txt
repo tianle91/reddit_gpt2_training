@@ -18,4 +18,8 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/JBSLB>: /u/spez is there a TL:DR for the policy as a whole? <u/spez>: We collect as little as possible to run the site; we share as little with advertisers as possible (specifically, we do not share individual browsing habits); and we want you to understand what you have control over (almost everything).
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/JBSLB>: /u/spez is there a TL:DR for the policy as a whole?
+
+<u/spez>: We collect as little as possible to run the site; we share as little with advertisers as possible (specifically, we do not share individual browsing habits); and we want you to understand what you have control over (almost everything).

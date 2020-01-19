@@ -16,10 +16,14 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/bacon_flavored>: Hi /u/spez I have a question regarding your self-serve and managed advertising platforms. Will you be expanding their capabilities in the near future (adding customizable and exportable reports for instance) or easier creative and campaign management tools?  
+u: Thank you! Heading out for now. Will check back later.
+
+<u/bacon_flavored>: Hi /u/spez I have a question regarding your self-serve and managed advertising platforms. Will you be expanding their capabilities in the near future (adding customizable and exportable reports for instance) or easier creative and campaign management tools?  
   
 If we had the ability to fund a "bucket" that we could spend from for campaigns that would be a ton of help also when it comes to split testing things like landers and creatives without having to "lock in" a charge per-campaign.  
   
 Thank you in advance for your time.  
   
-Edit: thinks to things <u/spez>: Yes, many improvements on the way.
+Edit: thinks to things
+
+<u/spez>: Yes, many improvements on the way.

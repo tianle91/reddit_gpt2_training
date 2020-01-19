@@ -16,6 +16,10 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/bitparity>: Purely out of curiosity, is there in any sort of works the possibility of changing the subreddit moderator system from the strict seniority that it is, to some kind of democratic form?
+u: Thank you! Heading out for now. Will check back later.
 
-The most common complaint for many users and mods about Reddit is the arbitrary nature of leadership for many forums, sometimes to great detriment. <u/spez>: It's very much on our minds, but if there was a simple solution, we'd have done it by now.
+<u/bitparity>: Purely out of curiosity, is there in any sort of works the possibility of changing the subreddit moderator system from the strict seniority that it is, to some kind of democratic form?
+
+The most common complaint for many users and mods about Reddit is the arbitrary nature of leadership for many forums, sometimes to great detriment.
+
+<u/spez>: It's very much on our minds, but if there was a simple solution, we'd have done it by now.

@@ -20,4 +20,8 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/FormerlyPrettyNeat>: Does this mean you're going to begin phasing in a more "curated" front page, a la FB? Because, plz no. (And if I'm reading it wrong, my apologies.) <u/spez>: Sort of, but not exactly. On Reddit, you will have control. You can curate your own listing (i.e. Home), see what the world is into today (r/popular), or see what other parts of the world are into (geo popular). We believe giving the user explicit control is the way to go.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/FormerlyPrettyNeat>: Does this mean you're going to begin phasing in a more "curated" front page, a la FB? Because, plz no. (And if I'm reading it wrong, my apologies.)
+
+<u/spez>: Sort of, but not exactly. On Reddit, you will have control. You can curate your own listing (i.e. Home), see what the world is into today (r/popular), or see what other parts of the world are into (geo popular). We believe giving the user explicit control is the way to go.

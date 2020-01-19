@@ -22,7 +22,9 @@ update: Please note the FCC is not united in this decision and find the dissenti
 
 update2 (9:55AM pst): While the vote has not technically happened, we decided to post after the two dissenting commissioners released their statements. However, the actual vote appears to be delayed for security reasons. We hope everyone is safe.
 
-update3 (10:13AM pst): The FCC votes to repeal 3–2. <u/mailmygovNNBot>: **Write to your Government Representatives about Net neutrality**
+update3 (10:13AM pst): The FCC votes to repeal 3–2.
+
+<u/mailmygovNNBot>: **Write to your Government Representatives about Net neutrality**
 
 
 (The brand new) [MailMyGov](https://www.mailmygov.com) was founded on the idea that a real letter is more effective then a cookie cutter email.
@@ -83,4 +85,6 @@ Cheers! (any feedback is always welcome)
 
 	 
 	 
- <u/spez>: good bot
+
+
+<u/spez>: good bot

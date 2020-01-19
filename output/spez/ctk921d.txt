@@ -23,4 +23,8 @@ As you can see, lots on our plates right now, but the team is cranking, and we'r
 
 I'll be hanging around in the comments for an hour or so.
 
-update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/genitaliban>: Thanks for the update! Official np.reddit would help with the anti-brigading things - not just redirecting to a different CSS but to a completely stripped down page would discourage a lot of infiltrations. And filters like /r/worldnews has them as a reddit-internal feature would also be great. The latter right now don't affect the frontpage, which many people see as an argument against them, plus they would help curb controversies over the prevalence of some topics in subs like /r/europe. <u/spez>: Perhaps, but np.reddit is more of a hack in my mind. Acts of brigading are fairly obvious when we investigate the data. The challenge is to detect it in real-time, which we've been good at in the past.
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
+
+<u/genitaliban>: Thanks for the update! Official np.reddit would help with the anti-brigading things - not just redirecting to a different CSS but to a completely stripped down page would discourage a lot of infiltrations. And filters like /r/worldnews has them as a reddit-internal feature would also be great. The latter right now don't affect the frontpage, which many people see as an argument against them, plus they would help curb controversies over the prevalence of some topics in subs like /r/europe.
+
+<u/spez>: Perhaps, but np.reddit is more of a hack in my mind. Acts of brigading are fairly obvious when we investigate the data. The challenge is to detect it in real-time, which we've been good at in the past.

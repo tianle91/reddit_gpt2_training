@@ -24,4 +24,8 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 -Steve
 
-update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers! <u/imaginarytoby>: Will there ever be any improvement to the messaging system on Reddit? Or prehaps a text formating bar for typing on mobile? <u/spez>: Yes! It's in active development. The redesign includes rich text editing for posts, comments, and messages, as well as an overhaul of the inbox entirely.
+update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
+
+<u/imaginarytoby>: Will there ever be any improvement to the messaging system on Reddit? Or prehaps a text formating bar for typing on mobile?
+
+<u/spez>: Yes! It's in active development. The redesign includes rich text editing for posts, comments, and messages, as well as an overhaul of the inbox entirely.

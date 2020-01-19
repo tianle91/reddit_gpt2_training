@@ -123,9 +123,13 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/BrahmsLullaby>: I'm not opposed and don't think it's "wrong", but from an initial impression I see some features and concepts that take away the uniqueness of Reddit and make it blend with a lot of other social media platforms.
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
+
+<u/BrahmsLullaby>: I'm not opposed and don't think it's "wrong", but from an initial impression I see some features and concepts that take away the uniqueness of Reddit and make it blend with a lot of other social media platforms.
 
 I could just be overprotective of my nostalgia from Redditing for a while now (this account doesn't reflect how long I have been) - but this seems to put an emphasis on names, people, brands - where my enjoyment has come from a focus on content.
 
 I didn't have a chance to type out all my thoughts, and I'm just as interested to see how this plays out, just food for thought. 
- <u/spez>: What we really want to see is for users who have things to share, they have a place to put it. Even I have this problem. I often have ideas for a post, but don't know which community I should submit it to. r/announcements, my main home, probably isn't appropriate. Even if I know the right community, I may not know the community norms and rules. This gives me a place to put my thoughts without worry that I'm going to get insta-banned. If someone decides it's appropriate for their community, they can x-post it.
+
+
+<u/spez>: What we really want to see is for users who have things to share, they have a place to put it. Even I have this problem. I often have ideas for a post, but don't know which community I should submit it to. r/announcements, my main home, probably isn't appropriate. Even if I know the right community, I may not know the community norms and rules. This gives me a place to put my thoughts without worry that I'm going to get insta-banned. If someone decides it's appropriate for their community, they can x-post it.

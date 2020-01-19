@@ -11,7 +11,13 @@ Top comment with 7x gold with no spez response: https://old.reddit.com/r/announc
 User asks an innocent question then edits it to ask about T_D after spez has already responded and spez is not happy about this: https://old.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75q7hn/ 
 
 
-Edit: /u/big_swinging_dicks points out that spez has made a response about T_D: https://old.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75wos8/  <u/[deleted]>: [deleted] <u/spez>: Yep. Come say hi.  <u/Sandbag_Tom>: I find it kind of weird, you know, that you’re responding to this comment in a thread which criticizes you heavily for ignoring some major issues.
+Edit: /u/big_swinging_dicks points out that spez has made a response about T_D: https://old.reddit.com/r/announcements/comments/9ld746/you_have_thousands_of_questions_i_have_dozens_of/e75wos8/ 
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: Yep. Come say hi. 
+
+<u/Sandbag_Tom>: I find it kind of weird, you know, that you’re responding to this comment in a thread which criticizes you heavily for ignoring some major issues.
 
 It seems clear to me the commentator you respond to is saying he can’t wait for your live AMA because you won’t be able to ignore the obvious /r/t_d questions you are here and in your earlier AMA.
 
@@ -19,7 +25,9 @@ So your comment here, while innocent on a surface level... sort of feels a littl
 
 Because you’re either intentionally taunting users... or you’re just a little tone deaf on how to communicate with the userbase.
 
-Ultimately I love Reddit, despite the shortcomings and current issues it faces... but this sort of behavior worries me a little bit. I’m looking forward to seeing what you bring to the table in the future, though. I’m optimistic for the future of this corner of the internet. <u/spez>: Sure, I can see how one would interpret it that way. Let me provide another way of looking at things:
+Ultimately I love Reddit, despite the shortcomings and current issues it faces... but this sort of behavior worries me a little bit. I’m looking forward to seeing what you bring to the table in the future, though. I’m optimistic for the future of this corner of the internet.
+
+<u/spez>: Sure, I can see how one would interpret it that way. Let me provide another way of looking at things:
 
 Whether in an AMA or interview or in person, not only am I happy to answer hard questions, I generally look forward to it. It's in my nature to do so, often to my own detriment ([example](https://new.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/dx5go62/)), but I do look for questions that meet two criteria: questions that are asked politely, and asked in a manner that suggests the questioner will actually attempt to listen to my response (even if we have zero chance of agreeing).
 

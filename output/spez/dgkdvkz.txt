@@ -39,4 +39,8 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/Meepster23>: This single biggest thing you could do to support third party mod tools would be to add global window events / messages for certain actions so that addons could react to them more easily. This is especially true when doing things with the new modmail because it is all react based and trying to hook stuff up in the DOM is a royal pain the butt. <u/spez>: Yes, that's the explicit plan. We need to detach tools from the DOM so we can change the DOM without breaking the tools.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/Meepster23>: This single biggest thing you could do to support third party mod tools would be to add global window events / messages for certain actions so that addons could react to them more easily. This is especially true when doing things with the new modmail because it is all react based and trying to hook stuff up in the DOM is a royal pain the butt.
+
+<u/spez>: Yes, that's the explicit plan. We need to detach tools from the DOM so we can change the DOM without breaking the tools.

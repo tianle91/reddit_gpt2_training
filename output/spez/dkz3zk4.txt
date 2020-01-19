@@ -20,9 +20,13 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/Killed_Mufasa>: Thx for everything you guys have been up too, I'm quite new to Reddit but I fell in love with it since day 1.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/Killed_Mufasa>: Thx for everything you guys have been up too, I'm quite new to Reddit but I fell in love with it since day 1.
  I do have a question, who invested the millions and millions in Reddit, and did they have requirements? 
-This is probably not public information, but I think it's really interesting!  <u/spez>: > who invested the millions and millions in Reddit
+This is probably not public information, but I think it's really interesting! 
+
+<u/spez>: > who invested the millions and millions in Reddit
 
 The main investors were Andreessen Horowitz, Coatue, Fidelity, Sequoia, and Vy.
 

@@ -26,6 +26,10 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/Wild_Marker>: Last time there was an admin post, we from /r/argentina complained about the advertising blitz we've received from Monsanto. Their ads are misleading, they claim to be from reputable websites then redirect to another. Our mod team has repeatedly reported it, so have our users, we're sick of seeing it over and over and OVER AND OVER AGAIN. It's like the only ad you see if you have an Argentinian IP. It's nuts. Please please do something about it or at least acknowledge the problem. 
+—spez
 
-I know Monsanto is a contentious subject but forget politics, we're just sick of being bombarded by the goddamn ads.  <u/spez>: The advertiser was banned a while ago, and we've been watching for any additional accounts. Please do continue to report the ads if you see anything. Sorry for the trouble.
+<u/Wild_Marker>: Last time there was an admin post, we from /r/argentina complained about the advertising blitz we've received from Monsanto. Their ads are misleading, they claim to be from reputable websites then redirect to another. Our mod team has repeatedly reported it, so have our users, we're sick of seeing it over and over and OVER AND OVER AGAIN. It's like the only ad you see if you have an Argentinian IP. It's nuts. Please please do something about it or at least acknowledge the problem. 
+
+I know Monsanto is a contentious subject but forget politics, we're just sick of being bombarded by the goddamn ads. 
+
+<u/spez>: The advertiser was banned a while ago, and we've been watching for any additional accounts. Please do continue to report the ads if you see anything. Sorry for the trouble.

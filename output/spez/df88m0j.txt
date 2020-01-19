@@ -123,6 +123,14 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/HikeTheSky>: Can you block stalkers or turn that function off? <u/HideHideHidden>: Users will have the full toolset that moderators normally have for communities. You don't have to participate if you don't want to.
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
 
-EDIT: Typo <u/[deleted]>: [deleted] <u/spez>: We're going to try it out in a few admin comments. If it performs well will roll it out to a broader group.
+<u/HikeTheSky>: Can you block stalkers or turn that function off?
+
+<u/HideHideHidden>: Users will have the full toolset that moderators normally have for communities. You don't have to participate if you don't want to.
+
+EDIT: Typo
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: We're going to try it out in a few admin comments. If it performs well will roll it out to a broader group.

@@ -18,7 +18,9 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/eberkneezer>: A quick glance
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/eberkneezer>: A quick glance
 
 **New policy**
 
@@ -36,6 +38,8 @@ edit: Thanks for all the feedback. I'm off for now. <u/eberkneezer>: A quick gla
 
 So it looks like you are going to be profiling users in order to advertise to them.  The old system had advertising based on the profile of the subreddit and not the users.  It also looks like you are sharing/selling  information with your advertisers.
 
-Sounds like the changes to the privacy policy is to allow the creepy annoying advertising.  The type that makes adblocking popular. <u/spez>: We're still not selling or giving access to individual user data. That is important to us, and we state in the privacy we won't do this. ("This means that Reddit does not share your individual account browsing habits with advertisers.")
+Sounds like the changes to the privacy policy is to allow the creepy annoying advertising.  The type that makes adblocking popular.
+
+<u/spez>: We're still not selling or giving access to individual user data. That is important to us, and we state in the privacy we won't do this. ("This means that Reddit does not share your individual account browsing habits with advertisers.")
 
 We would like to allow advertisers to target on more than just communities, however. For example, targeting based on keywords will be helpful–there is a lot gaming content on Reddit outside of communities dedicate specifically to gaming.

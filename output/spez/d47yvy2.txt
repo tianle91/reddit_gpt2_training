@@ -14,8 +14,12 @@ Then changes can be found [here](https://github.com/reddit/reddit/commit/ba9dc13
 
 **Edit**: [fixed an unstickying bug](https://github.com/reddit/reddit/commit/599628a6a5bb97f592cdf9f9e855fda569f00c7c)
 
-**Edit 2**: Since we don't want to remove the ability for mods to mark/highlight existing threads as officially supported, [the mod authorship requirement has been removed.](https://github.com/reddit/reddit/commit/7e5f4a415dd0d7d98328dbde71c14c32479aa979) <u/Umdlye>: Surely I can't be the only person who frequently stickied relevant important posts by non-moderators? First thing that comes to mind is developer Q&A's in gaming subreddits. Link submission stickies were really useful too.
+**Edit 2**: Since we don't want to remove the ability for mods to mark/highlight existing threads as officially supported, [the mod authorship requirement has been removed.](https://github.com/reddit/reddit/commit/7e5f4a415dd0d7d98328dbde71c14c32479aa979)
 
-I've been out of the loop for the last week or so because of holidays, so I'm not sure what led up to this change but it's really inconvenient. What if stickied posts just didn't show up in /r/all? <u/spez>: > What if stickied posts just didn't show up in /r/all?
+<u/Umdlye>: Surely I can't be the only person who frequently stickied relevant important posts by non-moderators? First thing that comes to mind is developer Q&A's in gaming subreddits. Link submission stickies were really useful too.
+
+I've been out of the loop for the last week or so because of holidays, so I'm not sure what led up to this change but it's really inconvenient. What if stickied posts just didn't show up in /r/all?
+
+<u/spez>: > What if stickied posts just didn't show up in /r/all?
 
 We don't want to ruin game and episode threads.

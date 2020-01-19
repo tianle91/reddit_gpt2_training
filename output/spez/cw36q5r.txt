@@ -4,7 +4,9 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/The_Potato_God99>: What is your opinion on free speech today?
+update: I'm outta here. Thanks for the questions!
+
+<u/The_Potato_God99>: What is your opinion on free speech today?
 
 Do you still believe shadowbanning should be reserved to spammer? If so, how are you going to change the current system?
 
@@ -14,7 +16,9 @@ Does reddit thinks about adding a "nsfl" button?
 
 Finally, I have a suggestion for subreddits that are "weird" and make reddit look bad (I am not talking about subs that have CP or other illegal things in them). There should be an option when creating a subreddit to tag it as "NSFL" and/or "Contains potentially offensive content", just like there is an option to make every post "NSFW". These subs would never appear in /r/All and there could be a warning when entering the sub just like with "NSFW".
 
-What do you think? <u/spez>: > What is your opinion on free speech today?
+What do you think?
+
+<u/spez>: > What is your opinion on free speech today?
 
 It's important to both our society and to Reddit, and both inside and outside of Reddit it's an incredibly complex issue. My position as it relates to Reddit is that we try to let as much go as possible because it's important to have a realistic view of the world. I believe in many ways that Reddit is the online reflection of humanity, and we want to preserve that. However, we also feel obligated to take steps to prevent real-world harm to people and to protect Reddit itself. Often, this puts us in a position of having to make some very difficult decisions.
 

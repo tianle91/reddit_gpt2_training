@@ -24,7 +24,11 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 -Steve
 
-update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers! <u/Geopolitics1555>: How are you preventing Russian bots from meddling with the reddit experience?  <u/spez>: This is the domain of the Anti-Evil team that I've mentioned in previous posts. They are the engineering team whose mandate is to prevent those who cheat, manipulate, and otherwise attempt to undermine Reddit.
+update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
+
+<u/Geopolitics1555>: How are you preventing Russian bots from meddling with the reddit experience? 
+
+<u/spez>: This is the domain of the Anti-Evil team that I've mentioned in previous posts. They are the engineering team whose mandate is to prevent those who cheat, manipulate, and otherwise attempt to undermine Reddit.
 
 I can't get too specific in this forum, but we detect and prevent manipulation in a variety of ways, generally looking at where accounts come from, how they work together, and behaviors of groups of accounts that differ from typical behavior.
 

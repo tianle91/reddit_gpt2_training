@@ -14,6 +14,12 @@ At last, If anyone here has any other ideas they would like to bounce off or any
 
  \###Update  u/spez:  "I believe the infra team is swamped with Official Business right now. I’ll bring it up when they come up for air." 
 
- [https://www.reddit.com/r/inthesoulstone/comments/9260bz/an\_update\_on\_going\_private/e35tw5p/?st=jkbdr0cs&sh=56a53bff](https://www.reddit.com/r/inthesoulstone/comments/9260bz/an_update_on_going_private/e35tw5p/?st=jkbdr0cs&sh=56a53bff)  <u/Blueboysmatter>: It's okay, take all the time needed. <u/FieraDeidad>: > We have been trying to get in touch with the Reddit admins regarding our API issue but haven’t yet received any response in return.
+ [https://www.reddit.com/r/inthesoulstone/comments/9260bz/an\_update\_on\_going\_private/e35tw5p/?st=jkbdr0cs&sh=56a53bff](https://www.reddit.com/r/inthesoulstone/comments/9260bz/an_update_on_going_private/e35tw5p/?st=jkbdr0cs&sh=56a53bff) 
 
-/u/Spez I've come to bargain. <u/spez>: I believe the infra team is swamped with Official Business right now. I’ll bring it up when they come up for air. 
+<u/Blueboysmatter>: It's okay, take all the time needed.
+
+<u/FieraDeidad>: > We have been trying to get in touch with the Reddit admins regarding our API issue but haven’t yet received any response in return.
+
+/u/Spez I've come to bargain.
+
+<u/spez>: I believe the infra team is swamped with Official Business right now. I’ll bring it up when they come up for air. 

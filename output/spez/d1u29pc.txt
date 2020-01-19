@@ -38,7 +38,9 @@ Alex
 
 **Noon PT Edit:** Thanks for your questions and warm welcome everyone! I'm going to take a quick break to check in on our Android team – we're going to submit a hotfix for Android 4.4 crashes and back button issues. That should be in your hands before EOD. I'll be back to answer more Qs and read the rest of the comments in a few hours.
 
-**11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now.  <u/316nuts>: why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc
+**11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now. 
+
+<u/316nuts>: why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc
 
 what do you bring to the table that they don't?
 
@@ -78,7 +80,9 @@ modmail is REALLY weird. nevermind it's lack of functionality, i can't really se
 
 [okay sorry, i think i'm done for awhile. didn't mean to edit it 927 times but i did anyway.](http://i.imgur.com/N7FGiSB.jpg).  There's a lot of stuff I like about it and look forward to its evolution. 
 
- <u/ggAlex>: >why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc
+
+
+<u/ggAlex>: >why should i use your android app instead of something like reddit is fun, baconreader, reddit news, reddit sync, etc
 >what do you bring to the table that they don't?
 
   
@@ -149,7 +153,9 @@ This is noted. Might not get to it right away though.
 >modmail is REALLY weird. nevermind it's lack of functionality, i can't really see what's even going on? It doesn't open the full modmail or even the full message. When a user is banned, i can't even see who the message is going to. I know your goal isn't to babysit the moderators around here, but it seems to lack basic functionality of being able to read messages at all.
 
 To be frank, it wasn't the highest priority item to make the mod workflow great on the app. I commit to making it better as we go forward.  On a broader note we want to save you from having to do so much dirty work.
- <u/PreludesAndNocturnes>: Made the jump from Alien Blue. 
+
+
+<u/PreludesAndNocturnes>: Made the jump from Alien Blue. 
 
 - Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote!
 
@@ -157,11 +163,17 @@ To be frank, it wasn't the highest priority item to make the mod workflow great 
 
 - I miss being able to press + hold on video/gif thumbnails in comments to preview them without leaving the comments
 
-Everything else seems like a good start for now. Keep up the good work, I'm sure you guys have more awesome stuff coming <u/spez>: > Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote!
+Everything else seems like a good start for now. Keep up the good work, I'm sure you guys have more awesome stuff coming
+
+<u/spez>: > Please bring back the gesture shortcuts like swiping left on a comment to collapse the whole thread, or two-finger-tap to upvote!
 
 Instead of swipe to collapse, there is a little button in the lower right to skip to the next thread. You can move it around with press-and-hold. Swipe to collapse was my favorite feature ever, and I think this button is a nice improvement.
 
 > Switching to Compact view appears to work for individual subreddits, but my front page is still in Card view?
 
 There is a global preference for compact view as well.
- <u/enriqueDFTL>: I would prefer the button to skip to next thread to be at the top right. The bottom right corner is the toughest to reach. :( <u/spez>: You can tap and hold and move it around.
+
+
+<u/enriqueDFTL>: I would prefer the button to skip to next thread to be at the top right. The bottom right corner is the toughest to reach. :(
+
+<u/spez>: You can tap and hold and move it around.

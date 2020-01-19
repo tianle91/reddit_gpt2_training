@@ -26,7 +26,9 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/MercurianAspirations>: So, the recent quarantine wave:
+—spez
+
+<u/MercurianAspirations>: So, the recent quarantine wave:
 
 /r/CringeAnarchy
 
@@ -70,7 +72,9 @@ As many redditors have noticed, one of these things is not like the others. r/wa
 
 2. Quarantine is a punishment for hate subs used to encourage them to reform or leave the platform.  
 
-If quarantine is being used primarily in a #2 way, why not just ban these subs? Hate subs are not going to reform their moderation policies, or stop brigading other subreddits no matter what quarantine you place them under. In fact all you've done is give them a safe space, subsidized by the non-quarantined subreddits, where they can continue to discuss their ideology and organize brigades of public subs.  <u/spez>: (some of this I wrote elsewhere in the thread, but it's also relevant here)
+If quarantine is being used primarily in a #2 way, why not just ban these subs? Hate subs are not going to reform their moderation policies, or stop brigading other subreddits no matter what quarantine you place them under. In fact all you've done is give them a safe space, subsidized by the non-quarantined subreddits, where they can continue to discuss their ideology and organize brigades of public subs. 
+
+<u/spez>: (some of this I wrote elsewhere in the thread, but it's also relevant here)
 
 In addition to updating the policy, we updated the tool as well. We may use it for both of the cases you mention.
 

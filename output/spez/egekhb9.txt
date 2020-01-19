@@ -20,9 +20,13 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/IgnisSorien>: Hi Spez,
+update: I'm out for now. Will check back later.
+
+<u/IgnisSorien>: Hi Spez,
 
 Copyright seems to be a big issue for many large websites, especially YouTube, and I see daily posts about YouTube acting unfairly. It looks as though Reddit's DMCA requests are increasing exponentially.
-It looks at though each request at the moment is viewed manually. I'm concerned that as the rate of requests increases, this process may be automated and the human aspect of the reviewing process (e.g. Fair use) may be lost. What's in the pipeline for Reddit for this requests? <u/spez>: Presently, we're comically (and frustratingly) manual. The team the handles DMCA requests is the team that wrote the Transparency Report, and it is a LOT of work.
+It looks at though each request at the moment is viewed manually. I'm concerned that as the rate of requests increases, this process may be automated and the human aspect of the reviewing process (e.g. Fair use) may be lost. What's in the pipeline for Reddit for this requests?
+
+<u/spez>: Presently, we're comically (and frustratingly) manual. The team the handles DMCA requests is the team that wrote the Transparency Report, and it is a LOT of work.
 
 We're working on tooling now to automate much of the tedium, but humans will remain in the loop.

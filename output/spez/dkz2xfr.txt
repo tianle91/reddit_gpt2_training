@@ -20,8 +20,12 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/S_A_N_D_>: Can you explain why there is a need to phase out Do Not Track? Unless it somehow causes undue hardship on running the site, I can't see how this is not just a means to grab info. You could easily support both DNT and the new privacy controls. 
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Whether or not others use it shouldn't impact your choice to support it unless there is clear impact on site operations or some other reason not to.  <u/spez>: It creates a development burden with little gain, so it's mostly a distraction. We spend time talking about how DNT should effect such and such feature, but the user gets relatively little benefit.
+<u/S_A_N_D_>: Can you explain why there is a need to phase out Do Not Track? Unless it somehow causes undue hardship on running the site, I can't see how this is not just a means to grab info. You could easily support both DNT and the new privacy controls. 
+
+Whether or not others use it shouldn't impact your choice to support it unless there is clear impact on site operations or some other reason not to. 
+
+<u/spez>: It creates a development burden with little gain, so it's mostly a distraction. We spend time talking about how DNT should effect such and such feature, but the user gets relatively little benefit.
 
 While it wouldn't be my preferred approach on Reddit, if you really want to control how you're tracked online, you should use an ad blocker.

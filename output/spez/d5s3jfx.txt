@@ -69,8 +69,16 @@ EDIT: have to go to a meeting but will be back at around noon PT.
 
 EDIT 2: I'm back early because there's some confusion around what this is. Please see link at the top which I'll be updating with a more clear example.
 
-EDIT 3: I believe some redditors may be confusing this announcement with a different one for [in-feed ad tests](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design/) which we announced prior to this. <u/EternalNewGuy>: I know I'm a cynic, but I can't help but see this as step one towards taking promoted posts from just the top of the page and scatterering them liberally throughout the news feed.
+EDIT 3: I believe some redditors may be confusing this announcement with a different one for [in-feed ad tests](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design/) which we announced prior to this.
 
-Hopefully that won't happen, right? <u/starfishjenga>: This is my second response to this. Please don't bury this because it's preventing people from knowing what's going to happen. I recognize this is controversial but I'm guessing you'd rather people know about it than not...
+<u/EternalNewGuy>: I know I'm a cynic, but I can't help but see this as step one towards taking promoted posts from just the top of the page and scatterering them liberally throughout the news feed.
 
-[This was announced and is currently being tested.](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design) <u/[deleted]>: What happened to "It's OK to be a Redditor with a business, it's not OK for a business to have a Reddit account?" <u/spez>: It's not practical to enforce such a rule. There are plenty of business on Reddit representing themselves legitimately, and there are plenty who masquerade as organic users. I think it's wiser to incentivize businesses to be transparent about it. 
+Hopefully that won't happen, right?
+
+<u/starfishjenga>: This is my second response to this. Please don't bury this because it's preventing people from knowing what's going to happen. I recognize this is controversial but I'm guessing you'd rather people know about it than not...
+
+[This was announced and is currently being tested.](https://www.reddit.com/r/announcements/comments/4phzsi/sponsored_headline_tests_placement_and_design)
+
+<u/[deleted]>: What happened to "It's OK to be a Redditor with a business, it's not OK for a business to have a Reddit account?"
+
+<u/spez>: It's not practical to enforce such a rule. There are plenty of business on Reddit representing themselves legitimately, and there are plenty who masquerade as organic users. I think it's wiser to incentivize businesses to be transparent about it. 

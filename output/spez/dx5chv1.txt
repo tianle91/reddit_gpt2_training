@@ -30,10 +30,14 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/aznanimality>: >In my post last month, I described that we had found and removed a few hundred accounts that were of suspected Russian Internet Research Agency origin.  
+update: I'm off for now. Thanks for the questions!
+
+<u/aznanimality>: >In my post last month, I described that we had found and removed a few hundred accounts that were of suspected Russian Internet Research Agency origin.  
   
   
-Any info on what subs they were posting to? <u/spez>: There were about 14k posts in total by all of these users. The top ten communities by posts were:
+Any info on what subs they were posting to?
+
+<u/spez>: There were about 14k posts in total by all of these users. The top ten communities by posts were:
 
 * funny: 1455
 * uncen: 1443

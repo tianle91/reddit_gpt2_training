@@ -1,6 +1,8 @@
 <r/cscareerquestions>: I’m starting to believe everything I learned in relation to coding/software is inherently useless and it affecting my life
 
-[deleted] <u/spez>: Coding is a really valuable skill.
+[deleted]
+
+<u/spez>: Coding is a really valuable skill.
 
 Have you considered volunteering and teaching it to others? I've personally found fulfillment in helping others learn to code. It's fun and free.
 

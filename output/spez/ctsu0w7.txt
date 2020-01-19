@@ -10,9 +10,21 @@ Today, in addition to applying Quarantines, we are banning a handful of communit
 
 I believe these policies strike the right balance.
 
-update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/illegal_deagle>: Unfortunately it looks like SRS will continue to enjoy their harassment and downvote brigading. 
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
+
+<u/illegal_deagle>: Unfortunately it looks like SRS will continue to enjoy their harassment and downvote brigading. 
 
 
-Edit: Come on, guys. I make a comment about downvote brigading and y'all mass downvote /u/spez for actually responding when he didn't have to.  <u/spez>: For the the time being we believe that brigading is best fought with technology, which we are actively working on. <u/[deleted]>: >For the the time being we believe that brigading is best fought with technology, which we are actively working on.
+Edit: Come on, guys. I make a comment about downvote brigading and y'all mass downvote /u/spez for actually responding when he didn't have to. 
 
-What does that mean exactly? <u/spez>: It means that we can see downvoting brigades in that data, and we are working on preventing them from working. We used to do this in the past, and it worked quite well. <u/[deleted]>: [deleted] <u/spez>: We take banning **very** seriously. I believe we can combat negative actions like theirs by improving our own technology without banning them, so that is what we'll try first.
+<u/spez>: For the the time being we believe that brigading is best fought with technology, which we are actively working on.
+
+<u/[deleted]>: >For the the time being we believe that brigading is best fought with technology, which we are actively working on.
+
+What does that mean exactly?
+
+<u/spez>: It means that we can see downvoting brigades in that data, and we are working on preventing them from working. We used to do this in the past, and it worked quite well.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: We take banning **very** seriously. I believe we can combat negative actions like theirs by improving our own technology without banning them, so that is what we'll try first.

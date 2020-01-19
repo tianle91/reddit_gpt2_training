@@ -10,4 +10,8 @@ Today, in addition to applying Quarantines, we are banning a handful of communit
 
 I believe these policies strike the right balance.
 
-update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/[deleted]>: [deleted] <u/spez>: It will always be a useful tool for fighting spammers, but we are working as fast as we can on more nuanced tools for users who violate other rules so they have a chance to learn from their mistakes.
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: It will always be a useful tool for fighting spammers, but we are working as fast as we can on more nuanced tools for users who violate other rules so they have a chance to learn from their mistakes.

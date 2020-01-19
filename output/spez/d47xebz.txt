@@ -19,4 +19,8 @@ In the wake of this weekend, we will be making a handful of technology and proce
 * We are working on a change to the r/all algorithm to promote more diversity in the feed, which will help provide more variety of viewpoints and prevent vote manipulation.
 * We are nearly fully staffed on our Community team, and will continue increasing support for moderator teams of major communities.
 
-Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time.  <u/BlarpUM>: What's Reddit's policy on posting pictures of events like this as they're unfolding? <u/spez>: There's no policy against this beyond our existing [Content Policy](https://www.reddit.com/help/contentpolicy).
+Again, what happened in Orlando is horrible, and above all, we need to keep things in perspective. We’ve all been set back by the events, but we will move forward together to do better next time. 
+
+<u/BlarpUM>: What's Reddit's policy on posting pictures of events like this as they're unfolding?
+
+<u/spez>: There's no policy against this beyond our existing [Content Policy](https://www.reddit.com/help/contentpolicy).

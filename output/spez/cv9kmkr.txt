@@ -26,7 +26,11 @@ Finally, yes, it’s true.  I am running for President of the United States.  My
 
 I have about 1.17 hours now to answer questions, and then I'm going and playing with my wee ones.
 
-Edit: Running to my train.  If I can get a seat, I'll finish off some in-flight answers.  XOXOXO, Marty <u/[deleted]>: [deleted] <u/spez>: The big feature we lack right now is keyword targeting, and perhaps more importantly, anti-keyword targeting. Right now, advertisers have very little control over who actually sees their ads because they can only target at the community level, and they're very concerned about brand safety. Basically, they want to say, I want my ad to show around conversations about *this* topic, but not *that* topic.
+Edit: Running to my train.  If I can get a seat, I'll finish off some in-flight answers.  XOXOXO, Marty
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: The big feature we lack right now is keyword targeting, and perhaps more importantly, anti-keyword targeting. Right now, advertisers have very little control over who actually sees their ads because they can only target at the community level, and they're very concerned about brand safety. Basically, they want to say, I want my ad to show around conversations about *this* topic, but not *that* topic.
 
 As far as tracking, we will continue to serve ads in an iframe, which dramatically limits what information an advertiser sees (e.g. they don't see what urls you're on), and we will provide ways to opt-out (more than we offer now).
 

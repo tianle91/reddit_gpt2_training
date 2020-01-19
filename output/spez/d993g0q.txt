@@ -20,4 +20,8 @@ I will be hanging around to answer questions about this or anything else for the
 
 Steve
 
-u: I'm out for now. Will check back later. Thanks! <u/lelakat>: Does the ad change affect mobile users as well or is that still up to the individual app we use?  <u/spez>: Just desktop for the time being.
+u: I'm out for now. Will check back later. Thanks!
+
+<u/lelakat>: Does the ad change affect mobile users as well or is that still up to the individual app we use? 
+
+<u/spez>: Just desktop for the time being.

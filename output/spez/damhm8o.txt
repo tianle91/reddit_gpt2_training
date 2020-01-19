@@ -30,11 +30,15 @@ Again, I am sorry for the trouble I have caused. While I intended no harm, that 
 Steve
 
 PS: As a bonus, I have enabled filtering for r/all for all users. You can modify the filters by [visiting r/all on the desktop web](https://g.redditmedia.com/34sCU-v1SO7xXrFliAOHfMR2bVjuoC2xYPV3OnH6C9Y.gif?w=1024&fm=mp4&mp4-fragmented=false&s=c4127836f34b00ac6a66b1b429e02440) (I’m old, sorry), but it will affect all platforms, including our native apps on iOS and Android.
- <u/SaulJoker>: Imma take this opportunity to ask you something /u/spez
+
+
+<u/SaulJoker>: Imma take this opportunity to ask you something /u/spez
 
 i'd really like a way for me to find new subreddits on my frontpage without having to find a popular post or comment on /r/all or having to dig for it. Especially the smaller, niche communities.
 
 Have you ever though of adding a recommended subreddits tab somewhere? There definitely isn't one on the mobile app and I dont think there is one on the website.
 
 EDIT: Some people are mentioning www.reddit.com/explore . If only I had known about this sooner (but to be honest doesn't really "satisfy" my concern, as nice as it is). I already found a (hopefully) [interesting community](https://www.reddit.com/r/ModeratelyConfused/)
- <u/spez>: New frontpage alogrithm is a major initiative of ours right now. So, yes!
+
+
+<u/spez>: New frontpage alogrithm is a major initiative of ours right now. So, yes!

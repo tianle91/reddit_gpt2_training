@@ -26,4 +26,8 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/Manhand>: How can we flag spez as being a suspicious actor, who clearly supports The_Donald? <u/spez>: You send can suspicious accounts to investigations@reddit.zendesk.com, and it will get to the right people.
+—spez
+
+<u/Manhand>: How can we flag spez as being a suspicious actor, who clearly supports The_Donald?
+
+<u/spez>: You send can suspicious accounts to investigations@reddit.zendesk.com, and it will get to the right people.

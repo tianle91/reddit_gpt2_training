@@ -44,4 +44,6 @@ Not right now, but we will be discussing this with subreddit mods who are signif
 
 **EDIT (additional FAQ 4): The name of the user preference is confusing, can you change it?** Feedback taken, thanks. The preference will be changed to "change links into Reddit affiliate links". I'll update the text above when the change rolls out. Thanks!
 
-**EDIT (additional FAQ 5): What will happen to existing affiliate links?** This won't interfere with existing affiliate links. <u/spez>: This is the beginning of the end. Maybe it's the end of the end. Whatever. I'm going back to Digg.
+**EDIT (additional FAQ 5): What will happen to existing affiliate links?** This won't interfere with existing affiliate links.
+
+<u/spez>: This is the beginning of the end. Maybe it's the end of the end. Whatever. I'm going back to Digg.

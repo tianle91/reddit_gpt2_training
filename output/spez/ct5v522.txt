@@ -37,7 +37,9 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/Warlizard>: In [Ellen Pao's op-ed](http://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html) in the Washington Post today, she said ***"But to attract more mainstream audiences and bring in the big-budget advertisers, you must hide or remove the ugly."***
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/Warlizard>: In [Ellen Pao's op-ed](http://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html) in the Washington Post today, she said ***"But to attract more mainstream audiences and bring in the big-budget advertisers, you must hide or remove the ugly."***
 
 How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit?
 
@@ -45,8 +47,14 @@ EDIT: "Anything that harasses, bullies, or abuses an individual or group of peop
 
 EDIT 2: Proposed definition of harassment -- **Harassment is defined as repetitive, unwanted, non-constructive contact from a person or persons whose effect is to annoy, disturb, threaten, humiliate, or torment a person, group or an organization.** 
 
-EDIT 3: /u/spez response -- https://www.reddit.com/r/announcements/comments/3djjxw/lets_talk_content_ama/ct5s58n <u/spez>: > How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit?
+EDIT 3: /u/spez response -- https://www.reddit.com/r/announcements/comments/3djjxw/lets_talk_content_ama/ct5s58n
+
+<u/spez>: > How much of the push toward removing "ugly" elements of Reddit comes from the motivation to monetize Reddit?
 
 Zero.
 
-edit: only on Reddit would someone pay to gild this comment so others can continue to downvote it more easily. <u/gitykinz>: You have /u/Yishan and /u/ekjp directly contradicting this answer very recently in Reddit posts. <u/spez>: Well, only one of us actually works here.
+edit: only on Reddit would someone pay to gild this comment so others can continue to downvote it more easily.
+
+<u/gitykinz>: You have /u/Yishan and /u/ekjp directly contradicting this answer very recently in Reddit posts.
+
+<u/spez>: Well, only one of us actually works here.

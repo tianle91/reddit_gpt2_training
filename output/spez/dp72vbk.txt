@@ -24,8 +24,12 @@ Speaking of the holidays, I’m no longer allowed to use a computer over the Tha
 
 -Steve
 
-update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers! <u/Nivrap>: Dear u/spez ,
+update: I'm taking off for now. Thanks for the questions and feedback. I'll check in over the next couple of days if more bubbles up. Cheers!
 
-As a frequenter of many different subreddits, some of which are based on opposed ideologies, I must ask: how are you planning to deal with subreddits that automatically ban users based on their participation in other subs? On more than one occasion, I've received messages from subreddits I've never heard of simply for commenting on a post in an unrelated subreddit. This practice violates Reddit's guidelines and discriminates against users based on ideology. Can we expect any form of help in keeping Reddit one of the few remaining sites dedicated to neutrality? <u/spez>: Short answer, yes.
+<u/Nivrap>: Dear u/spez ,
+
+As a frequenter of many different subreddits, some of which are based on opposed ideologies, I must ask: how are you planning to deal with subreddits that automatically ban users based on their participation in other subs? On more than one occasion, I've received messages from subreddits I've never heard of simply for commenting on a post in an unrelated subreddit. This practice violates Reddit's guidelines and discriminates against users based on ideology. Can we expect any form of help in keeping Reddit one of the few remaining sites dedicated to neutrality?
+
+<u/spez>: Short answer, yes.
 
 Long answer, we created moderator guidelines outlawing the practice, but we also understand the context in which these ban bots were created. We're working with those communities, enhancing mod tools, and planning more transparency for bans so we can get there in time.

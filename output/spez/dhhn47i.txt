@@ -22,4 +22,12 @@ Cool.
 
 &nbsp;
 
-^1 No snark allowed. <u/carpy22>: So /r/CFB can keep it's CSS and flair system as-is? <u/spez>: We're building a new flair system that's way more powerful than what you have to do now. <u/Zerosa>: Able to handle ~2600 unique flair and ~6 million dual flair combos? <u/spez>: 2599: Choose wisely.
+^1 No snark allowed.
+
+<u/carpy22>: So /r/CFB can keep it's CSS and flair system as-is?
+
+<u/spez>: We're building a new flair system that's way more powerful than what you have to do now.
+
+<u/Zerosa>: Able to handle ~2600 unique flair and ~6 million dual flair combos?
+
+<u/spez>: 2599: Choose wisely.

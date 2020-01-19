@@ -26,10 +26,14 @@ Happy New Year,
 
 Steve and the Reddit team
 
-update: I'm off for now. As always, thanks for the feedback and questions. <u/Sephrick>: Can the web version in mobile fuck off with reverting back from desktop view every time I visit the page? 
+update: I'm off for now. As always, thanks for the feedback and questions.
+
+<u/Sephrick>: Can the web version in mobile fuck off with reverting back from desktop view every time I visit the page? 
 
 Used to be I requested desktop once on a new device and I was good to go. Now I get an ad and a mobile layout every time I load the front page. 
 
-Why do tech companies have to fix what isn’t broken? <u/spez>: We can't fix things if we don't break them first!
+Why do tech companies have to fix what isn’t broken?
+
+<u/spez>: We can't fix things if we don't break them first!
 
 But seriously, I know it's annoying. We're going to redo all that.

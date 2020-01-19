@@ -39,4 +39,8 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/gumdropsEU>: I hope the gap between designing for users on mobile and moderators on mobile narrows soon. I want to moderate on mobile but it's not possible right now. <u/spez>: Agreed! We have the basics in the app, but still quite a ways to go.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/gumdropsEU>: I hope the gap between designing for users on mobile and moderators on mobile narrows soon. I want to moderate on mobile but it's not possible right now.
+
+<u/spez>: Agreed! We have the basics in the app, but still quite a ways to go.

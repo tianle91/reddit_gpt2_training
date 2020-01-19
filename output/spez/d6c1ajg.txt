@@ -16,10 +16,14 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/lIlIlIIlIIIlIIIIIl>: Hey /u/spez! 
+u: Thank you! Heading out for now. Will check back later.
+
+<u/lIlIlIIlIIIlIIIIIl>: Hey /u/spez! 
 
 -
 I was wondering if I could ask what improvements are being made towards m.reddit.com? Wonderful work by the way. 
 
 -
-Have a wonderful day! <u/spez>: The new version is a lot faster and quicker to develop on. It's our new web stack. New mod mail is built on this stack as well.
+Have a wonderful day!
+
+<u/spez>: The new version is a lot faster and quicker to develop on. It's our new web stack. New mod mail is built on this stack as well.

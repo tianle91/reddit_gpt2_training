@@ -4,4 +4,8 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/Revesilia>: Anything you could foreshadow as to what community tools we might expect? <u/spez>: Other than the thousand general product improvements we'd like to make, the big problems on our mind are community discovery (it's hard for redditors to find new communities, let alone new users), and community growth (how do you attract new users to your up-and-coming community. Two sides of the same coin, but both supremely important in my mind.
+update: I'm outta here. Thanks for the questions!
+
+<u/Revesilia>: Anything you could foreshadow as to what community tools we might expect?
+
+<u/spez>: Other than the thousand general product improvements we'd like to make, the big problems on our mind are community discovery (it's hard for redditors to find new communities, let alone new users), and community growth (how do you attract new users to your up-and-coming community. Two sides of the same coin, but both supremely important in my mind.

@@ -4,6 +4,10 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/[deleted]>: [deleted] <u/spez>: Still working on it! Testing new stuff next week, I believe. It's a multi-part plan: first, we need to provide alternatives to shadowbanning. We're working on these now. It's worth noting the admins (Reddit employees) and moderators (Reddit users) have different tools, both inadequate. Second, we need to get everyone comfortable (admins, moderators, users) with new tools (basically, non shadowban enforcement). Third, we need to make it easier for new communities to grow.
+update: I'm outta here. Thanks for the questions!
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: Still working on it! Testing new stuff next week, I believe. It's a multi-part plan: first, we need to provide alternatives to shadowbanning. We're working on these now. It's worth noting the admins (Reddit employees) and moderators (Reddit users) have different tools, both inadequate. Second, we need to get everyone comfortable (admins, moderators, users) with new tools (basically, non shadowban enforcement). Third, we need to make it easier for new communities to grow.
 
 It's not happening overnight, but it is happening.

@@ -19,6 +19,10 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/iamastrange1oop>: What is Reddit's official position on providing user data to advertisers and other data aggregators?  
 
-What type of data and methods of data collection are considered fair game, and which are currently in use? <u/spez>: We don't share individual browsing habits with advertisers. You can read the full details in our [Privacy Policy](https://www.reddit.com/help/privacypolicy/).
+
+<u/iamastrange1oop>: What is Reddit's official position on providing user data to advertisers and other data aggregators?  
+
+What type of data and methods of data collection are considered fair game, and which are currently in use?
+
+<u/spez>: We don't share individual browsing habits with advertisers. You can read the full details in our [Privacy Policy](https://www.reddit.com/help/privacypolicy/).

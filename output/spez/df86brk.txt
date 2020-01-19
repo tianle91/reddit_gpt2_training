@@ -123,6 +123,14 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/AllTheRowboats93>: I wonder if this will change the dynamic of the site.  <u/HideHideHidden>: We're testing this carefully but the goal is to give a home for people to put their original content. We think more original content and content creators will spur more conversations throughout Reddit. <u/nothumbnails>: >We're testing this carefully but the goal is to give a home for people to put their original content.
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
 
-Like a subreddit? <u/spez>: Exactly like subreddit. In fact, these are subreddit's under the hood.
+<u/AllTheRowboats93>: I wonder if this will change the dynamic of the site. 
+
+<u/HideHideHidden>: We're testing this carefully but the goal is to give a home for people to put their original content. We think more original content and content creators will spur more conversations throughout Reddit.
+
+<u/nothumbnails>: >We're testing this carefully but the goal is to give a home for people to put their original content.
+
+Like a subreddit?
+
+<u/spez>: Exactly like subreddit. In fact, these are subreddit's under the hood.

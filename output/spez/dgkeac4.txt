@@ -39,8 +39,12 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/code-sloth>: > We will also natively supporting a lot of the functionality that subreddits currently build into the sidebar via a widget system. For instance, a calendar widget will allow subreddits to easily display upcoming events. We’d like this feature and many like it to be accessible to all communities.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/code-sloth>: > We will also natively supporting a lot of the functionality that subreddits currently build into the sidebar via a widget system. For instance, a calendar widget will allow subreddits to easily display upcoming events. We’d like this feature and many like it to be accessible to all communities.
 
 That's super rad, but will mobile users be able to see any of those things? A major pain point is that mobile users don't know how to use their apps properly and ignore sidebars. There was a mention of a pop-up of subreddit rules when mobile users visited a sub but that was a few weeks ago and I haven't seen anything since then.
 
-Kinda pointless to pimp out your sidebar when half your users are too ignorant to find it. <u/spez>: Yes. Bringing styles and as much of sidebar functionality as possible to mobile is an explicit goal of this project.
+Kinda pointless to pimp out your sidebar when half your users are too ignorant to find it.
+
+<u/spez>: Yes. Bringing styles and as much of sidebar functionality as possible to mobile is an explicit goal of this project.

@@ -18,4 +18,8 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/suulia>: How does Reddit handle tracking from "private browsing" modes? Is it different from non-private browsing? <u/spez>: We can't tell when you're in private mode. All we see is a user that shows up once and never comes back.
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/suulia>: How does Reddit handle tracking from "private browsing" modes? Is it different from non-private browsing?
+
+<u/spez>: We can't tell when you're in private mode. All we see is a user that shows up once and never comes back.

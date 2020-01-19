@@ -39,4 +39,8 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/[deleted]>: [deleted] <u/spez>: All of them except HQG, which we're going to shut down for being stupid and meta.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: All of them except HQG, which we're going to shut down for being stupid and meta.

@@ -1,4 +1,6 @@
-<r/AskReddit>: What's the best "long con" you ever pulled? <u/yishan>: Here's one.
+<r/AskReddit>: What's the best "long con" you ever pulled?
+
+<u/yishan>: Here's one.
 
 In 2006, reddit was sold to Conde Nast.  It was soon obvious to many that the sale had been premature, the site was unmanaged and under-resourced under the old-media giant who simply didn't understand it and could never realize its full potential, so the founders and their allies in Y-Combinator (where reddit had been born) hatched an audacious plan to re-extract reddit from the clutches of the 100-year-old media conglomerate.
 
@@ -11,4 +13,6 @@ Once this was done, he and his team would manufacture a series of otherwise-impr
 JUST KIDDING.  There's no way that could happen.
 
 
- <u/spez>: We all had our roles to play.
+
+
+<u/spez>: We all had our roles to play.

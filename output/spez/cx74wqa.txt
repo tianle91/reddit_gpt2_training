@@ -18,7 +18,9 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/[deleted]>: >we are also beginning to roll out support for Do Not Track
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/[deleted]>: >we are also beginning to roll out support for Do Not Track
 
 Awesome. Good stuff.
 
@@ -30,6 +32,8 @@ So instead;
 
 2. How goes the Android App? 
 
- <u/spez>: 1. Turkey, cheese, lettuce (I went through a sprouts phase, but we're all have silly things in our past), mayo
+
+
+<u/spez>: 1. Turkey, cheese, lettuce (I went through a sprouts phase, but we're all have silly things in our past), mayo
 
 2. It's coming along! A little slower than planned, but that's software for you.

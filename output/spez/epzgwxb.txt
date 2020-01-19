@@ -6,7 +6,11 @@ Sometimes called [“the twenty-six words that created the internet,”](https:/
 You can learn more about how CDA 230 works [here at this breakdown](https://www.eff.org/issues/cda230) from the Electronic Frontier Foundation. And you can read more about Senator Wyden’s efforts to defend it [here](https://www.vox.com/recode/2019/5/16/18626779/ron-wyden-section-230-facebook-regulations-neutrality).
 
 
-Proof: https://i.redd.it/jbtpca0xnk131.jpg <u/tom2day>: OK so lots of questions but not much, if anything in the way of answers. Let me try...I know it is a tricky road but what can be done to curb manipulation by foreign entities on social media during election cycles? Is there a way to recognize and eliminate bots? <u/spez>: >what can be done to curb manipulation by foreign entities on social media during election cycles?
+Proof: https://i.redd.it/jbtpca0xnk131.jpg
+
+<u/tom2day>: OK so lots of questions but not much, if anything in the way of answers. Let me try...I know it is a tricky road but what can be done to curb manipulation by foreign entities on social media during election cycles? Is there a way to recognize and eliminate bots?
+
+<u/spez>: >what can be done to curb manipulation by foreign entities on social media during election cycles?
 
 Pasting from my [previous answer](https://www.reddit.com/r/politics/comments/bwpqqi/we_are_us_senator_ron_wyden_and_reddit_ceo_steve/epzexlh/):
 

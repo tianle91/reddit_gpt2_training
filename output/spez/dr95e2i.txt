@@ -22,8 +22,12 @@ update: Please note the FCC is not united in this decision and find the dissenti
 
 update2 (9:55AM pst): While the vote has not technically happened, we decided to post after the two dissenting commissioners released their statements. However, the actual vote appears to be delayed for security reasons. We hope everyone is safe.
 
-update3 (10:13AM pst): The FCC votes to repeal 3–2. <u/baltinerdist>: u/spez, u/arabscarab, u/kn0thing:
+update3 (10:13AM pst): The FCC votes to repeal 3–2.
+
+<u/baltinerdist>: u/spez, u/arabscarab, u/kn0thing:
 
 If a Comcast or Verizon or whoever approaches reddit and says they're basically putting together a "Social Media Elite Pro MegaAccess" package that gives you a different level of access (non-throttled or maybe even priority traffic) to your website, are you willing to sign that deal?
 
-The users are going to get the short end of this stick but the long end still reaches out to the sites that are cordoned off by un-neutral net. <u/spez>: No. We don’t negotiate with terrorists. 
+The users are going to get the short end of this stick but the long end still reaches out to the sites that are cordoned off by un-neutral net.
+
+<u/spez>: No. We don’t negotiate with terrorists. 

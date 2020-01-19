@@ -28,7 +28,9 @@ However, it is more consistent with his recent views such as ["...the last thing
 
 At one point in time, reddit played host to [one of the internet's largest known collection of hate-specific forums online.](https://en.wikipedia.org/w/index.php?title=Controversial_Reddit_communities&oldid=836344847#The_"Chimpire") Over the years, one or two related subreddits would be banned at a time, but it wasn't until August 2015's banning of CT that the entire network of participating subreddits was effectively banned.
 
-With the present observed shift in ideals by Reddit and its present leadership, assuming that it still existed today, would CT be banned? <u/spez>: Yes. Since we banned CT in 2015, we’ve updated our policies against harassment, bullying, and violence, all of which would be grounds for dismissal for that community.
+With the present observed shift in ideals by Reddit and its present leadership, assuming that it still existed today, would CT be banned?
+
+<u/spez>: Yes. Since we banned CT in 2015, we’ve updated our policies against harassment, bullying, and violence, all of which would be grounds for dismissal for that community.
 
 Furthermore, the teams who make and enforce these decisions are much more robust. 
 

@@ -37,7 +37,9 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/justcool393>: Hi everyone answering these questions. I have a "few" questions that I, like probably most of reddit would like answers to. Like a recent AMA I asked questions in, the bold will be the meat of the question, and the non-bolded will be context. ***If you don't know an answer to a question, say so, and do so directly!*** Honesty is very much appreciated. With that said, here goes.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/justcool393>: Hi everyone answering these questions. I have a "few" questions that I, like probably most of reddit would like answers to. Like a recent AMA I asked questions in, the bold will be the meat of the question, and the non-bolded will be context. ***If you don't know an answer to a question, say so, and do so directly!*** Honesty is very much appreciated. With that said, here goes.
 
 #Content Policy
 
@@ -81,7 +83,11 @@ update: I'm out of here, everyone. Thank you so much for the feedback. I found t
 [6]: http://en.wikipedia.org/wiki/Safe-space
 [7]: http://i.imgur.com/lq1QtBd.png
 [8]: http://i.imgur.com/I4Ba3Vq.png
-[9]: http://i.imgur.com/UsmaD9I.png <u/Yoinkie2013>: I have nothing to add, just wanted to say well done for being so prepared for this AMA.  Let's see if any of these get answered. <u/smeezekitty>: I bet he will strategically ignore it.
+[9]: http://i.imgur.com/UsmaD9I.png
+
+<u/Yoinkie2013>: I have nothing to add, just wanted to say well done for being so prepared for this AMA.  Let's see if any of these get answered.
+
+<u/smeezekitty>: I bet he will strategically ignore it.
 
 -edit-
 
@@ -90,4 +96,6 @@ Steve has been doing an excellent job interacting
 with the community. I first posted the above statement
 when a lot of questions were still unanswered. 
 
-When you bet, sometimes you lose <u/spez>: I hope you didn't lose too much money :-/
+When you bet, sometimes you lose
+
+<u/spez>: I hope you didn't lose too much money :-/

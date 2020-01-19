@@ -20,6 +20,10 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/neat>: Congratulations on the funding! What will this money be put towards? <u/spez>: Headcount, mostly.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/neat>: Congratulations on the funding! What will this money be put towards?
+
+<u/spez>: Headcount, mostly.
 
 We have a lot to build, some of which we've shared (e.g. the redesign and video), and some we haven't shared yet (but we are excited to!), and we need more people to get it all done.

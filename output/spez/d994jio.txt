@@ -20,4 +20,8 @@ I will be hanging around to answer questions about this or anything else for the
 
 Steve
 
-u: I'm out for now. Will check back later. Thanks! <u/ToBeADifferentPerson>: Why does Reddit now use out.reddit.com to redirect a user to a link when it always used to link straight to the content? <u/spez>: There are a variety of reasons: to make better recommendations; to improve popularity algorithms; to know what is actually popular on Reddit.
+u: I'm out for now. Will check back later. Thanks!
+
+<u/ToBeADifferentPerson>: Why does Reddit now use out.reddit.com to redirect a user to a link when it always used to link straight to the content?
+
+<u/spez>: There are a variety of reasons: to make better recommendations; to improve popularity algorithms; to know what is actually popular on Reddit.

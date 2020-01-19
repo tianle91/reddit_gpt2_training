@@ -30,8 +30,12 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/AskAboutMyDumbSite>: Spez, 
+update: I'm off for now. Thanks for the questions!
+
+<u/AskAboutMyDumbSite>: Spez, 
 
 How good, legitimately, do you think the reddit user base is at identifying suspicious accounts? These don't just include Russian bots/accounts but also marketing accounts etc. 
 
-As such, if as a whole, we're bad at it, what can we do to improve?  <u/spez>: That's a hard question. Let me have my team follow up with you.
+As such, if as a whole, we're bad at it, what can we do to improve? 
+
+<u/spez>: That's a hard question. Let me have my team follow up with you.

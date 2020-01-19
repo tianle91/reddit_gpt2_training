@@ -20,9 +20,13 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/Tragouls>: Geo-specific versions of Reddit seem weird and almost scary to me, fencing off different parts of the world seems like it may create echo-boxes similar to what some more vocal sub-reddits do already.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-edit: Added a word to create more clarity. <u/spez>: This is a reasonable concern that we share.
+<u/Tragouls>: Geo-specific versions of Reddit seem weird and almost scary to me, fencing off different parts of the world seems like it may create echo-boxes similar to what some more vocal sub-reddits do already.
+
+edit: Added a word to create more clarity.
+
+<u/spez>: This is a reasonable concern that we share.
 
 On one hand, we want the site to be more relevant to folks all over the world, and geo-specific versions of Reddit increase the odds that a first time user will find something relevant to them.
 
@@ -30,10 +34,18 @@ However, if we get really good at relevancy that means we've gotten really good 
 
 For as far as we can see, there will continue to be a few different ways to interact with Reddit: your Home feed, which is stuff you've explicitly chosen, r/popular, which is stuff the whole world finds interesting, and optional geo versions of r/popular, which are a little more specific to your location.
 
-The product evolution is fluid, and we'll keep an eye on things as we evolve. <u/jstrydor>: Will there be an option to opt out of the geo stuff? I don't want to be stuck just looking at rocks all day.  <u/spez>: It's just a menu. You can choose which view you'd like to see. The only real change is that a new user visiting in specific location will by default see things biased by other users in that location.
+The product evolution is fluid, and we'll keep an eye on things as we evolve.
 
-For example, go to https://www.reddit.com/r/popular/ on the web and play with the "popular in" dropdown below Hot. <u/jstrydor>: > For example, go to https://www.reddit.com/r/popular/ on the web and play with the "popular in" dropdown below Hot.
+<u/jstrydor>: Will there be an option to opt out of the geo stuff? I don't want to be stuck just looking at rocks all day. 
 
-I might just be missing it but I can't see a dropdown anywhere. <u/spez>: It might be in a test...
+<u/spez>: It's just a menu. You can choose which view you'd like to see. The only real change is that a new user visiting in specific location will by default see things biased by other users in that location.
+
+For example, go to https://www.reddit.com/r/popular/ on the web and play with the "popular in" dropdown below Hot.
+
+<u/jstrydor>: > For example, go to https://www.reddit.com/r/popular/ on the web and play with the "popular in" dropdown below Hot.
+
+I might just be missing it but I can't see a dropdown anywhere.
+
+<u/spez>: It might be in a test...
 
 Imagine a dropdown that says "Popular In" and upon clicking it you see options like Canada, Mexico, and New Zealand.

@@ -10,8 +10,12 @@ Today, in addition to applying Quarantines, we are banning a handful of communit
 
 I believe these policies strike the right balance.
 
-update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/slyf>: This page (https://www.reddit.com/about/alien/) says that
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
+
+<u/slyf>: This page (https://www.reddit.com/about/alien/) says that
 
 > Remember: "reddit" is always lowercase.
 
-But your Content Policy spells it with a capital R, has this branding changed? <u/spez>: Yep, we're changing our style guide as well. It's a pain to start a sentence with reddit.
+But your Content Policy spells it with a capital R, has this branding changed?
+
+<u/spez>: Yep, we're changing our style guide as well. It's a pain to start a sentence with reddit.

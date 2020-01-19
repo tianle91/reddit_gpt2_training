@@ -20,7 +20,9 @@ I will be hanging around to answer questions about this or anything else for the
 
 Steve
 
-u: I'm out for now. Will check back later. Thanks! <u/Doctor_Dewott>: Mobile is still encountering many issues that were present since the beginning of the mobile site - such as pictures being loaded with a "play" button over them, failing the load the image and displaying "image not found" and displaying an album a few inches to the right so that it is impossible to progress through the album without going to posted link, etc.
+u: I'm out for now. Will check back later. Thanks!
+
+<u/Doctor_Dewott>: Mobile is still encountering many issues that were present since the beginning of the mobile site - such as pictures being loaded with a "play" button over them, failing the load the image and displaying "image not found" and displaying an album a few inches to the right so that it is impossible to progress through the album without going to posted link, etc.
 
 Are these issues being worked on? Or are they back burner to larger issues?
 
@@ -28,4 +30,6 @@ Also, so that this comment isn't exclusively complaints, I really appreciate the
 
 Thanks!
 
-Edit: a couple of typos slipped past me, whoops! <u/spez>: Yes, those issues are being worked on. m.reddit.com was stagnant for a while while we finished up the new version, but now we're cruising again.
+Edit: a couple of typos slipped past me, whoops!
+
+<u/spez>: Yes, those issues are being worked on. m.reddit.com was stagnant for a while while we finished up the new version, but now we're cruising again.

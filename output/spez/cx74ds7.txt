@@ -18,4 +18,8 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/willsmish>: Interesting. Thanks for the "Do Not Track" option, and for stating changes in the first place. <u/spez>: Of course. I like DNT. It's too bad it's not more widely supported around the web, but it fits us nicely.
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/willsmish>: Interesting. Thanks for the "Do Not Track" option, and for stating changes in the first place.
+
+<u/spez>: Of course. I like DNT. It's too bad it's not more widely supported around the web, but it fits us nicely.

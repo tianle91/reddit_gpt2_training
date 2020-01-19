@@ -16,6 +16,10 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/[deleted]>: [deleted] <u/spez>: > Does this include what we use automoderator to remove daily?
+u: Thank you! Heading out for now. Will check back later.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: > Does this include what we use automoderator to remove daily?
 
 No, we're counting actual moderator actions presently. The two are probably correlated, but I don't know off the top of my head. The ultimate goal is to save moderator time.

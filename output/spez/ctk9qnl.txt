@@ -23,6 +23,18 @@ As you can see, lots on our plates right now, but the team is cranking, and we'r
 
 I'll be hanging around in the comments for an hour or so.
 
-update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting! <u/bbrazil>: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe? <u/spez>: A straight-up, "you are banned because of X" is the first thing we need. <u/MerryChoppins>: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster?  <u/spez>: See my follow up task <u/Rlight>: This just doesn't seem feasible. 
+update: I'm off to work for now. Unlike you, work for me doesn't consist of screwing around on Reddit all day. Thanks for chatting!
 
-I understand that you're not ready to release the full information, but the entire point of shadowbanning, the entire reason that it's useful, is because users who purposely make alts to break rules don't know that they've been shadow'd. There's nothing reddit can do to stop TOR or IP changes which allow users to make alts. It seems to me, that Shadowing is the only deterrent that would slow down spammers and the like.  <u/spez>: It ain't easy, but we ain't stupid.
+<u/bbrazil>: Thanks for the update. Is it too early to ask what the alternative to shadowbanning will be? A block or tarpit by IP/Tor maybe?
+
+<u/spez>: A straight-up, "you are banned because of X" is the first thing we need.
+
+<u/MerryChoppins>: With the culture of reddit, won't that just encourage the worst actors to just make another account and proceed faster? 
+
+<u/spez>: See my follow up task
+
+<u/Rlight>: This just doesn't seem feasible. 
+
+I understand that you're not ready to release the full information, but the entire point of shadowbanning, the entire reason that it's useful, is because users who purposely make alts to break rules don't know that they've been shadow'd. There's nothing reddit can do to stop TOR or IP changes which allow users to make alts. It seems to me, that Shadowing is the only deterrent that would slow down spammers and the like. 
+
+<u/spez>: It ain't easy, but we ain't stupid.

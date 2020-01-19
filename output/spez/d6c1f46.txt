@@ -16,7 +16,9 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/[deleted]>: Hi spez, question about defaults.
+u: Thank you! Heading out for now. Will check back later.
+
+<u/[deleted]>: Hi spez, question about defaults.
 
 I know I am a super evil default mod that wants my status more than anything...
 
@@ -26,4 +28,6 @@ But I am really happy that reddit is working on onboarding instead of the defaul
 
 My question with onboarding is, do you think there will still be at least some kind of "default set"? Is it going to be more like Twitter where we HAVE to make it our own? Or do we not know yet?
 
-Guess my question is, where do we stand when it comes to Reddit onboarding? What can we expect? Or is it too early to expect anything? <u/spez>: A lot of this is still in the air, but the general idea is somewhere in between the current frontpage, which is set by us, and r/all, which is pretty much everything. Onboarding is a separate development effort, but will play a big role in this. We will likely have improved onboarding  before we have a new frontpage.
+Guess my question is, where do we stand when it comes to Reddit onboarding? What can we expect? Or is it too early to expect anything?
+
+<u/spez>: A lot of this is still in the air, but the general idea is somewhere in between the current frontpage, which is set by us, and r/all, which is pretty much everything. Onboarding is a separate development effort, but will play a big role in this. We will likely have improved onboarding  before we have a new frontpage.

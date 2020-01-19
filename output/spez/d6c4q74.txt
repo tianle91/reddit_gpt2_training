@@ -16,5 +16,9 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/LogicWavelength>: hey /u/Spez!  I'm a mod for /r/Watches, and a decent chunk of our mod team uses reddit on mobile, specifically iPhones.  What is the time table for moderator tools (even just a measly remove/approve function!) coming to the mobile app?  It would be *phenomenal* to get other things, such as a separate button for mod mail, but I imagine that is not coming any time soon.
- <u/spez>: The new mod mail should work well on mobile. The rest of the tools will follow.
+u: Thank you! Heading out for now. Will check back later.
+
+<u/LogicWavelength>: hey /u/Spez!  I'm a mod for /r/Watches, and a decent chunk of our mod team uses reddit on mobile, specifically iPhones.  What is the time table for moderator tools (even just a measly remove/approve function!) coming to the mobile app?  It would be *phenomenal* to get other things, such as a separate button for mod mail, but I imagine that is not coming any time soon.
+
+
+<u/spez>: The new mod mail should work well on mobile. The rest of the tools will follow.

@@ -37,7 +37,9 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/SirYodah>: Can you please speak on why real members are still being shadowbanned, even after you claimed that they never should be?
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/SirYodah>: Can you please speak on why real members are still being shadowbanned, even after you claimed that they never should be?
 
 For reference: https://np.reddit.com/r/KotakuInAction/comments/3dd954/censorship_mod_of_rneofag_shadowbanned_for_asking/
 
@@ -46,4 +48,6 @@ Note: I'm not involved in any of the communities represented in the link, I foun
 EDIT: Thanks to the spez and the other admins that replied. Folks, please stop downvoting them if you don't like their answer. I asked why people are still being shadowbanned, and the answer is because they don't have an alternative yet, but they're working on it. It may not be the answer some of you hoped for, but it's enough for me.
 
 Spez's reply:
->I stand by my statement like I'd like to use it as seldom as possible, and we are building better tools as we speak. <u/spez>: I stand by my statement like I'd like to use it as seldom as possible, and we are building better tools as we speak.
+>I stand by my statement like I'd like to use it as seldom as possible, and we are building better tools as we speak.
+
+<u/spez>: I stand by my statement like I'd like to use it as seldom as possible, and we are building better tools as we speak.

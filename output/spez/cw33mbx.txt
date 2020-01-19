@@ -4,4 +4,8 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/blackout27>: Hey, can you fix an issue with alien blue where if you go to a link post  and you cannot interact with the site that its linked to? <u/spez>: Have you reported on [r/alienblue](https://www.reddit.com/r/alienblue)?
+update: I'm outta here. Thanks for the questions!
+
+<u/blackout27>: Hey, can you fix an issue with alien blue where if you go to a link post  and you cannot interact with the site that its linked to?
+
+<u/spez>: Have you reported on [r/alienblue](https://www.reddit.com/r/alienblue)?

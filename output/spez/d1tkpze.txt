@@ -38,6 +38,10 @@ Alex
 
 **Noon PT Edit:** Thanks for your questions and warm welcome everyone! I'm going to take a quick break to check in on our Android team – we're going to submit a hotfix for Android 4.4 crashes and back button issues. That should be in your hands before EOD. I'll be back to answer more Qs and read the rest of the comments in a few hours.
 
-**11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now.  <u/[deleted]>: [deleted] <u/spez>: Every app is featureless compared to AlienBlue. Seriously, I learned about new hidden features just this morning.
+**11PM PT Edit:** Ok I've been answering on and off all day. I will keep reading top comments but will be replying less now. 
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: Every app is featureless compared to AlienBlue. Seriously, I learned about new hidden features just this morning.
 
 This is just version 1! More to come.

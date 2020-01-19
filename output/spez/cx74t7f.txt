@@ -18,6 +18,10 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/aphoenix>: Supporting Do Not Track is an interesting choice. It'll be a big win for Do Not Track to have another major website following it. Moving towards not actually storing IP addresses is also an interesting move. I like that you're putting a strong emphasis on privacy.
+edit: Thanks for all the feedback. I'm off for now.
 
-I'm also generally a fan of making it so that people can understand what's being tracked and why. <u/spez>: The IP stuff has been an interesting challenge. The fewer we can store, the better for all of us.
+<u/aphoenix>: Supporting Do Not Track is an interesting choice. It'll be a big win for Do Not Track to have another major website following it. Moving towards not actually storing IP addresses is also an interesting move. I like that you're putting a strong emphasis on privacy.
+
+I'm also generally a fan of making it so that people can understand what's being tracked and why.
+
+<u/spez>: The IP stuff has been an interesting challenge. The fewer we can store, the better for all of us.

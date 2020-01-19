@@ -20,6 +20,14 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/doctorhow85>: How can governments request specific user info?  Do they somehow get access to an individual’s username and proceed from there? <u/spez>: Do you really want me to explain that and make it easier for them? <u/OverlySexualPenguin>: i think that would just make it easier for us to understand, i'm sure they know how to go about it <u/spez>: Fair enough.
+update: I'm out for now. Will check back later.
+
+<u/doctorhow85>: How can governments request specific user info?  Do they somehow get access to an individual’s username and proceed from there?
+
+<u/spez>: Do you really want me to explain that and make it easier for them?
+
+<u/OverlySexualPenguin>: i think that would just make it easier for us to understand, i'm sure they know how to go about it
+
+<u/spez>: Fair enough.
 
 There are different requirements for different types requests, which are documented in our [Law Enforcement Guidelines](https://www.reddit.com/wiki/law_enforcement_guidelines).

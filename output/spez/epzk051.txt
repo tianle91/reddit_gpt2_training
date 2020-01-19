@@ -6,15 +6,21 @@ Sometimes called [“the twenty-six words that created the internet,”](https:/
 You can learn more about how CDA 230 works [here at this breakdown](https://www.eff.org/issues/cda230) from the Electronic Frontier Foundation. And you can read more about Senator Wyden’s efforts to defend it [here](https://www.vox.com/recode/2019/5/16/18626779/ron-wyden-section-230-facebook-regulations-neutrality).
 
 
-Proof: https://i.redd.it/jbtpca0xnk131.jpg <u/SouthernJeb>: Hello  /u/senatorwyden, I have a two part question:
+Proof: https://i.redd.it/jbtpca0xnk131.jpg
+
+<u/SouthernJeb>: Hello  /u/senatorwyden, I have a two part question:
 
 1) Do You support Mr. Huffman's decision to allow subreddits such as The_Donald to continue to have a presence on the site, despite continuous sharing and posting of questionable and subversive content? Why/Why not?
 
-2) As Reddit has grown into a huge website for discourse, do you feel that sites such as this are obligated to remove nefarious/questionable accounts (i.e. foreign-state sponsored) along with questionable content? Why/Why not? <u/senatorwyden>: Mr Huffman has the First Amendment right to support whatever content he chooses to, as does any private business. And other users have the right to choose whether or not they want to associate with a site that hosts that kind of content. 
+2) As Reddit has grown into a huge website for discourse, do you feel that sites such as this are obligated to remove nefarious/questionable accounts (i.e. foreign-state sponsored) along with questionable content? Why/Why not?
+
+<u/senatorwyden>: Mr Huffman has the First Amendment right to support whatever content he chooses to, as does any private business. And other users have the right to choose whether or not they want to associate with a site that hosts that kind of content. 
 
 From what I am told, The_Donald is home to messages that cross the line toward inciting the hatred that is eroding our democracy and it would be good to see Mr. Huffman and Reddit to do more work to moderate such behavior. 
 
-on #2 - While they're not legally obligated to do anything, any American site should remove any foreign state-sponsored content, whether it is Russian bots, or Chinese deniers of the Tiananmen massacre. <u/spez>: Thank you, Senator.
+on #2 - While they're not legally obligated to do anything, any American site should remove any foreign state-sponsored content, whether it is Russian bots, or Chinese deniers of the Tiananmen massacre.
+
+<u/spez>: Thank you, Senator.
 
 As it relates to r/the_donald specifically, we watch them closely, and we do our best to hold them to the same standards and policies as we do all communities. Before we action any community, we also speak to moderators regarding rule breaking behaviors. To that end, we have removed a number of their moderators over the years for not moderating to our standards, and we wouldn’t hesitate to do this again, or take additional steps, should their behavior warrant it. While they can be offensive and antagonistic to the rest of Reddit, we have not found them to be in consistent violation of our content policies.
 

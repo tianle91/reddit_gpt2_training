@@ -22,4 +22,8 @@ Cool.
 
 &nbsp;
 
-^1 No snark allowed. <u/frahm9>: Thank you for listening guys. If I pick CSS, will I be able to customize mobile? <u/spez>: It won't be one or the other, but CSS won't affect mobile.
+^1 No snark allowed.
+
+<u/frahm9>: Thank you for listening guys. If I pick CSS, will I be able to customize mobile?
+
+<u/spez>: It won't be one or the other, but CSS won't affect mobile.

@@ -37,7 +37,11 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/[deleted]>: [deleted] <u/spez>: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: We'll consider banning subreddits that clearly violate the guidelines in my post--the ones that are illegal or cause harm to others.
 
 There are many subreddits whose contents I and many others find offensive, but that alone is not justification for banning.
 
@@ -47,9 +51,15 @@ There are many subreddits whose contents I and many others find offensive, but t
 
 edit: elevating my reply below so more people can see it.
 
- <u/obadetona>: What would you define as causing harm to others? <u/spez>: Very good question, and that's one of the things we need to be clear about. I think we have an intuitive sense of what this means (e.g. death threats, inciting rape), but before we release an official update to our policy we will spell this out as precisely as possible.
 
-Update: I added an example to my post. It's ok to say, "I don't like this group of people." It's not ok to say, "I'm going to kill this group of people." <u/Adwinistrator>: > Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence)
+
+<u/obadetona>: What would you define as causing harm to others?
+
+<u/spez>: Very good question, and that's one of the things we need to be clear about. I think we have an intuitive sense of what this means (e.g. death threats, inciting rape), but before we release an official update to our policy we will spell this out as precisely as possible.
+
+Update: I added an example to my post. It's ok to say, "I don't like this group of people." It's not ok to say, "I'm going to kill this group of people."
+
+<u/Adwinistrator>: > Anything that harasses, bullies, or abuses an individual or group of people (these behaviors intimidate others into silence)
 
 How will this be interpreted in the context of spirited debates between large factions of people (usually along ideological lines)?
 
@@ -57,5 +67,7 @@ The following example can usually be found on both sides of these conflicts, so 
 
 There have been many cases of people accusing others of harassment or bullying, when in reality a group of people is shining a light on someone's bad arguments, or bad actions.  Those that now see this, voice their opinions (in larger numbers than the bad actor is used to), and they say they are being harassed, bullied, or being intimidated into silence.
 
-How would the new rules consider this type of situation, in the context of bullying, or harassment? <u/spez>: Spirited debates are in important part of what makes Reddit special. Our goal is to spell out clear rules that everyone can understand. Any banning of content will be carefully considered against our public rules.
+How would the new rules consider this type of situation, in the context of bullying, or harassment?
+
+<u/spez>: Spirited debates are in important part of what makes Reddit special. Our goal is to spell out clear rules that everyone can understand. Any banning of content will be carefully considered against our public rules.
 

@@ -26,6 +26,10 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/DynastySS>: Why in the world do you ask me every other page view to download the app? I like mweb, I hate apps. Please stop.  <u/spez>: We dialed that way back a couple weeks ago. It should be just a little button now.
+—spez
+
+<u/DynastySS>: Why in the world do you ask me every other page view to download the app? I like mweb, I hate apps. Please stop. 
+
+<u/spez>: We dialed that way back a couple weeks ago. It should be just a little button now.
 
 One thing that might be happening for folks is seeing more prompts because they use incognito because we're losing the cookie that stores whether they've seen the prompt. We're dialing it back for incognito as well in the near future.

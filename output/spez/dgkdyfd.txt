@@ -39,8 +39,12 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/honestbleeps>: I, for one, welcome a decent theming system over the free for all that CSS is, but that's going to be an unpopular opinion and a lot of people are going to be angry and upset, especially those who've spent a ton of time on their themes.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-flair will be important to manage well. it is a giant hack and a ton of work with sprite sheets etc - but it's an integral part of a lot of subs.  I think this one will be really important to ensure you have day 1 even though it's probably a complex one to implement. <u/spez>: The effort spent on CSS wasn't in vain. It's what got us here. Now we'll make it easier.
+<u/honestbleeps>: I, for one, welcome a decent theming system over the free for all that CSS is, but that's going to be an unpopular opinion and a lot of people are going to be angry and upset, especially those who've spent a ton of time on their themes.
+
+flair will be important to manage well. it is a giant hack and a ton of work with sprite sheets etc - but it's an integral part of a lot of subs.  I think this one will be really important to ensure you have day 1 even though it's probably a complex one to implement.
+
+<u/spez>: The effort spent on CSS wasn't in vain. It's what got us here. Now we'll make it easier.
 
 We're going to support flair as a first-class citizen.

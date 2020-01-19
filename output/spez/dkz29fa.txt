@@ -20,4 +20,8 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/[deleted]>: [deleted] <u/spez>: It's an engineering team, so they go through the normal engineering hiring process. AE is a fun team to be on, and that type of work was some of my favorite when I was an engineer. It's creative and challenging work—every day you're facing off against other humans who are trying to ruin Reddit. It's an arms race, but we generally have more resources than the bad guys.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/[deleted]>: [deleted]
+
+<u/spez>: It's an engineering team, so they go through the normal engineering hiring process. AE is a fun team to be on, and that type of work was some of my favorite when I was an engineer. It's creative and challenging work—every day you're facing off against other humans who are trying to ruin Reddit. It's an arms race, but we generally have more resources than the bad guys.

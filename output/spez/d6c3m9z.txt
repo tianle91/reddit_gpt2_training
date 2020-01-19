@@ -16,4 +16,8 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/silentz0r>: Apart from the front page algorithm, how about updating the really really outdated UI? Maybe even simplifying it (to make it look neater) and moving a lot of actions to a separate panel? <u/spez>: All in due time. The majority of our traffic is mobile (and growing), and we don't have any product baggage there, so that's where our attention is. Updating desktop requires a transition plan for CSS, RES, and lots of user habits. I am chomping at the bit, though.
+u: Thank you! Heading out for now. Will check back later.
+
+<u/silentz0r>: Apart from the front page algorithm, how about updating the really really outdated UI? Maybe even simplifying it (to make it look neater) and moving a lot of actions to a separate panel?
+
+<u/spez>: All in due time. The majority of our traffic is mobile (and growing), and we don't have any product baggage there, so that's where our attention is. Updating desktop requires a transition plan for CSS, RES, and lots of user habits. I am chomping at the bit, though.

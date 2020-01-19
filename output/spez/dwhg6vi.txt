@@ -46,4 +46,6 @@ Over the past few weeks, we have given all moderators and beta users access to t
 
 [Thank you](https://media3.giphy.com/media/IcGkqdUmYLFGE/giphy.gif) to everyone who’s helped test, reported bugs, and given feedback on the redesign so far; all of this helps a lot.
 
-PS: [We’re still hiring.](https://about.reddit.com/engineering/) :\) <u/spez>: If anyone's interested, I found a hard drive in my garage with the [original Reddit Lisp code](https://github.com/reddit/reddit1.0/) from 2005. Been looking for it for years. Enjoy.
+PS: [We’re still hiring.](https://about.reddit.com/engineering/) :\)
+
+<u/spez>: If anyone's interested, I found a hard drive in my garage with the [original Reddit Lisp code](https://github.com/reddit/reddit1.0/) from 2005. Been looking for it for years. Enjoy.

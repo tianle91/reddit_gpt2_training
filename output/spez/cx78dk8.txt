@@ -18,6 +18,10 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/[deleted]>: . <u/spez>: > We collect information about how all visitors browse the site to make reddit better. We remove personally identifiable data from this information after 90 days.
+edit: Thanks for all the feedback. I'm off for now.
+
+<u/[deleted]>: .
+
+<u/spez>: > We collect information about how all visitors browse the site to make reddit better. We remove personally identifiable data from this information after 90 days.
 
 This was a statement in the old policy I never liked because it's vague as to what is actually personally identifiable. Basically what it meant is that we delete our access logs after 90 days, which we will continue to do (but after 100 days).

@@ -19,4 +19,8 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/theflamesweregolfin>: If someone were to anonymously post the copyrighted recipe for mulan szechuan mcnugget sauce, and you received a request from the copyright holder to take it down, would you comply?  <u/spez>: Yes, if it was a valid copyright request, that's what the DMCA requires. We could push back, but our appetite for defending you all has limits.
+
+
+<u/theflamesweregolfin>: If someone were to anonymously post the copyrighted recipe for mulan szechuan mcnugget sauce, and you received a request from the copyright holder to take it down, would you comply? 
+
+<u/spez>: Yes, if it was a valid copyright request, that's what the DMCA requires. We could push back, but our appetite for defending you all has limits.

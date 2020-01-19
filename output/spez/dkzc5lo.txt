@@ -20,17 +20,25 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/shamelessnameless>: my only question is with this profile thing. are you pushing for all that continuous internet identity crap that facebook and twitter and everyone else are doing? because i would hate that. i use this username for porn. a lot of porn. a hell of a lot of porn. and venting.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/shamelessnameless>: my only question is with this profile thing. are you pushing for all that continuous internet identity crap that facebook and twitter and everyone else are doing? because i would hate that. i use this username for porn. a lot of porn. a hell of a lot of porn. and venting.
 
 i don't want to live on a reddit where my porn enjoyment affects my employability in the non-porn sector spez.
 
-don't do that social media shit please, keep this is a news and niche subject site. <u/spez>: 1) We generally exclude NSFW from any sort of personalization
+don't do that social media shit please, keep this is a news and niche subject site.
 
-2) The main goal of profile pages is to give folks a place to host their content, not to build a social network. While the feature is far from complete—it'll be much more cohesive in a couple months—you won't be required to share your identity, have friends, etc. <u/nopuppet__nopuppet>: Are you going to be responding to the feedback posted in [this thread](https://www.reddit.com/r/announcements/comments/60p3n1/tldr_today_were_testing_out_a_new_feature_that/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=announcements) that was overwhelmingly negative? You guys promised to take in all the feedback and as far as I can tell, it's been completely disregarded.
+<u/spez>: 1) We generally exclude NSFW from any sort of personalization
+
+2) The main goal of profile pages is to give folks a place to host their content, not to build a social network. While the feature is far from complete—it'll be much more cohesive in a couple months—you won't be required to share your identity, have friends, etc.
+
+<u/nopuppet__nopuppet>: Are you going to be responding to the feedback posted in [this thread](https://www.reddit.com/r/announcements/comments/60p3n1/tldr_today_were_testing_out_a_new_feature_that/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=announcements) that was overwhelmingly negative? You guys promised to take in all the feedback and as far as I can tell, it's been completely disregarded.
 
 You're usually pretty good about keeping us ~~appraised~~ apprised of any changes so the lack of detail here is implying that there have been none, and that would be disappointing. 
 
-So...any update? <u/spez>: I more or less answered this [here](https://www.reddit.com/r/announcements/comments/6qptzw/with_so_much_going_on_in_the_world_i_thought_id/dkz5xi4/).
+So...any update?
+
+<u/spez>: I more or less answered this [here](https://www.reddit.com/r/announcements/comments/6qptzw/with_so_much_going_on_in_the_world_i_thought_id/dkz5xi4/).
 
 The short answer is: there was some good feedback in that thread, but also plenty that isn't super relevant. With profile pages in particular, I think showing will be better than telling. It's going to take some time for it to be a cohesive product.
 

@@ -16,7 +16,9 @@ As always, we will keep an eye out for any unintended side-effects and make chan
 
 Steve
 
-u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours. <u/karmanaut>: Hey Spez,
+u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
+
+<u/karmanaut>: Hey Spez,
 
 I'd like to propose an *alternative* to /r/All, which would be something like /r/Outstanding.
 
@@ -36,6 +38,8 @@ Pros of this system (as opposed to /r/All)
 
 * Can't be dominated by one subreddit regularly, unless it continually exceeds its previous records (which would be really difficult). 
 
-* Would really highlight the very best of Reddit or the most important news.  <u/spez>: So, that's approximately how the current front page works. We normalize the scores and sort by the most outstanding. It's limited to defaults / subscriptions, though.
+* Would really highlight the very best of Reddit or the most important news. 
+
+<u/spez>: So, that's approximately how the current front page works. We normalize the scores and sort by the most outstanding. It's limited to defaults / subscriptions, though.
 
 You basically describe the new frontpage algorithm I've been fantasizing about. We started work on this, in fact, but we re-allocated that brainpower (u/KeyserSosa) to focus on anti-evil for a while. We have since hired more brainpower and have less evil, so I'm hopeful we can get back to it soon.

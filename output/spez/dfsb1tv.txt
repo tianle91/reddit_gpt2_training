@@ -19,7 +19,11 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/JayandSilentB0b>: How do you plan on improving communication with mods, and general tools in the near future? generally curious on what might be in store that would make our lives easier. <u/spez>: Sure. We can always improve, but here are a few examples:
+
+
+<u/JayandSilentB0b>: How do you plan on improving communication with mods, and general tools in the near future? generally curious on what might be in store that would make our lives easier.
+
+<u/spez>: Sure. We can always improve, but here are a few examples:
 
 * We're dialing up our presence on r/modsupport
 * Our goal is to keep ticket response times under 12 hours (our average is less than this)

@@ -4,7 +4,9 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/hansjens47>: #1:
+update: I'm outta here. Thanks for the questions!
+
+<u/hansjens47>: #1:
 
 /r/redditrequest was added as a stopgap measure 5 years ago.
 
@@ -34,7 +36,9 @@ The 2014 US midterm election wasn't covered in the default subreddits. That mean
 
 For a site that takes a stance on political issues like marriage equality and an open and free internet, it seems strange that not all users are exposed to that content, even if it's the regional politics of the location you're in (geodefaults).
 
-* **What would it take to cover the 2016 US presidential election in the defaults in some way?**  <u/spez>: 1. It's something we discuss somewhat regularly around here. We all agree it's a problem. It's not our largest problem at the moment, but we will address it.
+* **What would it take to cover the 2016 US presidential election in the defaults in some way?** 
+
+<u/spez>: 1. It's something we discuss somewhat regularly around here. We all agree it's a problem. It's not our largest problem at the moment, but we will address it.
 
 2. I don't think the notion of blessing a specific set of communities is sustainable. It requires too much intervention on our side, and it also prevents new communities from breaking into popularity because they hit the "default ceiling". I'm looking forward to tackling this.
 

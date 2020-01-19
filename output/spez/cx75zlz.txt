@@ -18,6 +18,10 @@ Thank you for reading. I’ll be here for an hour to answer questions, and I'll 
 
 -Steve (spez)
 
-edit: Thanks for all the feedback. I'm off for now. <u/TheRighteousTyrant>: So, are you still not storing comment edits?
+edit: Thanks for all the feedback. I'm off for now.
 
-That is, are we still able to completely wipe a comment by editing it to something else and then deleting it? <u/spez>: That's correct.
+<u/TheRighteousTyrant>: So, are you still not storing comment edits?
+
+That is, are we still able to completely wipe a comment by editing it to something else and then deleting it?
+
+<u/spez>: That's correct.

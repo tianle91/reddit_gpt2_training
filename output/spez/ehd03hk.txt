@@ -24,7 +24,13 @@ Some things to note:
 
 [Rules page on the old site, with numbering.](https://preview.redd.it/x1w5cs2n8yi21.png?width=912&format=png&auto=webp&s=a1924df272306478774134287863e59840566b7d)
 
-Try it out and let us know if you find any wonkiness! As always, thank you for your feedback and help.  <u/admrltact>: Is this similar functionality going to be deployed to the removal reasons page / module?   <u/dmoneyyyyy>: We are planning a greater overhaul of the removal reasons feature — I'm actually going to start writing up a spec for it very soon. I'm curious, what specific functionalities are you looking for?  <u/admrltact>: Re-ordering for sure.
+Try it out and let us know if you find any wonkiness! As always, thank you for your feedback and help. 
+
+<u/admrltact>: Is this similar functionality going to be deployed to the removal reasons page / module?  
+
+<u/dmoneyyyyy>: We are planning a greater overhaul of the removal reasons feature — I'm actually going to start writing up a spec for it very soon. I'm curious, what specific functionalities are you looking for? 
+
+<u/admrltact>: Re-ordering for sure.
   
 My rules page is:  
 Rule 0  
@@ -43,8 +49,16 @@ Rule 2
 We dont have a rule, but should  
 Rule 3c  
   
-This is the order they display in the drop down list when selecting a removal reason too. <u/dmoneyyyyy>: Got it. Reordering for removal reasons seems pretty reasonable to me! <u/admrltact>: Now that I've got you reeled in with a reasonable demand...  
+This is the order they display in the drop down list when selecting a removal reason too.
+
+<u/dmoneyyyyy>: Got it. Reordering for removal reasons seems pretty reasonable to me!
+
+<u/admrltact>: Now that I've got you reeled in with a reasonable demand...  
   
-A free pony for every mod <u/dmoneyyyyy>: u/spez says yes <u/spez>: Here's a couple to get started: 🐎🐎🐎🐎🐎
+A free pony for every mod
+
+<u/dmoneyyyyy>: u/spez says yes
+
+<u/spez>: Here's a couple to get started: 🐎🐎🐎🐎🐎
 
 If this keeps them quiet, we can invest more.

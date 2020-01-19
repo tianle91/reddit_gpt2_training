@@ -19,7 +19,9 @@ Thank you for reading. I hope that you take this report as a sign of our commitm
 I’ll answer any questions that I can, but please understand I can’t always be completely candid when it comes to legal matters.
 
 Steve (spez)
- <u/BLACK-AND-DICKER>: Hey, /u/spez: What exactly is an* "Emergency Disclosure Request"?
+
+
+<u/BLACK-AND-DICKER>: Hey, /u/spez: What exactly is an* "Emergency Disclosure Request"?
 
 Also,
 
@@ -30,4 +32,6 @@ Also,
 
 lol.
 
-Edit: a word <u/spez>: > Emergency Disclosure Requests can be made to Reddit to compel us to disclose user account information in certain circumstances when we believe disclosure is necessary to prevent imminent and serious bodily harm to a person. When notified of a potential emergency situation by law enforcement, we require law enforcement to provide enough information to satisfy Reddit that the standard is met, and further require that the law enforcement officer certify the request in writing.
+Edit: a word
+
+<u/spez>: > Emergency Disclosure Requests can be made to Reddit to compel us to disclose user account information in certain circumstances when we believe disclosure is necessary to prevent imminent and serious bodily harm to a person. When notified of a potential emergency situation by law enforcement, we require law enforcement to provide enough information to satisfy Reddit that the standard is met, and further require that the law enforcement officer certify the request in writing.

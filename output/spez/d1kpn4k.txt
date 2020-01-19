@@ -19,8 +19,22 @@ We know the success of Reddit is made possible by your trust. We hope this trans
 (I'll do my best to answer questions, but as with all legal matters, I can't always be completely candid.)
 
 edit: I'm off for now. There are a few questions that I'll try to answer after I get clarification.
- <u/slyf>: Interesting to note that the national security Canary in the 2014 transparency report is no longer present in the 2015 transparency report. <u/spez>: Even with the canaries, we're treading a fine line. The whole thing is icky, which is why we [joined Twitter](https://upload.wikimedia.org/wikipedia/foundation/3/3d/Twitter_versus_Lynch_Amicus_Brief_February_2016.pdf) in pushing back. <u/CarrollQuigley>: It sounds like reddit has received a National Security Letter since January 29, 2015. <u/sageDieu>: That's the entire point of the canary, he isn't allowed to say anything about it, the fact it was removed means that a gag order has been issued. 100% final, no discussion. <u/lazyfrag>: Or that Reddit decided to remove it voluntarily, for some reason. I don't think that that's likely; I just think it's a bit much to say with 100% certainty that a letter was received. It's a problem inherent to canaries.
 
-Edit: /u/spez says below that he's been advised not to say, so it could go either way, though it's still more likely they received a request. <u/TelicAstraeus>: if that were true, there would be no reason for /u/spez not to say so.
 
-edit: time to subscribe to /r/privacy. edit2: also https://www.privacytools.io/ <u/spez>: I've been advised not to say anything one way or the other.
+<u/slyf>: Interesting to note that the national security Canary in the 2014 transparency report is no longer present in the 2015 transparency report.
+
+<u/spez>: Even with the canaries, we're treading a fine line. The whole thing is icky, which is why we [joined Twitter](https://upload.wikimedia.org/wikipedia/foundation/3/3d/Twitter_versus_Lynch_Amicus_Brief_February_2016.pdf) in pushing back.
+
+<u/CarrollQuigley>: It sounds like reddit has received a National Security Letter since January 29, 2015.
+
+<u/sageDieu>: That's the entire point of the canary, he isn't allowed to say anything about it, the fact it was removed means that a gag order has been issued. 100% final, no discussion.
+
+<u/lazyfrag>: Or that Reddit decided to remove it voluntarily, for some reason. I don't think that that's likely; I just think it's a bit much to say with 100% certainty that a letter was received. It's a problem inherent to canaries.
+
+Edit: /u/spez says below that he's been advised not to say, so it could go either way, though it's still more likely they received a request.
+
+<u/TelicAstraeus>: if that were true, there would be no reason for /u/spez not to say so.
+
+edit: time to subscribe to /r/privacy. edit2: also https://www.privacytools.io/
+
+<u/spez>: I've been advised not to say anything one way or the other.

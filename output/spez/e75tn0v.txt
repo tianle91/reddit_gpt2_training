@@ -26,7 +26,9 @@ Last but not least, on the community front, we just wrapped our second annual Mo
 
 Other than that, I can’t imagine we have much to talk about, but I’ll hang to around some questions anyway.
 
-—spez <u/shirleyUcantBserio>: Detailed posts have shown r/the_donald being responsible for pushing russian propaganda through use of coordinated bots and bogus fake articles.
+—spez
+
+<u/shirleyUcantBserio>: Detailed posts have shown r/the_donald being responsible for pushing russian propaganda through use of coordinated bots and bogus fake articles.
 
 r/the_donald also frequently participates in hate speech, including but not limited to: anti-muslim rhetoric, violence surrounding neo-nazi rally in 2017, death threats against John McCain and others, etc.
 
@@ -36,7 +38,9 @@ edit: here’s the post outlining r/the_donald’s rampant violation of reddit r
 
 http://archive.is/qIDX7
 
-also notice it’s an archive, because certain reddit mods were scared of the truth and deleted the original <u/spez>: My [last post](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/) documented exactly what we know and what we're doing about foreign influence on Reddit. We also listed the accounts that were involved so that you can see for yourself what they were up to.
+also notice it’s an archive, because certain reddit mods were scared of the truth and deleted the original
+
+<u/spez>: My [last post](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/) documented exactly what we know and what we're doing about foreign influence on Reddit. We also listed the accounts that were involved so that you can see for yourself what they were up to.
 
 In August, we wrote a [similar post](https://www.reddit.com/r/announcements/comments/9bvkqa/an_update_on_the_fireeye_report_and_reddit/) regarding an Iranian attempt at manipulation.
 

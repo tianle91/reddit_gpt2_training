@@ -37,12 +37,20 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/[deleted]>: [deleted] <u/spez>: Agreed, this is a problem if true.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
 
-The first step is give the mods better tools so they don't need to resort to tactics like this. <u/doug3465>: How long will that step take? 
+<u/[deleted]>: [deleted]
+
+<u/spez>: Agreed, this is a problem if true.
+
+The first step is give the mods better tools so they don't need to resort to tactics like this.
+
+<u/doug3465>: How long will that step take? 
 
 Admins have been promising this for years. Adding a realistic time estimate to all of these mod-tools comments would make sense. 
 
-Edit: They said 6 months, and then their chief engineer quit because of "unreasonable demands."  <u/spez>: When it comes to software development, committing to exact dates is a fool's errand.
+Edit: They said 6 months, and then their chief engineer quit because of "unreasonable demands." 
+
+<u/spez>: When it comes to software development, committing to exact dates is a fool's errand.
 
 However, I can say with great confidence it won't take six months.

@@ -1,5 +1,11 @@
 <r/TheoryOfReddit>: If you created a Reddit-type website, would you implement shadow bans?
 
-[deleted] <u/spez>: If we knew everything everything we know today about spam, enforcement, and transparency, we probably wouldn’t build shadow-banning. It’s use is really limited to spam, and I think the downsides (false positives, lack of transparency) outweigh the benefits. 
+[deleted]
 
-That said, it was useful in the early days when spam was more of an arms race, we didn’t have moderators or reporting, and our content policy was limited to spam.  <u/Brownt0wn_>: Do you find yourself using it less and less frequently? <u/spez>: It used to be the only way to ban. We still use it for spam, though I’d like to phase it out long term. Today we have more tools, bans, timeouts, wrist slaps. Another problem with shadow bans is that it makes it difficult for others to audit our work: even if we ban something, there’s little evidence we did. 
+<u/spez>: If we knew everything everything we know today about spam, enforcement, and transparency, we probably wouldn’t build shadow-banning. It’s use is really limited to spam, and I think the downsides (false positives, lack of transparency) outweigh the benefits. 
+
+That said, it was useful in the early days when spam was more of an arms race, we didn’t have moderators or reporting, and our content policy was limited to spam. 
+
+<u/Brownt0wn_>: Do you find yourself using it less and less frequently?
+
+<u/spez>: It used to be the only way to ban. We still use it for spam, though I’d like to phase it out long term. Today we have more tools, bans, timeouts, wrist slaps. Another problem with shadow bans is that it makes it difficult for others to audit our work: even if we ban something, there’s little evidence we did. 

@@ -123,4 +123,8 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/MajorParadox>: It looks pretty cool!  How do the users manage them, though?  Are they provided the same tools they get for a subreddit? <u/spez>: Yep. The feature is built on top of the existing subreddit system.
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
+
+<u/MajorParadox>: It looks pretty cool!  How do the users manage them, though?  Are they provided the same tools they get for a subreddit?
+
+<u/spez>: Yep. The feature is built on top of the existing subreddit system.

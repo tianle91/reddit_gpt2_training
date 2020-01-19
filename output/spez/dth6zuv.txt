@@ -26,13 +26,21 @@ Happy New Year,
 
 Steve and the Reddit team
 
-update: I'm off for now. As always, thanks for the feedback and questions. <u/RetroSplicer>: I just want the option of seeing only legacy profiles. The new ones are so clunky and ugly.  <u/spez>: Yes, we're adding an option for the legacy profiles while we finish the new ones.
+update: I'm off for now. As always, thanks for the feedback and questions.
+
+<u/RetroSplicer>: I just want the option of seeing only legacy profiles. The new ones are so clunky and ugly. 
+
+<u/spez>: Yes, we're adding an option for the legacy profiles while we finish the new ones.
 
 The team is all hands on deck finishing the redesign, which means we've slowed on the new profiles. Our plan is to pause the rollout, give an option to use the legacy version, and finish the profiles with the redesign, taking into account the feedback we've received so far.
 
- <u/shhhhquiet>: > while we finish the new ones.
 
-Only while you finish?  Will this option go away when you're satisfied with the new ones?   <u/spez>: Here's how I see things going: we'll do our very best to get the redesign out. This is a massive effort, involves much of our team, and thousands of user testers (increasing to hundreds of thousands over the next month). The redesign will include another pass at profile pages. We don't have plans to shut off the legacy site, though it may run under a different domain. We'll leave old profile pages there.
+
+<u/shhhhquiet>: > while we finish the new ones.
+
+Only while you finish?  Will this option go away when you're satisfied with the new ones?  
+
+<u/spez>: Here's how I see things going: we'll do our very best to get the redesign out. This is a massive effort, involves much of our team, and thousands of user testers (increasing to hundreds of thousands over the next month). The redesign will include another pass at profile pages. We don't have plans to shut off the legacy site, though it may run under a different domain. We'll leave old profile pages there.
 
 Most of the feedback we've received on the new profiles are very addressable, so I'm confident we'll get it to a place most users like, but we'll have the old site just in case.
 

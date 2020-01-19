@@ -16,4 +16,8 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/Tacomaverick>: Any extra details/suspicions on the algorithm changes? Less dependence on the new tab seems interesting but I have no clue how it would be done. <u/spez>: To get rid of the new page, we can show new links on a few people's frontpage to see if they're any good. Everyone will be drafted into the Knights of New.
+u: Thank you! Heading out for now. Will check back later.
+
+<u/Tacomaverick>: Any extra details/suspicions on the algorithm changes? Less dependence on the new tab seems interesting but I have no clue how it would be done.
+
+<u/spez>: To get rid of the new page, we can show new links on a few people's frontpage to see if they're any good. Everyone will be drafted into the Knights of New.

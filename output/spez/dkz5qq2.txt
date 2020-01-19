@@ -20,7 +20,9 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/hansjens47>: > This means we’re catching abuse earlier, and as a result we saw over 1M fewer moderator reports despite traffic increasing over the same period 
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/hansjens47>: > This means we’re catching abuse earlier, and as a result we saw over 1M fewer moderator reports despite traffic increasing over the same period 
 
 As a mod, all the mods I've spoken to recently say they've either 
 
@@ -36,7 +38,9 @@ It's no wonder so many mods express frustration about the lack of understanding 
 
 I get that you're launching a bunch of changes without hearing user feedback because you wouldn't have changed the feature releases due to feedback anyway. That's fine, not leading people on.
 
-But reddit's corporate voice feels less and less sincere. The site's users can tell. <u/spez>: You are making a couple of incorrect assumptions.
+But reddit's corporate voice feels less and less sincere. The site's users can tell.
+
+<u/spez>: You are making a couple of incorrect assumptions.
 
 We've reduced spam by 95% over the last year. There is significantly less spam to report. Yes, there is still spam, and reporting it is still valuable.
 

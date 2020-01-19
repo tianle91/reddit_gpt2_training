@@ -10,4 +10,8 @@ Today, in addition to applying Quarantines, we are banning a handful of communit
 
 I believe these policies strike the right balance.
 
-update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox. <u/musicandwords>: I am surprised nobody has mentioned that by collecting emails for quarentined subs you are essentially creating a database of users who read content you deem 'questionable'. What does verifying the email accomplish? This seems overly broad and Orwellian. <u/spez>: It adds friction to the signup process, which we hope will cause people to think twice before opting in.
+update: I know some of you are upset because we banned *anything* today, but the fact of the matter is we spend a disproportionate amount of time dealing with a handful of communities, which prevents us from working on things for the other 99.98% (literally) of Reddit. I'm off for now, thanks for your feedback. RIP my inbox.
+
+<u/musicandwords>: I am surprised nobody has mentioned that by collecting emails for quarentined subs you are essentially creating a database of users who read content you deem 'questionable'. What does verifying the email accomplish? This seems overly broad and Orwellian.
+
+<u/spez>: It adds friction to the signup process, which we hope will cause people to think twice before opting in.

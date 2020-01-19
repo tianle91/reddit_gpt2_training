@@ -16,4 +16,12 @@ Happy to chat about this stuff, or anything else.
 
 e: grammar
 
-u: Thank you! Heading out for now. Will check back later. <u/Handicapreader>: If you can let me only use the desktop version of reddit on my iPhone, that would be great. <u/spez>: https://i.redd.it/a7xmc3frn52x.gif <u/Handicapreader>: I still love reddit spez, and I do do that, but if I click a link, it's takes me to m.reddit It's really aggravating. Sometime it even gets me stuck in there, and I can't navigate Safari. <u/spez>: Roger. Will report that as a bug.
+u: Thank you! Heading out for now. Will check back later.
+
+<u/Handicapreader>: If you can let me only use the desktop version of reddit on my iPhone, that would be great.
+
+<u/spez>: https://i.redd.it/a7xmc3frn52x.gif
+
+<u/Handicapreader>: I still love reddit spez, and I do do that, but if I click a link, it's takes me to m.reddit It's really aggravating. Sometime it even gets me stuck in there, and I can't navigate Safari.
+
+<u/spez>: Roger. Will report that as a bug.

@@ -16,6 +16,10 @@ As always, we will keep an eye out for any unintended side-effects and make chan
 
 Steve
 
-u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours. <u/Werner__Herzog>: > as a community is represented more and more often in the listing, the hotness of its posts will be increasingly lessened
+u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
 
-Will this have an effect on the hotness over the period of a day or over a longer period? Because this would not only prevent the_D, but also subs like r/funny, r/gaming and r/adviceanimals from dominating r/all. <u/spez>: It's just for the specific rendering of the r/all listing. So, it'll affect all communities with r/all itself, but not on the listings for the actual communities. Not sure if I'm answering the question you're asking...
+<u/Werner__Herzog>: > as a community is represented more and more often in the listing, the hotness of its posts will be increasingly lessened
+
+Will this have an effect on the hotness over the period of a day or over a longer period? Because this would not only prevent the_D, but also subs like r/funny, r/gaming and r/adviceanimals from dominating r/all.
+
+<u/spez>: It's just for the specific rendering of the r/all listing. So, it'll affect all communities with r/all itself, but not on the listings for the actual communities. Not sure if I'm answering the question you're asking...

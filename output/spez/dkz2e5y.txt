@@ -20,8 +20,16 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/99X>: What do the Trust & Safety and Anti-Evil teams do? <u/spez>: Trust & Safety is the team that enforces our content policy. They fight abuse, harassment, spam, cheating, etc.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-Anti-Evil is the engineering team that builds tools for T&S and fights abuse at scale. They work closely together, and have made quite an impact in the last year. <u/99X>: Speaking of trust, what is your stance on advertising that masquerades as regular content? Is that a growing concern going forward as reddit continues to grow?  <u/spez>: Hitting Reddit's front page with organic-looking content is valuable, so there will always be people trying to game us. Everyone once and a while it succeeds, but rarely more than once.
+<u/99X>: What do the Trust & Safety and Anti-Evil teams do?
+
+<u/spez>: Trust & Safety is the team that enforces our content policy. They fight abuse, harassment, spam, cheating, etc.
+
+Anti-Evil is the engineering team that builds tools for T&S and fights abuse at scale. They work closely together, and have made quite an impact in the last year.
+
+<u/99X>: Speaking of trust, what is your stance on advertising that masquerades as regular content? Is that a growing concern going forward as reddit continues to grow? 
+
+<u/spez>: Hitting Reddit's front page with organic-looking content is valuable, so there will always be people trying to game us. Everyone once and a while it succeeds, but rarely more than once.
 
 We do a couple things to fight this: the Anti-Evil team looks for vote cheating and the like, and we provide legitimate alternatives through advertising that are hopefully easier and cheaper than gaming us.

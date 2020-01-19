@@ -39,7 +39,9 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/reseph>: EDIT 2: Join us at /r/ProCSS if you're seeking CSS support to stay.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/reseph>: EDIT 2: Join us at /r/ProCSS if you're seeking CSS support to stay.
 
 EDIT: Fellow moderators, [take this survey](https://docs.google.com/forms/d/e/1FAIpQLSexTKqCPHHqznra4NAVBb6h4aXZeGfocoWBcXhp8dEKD0636w/viewform?usp=sf_link). ([Live results here](https://docs.google.com/forms/d/e/1FAIpQLSexTKqCPHHqznra4NAVBb6h4aXZeGfocoWBcXhp8dEKD0636w/viewanalytics))
 
@@ -85,7 +87,9 @@ At the minimum, I see this as taking away the personality each subreddit has. We
 
 To be clear, I'm not upset by the fact that the time we spent on our CSS is being made useless. I'm upset that we'll be losing functionality and *individual subreddit personality*.
 
-[EDIT] Fellow mods, please remember to be civil here. I may not agree with this decision about CSS, but I still respect the admins and all the hard work they do. <u/spez>: Just replying here so you know that I've seen it.
+[EDIT] Fellow mods, please remember to be civil here. I may not agree with this decision about CSS, but I still respect the admins and all the hard work they do.
+
+<u/spez>: Just replying here so you know that I've seen it.
 
 These are all great examples of cool stuff folks have done with CSS, and there are many more.
 

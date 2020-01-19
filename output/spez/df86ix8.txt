@@ -123,5 +123,15 @@ A: We don’t have all of the answers right now and that’s why we’re testing
 
 **Q: How do I participate in this beta?**
 
-A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l).  <u/AllTheRowboats93>: I wonder if this will change the dynamic of the site.  <u/Surinical>: A lot of people already have a subreddit dedicated to just them, so this already kind of exists. <u/HideHideHidden>: We want to make the process of doing something like this much easier for our content creators. <u/Ryltarr>: For these users who already have subreddits for their things will the posts be able to merge into their profile?  
-I'm still not fond of the idea, but if the subreddit could be transformed into their profile that'd be a way to make the transition smoother. <u/spez>: Depending on demand, that's a reasonable request.
+A:  We’ll be directly reaching out to redditors we think will be a great fit. We’re also taking direct applications via this [survey](https://reddit-survey.typeform.com/to/j8NizT) or you can nominate a fellow redditor via this [survey](https://reddit-survey.typeform.com/to/ArhT7l). 
+
+<u/AllTheRowboats93>: I wonder if this will change the dynamic of the site. 
+
+<u/Surinical>: A lot of people already have a subreddit dedicated to just them, so this already kind of exists.
+
+<u/HideHideHidden>: We want to make the process of doing something like this much easier for our content creators.
+
+<u/Ryltarr>: For these users who already have subreddits for their things will the posts be able to merge into their profile?  
+I'm still not fond of the idea, but if the subreddit could be transformed into their profile that'd be a way to make the transition smoother.
+
+<u/spez>: Depending on demand, that's a reasonable request.

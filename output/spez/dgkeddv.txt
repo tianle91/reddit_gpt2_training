@@ -39,7 +39,11 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/iNeverQuiteWas>: What does this mean for the people like /u/qtx and myself and many others who put in time to design subreddits. Was all of that for nothing?  <u/spez>: No. It was awesome work, and we hope you continue to help your fellow mods.
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+
+<u/iNeverQuiteWas>: What does this mean for the people like /u/qtx and myself and many others who put in time to design subreddits. Was all of that for nothing? 
+
+<u/spez>: No. It was awesome work, and we hope you continue to help your fellow mods.
 
 Saying it was for nothing would be like saying all the work I and the team did on the current site was for nothing.
 

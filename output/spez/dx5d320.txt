@@ -30,6 +30,10 @@ We know the success of Reddit is dependent on [your trust](https://www.reddit.co
 
 —Steve \(spez\)
 
-update: I'm off for now. Thanks for the questions! <u/Snoos-Brother-Poo>: How did you determine which accounts were “suspicious”?
+update: I'm off for now. Thanks for the questions!
 
-Edit: shortened the question. <u/spez>: There were a number of signals: suspicious creation patterns, usage patterns (account sharing), voting collaboration, etc. We also corroborated our findings with public lists from other companies (e.g. Twitter).
+<u/Snoos-Brother-Poo>: How did you determine which accounts were “suspicious”?
+
+Edit: shortened the question.
+
+<u/spez>: There were a number of signals: suspicious creation patterns, usage patterns (account sharing), voting collaboration, etc. We also corroborated our findings with public lists from other companies (e.g. Twitter).

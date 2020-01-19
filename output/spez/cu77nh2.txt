@@ -1,1 +1,5 @@
-<r/technology>: Reddit Names Marty Weiner, Founding Engineer At Pinterest, Its First CTO <u/mrlesa95>: CTO? Whats CTO? and what the difference from being a CEO? <u/spez>: CTO is way more fun.
+<r/technology>: Reddit Names Marty Weiner, Founding Engineer At Pinterest, Its First CTO
+
+<u/mrlesa95>: CTO? Whats CTO? and what the difference from being a CEO?
+
+<u/spez>: CTO is way more fun.

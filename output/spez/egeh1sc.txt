@@ -20,9 +20,13 @@ I’ll hang around for a while to answer your questions.
 
 edit: Thanks for the silver you cheap bastards.
 
-update: I'm out for now. Will check back later. <u/ginosanti>: Why do I have to opt-out of the redesign over and over again?
+update: I'm out for now. Will check back later.
 
-And which moron came up with it anyway? <u/spez>: > Why do I have to opt-out of the redesign over and over again?
+<u/ginosanti>: Why do I have to opt-out of the redesign over and over again?
+
+And which moron came up with it anyway?
+
+<u/spez>: > Why do I have to opt-out of the redesign over and over again?
 
 This is a hugely annoying and embarrassing bug. We believe we've fixed most of the causes, but to be certain, we've rewritten the entire system that directs traffic to the old site vs the new site to both work as expected and to be a lot faster, and that should launch soon (days, not weeks)
 
@@ -30,9 +34,13 @@ This is a hugely annoying and embarrassing bug. We believe we've fixed most of t
 
 Me. We wanted to both bring new users to the new site but also give all users a choice indefinitely, which made things technically complex.
 
-That said, we are all frustrated that we didn't do a better job here. <u/Cycloptichorn>: Maybe this is a silly question, but was there any real research done on whether the changes being made in the redesign were changes that new users actually *wanted?*  If so, how was this information gathered?  Were these changes targeted towards attracting specific demographics, for advertising or other purposes?
+That said, we are all frustrated that we didn't do a better job here.
 
-Thanks for answering questions, the users appreciate it <u/spez>: Not a silly question at all. We did a ton of research during design and development, and we continue to do so. We bring people into the office, run surveys, and run a lot of online A/B tests.
+<u/Cycloptichorn>: Maybe this is a silly question, but was there any real research done on whether the changes being made in the redesign were changes that new users actually *wanted?*  If so, how was this information gathered?  Were these changes targeted towards attracting specific demographics, for advertising or other purposes?
+
+Thanks for answering questions, the users appreciate it
+
+<u/spez>: Not a silly question at all. We did a ton of research during design and development, and we continue to do so. We bring people into the office, run surveys, and run a lot of online A/B tests.
 
 Overall, the redesign retains new users at a much better rate than the original site. One of our most important metrics is D1 retention: how many users come back the next day after visiting the site for the first time.
 

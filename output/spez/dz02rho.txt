@@ -6,8 +6,14 @@ Or atleast thats how it used to work. In the past, whenever I visited Reddit.com
 
 Recently, however, I have noticed that it seems like Reddit is keeping track of what subreddits you are visiting and showing you more of those algorithmically. It is no longer random. For example, if I visit the /r/yugioh subreddit out of the blue and spend some time on it, for the next week, /r/yugioh will always be in my list of 50 subreddits for the frontpage, especially if I reinforce it by revisiting it every time it shows up. 
 
-Is this a known change that has been announced somewhere? <u/spez>: Yes. The "Best" sort on your home feed is the new version of the algorithm\(s\). We're constantly running tests here with the goal of surfacing content from your subscriptions that you're more likely to engage with. It also removes content you've already seen, which creates the appearance of much faster turnover.
+Is this a known change that has been announced somewhere?
 
-The old algorithm, which was effectively a random selection of top posts from your subscriptions, is still accessible under "Hot." <u/Animate_XOR>: Is there going to be an effort to communicate these changes with the wider user base? Additionally I find on social media websites with similar ways of filtering content it creates a sort of feedback loop where one page or group ends up dominating your timeline and crowding everything else out, hopefully you guys have come up with some ways of mitigating this effect. <u/spez>: Here's one of the [discussions](https://www.reddit.com/r/changelog/comments/7spgg0/best_is_the_new_hotness/) from when we first started rolling it out.
+<u/spez>: Yes. The "Best" sort on your home feed is the new version of the algorithm\(s\). We're constantly running tests here with the goal of surfacing content from your subscriptions that you're more likely to engage with. It also removes content you've already seen, which creates the appearance of much faster turnover.
+
+The old algorithm, which was effectively a random selection of top posts from your subscriptions, is still accessible under "Hot."
+
+<u/Animate_XOR>: Is there going to be an effort to communicate these changes with the wider user base? Additionally I find on social media websites with similar ways of filtering content it creates a sort of feedback loop where one page or group ends up dominating your timeline and crowding everything else out, hopefully you guys have come up with some ways of mitigating this effect.
+
+<u/spez>: Here's one of the [discussions](https://www.reddit.com/r/changelog/comments/7spgg0/best_is_the_new_hotness/) from when we first started rolling it out.
 
 As for creating a feedback loop, Reddit is different from other sites in that your Home feed is comprised of communities to which you've explicitly subscribed, which makes that effect less likely to happen unless a user intentionally does it to themselves. That said, we do look at others online as cautionary tales.

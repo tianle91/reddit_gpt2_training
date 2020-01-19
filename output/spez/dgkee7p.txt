@@ -39,9 +39,13 @@ Big changes are ahead. These are fundamental, core issues that we’ll be grappl
 
 Thanks for reading.
 
-update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours. <u/[deleted]>: Please do not add more white space in the redesign!  [This is ugly as shit and annoying.](http://i.imgur.com/NuJLgmc.png)
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
 
-Also when is new modmail going to be fixed? <u/spez>: .
+<u/[deleted]>: Please do not add more white space in the redesign!  [This is ugly as shit and annoying.](http://i.imgur.com/NuJLgmc.png)
+
+Also when is new modmail going to be fixed?
+
+<u/spez>: .
 
 .
 

@@ -26,9 +26,13 @@ Happy New Year,
 
 Steve and the Reddit team
 
-update: I'm off for now. As always, thanks for the feedback and questions. <u/etr4807>: You mention the web redesign as being the biggest project in 2018. As I'm sure you're aware, almost every site that goes through any kind of redesign also goes through a long period of everyone complaining that they just want the old site back.
+update: I'm off for now. As always, thanks for the feedback and questions.
 
-My question would be what plans do you have in place to ensure that the redesign is something that the overwhelming majority of users are actually satisfied with? <u/spez>: We've been in testing the past few months with a few thousand users and moderators, and the feedback has been super valuable. Every week we survey the testers and invite more users. We'll expanding the beta to many more users over the next month. Subscribe to r/beta to get involved.
+<u/etr4807>: You mention the web redesign as being the biggest project in 2018. As I'm sure you're aware, almost every site that goes through any kind of redesign also goes through a long period of everyone complaining that they just want the old site back.
+
+My question would be what plans do you have in place to ensure that the redesign is something that the overwhelming majority of users are actually satisfied with?
+
+<u/spez>: We've been in testing the past few months with a few thousand users and moderators, and the feedback has been super valuable. Every week we survey the testers and invite more users. We'll expanding the beta to many more users over the next month. Subscribe to r/beta to get involved.
 
 As I mentioned in my post, in addition to bringing in more users to test, we'll be doing a series of blog posts and videos to explain what we're doing and what we're trying to accomplish.
 

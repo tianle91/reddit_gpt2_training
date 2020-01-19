@@ -4,7 +4,11 @@ It's been a little while since we've done this. Since we last talked, we've rele
 
 There is a lot going on around here. Our most pressing priority is hiring, particularly engineers. If you're an engineer of any shape or size, please considering joining us. Email  jobs@reddit.com if you're interested!
 
-update: I'm outta here. Thanks for the questions! <u/LintGrazOr8>: I just want to ask. Is there any specific direction you guys want reddit to head towards? I see things like the Upvoted but I'm not entirely sure how it's supposed to be useful for me as a redditor. I guess I'm just asking what your plans are. Thanks! <u/spez>: Right, Upvoted is really aimed at non-redditors. The goal is to show more people all the cool stuff that happens on Reddit every day, and hopefully bring more people into our communities.
+update: I'm outta here. Thanks for the questions!
+
+<u/LintGrazOr8>: I just want to ask. Is there any specific direction you guys want reddit to head towards? I see things like the Upvoted but I'm not entirely sure how it's supposed to be useful for me as a redditor. I guess I'm just asking what your plans are. Thanks!
+
+<u/spez>: Right, Upvoted is really aimed at non-redditors. The goal is to show more people all the cool stuff that happens on Reddit every day, and hopefully bring more people into our communities.
 
 Our short term plans I've talked about a lot: release proper mobile apps, mod/community tools, stabilize infrastructure, hire, hire hire.
 

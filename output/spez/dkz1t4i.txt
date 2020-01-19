@@ -20,9 +20,13 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/Tragouls>: Geo-specific versions of Reddit seem weird and almost scary to me, fencing off different parts of the world seems like it may create echo-boxes similar to what some more vocal sub-reddits do already.
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
 
-edit: Added a word to create more clarity. <u/spez>: This is a reasonable concern that we share.
+<u/Tragouls>: Geo-specific versions of Reddit seem weird and almost scary to me, fencing off different parts of the world seems like it may create echo-boxes similar to what some more vocal sub-reddits do already.
+
+edit: Added a word to create more clarity.
+
+<u/spez>: This is a reasonable concern that we share.
 
 On one hand, we want the site to be more relevant to folks all over the world, and geo-specific versions of Reddit increase the odds that a first time user will find something relevant to them.
 

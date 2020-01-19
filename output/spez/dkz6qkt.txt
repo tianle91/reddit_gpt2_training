@@ -20,12 +20,16 @@ While there is plenty more to report, I’ll stop here. If you have any question
 
 –Steve
 
-u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more. <u/TAKEitTOrCIRCLEJERK>: Hi spez!
+u: I've got to run for now. Thanks for the questions! I'll be back later this evening to answer some more.
+
+<u/TAKEitTOrCIRCLEJERK>: Hi spez!
 
 You're talking about community hitting their stride, but I think you lost your Director of Community within the last couple months. From what I can tell, he was a well-accomplished guy, so I found that strange. 
 
 Most importantly from our perspective, he was very transparent, especially with the mod teams.
 
-Can you comment on whether or not you'll be continuing the outreach and transparency that we enjoyed under AchievementUnlockd's community leadership? <u/spez>: Yep. We miss u/AchievementUnlockd, but the team continues to grow. I hope you haven't felt a decline in our outreach. I believe it's higher than ever (we measure this a lot of ways, but one of them is the number of r/modsupport posts that have constructive answers, from us or others).
+Can you comment on whether or not you'll be continuing the outreach and transparency that we enjoyed under AchievementUnlockd's community leadership?
+
+<u/spez>: Yep. We miss u/AchievementUnlockd, but the team continues to grow. I hope you haven't felt a decline in our outreach. I believe it's higher than ever (we measure this a lot of ways, but one of them is the number of r/modsupport posts that have constructive answers, from us or others).
 
 New feature roll-outs generally include a fair amount of mod testing. Right now it's video, the redesign, and profile pages in the spotlight.

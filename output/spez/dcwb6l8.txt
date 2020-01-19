@@ -23,11 +23,15 @@ Here's to a happy, productive, drama-free (ha), 2017!
 Steve and the Reddit team
 
 update: I'm off for now. Will check back in a couple hours. Thanks!
- <u/Non_Player-Character>: I'm liking the increase of these 'what's happening' announcement posts. Keep up the great work!
+
+
+<u/Non_Player-Character>: I'm liking the increase of these 'what's happening' announcement posts. Keep up the great work!
 
 40% of views from apps is surprising to me! Might have to check them out. 
 
-Also, first time hearing of this rework. I think a lot of reddit's charm is the relative plainness of the website, although I don't know enough about code to tell how the backend works. Is this a functional change, visual rework or just a complete overhaul of everything? <u/spez>: I agree re charm. We don't have to lose that feeling to make things better.
+Also, first time hearing of this rework. I think a lot of reddit's charm is the relative plainness of the website, although I don't know enough about code to tell how the backend works. Is this a functional change, visual rework or just a complete overhaul of everything?
+
+<u/spez>: I agree re charm. We don't have to lose that feeling to make things better.
 
 Reddit still runs code that I wrote ~~ten~~ twelve years ago when I was 21. I really hope by the end of this year most of that trash is gone!
 

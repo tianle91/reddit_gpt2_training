@@ -28,7 +28,11 @@ Include as much detail as you feel comfortable sharing. Generally, the more spec
 
 Thank you.
 
-u/ArabScarab \(Jessica Ashooh, our Head of Policy\), and I will hang around to answer questions. <u/Jakeable>: What's the expected monetary cost to reddit if a policy like this is put into place? <u/spez>: It's hard to say exactly, and that's part of the problem.
+u/ArabScarab \(Jessica Ashooh, our Head of Policy\), and I will hang around to answer questions.
+
+<u/Jakeable>: What's the expected monetary cost to reddit if a policy like this is put into place?
+
+<u/spez>: It's hard to say exactly, and that's part of the problem.
 
 Most Americans have little or no choice of ISPs, and as it happens, the largest ISPs in the US are also some of the largest media companies.
 

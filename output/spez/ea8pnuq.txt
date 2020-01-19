@@ -20,6 +20,8 @@ Here's some code you can paste in the console while navigating between posts.
       }
     }, 10000) // <-- 10 seconds; change to any number in ms
 
-Hopefully this actually solves the issue now and Safari scrolling can finally be fixed! <u/spez>: Well this is a nice surprise. Works for me.
+Hopefully this actually solves the issue now and Safari scrolling can finally be fixed!
+
+<u/spez>: Well this is a nice surprise. Works for me.
 
 u/keysersosa can you please take a look?

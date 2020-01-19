@@ -16,11 +16,15 @@ As always, we will keep an eye out for any unintended side-effects and make chan
 
 Steve
 
-u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours. <u/MockDeath>: Having a filter for nsfw for all or a separate /r/all would be nice.
+u: I'm off for now. Thanks for the feedback! I'll check back in a couple hours.
+
+<u/MockDeath>: Having a filter for nsfw for all or a separate /r/all would be nice.
 
 Many of us slack at work and brows reddit, at least speaking for myself it would be nice if there was less to no NSFW on a version of /r/all.
 
--edit- I appreciate the advice, I actually use RES everywhere but work. but I do browse reddit at lunch and breaks.. and occasionally not lunch and breaks. But if you are the frontpage of the internet, new users will not know how to filter things. <u/spez>: Agreed.
+-edit- I appreciate the advice, I actually use RES everywhere but work. but I do browse reddit at lunch and breaks.. and occasionally not lunch and breaks. But if you are the frontpage of the internet, new users will not know how to filter things.
+
+<u/spez>: Agreed.
 
 > Many of us slack at work and browse reddit
 

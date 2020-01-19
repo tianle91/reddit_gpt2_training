@@ -26,6 +26,10 @@ Happy New Year,
 
 Steve and the Reddit team
 
-update: I'm off for now. As always, thanks for the feedback and questions. <u/GaBeRockKing>: Just a bit of feedback: the new user profile pages are hard to CTRL+F through for specific comments or posts. Perhaps there could be some sort of toggle on the viewer's side to not view the context of each comment, even without changing the rest of the page's appearance.
+update: I'm off for now. As always, thanks for the feedback and questions.
 
-(I know devs hate undoing work they did, so this could work as a compromise between the new version and completely reverting to the old version.) <u/spez>: Acknowledged. Thank you.
+<u/GaBeRockKing>: Just a bit of feedback: the new user profile pages are hard to CTRL+F through for specific comments or posts. Perhaps there could be some sort of toggle on the viewer's side to not view the context of each comment, even without changing the rest of the page's appearance.
+
+(I know devs hate undoing work they did, so this could work as a compromise between the new version and completely reverting to the old version.)
+
+<u/spez>: Acknowledged. Thank you.

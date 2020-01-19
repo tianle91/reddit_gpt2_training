@@ -2,11 +2,15 @@
 
 Hello r/cscareerquestions, I’m Steve Huffman, aka u/Spez. I founded both Reddit and Hipmunk (where I was CTO). Until about a year and a half ago, I was a full time engineer. I started programming as a kid, and worked as a developer through high school and college at Virginia (CS major). As some of you may know, u/kn0thing made a bet on Twitter with one of your mods that if you hit this subscriber milestone, I would answer all your CS career questions. Congratulations at hitting 100K subscribers, glad you’re on Reddit! And, yes, [we’re hiring](https://about.reddit.com/careers/)...
 
-Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators! <u/darexinfinity>: Hi Spez,
+Update: I'm taking off for now. I'll check back in this evening for a few more questions. Thanks for the questions, and thanks to the moderators!
+
+<u/darexinfinity>: Hi Spez,
 
 I've recently applied to 2 positions on Reddit and gotten back a rejection letter. Does that letter apply to both of my applications or only one? (The letter did not specify either of the positions)
 
-Also, I noticed you have a lot of Senior positions available. How do you feel about engineers who don't have the required number of years experience applying to those positions? <u/spez>: > Does that letter apply to both of my applications or only one? 
+Also, I noticed you have a lot of Senior positions available. How do you feel about engineers who don't have the required number of years experience applying to those positions?
+
+<u/spez>: > Does that letter apply to both of my applications or only one? 
 
 Not sure. PM me, and I will investigate.
 
@@ -14,7 +18,11 @@ Not sure. PM me, and I will investigate.
 
 If you can walk the walk, years of experience don't matter.
 
- <u/CriticDanger>: How do you determine if they can 'walk the walk' from their resume? Assuming a lot of candidates get rejected due to experience before an initial interview, what other criteria do you mostly look at? <u/TheAdventMaster>: A website such as Reddit can probably tell someone who isn't a good fit a lot of the time almost immediately.
+
+
+<u/CriticDanger>: How do you determine if they can 'walk the walk' from their resume? Assuming a lot of candidates get rejected due to experience before an initial interview, what other criteria do you mostly look at?
+
+<u/TheAdventMaster>: A website such as Reddit can probably tell someone who isn't a good fit a lot of the time almost immediately.
 
 If I was a hiring manager for a company like Reddit, and I was looking to fill a Senior position, and I didn't see any skills or experience on a resume that made it obvious this person could reason about how to handle 10,000's simultaneous requests per (some very short period of time, I actually don't know), then that resume's probably going in the trash pile or at least set aside.
 
@@ -42,4 +50,10 @@ If you think a company that specializes in delivering a high-performance experie
 
 And yes, your resume will be thrown in the trash. Employers try to give feedback when they can, but sometimes your skills are so irrelevant to what they are looking for that they don't always have the time to even redirect you.
 
-Again, just be honest. And if you really want to be valuable to a company, learn about what they do. Give them or one of their teams a call. Read their blog. Dig into the tech infrastructure and learn that thing that they always talk about using. There's no other way. Not everyone is here to hold your hand and train you. We would like that, but realistically the time, effort and money can't always be afforded to do so. There's a balance here, but don't take any bets on it. <u/chalcidfly>: First time I've ever seen a comment with gold AND negative downvotes <u/starg09>: You may enjoy /r/NegativeWithGold :) <u/spez>: Where I have the top post of all time.
+Again, just be honest. And if you really want to be valuable to a company, learn about what they do. Give them or one of their teams a call. Read their blog. Dig into the tech infrastructure and learn that thing that they always talk about using. There's no other way. Not everyone is here to hold your hand and train you. We would like that, but realistically the time, effort and money can't always be afforded to do so. There's a balance here, but don't take any bets on it.
+
+<u/chalcidfly>: First time I've ever seen a comment with gold AND negative downvotes
+
+<u/starg09>: You may enjoy /r/NegativeWithGold :)
+
+<u/spez>: Where I have the top post of all time.

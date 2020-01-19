@@ -37,4 +37,8 @@ No company is perfect at addressing these hard issues. We’ve spent the last fe
 edit: added an example to clarify our concept of "harm"
 edit: attempted to clarify harassment based on our existing policy
 
-update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later. <u/[deleted]>: When will something be done about subreddit squatters? The existing system is not working. Qgyh2 is able to retain top mod of many defaults and large subreddits just because he posts a comment every two months. This is harming reddit as a community when lower mods are veto'd and removed by someone who is only a mod for the power trip. Will something be done about this? <u/spez>: I agree it's a problem, but we haven't thought through a solution yet.
+update: I'm out of here, everyone. Thank you so much for the feedback. I found this very productive. I'll check back later.
+
+<u/[deleted]>: When will something be done about subreddit squatters? The existing system is not working. Qgyh2 is able to retain top mod of many defaults and large subreddits just because he posts a comment every two months. This is harming reddit as a community when lower mods are veto'd and removed by someone who is only a mod for the power trip. Will something be done about this?
+
+<u/spez>: I agree it's a problem, but we haven't thought through a solution yet.
